@@ -10,7 +10,10 @@ PLUGINS_FILE = ROOT / "plugins.txt"
 README_FILE = ROOT / "README.md"
 
 def main():
-    resp = requests.get(URL, timeout=30)
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+    resp = requests.get(URL, headers=headers, timeout=30)
     resp.raise_for_status()
 
     soup = BeautifulSoup(resp.text, "html.parser")
