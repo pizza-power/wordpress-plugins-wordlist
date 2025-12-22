@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 from pathlib import Path
+from urllib.parse import unquote
 
 URL = "https://plugins.svn.wordpress.org/"
 ROOT = Path(__file__).resolve().parents[1]
@@ -23,9 +24,17 @@ def main():
     for a in soup.find_all("a"):
         href = a.get("href", "")
         if href.endswith("/") and href != "../":
-            plugins.add(href.rstrip("/"))
+            plugin_name = href.rstrip("/")
+            # Decode URL-encoded plugin names (e.g., %d0%af... -> actual characters)
+            try:
+                decoded = unquote(plugin_name, encoding='utf-8')
+                plugins.add(decoded)
+            except Exception:
+                # If decoding fails, use original
+                plugins.add(plugin_name)
 
     plugins = sorted(plugins)
+    plugin_count = len(plugins)
 
     PLUGINS_FILE.write_text("\n".join(plugins) + "\n")
 
@@ -39,6 +48,8 @@ A continuously updated wordlist of WordPress plugin slugs derived from the offic
 - Source: https://plugins.svn.wordpress.org/
 - One plugin per line
 - Intended for security testing and research
+
+**Total entries:** {plugin_count:,}
 
 Last updated: {updated}
 """
