@@ -2824,6 +2824,7 @@ advanced-activecampaign-site-tracking
 advanced-add-to-cart-for-woocommerce
 advanced-addons-for-elementor
 advanced-addons-for-woocommerce
+advanced-addons-theme-core-exporter
 advanced-admin-notes
 advanced-admin-search
 advanced-ads
@@ -47257,6 +47258,7 @@ khubaibtech-otp-registration-shield
 khudebarta-order-notify
 khush-captcha
 khush-captcha-for-buddy-press
+khushal-login-path-guard
 ki-live-video-conferences
 ki-twitter-analytics
 kia-subtitle
@@ -49857,6 +49859,7 @@ list-woocommerce-products-by-tags
 list-yarpp-block
 list-yo-files
 list-youtube-channel-videos
+list2play-servers
 lista-de-livros
 lista-sofisticada
 listable-wpai-addon
@@ -57464,6 +57467,7 @@ nepali-unicode-converter
 nepalify
 nephila-clavata
 nepirity-analytics
+nepsus-qr-code-generator
 neptix
 neptune-business
 neptune-real-estate
@@ -79358,6 +79362,7 @@ simplify-menu-usage
 simplify-mortgage-calculation
 simplify-post-taxonomy
 simplify-timeline
+simplio3d-product-configurator
 simplistic-page-navi
 simplistic-seo
 simplitics
@@ -80457,6 +80462,7 @@ smart-comment-convertor
 smart-comment-filter
 smart-commerce-free
 smart-content-ads
+smart-content-blocks
 smart-content-expiry
 smart-content-generator
 smart-content-links
@@ -88709,6 +88715,7 @@ trackreward-for-woocommerce
 tracks2map
 tracksend-for-woocommerce
 trackserver
+tracksharp
 trackship-for-woocommerce
 tracktastic
 tracktechio-integration
@@ -108692,6 +108699,7 @@ wxy-advanced-multitheme
 wxy-searchmark
 wxy-tools-media-replace
 wxy-tools-stickyscroll
+wyapy-customer-feedback-for-woocommerce
 wyncc-shortlink
 wypiekacz
 wyrimapsnet
