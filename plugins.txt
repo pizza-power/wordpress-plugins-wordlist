@@ -608,6 +608,7 @@ abcbiz-reviews
 abcsubmit
 abd-dashboard-widget-manager
 abdal-security-headers
+abdiel-global-variables
 abdul-tag
 abdul-tag-widget
 abdul-wp-plugin
@@ -3471,6 +3472,7 @@ affiliate-press
 affiliate-pro
 affiliate-pro-plus
 affiliate-product-ads-for-amazon-associates
+affiliate-product-boxes
 affiliate-product-optimizer
 affiliate-product-review
 affiliate-product-review-blocks
@@ -8144,6 +8146,7 @@ avatarplus
 avatars
 avatars-effects
 avatars-for-comment-feeds
+avatars-for-mc-by-mrdino
 avatars-meta-box
 avatars-minecraft
 avatarz
@@ -10741,6 +10744,7 @@ bklug-ai-for-woocommerce
 bkn301-payment-gateway
 bknewsticker
 bktsk-live-scheduler
+bkway-access-security
 bl-countdown-timer
 blaatlogin-base
 blaatschaap-oauth
@@ -13908,6 +13912,7 @@ bytesweavers-ai-chat-master
 bytheway
 bz9-webmaster-tools
 bzh-shortner
+bzhy-feature-enhancements-for-woocommerce
 bzscore-live-score
 c-h-robinson-shipping
 c-purge-cache
@@ -16313,6 +16318,7 @@ chick-comic-embedder
 chicmi-fashion-calendar
 chicory-recipe-ingredients
 chidoo-quizmaster
+chiebot
 chief-editor
 chikita-linx-for-wordpress
 chikkili-google-pay-for-woocommerce
@@ -16477,6 +16483,7 @@ christmas-lights
 christmas-message
 christmas-music
 christmas-panda
+christmas-santa-run
 christmas-snow-3d
 christmas-snow-effects
 christmas-snow-fall
@@ -16589,6 +16596,7 @@ circle-fund-donation-page-builder
 circle-image-slider-with-lightbox
 circle-progress-bar
 circle-progress-bar-shafayat-hossain
+circle-tag-cloud
 circlelist
 circlepay
 circles-gallery
@@ -18583,6 +18591,7 @@ computy-view-percent
 compygo-social-feed
 comscore-tag
 comslider-slideshow
+comturkai-automated-ai-chatbot-for-web
 comunas-de-chile-para-woocommerce
 con-neg
 conalysitypkeylinkansertion
@@ -22554,6 +22563,7 @@ cyba-advanced-search
 cyber-fundraiser-lite
 cyber-new-slider
 cyber-slider
+cyber-smart-defence
 cyberactive-dmv-traffic-school
 cyberchimps-extras
 cyberimpact-email-marketing-integrations
@@ -25007,6 +25017,7 @@ disc-golf-manager
 disc-golf-metrix
 discard-default-html-tags-in-comments
 discavo-widget
+discko
 disclaimer-and-notification-manager-for-authors
 disclaimer-by-elan42
 disclaimer-popup
@@ -26233,6 +26244,7 @@ dropdown-social-share-menu
 dropfiles-free
 drophtml
 dropifi-contact-widget
+dropinblog
 dropio-widget
 dropit
 droplist-filter
@@ -26770,6 +26782,7 @@ dynamic-url
 dynamic-url-seo
 dynamic-user-directory
 dynamic-variables-for-wp
+dynamic-variation-images
 dynamic-video-for-divi-posts
 dynamic-visibility-for-elementor
 dynamic-visitor-weather
@@ -32346,6 +32359,7 @@ fashion-slider
 fashion-traffic
 fasli-monetization
 fasqu-draft
+fasspay-for-woocommerce
 fast-activecampaign
 fast-affiliate
 fast-and-easy-recipes
@@ -33473,6 +33487,7 @@ find-and-replace-one-language-wpml
 find-and-replace-text
 find-and-replacer
 find-any-think
+find-blocks-patterns-shortcodes
 find-broken-url
 find-content-ids
 find-duplicates
@@ -34988,6 +35003,7 @@ format-the-post
 formataway
 formategory
 formation
+formative
 formatted-post
 formatting-correcter
 formatting-extender
@@ -35043,6 +35059,7 @@ formit
 formitable-development-kit
 formito
 formlift
+formlight
 formmakerformviewer
 formmemory
 formpays-pro
@@ -39906,6 +39923,7 @@ gutscheinfeed
 gutty-related-posts
 guttypress
 guyem-social-bookmark-plugin
+guzli-ai-chatbot-for-customer-support-lead-capture
 gv-excel-export
 gv-welcome-popup
 gv-widge-widget
@@ -41484,6 +41502,7 @@ hookie
 hookie-buddypress
 hookie-woocommerce
 hookit-related-products
+hookly-webhook-automator
 hookmeup
 hooknews
 hooknotifier
@@ -46834,6 +46853,7 @@ kahis-wp-lite
 kaigen
 kailash-recent-post-pages
 kaimbo-semantic-search
+kainoto-from-cf7-to-zoho
 kainoto-simple-rss-importer
 kainoto-webhook-for-contact-form-7
 kaira-site-chat
@@ -50474,6 +50494,7 @@ lockr
 locky-blocky
 loco-translate
 locomote
+locship-for-woocommerce
 locu-for-restaurant-menus-and-merchant-price-lists
 locus
 locus-employee-cv
@@ -50764,6 +50785,7 @@ loginstyle
 logintap-api
 logintc-authentication
 logintodownload
+loginwa-otp
 loginwall-for-wp-beta
 loginza
 loginza-widget-авторизации-vkontakte-yandex-google-и-openid
@@ -56186,6 +56208,7 @@ multiupload-imageschack
 multiupload-imageshack
 multiupload-in-custom-taxonomy
 multiupload4
+multiweather
 multix
 multsite-quick-switch
 mulubox
@@ -57448,6 +57471,7 @@ neonternetics-2
 neos-connector-for-fakturama
 neoship
 neox-payments-for-woocommerce
+neozone-schema-for-youtube-video
 nepal-land-unit-converter
 nepal-payments-hub-nabil
 nepal-paytime
@@ -60523,6 +60547,7 @@ optix-calendar
 optkit-conversion-rate-optimization-kit
 optless
 optsocial
+opttab-ai-visibility-geo
 optty
 optune
 opumo-conect
@@ -66187,6 +66212,7 @@ practicehub-integration
 practicepal-online-booking
 practicepulse-tools
 practo
+praison-file-content-git
 praisonai
 praized
 praized-community
@@ -67040,6 +67066,7 @@ product-feed-silver
 product-feed-vewier
 product-feed-viewer
 product-feeder
+product-fees-toolkit-for-woocommerce
 product-filter-addon-for-woocommerce
 product-filter-ajax-for-woo
 product-filter-by-wuwizards
@@ -67344,6 +67371,7 @@ profilfelder
 profiling-tool-for-wp
 profit-button
 profit-calculator-for-woocommerce
+profit-margin-calculator
 profit-products-tables-for-woocommerce
 profit-reports-for-woocommerce
 profitblue-financial-reporting-for-woocommerce
@@ -68654,6 +68682,7 @@ quick-cache
 quick-cache-clear-for-publisher
 quick-cache-comment-garbagecollector
 quick-call-button
+quick-cart-recovery
 quick-chat
 quick-chat-betterhalf-social-chat
 quick-chat-buttons
@@ -70345,6 +70374,7 @@ recently-viewed-most-viewed-and-sold-products-for-woocommerce
 recently-viewed-posts
 recently-viewed-products
 recently-viewed-products-for-woocommerce
+recently-viewed-products-popup-woo
 recently-viewed-products-woocommerce
 recentnews-shortcode
 receptionist
@@ -72592,6 +72622,7 @@ rhythms
 riaco-autocomplete-orders-for-woocommerce
 riaco-content-protector
 riaco-custom-order-status-for-woocommerce
+riaco-feedback
 riaco-hide-products-by-user-role
 riaco-icon-block
 riaco-smart-quantity-discount
@@ -74651,6 +74682,7 @@ sdl-managed-translation-for-polylang
 sdn-contributor
 sdp-conditional-product-tabs-for-woocommerce
 sdp-custom-order-status-for-woocommerce
+sdp-price-per-unit-for-woocommerce
 sdpcookiespress
 sds-talkr
 sdstudio-portfolio-for-google-reviews
@@ -83677,6 +83709,7 @@ store-sale-countdown-for-woocommerce
 store-sync-for-woocommerce
 store-toolkit-for-wp-e-commerce
 storeagent-ai-for-woocommerce
+storebird-ai-chat-for-woocommerce
 storeblock
 storecontrl-wp-connection
 storeengine
@@ -86996,6 +87029,7 @@ theatre-troupe
 theatre-wp
 theatrecms-lite
 theavcoach-weather-station-for-weatherlink
+thebasics-product-feed
 thebestvideo-informer
 thebing-snippet
 theblonk
@@ -88090,6 +88124,7 @@ tmm-changeit
 tmoni-woocommerce-gateway
 tms-descricao-curta-dos-produtos
 tmx-quote-request-manager
+tmxkit-addons-for-elementor
 tmy-globalization
 tn-gateway-for-woocommerce
 tn-menus
@@ -89254,6 +89289,7 @@ tsp-featured-posts
 tsp-on-this-day
 tsp27-tabs
 tsparticles-block
+tspay
 tss-time-since-shortcode
 tstfullwidth
 tsu
@@ -92039,6 +92075,7 @@ vaptcha-sms
 vapulus-gateway
 var-dumper
 var-info
+vareon-calculator-suite-lite
 vargal-additional-variation-gallery-for-woo
 variable-column-block
 variable-font-sampler
@@ -92726,6 +92763,7 @@ vidget
 vidjet
 vidlinkr
 vidlive
+vidlog
 vidme
 vidoopcaptcha
 vidoopconnect
@@ -109424,6 +109462,7 @@ yet-another-weather-plugin
 yet-another-webclap-for-wordpress
 yet-another-youtube-widget
 yeti-youtube-search
+yetilabs-post-alerts-for-slack
 yetix-request-form
 yews-optimisations
 yext
