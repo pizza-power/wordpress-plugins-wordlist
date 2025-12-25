@@ -2193,6 +2193,7 @@ admin-bar-publish
 admin-bar-queries
 admin-bar-remover
 admin-bar-ruller
+admin-bar-server-info
 admin-bar-site-id
 admin-bar-styler
 admin-bar-theme-switcher
@@ -2208,6 +2209,7 @@ admin-branding
 admin-branding-and-tweaks
 admin-bug-report
 admin-builder
+admin-calculator-widget
 admin-can-always-comment
 admin-category-filter
 admin-category-search
@@ -3716,6 +3718,7 @@ agile-crm-landing-pages
 agile-crm-lead-management
 agile-crm-newsletter
 agile-crm-webrules
+agile-cyber-solutions-gateway-koyn-for-woocommerce
 agile-store-locator
 agile-video-player
 agile-whatsapp-share
@@ -4864,6 +4867,7 @@ alphapay-gateway-brazil
 alpharage-testimonials
 alphas-categories-widget
 alphasentry
+alphastay
 alphazc-technology-image-gallery
 alpine-photo-tile-for-flickr
 alpine-photo-tile-for-instagram
@@ -8155,6 +8159,7 @@ avayo-ticketshop
 avchat-3
 avcp
 avecdo-for-woocommerce
+avecnous-people-lists
 avectra-netforum-single-sign-on
 aved-product-slider-lite
 aveeto-helper
@@ -9117,6 +9122,7 @@ bas2-submenu-widget
 basal-metabolic-rate-bmr-calculator
 base-accessibility-plugin
 base-angewandte-portfolio-showroom
+base-erp-invoices-for-woocommerce
 base-item-list
 base-plugin
 base-shortcode-for-bootstrap
@@ -12474,6 +12480,7 @@ bpwp-set-homepages
 bq-musical-notes
 br-knowledge-base
 br-twitter-widget
+bra-size-calculator
 bracketcloud
 bracketpress
 bracketpress-login-and-registration-widget
@@ -12522,6 +12529,7 @@ brand-master
 brand-my-footer
 brand-my-login
 brand-regard-plugin
+brand-voice-generator
 branda-white-labeling
 brandapp
 brandcaptcha-cf7
@@ -16487,6 +16495,7 @@ christmas-santa-run
 christmas-snow-3d
 christmas-snow-effects
 christmas-snow-fall
+christmas-snow-festive-snowfall-effect
 christmas-snowflakes
 christmas-template
 christmas-website-ball
@@ -23598,6 +23607,7 @@ default-featured-image
 default-featured-image-per-post-type
 default-featured-image-themed
 default-gravatar-sans
+default-image-assistant
 default-image-link
 default-image-settings
 default-media-uploader-view
@@ -26034,6 +26044,7 @@ dpb-feedbacks
 dpd-cart
 dpd-integration-for-woocommerce
 dpdp-compliance
+dpdpa-compliance-india
 dpepress
 dpiordie
 dplayer
@@ -30429,6 +30440,7 @@ eservecloud-ai-chat-bot
 esewa
 esewa-payment-gateway-for-woocommerce
 esewainwoocommece
+esherpa-login-guard
 eship
 eshipper-commerce
 eshop
@@ -32146,6 +32158,7 @@ fake-pay-for-woocommerce
 fake-screen
 fake-ssl
 fake-traffic-blaster
+fake-user-detector
 fake-whos-online-widget
 fakeblock
 fakerpress
@@ -33958,6 +33971,7 @@ flexible-elementor-panel
 flexible-faq
 flexible-faqs
 flexible-featured-post-widget
+flexible-fees-manager-for-woocommerce
 flexible-frontend-login
 flexible-genesis-cta
 flexible-hreview
@@ -37942,6 +37956,7 @@ glider-universal-hacker-emblem
 glidy-addons-for-elementor
 gliffy-plugin-for-wordpress
 glift-go-game
+glimbyte-ssl-guardian
 glimp-shortcode
 glindr
 glitch-authenticator
@@ -44700,6 +44715,7 @@ interactive-map-widget
 interactive-mapping
 interactive-maps
 interactive-medical-drawing-of-human-body
+interactive-members-map-for-peepso
 interactive-offers-co-registration
 interactive-organizational-chart
 interactive-page-hierarchy
@@ -52320,6 +52336,7 @@ marketing-toolbar
 marketing-web
 marketing-with-divi
 marketing-wp
+marketion-social-auto-posting-to-x-for-woocommerce
 marketizator
 marketking-multivendor-marketplace-for-woocommerce
 marketlure
@@ -53476,6 +53493,7 @@ menubar-color-changer
 menubar-widgets
 menubaron
 menufoday
+menuguard-labs-menu-control
 menuimagenes
 menuio
 menuitem-copy-paste
@@ -53944,6 +53962,7 @@ microtasks
 microthemer
 mid-geoshield-access-manager
 middlebury-photo-of-the-week
+miden-pg
 midi-synth
 midia-negocios-block-bot
 midnight-deals-for-woocommerce
@@ -55206,6 +55225,7 @@ moonbase
 moonclerk-wp-shortcode
 moonify
 moonphases-for-wordpress
+moonstack-ultimate-elementor-kit
 moonvipercmscom
 moonvipercom-notices
 mooontes-comments-media-upload
@@ -70074,6 +70094,7 @@ really-simple-featured-video
 really-simple-feedback
 really-simple-flickr-gallery
 really-simple-flickr-gallery-1
+really-simple-free-shipping
 really-simple-ga
 really-simple-gallery
 really-simple-gallery-widget
@@ -74914,6 +74935,7 @@ searchwp-live-ajax-search
 searchwp-modal-search-form
 searchy
 season-greetings
+season-spark
 seasonal-content
 seasonal-css
 seatext-free-translation-and-conversion-rate-boost
@@ -75180,6 +75202,7 @@ select-and-edit
 select-and-share
 select-category-to-post
 select-delivery-dates-woo
+select-enhancer-for-elementor-forms-with-select2
 select-estados-e-cidades-brasil
 select-featured-posts
 select-link
@@ -75331,6 +75354,7 @@ semrush-seo-writing-assistant
 semster-gmb-reviews-widget
 semtix-screenshots
 semtoo
+semust
 senangpay-payment-gateway-for-woocommerce
 senbar
 sencha-touch
@@ -76149,6 +76173,7 @@ shadows
 shaf-random-quotes
 shahadatmasoom
 shaicon-block
+shailesh-leadcapture-pro
 shake-add-to-cart-button-animation-for-woocommerce
 shakes
 shalom-world-media-gallery
@@ -76403,6 +76428,7 @@ sheet-music-library
 sheet-to-wp-table-for-google-sheet
 sheet-wise
 sheet2site
+sheetable-datatable-from-google-sheet
 sheetdb
 sheetlink
 sheetpoet
@@ -79711,6 +79737,7 @@ site-traffic-trend
 site-under-construction
 site-update-logger
 site-update-notification
+site-updates-report
 site-uptime-monitoring
 site-url-shortcode
 site-user
@@ -79869,6 +79896,7 @@ sj-reading-time
 sje-simple-json-editor
 sji-google-map
 sji-testimonial
+sjrubel-product-feed-generator
 sjwp-beaver-builder-extension
 sk-elib
 sk-epaper-manager
@@ -84256,6 +84284,7 @@ sucuri-cloudproxy-waf
 sucuri-flush
 sucuri-scanner
 sucursales-correo-argentino-para-woocommerce
+sudan-online-payments-for-woocommerce
 sudo-juice-admin-dashboard-theme
 sudo-oauth
 sudoku
@@ -85409,6 +85438,7 @@ table2excel
 tableberg
 tablebooker
 tablecloth
+tablecrafter-wp-data-tables
 tablemaster
 tablemaster-for-elementor
 tablentor
@@ -87004,6 +87034,7 @@ the-ultimate-live-tracking-feed
 the-very-simple-vimeo-shortcode
 the-viddler-wordpress-plugin
 the-video-popup
+the-viking-auto-dismiss
 the-viral-widget
 the-visitor-counter
 the-voice-designer-by-data-driven-design
@@ -89399,6 +89430,7 @@ turbo
 turbo-addons-elementor
 turbo-admin
 turbo-blogger
+turbo-button
 turbo-shipping-rules-for-woocommerce
 turbo-sms
 turbo-video
@@ -92872,6 +92904,7 @@ villatheme-core
 villoid-brand-integration
 villoid-store-oembed
 vim-color-improved
+vima-multi-customer-addresses-for-woo
 vimcolor
 vimeify
 vimeo
