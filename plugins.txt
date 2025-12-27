@@ -3394,6 +3394,7 @@ aesirx-analytics
 aesop-story-engine
 aether
 aetherplayer
+aetta-email-capture
 aeytimes-ideas-widget
 aeytimes-product-or-service-feedback
 aeytimes-site-feedback
@@ -4044,6 +4045,7 @@ aimatch-platform-connection
 aimogen
 aimojo
 aims-ai-scheduler
+aims-quick-cleanup-tools
 aims-textarea-wordcount-withwithout-space-for-contact-form-7
 aimtell-web-push-notifications
 ainewsclick-script
@@ -5509,6 +5511,7 @@ animation-builder
 animation-forms
 animation-hover-box
 animation-menus-highlight
+animation-pack
 animations-by-imoptimal
 animations-for-blocks
 animatron
@@ -5820,6 +5823,7 @@ apache-password-protect
 apaczka
 apaczka-pl
 apaczka-pl-mapa-punktow
+apalpador
 apanika-featured-product-carousel-block
 aparat
 aparat-embed
@@ -6502,6 +6506,7 @@ artsy
 artur-store-reviews
 artviper
 arty-popup
+artzio-artist-marketplace
 aruba-fatturazione-elettronica
 aruba-hispeed-cache
 aruba-wp-migration-tool
@@ -15277,6 +15282,7 @@ ccavenue-payment-gateway-for-woocommerce
 ccavenue-payment-gateway-woocommerce
 ccavenue-payment-gateway-woocommerce-integration-kit
 ccbpress-core
+ccc-site-guard
 ccf-option-sort
 ccg-manager
 ccg-quickly
@@ -50589,6 +50595,7 @@ logic-shortcodes
 logical-captcha
 logicaldoc
 logichat
+logickit-for-elementor
 logico
 logicrays-easy-coming-soon-page
 logicrays-easy-responsive-gallery-with-slider
@@ -73726,6 +73733,7 @@ safe-and-secure-wp
 safe-attachment-names
 safe-auto-update-restore-manager
 safe-block-editor
+safe-changes-change-monitor
 safe-cookies
 safe-editor
 safe-function-call
@@ -91832,6 +91840,7 @@ userlook
 usermap
 usermaven
 usermeta
+usermorph
 username
 username-changer
 username-editor
@@ -92409,6 +92418,7 @@ verofy-payment-gateway
 verostudio-font-tester-for-google-fonts
 verowa-connect
 versal-payments
+versapay-payments
 versatile-jquery-slider
 versatile-toolkit
 verse-finder
@@ -110466,6 +110476,7 @@ zippy-engage-companion
 zippy-form
 zippyshare-embed-plugin
 ziptax-sales-tax-for-woocommerce
+ziptimize-connect
 zipzap
 zita-site-library
 ziteboard-online-whiteboard
