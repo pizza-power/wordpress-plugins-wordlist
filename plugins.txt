@@ -4105,6 +4105,7 @@ airfieldhub
 airgentic-ai-chat-overlay
 airi-demo-importer
 airim
+airize
 airline-tickets
 airliners-widget
 airpay-payment-service-integration-kit
@@ -12637,6 +12638,7 @@ breezing-forms
 breezy
 breinify
 brenger-for-woocommerce
+brenwp-cache
 brenwp-client-safe-mode
 breukies-archives-widget
 breukies-categories-widget
@@ -16905,6 +16907,7 @@ cleanup-action-scheduler
 cleanup-duplicate-meta
 cleanup-images
 cleanup-light
+cleanup-orphan-images
 cleanup-revision-posts
 cleanup-text
 cleanup-wordpress
@@ -28127,6 +28130,7 @@ easyappointments
 easyazon
 easybackendstyle
 easybackup
+easybar
 easybasket
 easybility
 easybox
@@ -38023,6 +38027,7 @@ global-terms
 global-threat-activity-level-widget
 global-time-ghost
 global-translator
+global-wallet-for-woocommerce
 global-weather-pro
 globaldev-sticky-sidebar
 globaldirectory
@@ -41542,6 +41547,7 @@ hooksure
 hookybeaver
 hookywoo
 hoopler
+hoosh-ai-assistant
 hoot-import
 hootboard
 hootkit
@@ -44305,6 +44311,7 @@ inspire-dolly
 inspire-me
 inspirelabs-bookings
 inspirelite-addons-for-elementor
+inspirepulse-quotes
 inspiring-dashboards
 inspiring-quotes
 inspiring-shipment-tracking
@@ -48414,6 +48421,7 @@ launcher
 launches-from-spacex
 launchkey
 launchkit
+launchmind-blog
 launchpad-article-feedback
 launchpad-by-obox
 launchpad-popular-posts
@@ -48796,6 +48804,7 @@ ledger-direct
 leductoan-toucan-sms
 ledyer-checkout-for-woocommerce
 ledyer-order-management-for-woocommerce
+ledyer-payments-for-woocommerce
 leenkme
 lees-membership-hierarchy
 leet-affiliate-for-freemius
@@ -57167,6 +57176,7 @@ nagad
 nagad-payment-gateway
 nagging-warning-remover-for-yoast
 nagishly
+nahian-food-delivery-pickup-soluition
 nahian-ultimate-integration-for-contact-form-7-and-elementor
 naiba-coming-soon
 naibabiji-b2b-product-showcase
@@ -58884,6 +58894,7 @@ notes
 notes-postwidgets
 notes-termcontrol
 notes-widget-wrapper
+notetaker-sidebar-notes
 notfoundorg-404-page
 nothing-else
 nothing-much
@@ -64725,6 +64736,7 @@ poli-payments
 poli-payments-for-woocommerce
 policy-admin
 policy-genius
+policydesk
 polipress
 polish-lyric-generator
 polite-ifier
@@ -66082,6 +66094,7 @@ power-code-editor
 power-editor
 power-form-7
 power-forms-builder
+power-importer-for-woocommerce
 power-links
 power-login-guard
 power-menus
@@ -66126,6 +66139,7 @@ powerpress-multisite
 powerpress-posts-from-mysql
 powers-triggers-of-woo-to-chat
 powerstrip
+powertable-for-woocommerce
 powerturk-radyo
 powerup
 powerup-cf7
@@ -75439,6 +75453,7 @@ send-to-mpesa-payment-gateway
 send-to-statsd
 send-to-twitter
 send-users-email
+send-your-prayers
 send-zap
 send24
 send24-logistics
@@ -79687,6 +79702,7 @@ site-editor-google-map
 site-favicon
 site-first-seo
 site-grayscale-toggle
+site-grid-connector
 site-health
 site-health-manager
 site-health-tool-manager
@@ -80586,6 +80602,7 @@ smart-donations-stripe
 smart-download-redirector
 smart-dpe
 smart-duplicate-post-page
+smart-dynamic-sitemap
 smart-editor
 smart-email-alerts
 smart-external-links-manager
@@ -82306,6 +82323,7 @@ spacious-toolkit
 spain-cookie-law
 spam-blip
 spam-blocker
+spam-blocker-for-contact-form-7
 spam-blocker-s1
 spam-byebye
 spam-captcha
@@ -85008,6 +85026,7 @@ swift-user
 swift-woo-search-ecommerce-live-search
 swift-wp-login
 swiftad
+swiftaddons-for-elementor
 swiftbooks-subscription-membership-autoresponder
 swiftchat
 swiftcloud
@@ -85719,6 +85738,7 @@ taknema
 taknod
 tako-data-visualization
 tako-movable-comments
+takumi-ai-product-filter-for-woocommerce
 talash
 talenthouse-portals
 talentlms
@@ -87087,6 +87107,7 @@ theatre-wp
 theatrecms-lite
 theavcoach-weather-station-for-weatherlink
 thebasics-product-feed
+thebbapp
 thebestvideo-informer
 thebing-snippet
 theblonk
@@ -95402,6 +95423,7 @@ websuite-push-notifier
 websync-builder-cf7
 websync-checkout-for-elementor
 webtarget-custom-tabs-pro
+webtechee-external-links-security
 webtexttool
 webthumb
 webtimer
@@ -99676,6 +99698,7 @@ workchat
 worker
 workflow
 workflow-approvals
+workflowdone-geo-blocker
 workflowprotools-bulk-product-importer-for-woocommerce
 workible-jobs-widget
 working-constant-contact-signup-form-widget
