@@ -4831,6 +4831,7 @@ allwebmenus-wordpress-menu-plugin
 alm-oembed
 alma-gateway-for-woocommerce
 almar
+almaweb-ai-visitor-analytics
 almefy-me
 almost-all-categories
 almost-users-only
@@ -6353,6 +6354,7 @@ aria-wp-jalali
 arianelab
 arielbrailovsky-viralad
 arik-admin-screen-customizer
+arik-dynamic-table-addons-for-elementor
 arik-product-fields
 arile-extra
 arile-super
@@ -6483,6 +6485,7 @@ artificial-photo-gallery
 artificial-poets
 artificial-scrollup
 artijigonosidebar
+artinar
 artisan
 artisan-slider
 artiss-currency-converter
@@ -15477,6 +15480,7 @@ cf-image-gallery
 cf-image-resizing
 cf-images
 cf-littlebizzy
+cf-llms-stats-tracker
 cf-meta-tags
 cf-page-cache
 cf-prefetch-manifest-generator
@@ -27715,6 +27719,7 @@ easy-peasy-google-analytics
 easy-peasy-mailchimp-ajax-form
 easy-photo-album
 easy-photo-album-latest-photos
+easy-photo-publisher
 easy-php-settings
 easy-php-sudoku-game
 easy-php-text-widget
@@ -29792,6 +29797,7 @@ emercury-for-gravity-forms
 emercury-for-woocommerce
 emercury-for-wp
 emercury-forms
+emercury-smtp-mail
 emergency-alert
 emergency-contact-button
 emergency-management
@@ -30612,6 +30618,7 @@ ethereum-wallet
 ethereumads
 ethereumico
 ethiopian-calendar
+ethiotime
 ethne-favourites
 ethos-statistics
 ethpress
@@ -51594,6 +51601,7 @@ mahjong
 mahjong-icons
 mahjong-tiles
 mahkeme-karariyla
+mai-smart-assistant
 maia-mechanics-pro-web-widget
 maia-multipurpose-ai-assistant
 maid-booking
@@ -63213,6 +63221,7 @@ pf-homefollow-shortcode
 pf-secure-toolkit
 pf-timer
 pf404-for-petfinder
+pfacturas-for-woocommerce
 pfand-deposit-for-woocommerce-products
 pfd-ai-quick-read-summarizer
 pflegekorb-open-weather
@@ -74035,6 +74044,7 @@ sanalpospro-payment-module
 sanchari-login-styles
 sanchari-testimonial
 sanctions-io-search
+sanctumgate
 sandbox
 sandbox-analytics
 sandbox-payment-gateway
@@ -82810,6 +82820,7 @@ spotify-widget
 spotim
 spotim-comments
 spotlight
+spotlight-ai-search-visibility
 spotlight-search
 spotlight-social-photo-feeds
 spotlighter
@@ -87680,6 +87691,7 @@ ticketx
 tickle-me-wordpress
 tickset
 ticktify
+tickzo-support-ticket-system
 ticoseo
 tid-custom-login-page
 tid-scroll-to-top
@@ -93153,6 +93165,7 @@ visage
 visage-oembed
 viseek-easy-custom-search
 visfeed
+vishavjeet-age-consent-banner
 vishwa-301-redirects
 visibility
 visibility-control-for-learndash
