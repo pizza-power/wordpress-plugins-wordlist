@@ -200,6 +200,7 @@
 360imobile-txtimpact-sms-messaging-plug-in
 360notify
 360panoembed
+365i-performance-optimizer
 365i-queue-optimizer
 365livechat
 365projectorg-widget
@@ -4897,6 +4898,7 @@ also-in-this-series
 alsoviewed-for-woocommerce
 alt-5-pay-checkout-for-woocommerce
 alt-attribute-audit
+alt-audit
 alt-bot
 alt-calendar
 alt-for-images
@@ -4952,6 +4954,7 @@ altibox
 altima-lookbook-free-for-woocommerce
 altinator
 altis-accelerate
+altninja-alt-text-generator
 altocloud-analytics-communications-for-woocommerce
 altomatic
 altos-connect
@@ -6285,6 +6288,7 @@ archive-title
 archive-widget-collapsed-with-css
 archive-widgets
 archived-post-status
+archiveo-importer-wayback
 archiveorg-wp
 archiver
 archives
@@ -16090,6 +16094,7 @@ chatfuel-customer-chat
 chatfunnels
 chatgen
 chathispano
+chatikonix-customizable-livechat-widget-icon
 chatim-live-chat-chatbot
 chatimity-chat-rooms
 chatina
@@ -17851,6 +17856,7 @@ coinsnap-for-wpforms
 coinsnap-paywall
 coinspaid
 coinsuites-pay
+cointacted-social-terminal
 cointent
 cointopay-com-bank-only
 cointopay-com-cc-only
@@ -24195,6 +24201,7 @@ devllo-events-bookings
 devllo-events-pmpro
 devman-marketing-tools
 devmatic
+devmedialabs-autogen-content-scheduler
 devmonsta
 devmx-teamspeak3-webviewer
 devnajmus-oneclick-order-popup-for-woocommerce
@@ -28415,6 +28422,7 @@ ecom-email-health-check
 ecomail
 ecomail-elementor-form-integration
 ecomatcher-for-woocommerce
+ecomate-ecommerce-toolkit-for-bangladesh
 ecomdy-pixel
 ecomemerge-checkout-field-editor-for-woocommerce
 ecomfit
@@ -33316,6 +33324,7 @@ field-memory-gravity-forms-addon
 field-name-in-pods-editor
 field-to-fork
 field-trip
+fieldora-checkout-for-woo
 fieldpig
 fields
 fields-and-file-upload
@@ -34220,6 +34229,7 @@ flit-shipping
 flitpay
 flixster-widget
 flixy-review-product-boxes-for-affiliate-pages
+fliz-video-generator
 flizpay-for-woocommerce
 flm-golf-booking
 flo-forms
@@ -44709,6 +44719,7 @@ intelligencebank-connector
 intelligent-importer
 intelligent-traffic-generator
 intelligenter-deutscher-chatbot-fur-deine-website-von-breev
+intelliminds
 intellink-chatbot
 intellipush
 intellispire-thrive-shortcodes
@@ -46274,6 +46285,7 @@ journey-timeline-block
 journify-for-woocommerce
 journity
 journy-io
+jovvie-in-person-payments-givewp
 joy-checkout-more-beautiful-checkout-for-woocommerce
 joy-of-plants-library
 joy-of-text
@@ -55405,6 +55417,7 @@ mosaic-gallery-advanced-gallery
 mosaic-gallery-by-widgetic
 mosaic-gallery-for-elementor
 mosaic-generator
+mosbius-floating-social-bar
 mosh-companion
 moshare
 moshimoquickmaker
@@ -62121,6 +62134,7 @@ patterns-store
 patternswp
 pattison-media-attribution
 pau-accesibilidad-universal
+pau-createjs-block
 pauker
 paukerstats
 paul-google-maps-coordinates
@@ -62893,6 +62907,7 @@ peleman-webshop-package
 pelepay-integration-for-woocommerce
 pelepay-integration-for-wpecommerce
 pelepay-standalone-embedder
+peligent-ai-assistant
 pelightbox-gallery-slider
 pembersih-urllink-url-cleaner
 pempo-ai-discovery
@@ -76916,6 +76931,7 @@ shopvote
 shopwarden
 shopwedo-easyshipper
 shopweltde-widget
+shopwriter-lite
 shopxpert
 shopybot-woocommerce
 shordio
@@ -80667,6 +80683,7 @@ smart-image-resize
 smart-image-resizer
 smart-image-seo
 smart-input-pricing-for-woocommerce
+smart-instalments-manager-for-woocommerce
 smart-investment-calculator
 smart-invoice-and-billing-management
 smart-keywords-tool
@@ -83099,6 +83116,7 @@ stackable-ultimate-gutenberg-blocks
 stackad
 stackcommerce-connect
 stackcommerce-deal-feed
+stackdev-local-business-schema
 stackerdecks-wp
 stackla
 stackla-simple-embed
@@ -85886,6 +85904,7 @@ taqnix
 tara360-gateway
 taragalfredo-delicious-mp3-player-plugin
 taragana-delicious-mp3-player-plug
+tarahiberooz-smartcontent-openrouter
 target-blank-exploit-fixer
 target-blank-in-posts-and-comments
 target-blank-to-button-block
@@ -88070,6 +88089,7 @@ tinywp-mobile-detect
 tinywym-editor
 tip-box
 tip-button-from-inditip
+tip-calculator-by-country
 tip-jar-paypal-widget
 tip-jar-wp
 tip-my-work-hostjane-payments
@@ -94733,7 +94753,6 @@ wc-zippinpostal-code-validator
 wc-zoho-inventory
 wc-zonos-hello-integration
 wc1c-main
-wc4bd
 wc4bp
 wc4bp-groups
 wca-google-tools-extension
@@ -94828,6 +94847,7 @@ wd-mailchimp
 wd-post-renew
 wd-post-types
 wd-quick-pages
+wd-restrictions
 wd-search-form
 wd-twitter-feed
 wd-youtube
@@ -109371,6 +109391,7 @@ yamato-atobarai-for-woo
 yamato-credit-for-woo
 yame-linkinbio
 yamizanet
+yaml-custom-fields
 yamli
 yampi-checkout
 yampp
