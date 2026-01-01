@@ -4040,7 +4040,9 @@ aiirs-artificial-intelligence-image-resizer
 aikezi-solutions
 aiko-developer-lite
 aikon-role-manager
+aiktp
 ailig-knowflow-ai-chatbot
+ailog-chat
 aim-style-vault
 aim3-shop2ad
 aimatch-platform-connection
@@ -5813,6 +5815,7 @@ ap-gravatars
 ap-honeypot
 ap-instagram-gallery
 ap-internal-linking-helper
+ap-link-audit
 ap-mega-menu
 ap-pricing-tables-lite
 ap-schema
@@ -6388,6 +6391,7 @@ armenian-keyboard
 armenian-links-change
 armory-atlas
 army-video-slider
+arnax-bitcoin-gateway
 arne-feed
 arnes-gw2-riddle
 arnold-analytics
@@ -6865,6 +6869,7 @@ athlon-manage-calameo-publications
 athlos-assistente-digitale
 atiendia-assistant-for-woocommerce
 atikin-seo
+atirame-ai-chatbox-assistant
 atlas-content-modeler
 atlas-discuss-quote-form
 atlas-dynamic-messages-for-woocommerce
@@ -7317,6 +7322,7 @@ authy-two-factor-authentication
 authyo-otp-authentication-for-woocommerce
 authyo-otp-for-contact-form-7
 authyo-otp-for-wpforms
+authyo-passwordless-login
 autience-yes-or-no-popup
 autifydigital-lloyds-cardnet
 autism-speaks-support-ribbon
@@ -12105,6 +12111,7 @@ botsmap-xml-sitemap-manager
 botsmasher
 botsonic
 botsplash-chat
+botsubmit
 bottam-bar
 bottimmo-widget
 bottled-water-costs-calculator
@@ -14213,6 +14220,7 @@ callcontact
 calldrip-call-referer-tracking
 called-unto-holiness
 callfire-click2call
+calliope
 calliope-media-import-export
 callistofm-realtime-media-analytics
 callmaker
@@ -15721,6 +15729,7 @@ cf7orderstatusswitcher
 cf7records
 cf7save-extension
 cf7woo
+cfb-must-login
 cfb-scroll-to-top
 cfb-wp-login-form-customizer
 cfcdn-comment-ip-fix
@@ -16082,6 +16091,7 @@ chatbot-support-ai
 chatbot-widget
 chatbot-widget-opulent
 chatbotato
+chatbotics-ai-agent
 chatbox
 chatbro
 chatcatcher
@@ -34780,6 +34790,7 @@ foodle-for-democracy-poll
 foodlist
 foodlve-social-share
 foodoo
+foodord
 foodparser
 foodsager-save
 foodspace-recipe
@@ -35406,6 +35417,7 @@ fraxion-payments-micropayments-for-bloggers-2nd-go
 fraxion-update
 frazrmessage
 fred-at-a-glance
+frederix-external-login
 free-accountant
 free-adsense-optimize
 free-animation-toolkit
@@ -42280,6 +42292,7 @@ hyperwidgets
 hyperwords
 hyphenator
 hyphoo
+hypodash
 hypotext
 hypothesis
 hytolat
@@ -46909,6 +46922,7 @@ kads-seo
 kads-slider
 kaelme-url-shortener
 kaf-wp-connector
+kafash-editorial-enhancer-lite
 kafkai
 kagg-compatibility
 kagg-fast-post-generator
@@ -47524,6 +47538,7 @@ kitecv
 kitestudio-core
 kitgenix-captcha-for-cloudflare-turnstile
 kitgenix-order-tracking-for-woocommerce
+kitgenix-pdf-invoicing-for-woocommerce
 kiticon-icon-block
 kitpack-for-persian-elementor
 kits-templates-and-patterns
@@ -48742,6 +48757,7 @@ leads-crm
 leads-edit-core-email-templates
 leads-for-amo-crm
 leads-rocks
+leads-store-database-contact-form7
 leads2excel
 leadscore-crm-connector
 leadsecure-widget
@@ -49927,6 +49943,7 @@ list-plugin-details
 list-plugins
 list-post-authors-plus
 list-post-one
+list-post-tags-shortcode
 list-posts
 list-posts-alphabetically
 list-posts-by-author
@@ -53270,6 +53287,7 @@ mehedis-social-share
 mein-preis
 mein-seh-check
 meintopf
+meinturnierplan
 meinturnierplande-widget-viewer
 meinungsmeister
 meipian-latest-posts-list-widget
@@ -53746,9 +53764,11 @@ meta-widget-customizer
 meta2post-content-toggler
 metabackground
 metabase-post-user-meta-editor
+metabatch
 metabox-area
 metabox-connect
 metabox-creator
+metabox-fulfillment
 metabox-glossary
 metabox-header-color
 metabox-with-api
@@ -54300,6 +54320,7 @@ minical
 miniclip-games
 minicomerce
 minicomposer
+minicrm-bridge
 minicrm-woocommerce-sync
 miniextensions-gallery-for-airtable
 minifly
@@ -55050,6 +55071,7 @@ modula-final-tiles-migrator
 modula-foo-migrator
 modula-nextgen-migrator
 modula-photoblocks-gallery-migrator
+modular-blocks-core
 modular-connector
 modular-custom-css
 modulates-advertiser-integration
@@ -59090,6 +59112,7 @@ notodoeranflores-share-thid
 notodoeranflores-share-this
 notpinterested
 notrespassers
+notria-ai-suite
 notwiz-calendar-block
 notwiz-ruby-text
 notyf
@@ -61210,6 +61233,7 @@ owt-one-word-translator
 oxapay
 oxapay-crypto-gateway-for-paid-memberships-pro
 oxapay-crypto-payment-gateway-for-gravity-forms
+oxapay-crypto-payment-gateway-for-restrict-content-pro
 oxapay-payment-gateway-for-easy-digital-downloads
 oxcyon-2-wp
 oxford-comma-go-away
@@ -61329,6 +61353,7 @@ p5
 p5-embedder
 pa
 paack-delivery
+paapi-product-search-for-amazon
 paay
 paay-for-gravity-form
 pablo-career
@@ -65027,6 +65052,7 @@ popup-notification-news-alert
 popup-notifier-for-contact-form-7
 popup-on-click
 popup-optins
+popup-redirect-for-percup
 popup-revolution
 popup-scroll
 popup-seo-optimized
@@ -65952,6 +65978,7 @@ postnl-address-validation-for-woocommerce
 postnord-skicka-direkt
 postology
 postomatic
+postorbit
 postovoy
 postpage-admin-renamer
 postpage-content-anchor-tabset
@@ -66143,6 +66170,7 @@ power-links
 power-login-guard
 power-menus
 power-search
+power-search-for-woocommerce
 power-slider
 power-thumbnail
 power-tickets
@@ -66855,6 +66883,7 @@ printify-for-woocommerce
 printkk-for-woocommerce
 printpress
 printrove-integration-for-woocommerce
+printseek
 printshopcreator-api-connect
 printsvc-wp-suite
 printus-cloud-printing-for-woocommerce
@@ -82129,6 +82158,7 @@ some-chinese-please
 some-important-widget-for-elementor
 some-maps
 some-pay-social-shopping
+some-plus-report-post
 some-time-ago
 somedia-video-ads
 somenano
@@ -83775,6 +83805,7 @@ stoptheslowlane
 stopwatch
 stopwatch-matching-any-theme
 stopwords-for-comments
+storage-for-edd-via-dropbox
 storage-for-edd-via-s3-compatible
 storagemadeeasy-multicloud-files-backup
 storagepress-self-storage
@@ -84219,6 +84250,7 @@ sublime-skinz-wp
 sublimetheme-advanced-addons-for-elementor
 sublimevideo
 sublimevideo-official
+sublimity-ai-chatbot-gemini
 sublium-subscriptions-for-woocommerce
 subme
 submenu-filter
@@ -93729,6 +93761,7 @@ vucut-kitle-endeksi
 vuebit
 vuefront
 vuelio-canvas
+vuelve
 vulcan-publisher-tools
 vulcun-add-links-to-words
 vulgar-detector
@@ -107308,6 +107341,7 @@ wpbbclone
 wpbd-my-favorites
 wpbenchmark
 wpbetteradmin
+wpbettercodehighlighting
 wpbigshot
 wpbits-addons-for-elementor
 wpbizplugins-custom-admin-help-boxes
@@ -108618,6 +108652,7 @@ wpx-seo-master
 wpx-server-light
 wpx-shortcodes-manager-light
 wpxero-iframe
+wpxero-search-filter
 wpxlsdata
 wpxmas-snow
 wpxon-ajax-contact-form
