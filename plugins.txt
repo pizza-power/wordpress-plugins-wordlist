@@ -611,6 +611,7 @@ abcsubmit
 abd-dashboard-widget-manager
 abdal-security-headers
 abdiel-global-variables
+abdiel-multi-style-kits-for-elementor
 abdul-tag
 abdul-tag-widget
 abdul-wp-plugin
@@ -4006,6 +4007,7 @@ ai-user-content-generator
 ai-vector-search-semantic
 ai-vision-block
 ai-widget
+ai-workflow-automation-ai-agent-hub
 ai-workflow-automation-lite
 ai-wp-writer
 ai-writer
@@ -7696,6 +7698,7 @@ auto-user-comment-approval
 auto-video-youtube-poster
 auto-wap
 auto-watermark
+auto-webp-alt-optimizer
 auto-webp-converter-logger
 auto-webp-image-converter
 auto-woocommerce-affiliate-account-creation
@@ -11176,6 +11179,7 @@ blockypage
 blocs-developer
 blog-2-twitter
 blog-activity-shortcode
+blog-ai-summarize
 blog-announcement
 blog-anthologize
 blog-as-pdf
@@ -12647,6 +12651,7 @@ breakthelimit
 breast-cancer-awareness-ribbon
 breasy-post-manager
 breathable-more-tag
+brecht-ai-chat
 breely
 breeze
 breeze-checkout
@@ -14620,6 +14625,7 @@ cart-expiry-reminder-for-woocommerce
 cart-favicon
 cart-for-woocommerce
 cart-gateway
+cart-goal-booster
 cart-in-ajax-on-single-product-page
 cart-lift
 cart-limiter
@@ -16241,6 +16247,7 @@ checkout-address-autofill-for-woocommerce
 checkout-address-sugessions-for-woocommerce
 checkout-address-suggestion-and-autocomplete-for-woocommerce
 checkout-boost
+checkout-bot-shield
 checkout-builder-concept-for-woocommerce
 checkout-com-unified-payments-api
 checkout-comment-remover-for-woocommerce
@@ -20986,6 +20993,7 @@ cs-remove-category-base
 cs-remove-version-number-from-css-js
 cs-require-featured-image-to-publish-posts
 cs-shop
+cs-size-chart
 cs-tools
 cs-website-tutorial
 cs3lider
@@ -25411,6 +25419,7 @@ dividebuy
 dividelo
 divido-for-woocommerce
 divinationkit-for-divi
+divine-sip-calculator
 diviner-archive
 diviner-blocks
 diving-calculators
@@ -26196,6 +26205,7 @@ drd-delisious-rss-display
 dreacot-delivery
 dream-agility-tracking-pixel
 dream-broker-embed
+dream-cgpa-calculator
 dream-coming-soon
 dream-gallery
 dream-popup
@@ -33961,6 +33971,7 @@ flattrss
 flattrwidget
 flatty-flat-admin-theme
 flaunt-your-clients-free
+flauntopia
 flaver-cbd-calculator
 flaver-nicotine-shot-calculator
 flawless-themes-demo-importer
@@ -37890,6 +37901,7 @@ gist-shortcode
 gist-sidebar-widget
 gisted
 gisthub
+gistmag-alt-text-generator
 gistr
 git-it-write
 git-portfolio
@@ -40129,6 +40141,7 @@ halloween-quotes
 halloween-woocommerce
 halosocial
 ham3da-integration-for-oxapay-in-woocommerce
+hamada-smart-404-redirect-logger
 hamail
 hamburger-icon-menu-lite
 hamburger-menu
@@ -45769,6 +45782,7 @@ jds-portfolio
 jds-recently-viewedpages
 je-article-import
 je-editable
+je-request-block
 je-roadmap-block
 je-suis-charlie
 je-suis-charlie-ribbon-mc
@@ -55446,6 +55460,7 @@ moshimoquickmaker
 mosman-check-referer
 mosmos
 mosne-dark-palette
+mosne-hero
 mosne-media-library-astrobin
 mosne-text-to-speech-block
 mosparo-integration
@@ -57514,6 +57529,7 @@ neat-slider
 nebucore
 nebula-accounting
 nebula-facebook-comments
+nebula-forge-addons-for-elementor
 necessary-blocks
 necessary-tools
 necrologi-italia-nicv
@@ -59768,6 +59784,7 @@ ohdear
 oheso-version-report
 ohio-sheriff-tools
 ohloh-widget
+ohmtang-cft
 ohmylead-add-on-gravity-forms
 oi-chavinho
 oi-frontend-profile
@@ -60764,6 +60781,7 @@ order-gift-proceed-checkout
 order-hours-scheduler-for-woocommerce
 order-import-export-for-woocommerce
 order-invoice-pdf-for-woocommerce
+order-item-details-column-for-woocommerce
 order-item-notes-for-woocommerce
 order-list-table-elementor-widget
 order-locators-for-jigoshop
@@ -61316,6 +61334,7 @@ ozhs-correctly-spell-wordpress
 ozhs-ip-to-nation
 ozi-bbcode-eklentisi
 ozi-image-alt-tag-fixer
+ozi-internal-link-booster
 ozioma
 ozon-book-cover
 ozon-export-products
@@ -64164,6 +64183,7 @@ planetplanet
 planeupload
 planfy-online-booking
 planist
+planit-event-manager
 planitappy-class-booking
 planitappy-fitnessnutrition-plan
 planitappy-nutrition-wizard
@@ -69350,6 +69370,7 @@ radish-concepts-cookie-consent
 radish-vendor-loader
 radiumone-sharing-analytics
 radius-blocks
+radius-booking
 radix-helper
 radle-lite
 radslide
@@ -69681,6 +69702,7 @@ rapidresult
 rapidsec-csp-and-security-headers
 rapidspike-real-user-monitoring
 rapidurlindexer-wp
+rapls-pdf-image-creator
 rapo-multiauthors
 rapo-recent-custom-posts-widget
 rappibank-gateway
@@ -72373,6 +72395,7 @@ restrictedarea
 restriction
 restriction-on-cart
 restrictly
+restrictly-access-control
 restrictmate
 restrofood-lite
 restropress
@@ -74477,6 +74500,7 @@ schemafeed
 schemagenius-ai
 schemaninja
 schemaorg-compatible-seo-plugin
+schemasense-smart-structured-data
 schemeable-sliding-panel
 schemify
 schetmash-online
@@ -75590,6 +75614,7 @@ sendy
 sendy-ecommmerce
 sendy-fulfillment
 sendy-widget
+sengeku-meta-description-manager
 senior-slide-show-uploader
 senja
 senpai-software-2fa
@@ -76304,6 +76329,7 @@ shape-master
 shape-size-calculator
 shapely-companion
 shapepress-dsgvo
+shapes-smart-scroll-animations
 shapeways-gallery
 shapla-google-adsense
 shaplatools
@@ -78182,6 +78208,7 @@ simple-eliminate-render-blocking-css
 simple-email
 simple-email-mailchimp-subscriber
 simple-email-queue
+simple-email-scheduler
 simple-email-sender-with-smtp-and-debugging
 simple-email-service-by-hosting-nl
 simple-email-subscriber
@@ -86881,6 +86908,7 @@ tg-email-protection
 tg-facebook-comments
 tg-facebook-meta-tags
 tg-instantview
+tg-live-chat
 tg-sms-notify
 tg-testimonials
 tg-visitors-ip-display
@@ -87165,6 +87193,7 @@ the-ultimate-live-tracking-feed
 the-very-simple-vimeo-shortcode
 the-viddler-wordpress-plugin
 the-video-popup
+the-viking-abandoned-monitor
 the-viking-auto-dismiss
 the-viral-widget
 the-visitor-counter
@@ -89232,6 +89261,7 @@ triggerbee
 triggered-actions
 triggered-messaging-solution-for-e-commerce
 triggerfish-bytbil-accesspaket
+triggerninja-actions-for-elementor-form
 triggerninja-for-ninja-forms
 triggervox
 triggerwarning
@@ -91214,6 +91244,7 @@ unsplash
 unsplash-stock-photo-library
 unsproject
 unstitched-shortcode
+unstoppable-shipping-to-delivery
 unstyle-comment-replies
 unsubscribe-from-woocommerce
 unsupported-browser-notification
@@ -94117,6 +94148,7 @@ wbb-wp-owa
 wbblatest-widget
 wbcom-designs-buddypress-ads
 wbcom-designs-buddypress-search
+wbd-logo-carousel
 wbd-progress-bar
 wbg-opcao-de-cancelar-na-listagem-de-pedidos-woo
 wbjet-hellotap
@@ -110530,6 +110562,7 @@ zij-kart
 zikiplugin
 zili-breadcrumbs-customizer-for-woocommerce
 zili-coupon-code-generator-for-woocommerce
+zili-user-products-for-woocommerce
 zilla-payment-gateway
 zillametrics-chat
 zillametrics-google-tag-manager
@@ -110786,6 +110819,7 @@ zxcvbn
 zycoonapps-login-sms-alert
 zyflora-easy-multi-platform-retargeting
 zyflora-landing-page-templates
+zyflora-media-share-widget
 zynads
 zynatic-authentication
 zynatic-medlemsregister
