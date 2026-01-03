@@ -712,6 +712,7 @@ acache
 academa
 academic-archives
 academic-bloggers-toolkit
+academic-certificate-verification
 academic-citations
 academic-writing-ordering-system
 academicpress
@@ -17788,6 +17789,7 @@ coding-bunny-easy-duplicate-post
 coding-bunny-image-optimizer-lite
 coding-bunny-llms-generator
 codingfreaks-cookiemanager
+codious-external-links-opener
 codirun-codir2me-cdn
 codirun-linkalert
 codistoconnect
@@ -23466,6 +23468,7 @@ dealership-aggregator
 dealersolutionscomau-inventory-search
 dealfront
 dealia-request-a-quote
+dealicious-smart-discounts-rewards-for-woocommerce
 dealique
 dealnit-dealfeed-of-local-deals
 dealrelations-listings
@@ -24470,6 +24473,7 @@ digibitz-custom-order-status
 digiblocks
 digibyte-pay-for-woocommerce
 digicommerce
+digiconsent
 digicution-simple-twitter-feed
 digigroup-fb-fancy-gallery
 digikala-affiliate
@@ -28734,6 +28738,7 @@ eddards-post-attachments
 eddy-travels
 edebit-direct-ach-gateway
 edel-budget-book
+edel-museum-generator
 edenpersona-connector-analytics
 edents-archive-calendar-widget
 edge-cache-html-cloudflare-workers
@@ -34248,6 +34253,7 @@ flirty-leads
 flirty-mania
 flit-shipping
 flitpay
+flitt-payment-gateway-for-woocommerce
 flixster-widget
 flixy-review-product-boxes-for-affiliate-pages
 fliz-video-generator
@@ -39565,6 +39571,7 @@ grenadine-event-publisher
 grey-admin-color-schemes
 grey-owl-lightbox
 grey-owl-thumbnail-resize-lite
+grey-seal-faq
 greybox-integrator
 greyfu-login-captcha
 greymatter-importer
@@ -40753,6 +40760,7 @@ helphaiti-plugin
 helpi5
 helpie-faq
 helpinator-quick-publish
+helpisto-chat-widget
 helplane-chat
 helpmate-ai-chatbot
 helpninja
@@ -42264,6 +42272,7 @@ hybridsupply-cookies
 hydra-booking
 hydravid
 hydravid-content
+hydrogen-calendar-embeds
 hydrogen-directory
 hygglig-checkout
 hylsay-email-smtp
@@ -46067,6 +46076,7 @@ jiutu-qingdong
 jiv-google-analytics
 jivochat
 jivosite
+jix-instant-alerts-to-telegram-for-woocommerce
 jix-media-library-cleanup-tool
 jj-nextgen-image-list
 jj-nextgen-jquery-carousel
@@ -51619,6 +51629,7 @@ magnapass
 magnet
 magnet-blocks
 magnet-genius
+magnet-media-optimizer
 magnetis-call-tracking
 magni-image-flip-for-woocommerce
 magnifi-widget
@@ -54886,6 +54897,7 @@ mobile-redirect-plugin
 mobile-redirect-plus-lite
 mobile-redirect-with-slug
 mobile-redirection-for-pages-and-posts
+mobile-refuel-table-reservation
 mobile-responsive-sidebar
 mobile-responsive-spacers
 mobile-share-bar
@@ -57293,6 +57305,7 @@ nano-stats
 nanokassa
 nanomailer-for-aws-ses
 nanoplazo-payment-gateway-for-woocommerce
+nanoreel
 nanoslider
 nanostats
 nanosupport
@@ -68112,6 +68125,7 @@ purchase-order-woocommerce-addon
 purchase-orders-for-catablog
 purchase-orders-for-woocommerce
 purchase-redirect-for-woocommerce
+purchase-tagger-for-mailchimp
 purchased-items-column-woocommerce
 purchaseroles
 pure-charity-base-functionality
@@ -68584,6 +68598,7 @@ qrcodes
 qrcodewp
 qreatmenu-restaurant-qr-menu-for-woocommerce
 qreuz
+qrfolders-lite-for-google-drive
 qrlicious-qr-codes
 qrlogin
 qrmemo
@@ -69283,6 +69298,7 @@ r12themes-quotes
 r2b-partial-cod-lite
 r2b2-monetization
 r2k-captcha
+r2k-terms-copier
 r3df-auto-thickbox
 r3df-beaver-builder-tinymce-advanced-icon-fix
 r3df-copyright-message
@@ -80796,6 +80812,7 @@ smart-posts-widget
 smart-prefetch
 smart-pregnancy-calculator
 smart-prev-next
+smart-product-emails
 smart-product-gallery-slider
 smart-product-showcase-for-woocommerce
 smart-protect
@@ -93040,6 +93057,7 @@ views-for-ninja-forms
 views-for-wpforms-lite
 views-output-formats
 viewzi-site-search
+vigia
 vigil-security-scanner
 vigilant-healthchecks
 vigilantor
@@ -93949,6 +93967,7 @@ wall-paint-calculator-by-ostheimer
 wallable
 wallet-login
 wallet-one-payment-woocommerce
+wallet-pass-generator-for-gravity-forms
 wallet-system-for-woocommerce
 wallet-up
 wallet-up-login-customizer
@@ -95482,6 +95501,7 @@ website-llms-txt
 website-logo
 website-maintenance-pti
 website-maintenance-report
+website-mockup-template
 website-monetization-by-adswallow
 website-monetization-by-magenet
 website-monitoring
@@ -95719,6 +95739,7 @@ welcometoyourdata
 welcomeuser
 welcomewiki-lite
 welcomewp
+welcomify
 weldpress
 welight-easy-impact
 well-framework
@@ -96519,6 +96540,7 @@ winsome-nice-scrollbar
 winsome-responsive-video
 winspark-widget-specific-posts
 winston-ai-wp
+winter-snow-effect
 winterlock
 wintouch-forms
 wip-custom-login
