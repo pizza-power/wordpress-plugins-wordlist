@@ -1228,6 +1228,7 @@ acronyms
 acronyms-2
 acrostiche
 acs-advanced-search
+acs-agenda-manager
 acs-plugin-for-wordpress
 acs-points
 acs-shortcuts
@@ -12602,6 +12603,7 @@ bravo-search-and-replace
 bravo-security
 bravo-translate
 bravowp-helpdesk
+brazilian-checkout-toolkit-for-woocommerce
 brazilian-fields-registry-wp
 breach-radar
 bread
@@ -25636,6 +25638,7 @@ docollipics-faustball-de
 docpro
 docs
 docs-auto-tags
+docs-publisher-for-confluence
 docs-shortcode-rl
 docs-to-wordpress
 docs-to-wp-pro
@@ -37293,6 +37296,7 @@ geoflickr
 geoforms
 geographic-selects
 geographical-redirect
+geoguard-country-access-manager
 geohtmlcom-geomarketing
 geoip
 geoip-detect
@@ -48767,6 +48771,7 @@ leadjini-lead-generation-and-lead-management-tool-for-your-blog
 leadkit-pro
 leadlovers-for-elementor
 leadlovers-forms
+leadmachine-connector
 leadmonster
 leadnow-fastpay
 leadoma
@@ -50385,6 +50390,7 @@ llms-txt-ai-generator
 llms-txt-ai-website-content-crawling
 llms-txt-editor
 llms-txt-generator
+llms-txt-generator-by-mcpner
 llms-txt-sitemap-manager
 llorix-one-companion
 lm-cf7-lead-manager-addon
@@ -55863,6 +55869,7 @@ mts-url-shortener
 mtspay_payment
 mtv-embed-plugin
 mtx-contact-form
+mtx-email-dns-validation-for-cf7
 mtx-license-box
 mu
 mu-abs
@@ -56356,6 +56363,7 @@ munk-sites
 munky-smiley
 mupost
 murderousgrowling
+murls-discounts
 muro
 musahimoun
 muscula
@@ -56383,6 +56391,7 @@ music-reviews
 music-seller
 music-sheet-viewer
 music-slideshow
+music-smartlink-maker
 music-store
 music-store-stripe-add-on
 music-tutorials-by-tuner-coin
@@ -60794,6 +60803,7 @@ order-gift-proceed-checkout
 order-hours-scheduler-for-woocommerce
 order-import-export-for-woocommerce
 order-invoice-pdf-for-woocommerce
+order-invoice-pdf-generator
 order-item-details-column-for-woocommerce
 order-item-notes-for-woocommerce
 order-list-table-elementor-widget
@@ -69676,6 +69686,7 @@ rankingbadge
 rankinglist
 rankingman
 rankioz-seo
+rankiva-seo-insights-for-gsc
 rankjet-ai
 ranklet-seo
 rankmetric-serp-rank-tracker
@@ -71737,6 +71748,7 @@ replaybird
 replicant
 replicate-widget
 replies-importer-for-mastodon
+repliii-chatbot
 reply
 reply-and-email
 reply-by-email
@@ -90933,6 +90945,7 @@ ultraaddons-elementor-lite
 ultrablocks
 ultracart-ecommerce-shopping-cart
 ultraembed-advanced-iframe
+ultragreek-style-effects
 ultraleet-wc-erply-integration
 ultralink
 ultrapress
@@ -92353,6 +92366,7 @@ vavilon-preloader
 vayapin
 vayu-blocks
 vazir-font
+vb-disable-emojis
 vb-products-sorting
 vb-user-copy
 vb-wp-move-comments
@@ -110319,6 +110333,7 @@ zarinpal-woocommerce-payment-gateway
 zartis-job-plugin
 zartwork-icon-menu
 zarza-real-ip
+zatca-e-invoice-for-woocommerce
 zaver-checkout-for-woocommerce
 zawgyi-embed
 zawgyi-one-to-ayar-unicode
