@@ -790,6 +790,7 @@ access-watch
 accessally-lms-migrate-learndash
 accessally-lms-migration-from-wp-courseware
 accessally-lms-migration-from-zippy-courses
+accessdoor-smart-admin-login-url-control
 accessgo-barrierefreiheit
 accessibe
 accessibility
@@ -1223,6 +1224,7 @@ acquaint-slick-slider
 acquaintsoft-sidebar-generator
 acquire
 acquired-payments-gateway-for-woocommerce
+acr-kit
 acronym-manager
 acronyms
 acronyms-2
@@ -1819,6 +1821,7 @@ add-to-any-subscribe
 add-to-bohemiaa-social
 add-to-bohemiaa-social11
 add-to-calendar-button
+add-to-cart-ai
 add-to-cart-ajax-for-hello-elementor
 add-to-cart-button-custom-text
 add-to-cart-button-custom-text-and-color
@@ -3987,6 +3990,7 @@ ai-snippet-seo-pro
 ai-spam-comment-detector
 ai-speaker-yomiage-kun
 ai-sports-writer
+ai-stock-predictor
 ai-story-generator-block
 ai-story-maker
 ai-summarise-button
@@ -4168,6 +4172,7 @@ aivoov-text-to-speech
 aiwriter
 aixorder
 aixostats
+aiy-sales-chat
 aizlabs-chat-agent
 aj-card-element
 aj-category-posts
@@ -15794,6 +15799,7 @@ chain-feed
 chained-product-for-woocommerce
 chained-quiz
 chained-selects-for-elementor-forms
+chained-selects-for-wpforms
 chainium
 chainkitwp-crypto-wallet-connect
 chainwire-integration
@@ -17131,6 +17137,7 @@ clickio-consent
 clickio-prism
 clickity-classify
 clickkys-mobile-web-monetization-tool
+clicklastica
 clicklease-buttons
 clicklib
 clickmap
@@ -20687,6 +20694,7 @@ crisp-gallery
 crisp-grid
 crisp-slider
 crisply-time-tracking
+crispycohd-gated-content-block-lite
 critical-css
 critical-css-for-wp
 critical-net-fraud-prevention
@@ -21309,6 +21317,7 @@ currency-switcher-woocommerce
 currency-widget
 currencyconverter
 currencyfair-calculator
+currencypal-widget
 currencyr
 currensees
 current-age
@@ -23049,6 +23058,7 @@ dashboard-scratch-pad
 dashboard-search-memberpress
 dashboard-server-info
 dashboard-server-specs
+dashboard-shortcuts
 dashboard-sidebar
 dashboard-signature
 dashboard-site-preview
@@ -28864,6 +28874,7 @@ editorial-calendar
 editorial-comments
 editorial-guidelines
 editorial-rating
+editorial-workflow-manager
 editorify
 editorplus
 editors-columns
@@ -34372,6 +34383,7 @@ floating-window-music-player
 floating-wishlist-for-woo
 floatingsocialmediapopout
 floatwarning
+floaty-book-now-chat
 floatyheader-sticky-header
 floatysocial-awesome-social-floating-sidebar
 flockler
@@ -39624,6 +39636,7 @@ gridlist-view-for-woocommerce
 gridly
 gridly-integration
 gridpics
+gridpixl-elements
 grids
 gridster
 gridster-portfolio
@@ -41301,6 +41314,7 @@ hilp
 himegoto
 himis-plugin-organizer
 hina-ajax-comment
+hinagata-speech-balloon
 hindi-dates
 hindi-input-tools-13
 hindi-quran-viewer
@@ -42231,6 +42245,7 @@ hunk-external-links
 huntmads-wordpress-mobile-pack
 hupso-share-buttons-for-twitter-facebook-google
 hura-custom-cursors
+hurda-fiyatlari
 hurrakify
 hurricane-tracker
 hurricane-woocommerce
@@ -42579,6 +42594,7 @@ iconvert-promoter
 icopaw-customizable-animal-rescue-icons
 icornr-push-notification
 icouk-hijri-date
+icouk-hijri-month
 icount
 icpay-payments
 icpbeian
@@ -45169,6 +45185,7 @@ ipdata
 iperbox
 ipermission
 iperss
+ipgeolocation-geo-redirects-content-control
 ipgp-geolocation
 ipgp-ip-address-lookup-widget
 ipgp-user-country-flag
@@ -50332,6 +50349,7 @@ livetalk
 liveticker
 livetv-bundle
 livetwitch
+livevisi
 liveweb
 livewebinar
 livewire-widget
@@ -51295,6 +51313,7 @@ lukas-tripster
 lul-me
 lumberjack
 lumeer-embed
+lumenare-search
 lumia-bxslider
 lumia-calender
 lumia-product-tabs
@@ -51525,6 +51544,7 @@ mage-reviews
 mage-slider
 mage-support-online
 mage-wp-sync
+magecomp-pincode-checker
 magee-custom-post
 magee-page-builder
 magee-restaurant
@@ -53499,6 +53519,7 @@ meneame-comments
 meneame-comments-to-wp
 mengtracker
 meni
+menia
 menko-gallery
 mensagem-seguir-twitter-no-final-do-post
 mensiopress
@@ -57795,6 +57816,7 @@ neurogenesis-styler
 neuron-posts
 neurorag-agent-chatbot
 neurosave
+neurosystems-libro-reclamaciones-peru
 neutral-cart-co2-offsetting
 neutralise-p3
 neutro-payments
@@ -60112,6 +60134,7 @@ onebutton-log
 onecash-woocommerce
 oneclick
 oneclick-delete-page-and-post
+oneclick-form-lite
 oneclick-reorder
 oneclick-whatsapp-hello
 oneclick-whatsapp-order
@@ -60564,6 +60587,7 @@ oppso-maps
 oppso-unit-converter
 opr-place-reservations
 ops-robots-txt
+ops-runbook-lite
 opskill-ecommerce
 opst-ezythick
 opt-in-hound
@@ -66589,6 +66613,7 @@ press-this-new-post
 press-this-reloaded
 press-this-v2
 press-tube
+press3d
 press75-long-form-storybuilder
 press9-ab-testing
 pressable-automated-migration
@@ -69006,6 +69031,7 @@ quick-tag-manager
 quick-tags
 quick-testimonials
 quick-toolbar
+quick-toolbar-links
 quick-top
 quick-tracking-conversions-for-woocommerce
 quick-translate-pot-po-mo
@@ -70733,6 +70759,7 @@ redirect-by-cookie
 redirect-by-custom-field
 redirect-category
 redirect-category-archives
+redirect-cleanup
 redirect-countdown
 redirect-duplicate-posts
 redirect-editor
@@ -73617,6 +73644,7 @@ rubyid
 rubytabs-lite
 rucy
 rudimentary-information
+rudra-ai-auto-content-generator-for-website
 rudra-image-optimizer
 rufilenametranslit
 ruigehond-embed
@@ -73971,6 +73999,7 @@ saint-of-the-day
 saints
 saiy2k-nostr-components
 sajjetti-audit
+sakibsnaz-light-maintenance-mode
 sakolawp-lite
 saksh-callback-request-form
 saksh-course-system
@@ -75330,6 +75359,7 @@ seesmic-wp
 seetheface-video-blog-plugin
 seevolution-heatmap-analytic
 seg
+seggwat-feedback
 segment-for-wp-by-in8-io
 segmentino
 segmentio
@@ -75821,6 +75851,7 @@ seo-images
 seo-images-reloaded
 seo-images-that-work
 seo-indowp-agmd-auto-generated-meta-description
+seo-info-viewer
 seo-intelligent-tag-cloud
 seo-interlinking
 seo-internal-link-building
@@ -78521,6 +78552,7 @@ simple-intranet-directory
 simple-inventory
 simple-inventory-and-sales
 simple-ip-ban
+simple-ip-blocker-for-pages
 simple-ip-logger
 simple-javascript-management
 simple-job-board
@@ -80678,6 +80710,7 @@ smart-brands-for-woocommerce
 smart-bulk-content-remover
 smart-calculators-suite
 smart-calendar
+smart-captcha-alternative-with-cloudflare-turnstile
 smart-captcha-yandex
 smart-carousel-slider
 smart-cart
@@ -86375,6 +86408,7 @@ techenabler-header-links-removal
 techfinder
 techholds-addons-for-elementor
 techie-pan-card-integration-for-e-shops
+techlab-site-migrator
 techlineinfo-social-count
 techni-wd-tiny-url
 technical-on-page-seo-checker
@@ -87511,6 +87545,7 @@ themify-store-locator
 themify-wc-product-filter
 themx-maximum-upload-file-size
 thenexttable-online-reservations
+thenine-logistic
 thenoxport
 theone-expert-profile-embed
 thepath-tabbed-widget
@@ -88337,6 +88372,7 @@ tma-signature
 tma-wc-producttargeting
 tma-webtools
 tmb-adn-embed-and-widget
+tmc-debugger
 tmd-aff
 tmd-spam-killer
 tmd-wc-delivery-date-time
@@ -92343,6 +92379,7 @@ varnish-http-purge
 varnish-purger
 varnish-wp
 varsayilan-icerik
+varycache
 vasaio-qr-code
 vashikaran-specialist
 vast-demo-import
@@ -93070,6 +93107,7 @@ views-for-elementor-forms
 views-for-ninja-forms
 views-for-wpforms-lite
 views-output-formats
+vieww-events-calendar
 viewzi-site-search
 vigia
 vigil-security-scanner
@@ -96143,6 +96181,7 @@ wice-contact-for-wordpress
 wicked-block-builder
 wicked-block-conditions
 wicked-folders
+wicked-invoicing
 wickett-twitter-widget
 wide-angle-analytics
 wide-banner
@@ -96587,6 +96626,7 @@ wise-chat
 wise-forms
 wise-kpis
 wise-notifications
+wise-payment-gateway-for-woocommerce
 wiseagentleadform
 wisecampaign
 wisechats
