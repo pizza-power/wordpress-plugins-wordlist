@@ -809,6 +809,7 @@ accessibility-help-button
 accessibility-helper-wr
 accessibility-language
 accessibility-light
+accessibility-magic
 accessibility-menu-pro
 accessibility-new-window-warnings
 accessibility-onetap
@@ -1958,6 +1959,7 @@ additional-order-costs-for-woocommerce
 additional-order-filters-for-woocommerce
 additional-paypal-standard-gateway-for-edd
 additional-plugins-descriptions
+additional-product-action-buttons-apab
 additional-product-fields-for-woocommerce
 additional-script
 additional-subscription-intervals
@@ -3065,6 +3067,7 @@ advanced-fuzzy-product-search-for-woocommerce
 advanced-galleria
 advanced-gallery
 advanced-gallery-fields
+advanced-gallery-repeater-fields-for-acf
 advanced-geo-protection
 advanced-geo-redirect
 advanced-google-analytics-tracking
@@ -3842,6 +3845,7 @@ ai-chatbot-for-website-ordemio
 ai-chatbot-for-winck
 ai-chatbot-live-chat-for-wordpress-using-chatgpt
 ai-chatbot-rubikchat
+ai-checkout-for-woocommerce
 ai-co-pilot-for-wp
 ai-code-highlighter
 ai-color-palette-generator
@@ -4760,6 +4764,7 @@ alle-news
 alleaktien-quantitativ
 allears
 allegrato
+allergen-exclusion-filter
 allergens-for-woocommerce
 allerta-meteo-lombardia-italia
 alley-business-toolkit
@@ -6580,6 +6585,7 @@ as-store-locator
 as-woocommerce-with-owl-carousel
 as-zippy-courses-sendfox-integration
 asa-ai-sales-agent
+asaan-retail-phone-order-tracker
 asads-digital-header
 asaffili
 asalmu-beta
@@ -7203,6 +7209,7 @@ author-box-ultimate
 author-box-with-different-description
 author-categories
 author-category
+author-category-revival
 author-change-notifier
 author-chat
 author-color
@@ -8662,6 +8669,7 @@ b-timeline
 b09-link-to-existing-content
 b1-accounting
 b19-ai-bot-chat
+b19-social-feed
 b1st-ticket-system
 b1st-ticketing-system
 b2-analytics
@@ -11897,6 +11905,7 @@ bookme-widget
 bookmeforphotographers-widget
 bookmify-light
 bookmooch-widget
+bookpod-author-tools
 bookpres-publication-widget
 bookpress
 bookpress-client
@@ -11943,6 +11952,7 @@ boomtrain-tracker
 boones-pagination
 boones-sortable-columns
 boopis-woocommerce-rfq
+boopixel-ai-chat-for-n8n
 booqable-rental-reservations
 boost-bricks-builder
 boost-my-seo-with-ai
@@ -22963,6 +22973,7 @@ darkonyx-plugin-for-wordpress
 darkpage-simpel-eventer
 darkroom
 darkroom-facebook-photo-gallery
+darmaview
 dartamas
 darujme
 darujmesk-widget-shortcode
@@ -25491,6 +25502,7 @@ dl-block
 dl-block-right-mouse-button
 dl-browser-update
 dl-codemirror
+dl-gift-wallet
 dl-imgbanner-widget
 dl-leadback
 dl-maintenance-mode
@@ -36965,6 +36977,7 @@ gemius-plugin
 gen-europe-clips
 gen-wave
 genai-toolbox
+genbe-connector-for-article-agent
 genchat
 gender-decoder
 genealogical-tree
@@ -37206,6 +37219,7 @@ genius-addon-lite
 genius-marketo-form-prefill
 genius-portfolio
 geniuscontacts-signup-form-45
+geniuspay-for-woocommerce
 genki-announcement
 genki-feedburner-sitestats
 genki-pre-publish-reminder
@@ -37252,6 +37266,7 @@ geo-my-wp
 geo-my-wp-current-location-forms
 geo-notification-bar
 geo-phone-master
+geo-pilot
 geo-popup
 geo-posts
 geo-redirect
@@ -38150,6 +38165,7 @@ glotpress-notify
 glow
 glowbl
 glowform
+glowreviews
 gls-hu-export-tracking-for-woocommerce
 gls-pay
 gls-rss-thumbnails
@@ -40094,6 +40110,7 @@ h-newsletter
 h-office
 h-office-support
 h-seeed-wp
+h-shipping-multiple-addresses-for-woocommerce
 h-social
 h1-auto-image-download
 h1-tag-seo-optimizer
@@ -40393,6 +40410,7 @@ hcard-widget
 hcardmapper
 hcgroup-shipping-for-woocommerce
 hclub
+hcrm-connector-for-houzez
 hcsb-verse-of-the-day
 hct-community-database-management
 hcv4-payment-gateway
@@ -48540,6 +48558,7 @@ law-practice-management-software
 lawful-cookie-consent
 lawguru-answers
 lawpress
+lawyer-locker
 lawyer-resources
 lawyers-inquiry
 laxi-ai-for-woocommerce
@@ -50570,6 +50589,7 @@ localizejs
 localizer
 localmoney
 localpath
+localpoint
 localseomap-for-elementor
 localsitebuilder-tipping
 localtime
@@ -50896,6 +50916,7 @@ login-with-yourmembership
 login-xchange
 loginator
 loginbar
+loginberry
 loginbox-widget
 loginbycall
 logincraft
@@ -51197,6 +51218,7 @@ lrh-shortcode-list
 lrw-photoswipe-gallery
 lrw-so-widgets-bundle
 lrw-widgets-bundle
+ls-ai-image-generator
 ls-buddypress-activity-plus-tabs-extension
 ls-gmap-route
 ls-gtrans-widget
@@ -52960,6 +52982,7 @@ mdc-scroll-to-top
 mdc-target-blank
 mdc-theme-switcher
 mdc-youtube-downloader
+mdemch-embed-checker
 mdi-http-referer-block
 mdirector-newsletter
 mdjm-google-calendar-sync
@@ -53826,6 +53849,7 @@ metabox-header-color
 metabox-with-api
 metaboxes-sensei
 metacaptcha
+metadas-version-removal
 metadata-seo
 metadata-viewer
 metadino
@@ -55974,6 +55998,7 @@ multi-day-booking-calendar
 multi-device-switcher
 multi-domain-favicon-manager
 multi-editor-posts-control
+multi-email-login
 multi-emails-for-woocommerce
 multi-factor-authentication-with-auth0
 multi-favicons
@@ -57293,6 +57318,7 @@ nagad-payment-gateway
 nagging-warning-remover-for-yoast
 nagishly
 nahian-food-delivery-pickup-soluition
+nahian-tour-travel-booking-solution
 nahian-ultimate-integration-for-contact-form-7-and-elementor
 naiba-coming-soon
 naibabiji-b2b-product-showcase
@@ -60142,6 +60168,7 @@ oneclickcalls-button-placer
 oneclickcontent-titles
 oneclickjmiguel
 oneclickpublish
+onecode-login
 onecom-migrator
 onecrm
 onedash
@@ -60602,6 +60629,7 @@ opti-marketing
 opti-mozjpeg-guetzli-webp
 optifile-online
 optifin-forms
+optiflow-webp-media
 optify-for-wordpress
 optima-express
 optimal-360
@@ -60717,6 +60745,7 @@ optiontree-metabox-ui
 optiontree-shortcode
 optipic
 optipub
+optistate
 optix-calendar
 optkit-conversion-rate-optimization-kit
 optless
@@ -69092,6 +69121,7 @@ quicknav
 quicknem-for-woocommerce
 quicknotes-dashboard
 quickom
+quickoo
 quickorder
 quickpay
 quickpay-payment-gateway-for-wp-e-commerce
@@ -73574,6 +73604,7 @@ rswpthemes-update-cart-on-checkout-for-woocommerce
 rt-auction-product-for-woocommerce
 rt-custom-css-page-and-post
 rt-date-picker
+rt-delete-duplicate-products-for-woocommerce
 rt-easy-builder-advanced-addons-for-elementor
 rt-elementor-widgets
 rt-facebook-like-box
@@ -75726,6 +75757,7 @@ seo-advicer
 seo-ai-audit-tool
 seo-ai-content-refresh-by-variant
 seo-ai-for-google-structured-data
+seo-ai-publisher
 seo-alert
 seo-all
 seo-all-in-one-webmaster-tools
@@ -76304,6 +76336,7 @@ sf-category-menu
 sf-conference-form
 sf-contact-form
 sf-generate-tags
+sf-geoguard
 sf-love-quotes-widget
 sf-move-login
 sf-pages-for-custom-posts
@@ -78276,6 +78309,7 @@ simple-emoji-reactions
 simple-employee-list
 simple-empty-cart
 simple-emzon-links
+simple-entry-booking-for-woocommerce
 simple-error-handler
 simple-error-pages
 simple-error-reporting
@@ -80047,6 +80081,7 @@ siteskite
 sitespeakai
 sitespeaker-widget
 sitestats
+sitestats-analytics
 sitesupercharger
 siteswp-wc-print-orders-brazil
 sitetran
@@ -82252,6 +82287,7 @@ some-time-ago
 somedia-video-ads
 somenano
 somewhere-search-box
+sommelier-chatbox-wine-recommendation-widget-for-woocommerce
 sommertid
 son-of-clippy
 son-of-gifv
@@ -83952,6 +83988,7 @@ store-toolkit-for-wp-e-commerce
 storeagent-ai-for-woocommerce
 storebird-ai-chat-for-woocommerce
 storeblock
+storebooster
 storecontrl-wp-connection
 storeengine
 storefront
@@ -84193,6 +84230,7 @@ students-count-for-learndash
 studentsays-make-comment-or-feedback
 studio-immens-css-classes
 studio-matrix-session-booking
+studio-noir-page-styles
 studio-twelve-google-analytics-conversion-goals
 studio375-notifizzy
 studio99-wp-monitor
@@ -84444,6 +84482,7 @@ subscription-dna-subscription-billing-and-membership-management-platform
 subscription-epayco
 subscription-for-woocommerce
 subscription-genius
+subscription-gifts-for-woocommerce
 subscription-management-for-infusionsoft
 subscription-options
 subscription-payu-latam
@@ -84671,6 +84710,7 @@ super-events
 super-excerpts
 super-fast-blog-ai
 super-fast-side-cart-for-woocommerce
+super-fast-sku-generator-by-marb
 super-floating-social-buttons
 super-google-plus-badge
 super-hero-slider
@@ -85390,6 +85430,7 @@ syncbench-quickbooks-online-connector-for-woo
 syncbooking
 syncbridge-multi-target-sync
 synced-daily-deals
+synced-pattern-popups
 synced-patterns-for-themes
 syncee-for-suppliers
 syncee-global-dropshipping
@@ -89662,6 +89703,7 @@ turbo-blogger
 turbo-button
 turbo-shipping-rules-for-woocommerce
 turbo-sms
+turbo-templates-library-for-elementor
 turbo-video
 turbo-widgets
 turboboost
