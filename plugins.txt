@@ -2152,6 +2152,7 @@ admin-ads
 admin-ajax-note
 admin-ajax-php-no-thank-you
 admin-ajax-search-in-backend
+admin-alert-email-for-pmpro-membership-expiry
 admin-alert-errors
 admin-allow-by-ip
 admin-and-client-message-after-order-for-woocommerce
@@ -6894,6 +6895,7 @@ atlas-maps
 atlas-search
 atlas-specialist
 atlasmic
+atlassoft-post-type-reorder
 atlast-business-styling-customizer
 atleta
 atlos-payments
@@ -10779,6 +10781,7 @@ bizzartech-photobucket-slideshowthumbnails
 bizzcam
 bizzio-sync-for-woocommerce
 bizzmagsmarketplace
+bizzmudra
 bizzybees
 bj-facebook-popular-posts
 bj-lazy-load
@@ -17766,6 +17769,7 @@ codepress
 codepress-admin-columns
 codepress-menu
 codeprey-mi-video-popup
+codepros-image-optimizer
 codeqrcode-adsense
 coder-block
 coder-customizer-framework
@@ -17790,6 +17794,7 @@ codetree-backup
 codetree-scanner
 codevery-quiz
 codevision-elementor-smart-fonts
+codex-bvwp
 codex-elementor-all-in-one-slider
 codex-generator
 codex-team-widgets
@@ -21464,6 +21469,7 @@ custom-alt-text-for-elementor
 custom-alt-text-for-elementor-images
 custom-amp-accelerated-mobile-pages
 custom-anchor-block
+custom-animations-for-bricks
 custom-api-creator
 custom-api-for-wp
 custom-archive-titles
@@ -24994,6 +25000,7 @@ disable-theme-preview
 disable-theme-updates
 disable-thumbnails-and-threshold
 disable-title
+disable-title-links
 disable-toolbar
 disable-trackbacks
 disable-trash
@@ -33741,6 +33748,7 @@ fishmixx-fish-around-the-clock
 fishytweet
 fiskalpay
 fisrv-checkout-for-woocommerce
+fissionx-geo
 fit-my-sidebar
 fit-to-width
 fitcalc-bmi-calculator
@@ -34922,6 +34930,7 @@ for-your-eyes-only
 foragr-activity-stream
 forameal-mail-riddleer
 forameal-splash-screen
+forbid-gps
 forbid-pwned-passwords
 forbidden-author-words
 force-add-to-cart
@@ -45223,6 +45232,7 @@ iphoneadmin
 iphoneize-my-feed
 iphotopress
 ipint-payments-gateway
+ipintel-ai-firewall
 iplocationtools-real-time-visitor-widget
 ipma-weather-widget
 ipmanager-connector
@@ -45913,6 +45923,7 @@ jet4-content-areas
 jetapi-integration-for-woocommerce
 jetbook-black-widget
 jetbook-red-widget
+jetemail
 jetformbuilder
 jetgridbuilder
 jethost-total-care
@@ -46777,6 +46788,7 @@ jump-page
 jump-social-buttons
 jump-social-tabs
 jump-to
+jump-to-checkout
 jump-to-content
 jump-to-page-edit
 jump-to-post-edit
@@ -49400,6 +49412,7 @@ lightrail-for-woocommerce
 lightrcommerce
 lightslide
 lightspeed-links
+lightsyncpro
 lighttpd-get-vars-fix
 lightview-js
 lightview-plus
@@ -50368,6 +50381,7 @@ livetalk
 liveticker
 livetv-bundle
 livetwitch
+liveupx-security
 livevisi
 liveweb
 livewebinar
@@ -52791,6 +52805,7 @@ max-foundry-sales-pages-free
 max-google-plus
 max-grid
 max-image-size-control
+max-interactive-maps
 max-music
 max-pay-bbva-woo
 max-slider
@@ -52983,6 +52998,7 @@ mdc-target-blank
 mdc-theme-switcher
 mdc-youtube-downloader
 mdemch-embed-checker
+mdi-custom-alt-text-for-elementor-image-widget
 mdi-http-referer-block
 mdirector-newsletter
 mdjm-google-calendar-sync
@@ -57365,6 +57381,7 @@ nanoreel
 nanoslider
 nanostats
 nanosupport
+nanotoc
 nanowrimo-report-card
 nanowrimo-stats
 nanowrimo-word-count
@@ -58773,6 +58790,7 @@ no-more-ie6
 no-more-self-pings
 no-more-wordpressorg-meta-link
 no-mx-no-comment
+no-need-for-password
 no-nofollow
 no-nonsense
 no-nonsense-authors-list
@@ -60342,6 +60360,7 @@ onvocado
 onw-simple-contact-form
 onwebchat
 onwheel-contact-fly
+onyx-dark-mode-switcher
 onyxflo-watchdog
 onzauth
 oo-media-usage-tracker
@@ -63388,6 +63407,7 @@ pgrr-courses-fields
 ph-gallery
 ph-protection
 ph-publisher
+ph-queryloop-masonry-lite
 ph-royal-mail-woocommerce-shipping
 phamlp-for-wordpress
 phando-video
@@ -66680,6 +66700,7 @@ pressnative
 pressok-collapsible-region
 pressplay
 pressplay-lite
+pressprimer-quiz
 pressroom
 pressroom-by-newswire
 presstagram
@@ -73794,6 +73815,7 @@ rw-postviewstats-lite
 rw-quick-page-and-post-redirects
 rw-recent-post
 rw-super-slider
+rw-webp-converter-lite
 rwc-team-members
 rwc-user-frontend
 rwit-phone-formatter
@@ -75645,6 +75667,7 @@ send-your-prayers
 send-zap
 send24
 send24-logistics
+send2crm
 send2press
 sendapi-net
 sendapp-notification
@@ -76113,6 +76136,7 @@ serial-codes-generator-and-validator
 serial-links
 serial-links-ktree
 serial-number-for-contact-form-7
+serial-numbers-license-keys-for-woocommerce
 serial-posts
 serializer
 serie-a-rankings-lite
@@ -76683,6 +76707,7 @@ sherpa-on-demand
 shesaidbeauty-follow-box
 shibboleth
 shibbolize
+shibhu-custom-messages-for-woocommerce
 shiborikomi-alpha-premium
 shibuya-cms
 shield-wp-admin
@@ -88458,6 +88483,7 @@ to-title-case
 to-top
 to8gal-fullslider
 to8slider-lite
+toast-mobile-menu
 toast-responsive-menu
 toast-stick-anything
 toaster-contact-form-by-duo-leaf
@@ -89441,6 +89467,7 @@ true-lazy-analytics
 true-mailchimp-sync-for-woo-memberships
 true-photography-weddings-gallery-embedder
 true-wavatar
+truebeep-smart-wallet-loyalty
 truebooker-appointment-booking
 trueedit
 truefy-embed
@@ -89506,6 +89533,7 @@ trustify-widgets-for-elementor
 trustindex-tripadvisor-reviews-widgets
 trustist-reviewer
 trustistecommerce
+trustlocal-widgets
 trustmary
 trustmate-io-integration-for-woocommerce
 trustmeter-for-google
@@ -90757,6 +90785,7 @@ ultimate-custom-cursor
 ultimate-custom-posts
 ultimate-custom-scrollbar
 ultimate-dashboard
+ultimate-data-table-addon-for-elementor
 ultimate-db-manager-lite
 ultimate-debugbar
 ultimate-downloadable-products-for-woocommerce
@@ -91066,6 +91095,7 @@ umts-hsdpa-verfugbarkeit-widget
 un-line-break
 un-official-fiverr-plugin
 unagi
+unagui-save-cart-for-woocommerce
 unapi
 unar-extra
 unasearch
@@ -92159,6 +92189,7 @@ usgs-stream-flow-data
 usgs-streamflow-data
 ushahidipress
 usher
+ushiro-pocke-simple-line-breaker
 using-google-maps
 using-visual-composer-support-for-twitter-bootstrap-themes
 usk-plugin
@@ -93954,6 +93985,7 @@ w3-page-tree-widget-basic
 w3-total-cache
 w3-total-cache-purge-all-post
 w3-votify
+w3a11y-artisan
 w3c-validation-auto-check
 w3c-website-validator-automated
 w3dart
@@ -94074,6 +94106,7 @@ wallsio
 wallstwatchdogcom-stock-ticker-link
 wallwisher-shortcode
 wally-ai-chat-agent
+wally-monitor
 walmart-affiliate-link
 walnutmarketing
 walrus
@@ -94242,6 +94275,7 @@ wazala
 wazchat-chat-button-widget
 wb-additional-charges-for-woocommerce
 wb-ads-rotator-with-split-test
+wb-ai-seo
 wb-carousel
 wb-content-stats
 wb-custom-product-tabs-for-woocommerce
@@ -94542,6 +94576,7 @@ wc-importer-for-reviso
 wc-improved-guest-checkout
 wc-inecobank-payment-gateway
 wc-innocard-loyalty-integration
+wc-installment-calculator
 wc-installment-purchase
 wc-instant-shop
 wc-integration-to-nettix
@@ -109627,6 +109662,7 @@ yapb-xmlrpc-sidebar-widget
 yape-peru-qr
 yappa-widget
 yappd-for-wordpress
+yappr-chat-widget
 yaps-yet-another-push-service
 yapsody-events-calendar
 yapsody-events-calender
