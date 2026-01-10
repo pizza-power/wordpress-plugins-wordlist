@@ -5236,6 +5236,7 @@ amo-team-showcase
 amocrm-shortcode
 amocrm-webform
 amoforms
+amoos-functionality-suite
 amoratis-chmod
 amortization-calculator
 amount-left-free-shipping-woocommerce
@@ -9835,6 +9836,7 @@ beget-call
 begin-ai
 beginning-post-content
 begruessung-nach-der-tageszeit
+behamics-organic-automation
 behavior-flow
 beheader
 behind-closed-doors
@@ -13638,6 +13640,7 @@ bundesliga-rankings-lite
 bundesliga-table
 bundle-product-manager-for-woocommerce
 bundle-rate-addon-for-woocommerce-shipping-pro
+bundlecraft
 bundler
 bungeebones-remotely-hosted-web-directory
 bungienet-tools
@@ -24291,6 +24294,7 @@ devranter
 devrix-dark-site
 devs-accounting
 devs-crm
+devsniper
 devstage
 devsup
 devtasksup
@@ -32484,6 +32488,7 @@ farazsms-for-mihanpanel
 farbige-boxen-shortcodes-by-mediaoase
 fare-calculator
 fareharbor
+farjana-reading-progress-bar
 farm-calculators
 farmtab-products-shortcode
 farsi-bible-verse-of-the-day
@@ -35103,6 +35108,7 @@ form-generator-powered-by-jotform
 form-hidder
 form-insights-tracker
 form-integration-for-action-network-and-contact-form-7
+form-integration-for-go-high-level-and-jotform
 form-lightbox
 form-loader-wp
 form-locker-for-elementor-forms
@@ -35726,6 +35732,7 @@ freshmail-integration
 freshmail-newsletter
 freshmarketer
 freshmuse-debug-bar
+freshrank-ai
 freshtag
 freshtags
 freshworks-crm
@@ -35896,6 +35903,7 @@ frontier-restrict-media
 frontier-set-featured
 frontify
 frontis-blocks
+frontis-interaction
 frontkit
 frontpage-buddy
 frontpage-category-filter
@@ -46159,6 +46167,7 @@ jiutu-qingdong
 jiv-google-analytics
 jivochat
 jivosite
+jix-faq-generator
 jix-instant-alerts-to-telegram-for-woocommerce
 jix-media-library-cleanup-tool
 jj-nextgen-image-list
@@ -47973,6 +47982,7 @@ kouguu-fb-like
 koumpounophobia
 kount-fraud-prevention
 koyomi
+kozec-seo
 kozmik-user-interface-shortcodes
 kp-disable-admin-bar-based-on-user-roles
 kp-fastest-cf7-recaptcha
@@ -49933,6 +49943,7 @@ linkshare-link-locator
 linkshare-link-lookup
 linksharerss-ads
 linksmart
+linkstar
 linkstorm-internal-linking
 linksurgewp
 linksy-search-and-replace
@@ -53916,6 +53927,7 @@ metainfo-protection-by-skytells
 metal-social-share
 metalpriceapi
 metals-api
+metals-api-com
 metamagic
 metamasterseo
 metamatic
@@ -56168,6 +56180,7 @@ multidomain-multitheme
 multidomain-redirect
 multidomain-support-for-elementor
 multidots-doodle
+multidots-festive-holiday-seasonal-effects
 multidots-passkey-login
 multifeedsnap
 multifile-upload
@@ -57227,6 +57240,7 @@ mypuzzle-word-search
 mypw-for-wordpress
 myqaptcha
 myqtip-easy-qtip2
+myquizgpt-quiz-maker
 myrambler
 myrambler-plugin
 myreadmore
@@ -62151,6 +62165,7 @@ parstools-star-rating
 part-content-encryption
 partcl
 parteibuch-aggregator
+parthrana-admin-login-activity-monitor
 partial-cod-payment-gateway-restrictions-fees
 partial-orders-for-woocommerce
 partial-password-protection
@@ -67464,6 +67479,7 @@ product-review-for-woocommerce
 product-reviews
 product-reviews-for-woocommerce
 product-reviews-import-export-for-woocommerce
+product-reviews-xml-for-google
 product-roadmap
 product-role-rules
 product-rotate-360
@@ -69324,6 +69340,7 @@ quizzlestick
 quji-net
 qumo-ai-forms
 quorapress
+quorlyx
 quotable
 quotable-tweets
 quotation-manager
@@ -69828,6 +69845,7 @@ ranklet-seo
 rankmetric-serp-rank-tracker
 rankology-seo-all-in-one-seo-analytics
 rankology-seo-and-analytics-tool
+rankpeak
 rankriskindex
 ranks
 rankscanner
@@ -69865,6 +69883,7 @@ rapidresult
 rapidsec-csp-and-security-headers
 rapidspike-real-user-monitoring
 rapidurlindexer-wp
+rapisafe-multi-file-cf7
 rapls-pdf-image-creator
 rapo-multiauthors
 rapo-recent-custom-posts-widget
@@ -70381,6 +70400,7 @@ really-simple-e-commerce
 really-simple-events
 really-simple-facebook-twitter-share-buttons
 really-simple-featured-audio
+really-simple-featured-image
 really-simple-featured-video
 really-simple-feedback
 really-simple-flickr-gallery
@@ -87608,6 +87628,7 @@ themeable-sticky-posts
 themebeez-toolkit
 themebing-paddle-payment-gateway-for-woocommerce
 themebrowser
+themecanvas-locations-for-elementor
 themed-login
 themediv-social-widget
 themedy-toolbox
@@ -89907,6 +89928,7 @@ tw-blacklight
 tw-disable-revisions
 tw-feeds-slider
 tw-feeds-widget
+tw-form-entry-viewer
 tw-header-footer-codes
 tw-image-hover-share
 tw-link-expiration-manager
@@ -96994,6 +97016,7 @@ wondershop
 woning-website-uitbreiding
 wonka-slide
 wonkasoft-logout
+wontonee-commeriq
 woo-1crm-extensions
 woo-2checkout
 woo-2checkout-payment-gateway
