@@ -6353,6 +6353,7 @@ aretex-shopping-cart
 aretk-crea
 aretopay-payment-gateway-for-woocommerce
 arevico-security-basic
+arewa-apk-apps-manager
 areyoupop-playpops
 arfaly-mass-multi-file-uploader
 arforms-form-builder
@@ -9845,6 +9846,7 @@ behzadrohizadeh-telegram-login
 bei-fen
 being-read-now
 bekar-com-bd-jobs
+bekero-mobile-bottom-menu
 bel-mij-nu-knop
 belboon-advertiser-tracking
 belcoio
@@ -28795,6 +28797,7 @@ edd-ytaskpayments-gateway
 eddards-post-attachments
 eddy-travels
 edebit-direct-ach-gateway
+edel-auth-for-supabase
 edel-budget-book
 edel-museum-generator
 edenpersona-connector-analytics
@@ -42302,6 +42305,7 @@ hungred-role-capability
 hungred-smart-quotes
 hungry-flamingo-wp-affiliate-links
 hungry-for-posts
+hungry-resource-monitor
 hungryfeed
 hunk-companion
 hunk-external-links
@@ -44858,6 +44862,7 @@ intensedebate-importer
 intensedebate-xml-importer-blogger-to-wordpress
 intent-box
 intentclick-official-plugin
+intentdeep-virtual-files
 intento
 interact-do-conversation-and-chat-ui
 interact-quiz-embed
@@ -45869,6 +45874,7 @@ jcwp-like-to-unlock-lite
 jcwp-scroll-to-top
 jcwp-simple-table-of-contents
 jcwp-youtube-channel-embed
+jcwt-order-timeline-for-woocommerce
 jd-faq
 jd-link-exchange
 jd-redesign-images
@@ -47868,6 +47874,7 @@ koha-search-widget
 kohana-for-wordpress
 koi-ecommerce
 koimoi-box-office
+koinonia-link
 koji-block-embed-block-for-koji-apps
 kokku-cookie-banner
 koko-analytics
@@ -50650,6 +50657,7 @@ localize-remote-images
 localize-time
 localizejs
 localizer
+localloyalty
 localmoney
 localpath
 localpoint
@@ -57681,6 +57689,7 @@ necrologi-italia-nicv
 nectar-ninja
 ned-interferer
 nedhaf-chat-widget-for-agentx
+need-to-know-box
 need-to-share
 neednote
 needsplugin-formshield
@@ -62339,6 +62348,7 @@ patternswp
 pattison-media-attribution
 pau-accesibilidad-universal
 pau-createjs-block
+pau-table-of-contents-block
 pauker
 paukerstats
 paul-google-maps-coordinates
@@ -63950,6 +63960,7 @@ pimap
 pimex-for-contact-form-7
 pimex-for-ninja-forms
 pimex-leads
+pimi-admin-agent
 pimp-my-feed
 pimp-my-site-christmas-edition
 pimp-my-snippet
@@ -66381,6 +66392,7 @@ powerfull-blog-copyright
 powerfull-blog-post-promoter
 powerfull-related-post-plugin
 powerfull-related-posts
+powerfulwp-order-delivery-scheduler-for-woocommerce
 powerhouse-museum-collection-image-grid
 powerinviter-ultimate-tell-a-friend-tool
 powerkit
@@ -68267,6 +68279,7 @@ punbb-recent-topics
 punbb-recent-topics-plugin
 punchin
 punchlist
+punchr-lite
 punchtab
 punnel-landing-page-builder
 puntopost-for-woocommerce
@@ -68835,6 +68848,7 @@ qualzz-design
 quan-ly-cua-hang-telpos
 quandoo-restaurant-reservations
 quant
+quantapay-payment
 quantara-tier-pricing-for-woocommerce
 quantcast-choice
 quantcast-quantifier
@@ -73544,6 +73558,7 @@ rsg-compiled-libraries
 rsg-retrieve-google-drive-spreadsheet
 rsh-tweet-button
 rsilitech-postcode-availability
+rsilitech-simple-pricing
 rslider
 rspider-csv-exportimport-for-woocommerce
 rsrpp
@@ -87718,6 +87733,7 @@ theperfectweddingnl-widget
 thepointofsalecom-widget-shortcode
 theranking
 therapist
+theraplo
 there-can-be-only-one
 therich-woo-frontend-add-product-form
 therich-wp-fullcalendar
@@ -89329,6 +89345,7 @@ translate-wp-with-google-languages-translator
 translate2011
 translatecom-website-translator
 translated-nextscripts-social-networks-auto-poster
+translatejs-website-translator
 translateml
 translatemyblog
 translatepress-multilingual
@@ -95653,6 +95670,7 @@ webpay-woocommerce-plugin
 webpayplus-pst
 webphone
 webphysiology-portfolio
+webplanet-ai-content-gen
 webplanex-gst-invoice-india
 webplanex-invoices
 webplayer-yahoo
@@ -110474,6 +110492,7 @@ yydevelopment-comments-notification
 yydevelopment-portfolio-boxes
 yydevelopment-related-posts
 yydevelopment-seo-data
+yz-chatbot-ai-powered-live-chat-customer-support
 yzahkin-post-grid-by-category
 yzahkins-link-in-bio-grid
 z-authorized-downloads
