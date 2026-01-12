@@ -200,6 +200,7 @@
 360imobile-txtimpact-sms-messaging-plug-in
 360notify
 360panoembed
+365i-environment-indicator
 365i-performance-optimizer
 365i-queue-optimizer
 365livechat
@@ -4743,6 +4744,7 @@ all-social-share
 all-social-share-button
 all-social-share-options
 all-social-widget
+all-sources-images
 all-sports-widget
 all-sub-categories
 all-the-ipsums
@@ -5633,6 +5635,7 @@ another-wordpress-tracker-plugin
 anppopular-post
 anrghg
 anrghg-helper
+ansar-blocks
 ansar-import
 ansera-search
 ansi-love
@@ -6640,6 +6643,7 @@ asi-fare-map-calculator
 asi-taxi-booking
 asiabill-payment-gateway-for-woocommerce
 asian-word-count
+asiathemes-companion
 aside
 asideshop
 asimov
@@ -8221,6 +8225,7 @@ average-mobile-detect
 average-reading-time
 average-travel-costs
 average-wysiwyg-helper
+averfo
 averroes
 avg-safety-ratings-widget
 avgbot-auto-video-grabber
@@ -16817,6 +16822,7 @@ clariti
 clarity
 clarity-ad-blocker
 clarity-podcasts
+clarity-seo
 clarity-toolkit
 clarobi
 clasament-blogawards
@@ -18519,6 +18525,7 @@ commission-widget-for-dokan
 commitchange-plugin
 committee-history
 commodity
+common-addons-for-elementor-by-xpertcodes
 common-category
 common-coupon-label-for-woocommerce
 common-function
@@ -19696,6 +19703,7 @@ convertplayer-video-lead-capture-player-for-youtube-vimeo
 convertpro
 convertpush
 convertux-connector
+convertybot
 converver-site-to-amp
 convex-post-exporter-json
 conveyancing-quote-calculator
@@ -20906,6 +20914,7 @@ cryout-themeswitch
 cryptanil-payment-gateway
 cryptapi-payment-gateway-for-woocommerce
 cryptex
+cryptnote-secure-links
 crypto
 crypto-adaptive-payment
 crypto-cart-lite-by-wprobo
@@ -21425,6 +21434,7 @@ cursor
 cursor-changer
 cursor-control
 cursor-image-lite
+cursor-style-animation
 cursor-trail
 cursorial
 cursos-wob
@@ -26372,6 +26382,7 @@ dropfiles-free
 drophtml
 dropifi-contact-widget
 dropinblog
+dropinblog-import
 dropio-widget
 dropit
 droplist-filter
@@ -28795,6 +28806,7 @@ edd-ymlp
 edd-yourpay
 edd-ytaskpayments-gateway
 eddards-post-attachments
+eddv-notices
 eddy-travels
 edebit-direct-ach-gateway
 edel-auth-for-supabase
@@ -34048,6 +34060,7 @@ flaunt-your-clients-free
 flauntopia
 flaver-cbd-calculator
 flaver-nicotine-shot-calculator
+flavio
 flawless-themes-demo-importer
 flaxoslider
 flc-forma-lms-connector
@@ -37391,6 +37404,7 @@ geolocation-plus
 geolocation-redirect
 geolocation-sidebar
 geolocator
+geolooks
 geomap
 geomap-block
 geomapss4u
@@ -40322,6 +40336,7 @@ happy-email
 happy-gig-calendar
 happy-helpdesk-support-ticket-system
 happy-new-year
+happy-new-year-lantern
 happy-reader
 happy-santa
 happy-scss-compiler
@@ -44551,6 +44566,7 @@ instana-eum
 instanow-lite
 instant
 instant-301-redirection
+instant-404-smart-fixer
 instant-adsense
 instant-ai-guru-chat-widget
 instant-annotation
@@ -48712,6 +48728,7 @@ lazy-widget-loader
 lazy-wpforms-webhook-relay
 lazy-youtube
 lazycaptcha
+lazychat
 lazycolorbox
 lazycraft-ai
 lazyeater
@@ -49127,6 +49144,7 @@ leverage-featurebox
 lewe-jira-connector
 lexi
 lexia-command
+lexiata-secure-cod
 lexiata-weight-based-shipping
 lexicata
 lexicographer
@@ -51235,6 +51253,7 @@ love-post-voting
 love-that-gallery
 love-vote-count
 lovedby-pro
+lovedbyai-seo-for-llms-and-ai-search
 lovefilm-widget
 loveit-integration
 loveitcom-importer
@@ -54880,6 +54899,7 @@ mmyreferences
 mmyyoutubehq
 mn-contact-form
 mn-faqs
+mn-softwares-np-fake-share
 mn-star-rating
 mncombine
 mnml-footnotes
@@ -60068,6 +60088,7 @@ omit-passworded-posts-from-search
 omni-blocks
 omni-chatbox
 omni-contact-form
+omni-icon
 omni-lazy-load
 omni-secure-files
 omniads
@@ -60091,6 +60112,7 @@ omnileads-scripts-and-tags-manager
 omnimind
 omnipay-payment-gateway-for-woocommerce
 omnipress
+omnireview
 omnisearch
 omnisend
 omnisend-connect
@@ -61900,6 +61922,7 @@ pages-to-page
 pages-with-category-and-tag
 pages-with-extension
 pageslide
+pagespeedcare-social-chat-widget
 pagespot
 pagetab-app
 pagetest-ai
@@ -61991,6 +62014,7 @@ pallet-packaging-for-woocommerce
 palmodule-paypal-payment-for-woocoomerce
 palomma
 paloose-xml-processor
+palplug
 paltip-plug-in
 palto-carousel
 paltscom-hotel-booking-calendar
@@ -66166,6 +66190,7 @@ postmatic-for-gravity-forms
 postmatic-social-commenting
 postmen-woo-shipping
 postmenu
+postmeta-viewer
 postmoon
 postname-permalink-auto-redirect
 postnet-shipping
@@ -68872,6 +68897,7 @@ quantumcloud-pagespeed-friendly-analytics-tracking
 quantwp-sidecart-for-woocommerce
 quarantinewp
 quarkcode-ai-basic
+quarkcode-neuralcommerce-lite
 quarkleads
 quarkwidget
 quartz
@@ -70846,6 +70872,7 @@ red-hawk-simple-instagram-feed
 red-olive-marketing
 red5-recorder
 redaction-io
+redacto-cookie-consent
 redactor
 redakai-card-links
 redbox-pickup
@@ -73377,6 +73404,7 @@ rootspress
 rootsrated-content-cloud
 rorschach-quotes
 rosariosis-rest-api
+rosary-roses
 roses-like-this
 rosetta-free
 roskassa-payment-gateway-ecommerce
@@ -73415,6 +73443,7 @@ rotor-signup-code
 rototext
 rotten-tomatoes-box-office-top-10
 rotten-tomatoes-movie-library
+rouergue-creation-top-notice-bar
 rougeo-connect
 rougeo-maps
 rough-chart
@@ -73560,6 +73589,7 @@ rsh-tweet-button
 rsilitech-postcode-availability
 rsilitech-simple-pricing
 rslider
+rsorangetech-gallery-masonry-grid
 rspider-csv-exportimport-for-woocommerce
 rsrpp
 rss-2-post
@@ -73776,6 +73806,7 @@ rtwit
 ru-social-buttons
 rua-blog-subscriber-lite
 rubaiyat
+rubat-ai-chatbot
 rubi-characters
 rubious-custom-admin-branding
 rubix-studios-color-picker-fix
@@ -78100,6 +78131,7 @@ simple-author-speech
 simple-author-widget
 simple-auto-featured-image
 simple-auto-linker-seo-tool
+simple-auto-post-scheduler
 simple-auto-poster-for-bluesky
 simple-auto-tag
 simple-autocomplete-search
@@ -80124,6 +80156,7 @@ sitecockpit-integration
 sitecondor-seo
 sitecreate-documentor
 sitecreate-notification-bar-lite
+siteease-smart-product-filtering-engine
 sitefeedbackcom-feedback-tab
 siteglue
 sitegpt
@@ -83704,6 +83737,7 @@ steam-profile-widget
 steam-stats
 steam-widget
 steampixel-responsive-category-slider
+steclick-counter
 stedb-forms
 steed-companion
 steel
@@ -84731,6 +84765,7 @@ suiflickr
 suipi
 suite101-writers-widget
 suits
+suiviexpress-for-woocommerce
 sukellos-dashboard-bar
 sukellos-enable-classic-editor
 sukellos-image-formats
@@ -85991,6 +86026,7 @@ taglets-feeder
 tagline-history
 tagline-rotator
 tagline-shuffle
+taglock
 tagmaker
 tagmanager
 tagmate-io-code-snippet-installer
@@ -88493,6 +88529,7 @@ tiviclick-live-video-chat
 tivwp-demia-check-prerequisites
 tivwp-dm-development-manager
 tivwp-email
+tixfox-sell-event-tickets
 tixys
 tizra-connect
 tj-google-sitemaps-xml
@@ -89343,6 +89380,7 @@ translate-words
 translate-wp
 translate-wp-with-google-languages-translator
 translate2011
+translatecart
 translatecom-website-translator
 translated-nextscripts-social-networks-auto-poster
 translatejs-website-translator
@@ -106378,6 +106416,7 @@ wp-stateless-simple-local-avatars-addon
 wp-stateless-siteorigin-css-addon
 wp-stateless-siteorigin-widgets-bundle-addon
 wp-stateless-woocommerce-addon
+wp-stateless-woocommerce-extra-product-options-addon
 wp-stateless-wpforms-addon
 wp-static-cache
 wp-static-html-output
@@ -108579,6 +108618,7 @@ wpquickcafepress
 wpquiz
 wpquotidian
 wpr-admin-amplify
+wpr-bulk-category-removal-woocommerce
 wpr-comments-categories
 wpr-general-posts-widget
 wpr-halloween-scare-popup
