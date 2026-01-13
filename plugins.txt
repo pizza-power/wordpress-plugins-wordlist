@@ -7119,6 +7119,7 @@ audiotube-youtube-audio-player
 audiotyped-ux
 audit-charitable-donations
 audit-export
+audit-log-mailer-for-allinonesecurity
 audit-syslog-wp
 audit-trail
 audit-your-ads-on-google-by-clever-ads
@@ -8496,6 +8497,7 @@ awesomelytics
 awesomepress
 awesomepress-show-hooks
 awesomesauce-blocks
+awesometools-essential-suite-for-woocommerce
 awesplash
 awin-advertiser-tracking
 awin-data-feed
@@ -13808,6 +13810,7 @@ buy-button-for-online-services-by-businessbites
 buy-button-for-woocommerce
 buy-here-for-woocommerce
 buy-him-a-beer
+buy-in-1-click-for-woocommerce
 buy-it-installed
 buy-jumpseller
 buy-me-a-tree
@@ -16727,6 +16730,7 @@ cite-list
 cite-references
 cite-this
 cite-this-post
+citehq
 citekite
 citepress-automatic-citation-generator
 cities-shipping-zones-for-woocommerce
@@ -17839,6 +17843,7 @@ coding-bunny-easy-duplicate-post
 coding-bunny-image-optimizer-lite
 coding-bunny-llms-generator
 codingfreaks-cookiemanager
+codious-chat-call-floating-buttons
 codious-external-links-opener
 codirun-codir2me-cdn
 codirun-linkalert
@@ -22891,6 +22896,7 @@ daily-routine-with-google-calendar
 daily-slider
 daily-snapshot-for-woocommerce-admin
 daily-stat
+daily-tarot
 daily-top-10-posts
 daily-upload-dir
 daily-verse
@@ -43436,6 +43442,7 @@ images-optimizer
 images-placeholder-generator
 images-regenerator
 images-thumbnail-sliderv1
+images-to-avif
 images-to-div-converter
 images-to-posts
 images-to-webp
@@ -59964,6 +59971,7 @@ oheso-version-report
 ohio-sheriff-tools
 ohloh-widget
 ohmtang-cft
+ohmtang-rfq
 ohmylead-add-on-gravity-forms
 oi-chavinho
 oi-frontend-profile
@@ -67463,6 +67471,7 @@ product-lister-ebay
 product-lister-etsy
 product-lister-walmart
 product-media-cleaner-for-woocommerce
+product-media-video-viewer
 product-moda-frame
 product-notes-for-woocommerce
 product-notices-for-woocommerce
@@ -68792,6 +68801,7 @@ qrcode-widget
 qrcode-wprhe
 qrcodes
 qrcodewp
+qrcraft
 qreatmenu-restaurant-qr-menu-for-woocommerce
 qreuz
 qrfolders-lite-for-google-drive
@@ -70894,6 +70904,7 @@ redelocker-boton
 redemption-for-mycred
 redes-sociais
 redes-sociais-wpdev-net
+redesignee
 redevoke-mcash-payment-gateway
 redevoke-sampath-paycorp-payment-gateway-paycorp
 redforts-oscar-hotel-booking
@@ -73484,6 +73495,7 @@ royal-elementor-addons
 royal-google-maps
 royal-image-hover-effects
 royal-mail-woocommerce-shipping-calculator
+royal-mcp
 royal-popup-notice
 royal-recent-posts-widget-by-category
 royal-responsive-menu
@@ -80725,6 +80737,7 @@ slidr
 slidy
 slightly-troublesome-permalink
 slim-facebook-fanpage-stream
+slim-low-bandwidth-mode
 slim-maintenance-mode
 slim-seo
 slim-slider
@@ -82449,6 +82462,7 @@ somenano
 somewhere-search-box
 sommelier-chatbox-wine-recommendation-widget-for-woocommerce
 sommertid
+somykida-geo-ai-seo-audit
 son-of-clippy
 son-of-gifv
 son-secure-content-guard
@@ -83797,6 +83811,7 @@ stick-ti
 stick-with-me
 stick-with-me-menu
 stickeasy-protected-contact-form
+sticklyui
 sticky
 sticky-action-buttons
 sticky-action-buttons-call-chat-navigate-and-more
@@ -91255,6 +91270,7 @@ umts-hsdpa-verfugbarkeit-widget
 un-line-break
 un-official-fiverr-plugin
 unagi
+unagui-catalogue-mode-for-woocommerce
 unagui-save-cart-for-woocommerce
 unapi
 unar-extra
@@ -94301,6 +94317,7 @@ wany-chat
 wao-io
 wao-io-cache-control
 wap-gallery
+wapi-ai
 wapi360-order-notifier-for-woocommerce
 wapp-abandon-cart-recovery
 wapp-live-chat
@@ -96079,6 +96096,7 @@ wenprise-wechatpay-checkout-for-woocommerce
 wens-ie-css3-support
 wens-responsive-column-layout-shortcodes
 wens-social-links
+weo-llms-ai-crawler-guide
 weontech-auto-social-poster
 wep-demo-import
 wepay-checkout-options
@@ -96157,6 +96175,7 @@ wh-cache-and-security
 wh-debug
 wh-eyecatcher
 wh-kartra-billing
+wh-loader
 wh-testimonials
 wh-tweaks
 wha-area-charts
@@ -110780,6 +110799,7 @@ zeptomail-woocommerce
 zerby-login-widget
 zero-bs-accounting
 zero-bs-crm
+zero-budget-bot-shield
 zero-conf-mail
 zero-ecoimpact-woocommerce
 zero-orders-alert-for-woocommerce
