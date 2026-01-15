@@ -815,6 +815,7 @@ accessibility-menu-pro
 accessibility-new-window-warnings
 accessibility-onetap
 accessibility-plus
+accessibility-site-scanner
 accessibility-spring
 accessibility-statement
 accessibility-task-manager
@@ -1856,6 +1857,7 @@ add-to-google-calendar-contact-form-7
 add-to-head
 add-to-header
 add-to-home-screen
+add-to-home-screen-on-ios-pwa
 add-to-home-screen-wp
 add-to-menu
 add-to-menus-lite
@@ -9387,6 +9389,7 @@ bbh-custom-schema
 bbhide
 bbhttp2https
 bbinfo
+bbltech-smartable
 bbmsl-payment-gateway
 bbmucat
 bbmutag
@@ -11124,6 +11127,7 @@ block-visibility
 block-visibility-manager
 block-visibility-scope
 block-website-access-by-region-lite
+block-weight-inspector
 block-widget
 block-widgets-monster
 block-wp-login
@@ -12607,6 +12611,7 @@ brand-marker
 brand-master
 brand-my-footer
 brand-my-login
+brand-page-for-woocommerce
 brand-regard-plugin
 brand-voice-generator
 branda-white-labeling
@@ -12715,6 +12720,7 @@ breinify
 brenger-for-woocommerce
 brenwp-cache
 brenwp-client-safe-mode
+brenwp-hr-checkout-toolkit
 breukies-archives-widget
 breukies-categories-widget
 breukies-links-widget
@@ -14344,6 +14350,7 @@ campaign-trail
 campaign-url-builder
 campaignbay
 campaigndot
+campaigner-email-marketing
 campaignpress
 campaigns-integrator
 campation-postoffice
@@ -15012,6 +15019,7 @@ category-collapser-seo-for-woocommerce
 category-color
 category-color-picker
 category-coloumn
+category-commander
 category-content
 category-content-header
 category-contributors
@@ -15983,6 +15991,7 @@ change-your-admin-bar-greeting-to-maori
 changecrab
 changelog
 changelog-extend
+changelog-service
 changeloger
 changelogger
 changelogify
@@ -23569,6 +23578,7 @@ deans-fckeditor-with-pwwangs-code-plugin-for-wordpress
 dear-lms
 deardocs
 dearpdf-lite
+deartimeline
 deau-api
 debatemaster
 debian-ribbon
@@ -25798,6 +25808,7 @@ doge-tip-bot
 dogeapi-donate-widget
 dogecash-payment-gateway-for-woocommerce
 doggus-clean-heads
+dogmasystems-booking-for-myrent
 dogo-content-widget
 dogorama-gefahrenmeldungen
 doi-creator
@@ -28351,6 +28362,7 @@ easyrotator-social-add-on
 easysave
 easysecure-bulk-product-importer-for-woocommerce
 easysecure-import-export-courses-learndash
+easysecure-import-export-quizzes
 easysell
 easyseo
 easyservices
@@ -35302,6 +35314,7 @@ forms-gutenberg
 forms-list-description-for-gravity-forms
 forms-mailcoach
 forms-management-system-views-builder
+forms-overview-for-cf7
 forms-overview-for-elementor
 forms-rb
 forms-shortcode-for-beaconcrm
@@ -38432,6 +38445,7 @@ go-web-contact
 go4-sites-live-config-api
 goabroad-hq
 goaffpro
+goal-progress-tracker
 goal-tracker
 goal-tracker-for-patreon
 goal-tracker-ga
@@ -42355,6 +42369,7 @@ hungryfeed
 hunk-companion
 hunk-external-links
 huntmads-wordpress-mobile-pack
+huntsman-dark-mode-site-icon
 hupso-share-buttons-for-twitter-facebook-google
 hura-custom-cursors
 hurda-fiyatlari
@@ -42709,6 +42724,7 @@ icornr-push-notification
 icouk-hijri-date
 icouk-hijri-month
 icount
+icp-registration-home-404
 icpay-payments
 icpbeian
 icq-on-site
@@ -43932,6 +43948,7 @@ increase-upload-max-filesize
 incredibbble-dynamic-images
 incredible-font-awesome
 incredibledocs
+incredichat-ai-chat-widget
 increment-buttons-for-woo
 incrwd
 incuca-helper
@@ -45723,6 +45740,7 @@ j14-updates
 j2t-reward-points-for-woocommerce
 j7-beaver-headers-footers
 ja-wowtoken
+jaak-for-woocommerce
 jaaroverzicht
 jab-external-links-newtab
 jabbakam-post-embed
@@ -54419,6 +54437,7 @@ mindask
 mindbody-access-management
 mindbreeze-insite
 mindcat
+mindcoupling-excerpt-manager
 mindestbestellwert-minimum-order-value-for-woocommerce
 mindmap-to-wp
 mindmeister-shortcode
@@ -60666,6 +60685,7 @@ opencart-link
 opencart-product-display
 opencart-product-in-wp
 opencast
+opencopy
 opencritic-metadata-sync
 opendata-generator
 opendata-search-enrich-for-gravity-form
@@ -61610,6 +61630,7 @@ paay
 paay-for-gravity-form
 pablo-career
 pac-weekly-timetable
+paca-ai
 paccofacile-for-woocommerce
 pace
 pace-builder
@@ -71914,6 +71935,7 @@ rentpress
 rentpress-amenities-manager-add-on
 rentpress-for-websites
 rentpress-gravity-forms-add-on
+rentprog-booking-form
 rentsyst
 rentware-widgets-for-elementor
 rentything-offers-widget
@@ -73924,6 +73946,7 @@ runthings-current-year-shortcode
 runthings-jsf-apply-button-scroll-to-top
 runthings-secrets
 runthings-taxonomy-tags-to-checkboxes
+runthings-taxonomy-template-selector
 runthings-wc-coupons-required-products
 runthings-wc-coupons-role-restrict
 runthings-wc-order-departments
@@ -75505,6 +75528,7 @@ secure-your-admin
 secureauth-authenticator-2fa
 secured-users-front
 secured-wp
+securegate-captcha-lite
 securelogin
 securelywp
 securemoz-security-audit
@@ -76998,6 +77022,7 @@ shipment-tracking-ddt-for-woocommerce
 shipment-tracking-woocommerce
 shipments-via-sendbox
 shipments-with-pulpo
+shipmondo-for-woocommerce
 shipmount
 shipo
 shipox-for-woocommerce
@@ -83451,6 +83476,7 @@ ssv-users
 ssw-additional-checks
 ssx-testimonail
 st-404-page-builder
+st-admin-notes
 st-admin-protection
 st-breadcrumbs
 st-cancer-banner-support
@@ -86139,6 +86165,7 @@ tagvn-button
 tagwords-monetize-off-your-posts-and-tags
 tagwords-monetize-off-your-tags-and-posts
 tagwords-monetize-off-your-tags-and-posts-1
+tahc-ai-hybrid-chat
 tahir-demo-plugin
 tahsina-menu
 tailhitter
@@ -95810,6 +95837,7 @@ webrtb-cms
 webrtc-for-wp-soydigital
 webrtc-ip-grabber-logger-stun-vpns
 webrtc-softphone
+websamurai
 websand-subscription-form
 websec
 webseo-admin-theme
@@ -96162,6 +96190,7 @@ wepupil-ranker
 werbewolke-login
 werecover-wendi
 wereviews
+werin-draft
 werk-aan-de-muur
 werkpress-theme-customization-request
 werstreamt-es-widget
@@ -108809,6 +108838,7 @@ wpshapere-lite
 wpshare-counter
 wpshare247-elementor-addons
 wpshed-theme-extras
+wpshift-companion
 wpshop
 wpshop-exchange-for-1centerprise
 wpshopgermany
@@ -110782,6 +110812,7 @@ zen-mobile-app-native
 zen-page-builder-tool
 zen-planner
 zen-republic-cache-control
+zen-smart-folders
 zen-social-sticky
 zen-toolkit
 zen-yandex-weather
