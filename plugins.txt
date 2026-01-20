@@ -7363,6 +7363,7 @@ authress
 authsafe-account-takeover-ato-prevention-solution
 authy-for-wp
 authy-two-factor-authentication
+authyo-chatlead
 authyo-otp-authentication-for-woocommerce
 authyo-otp-for-contact-form-7
 authyo-otp-for-wpforms
@@ -7914,6 +7915,7 @@ automatic-group-join-for-buddypress
 automatic-heating-numbering
 automatic-hx-menu
 automatic-image-alt-attributes
+automatic-image-optimizer-cdn
 automatic-image-posts-via-attachment
 automatic-image-uploader
 automatic-internal-links
@@ -11489,6 +11491,7 @@ blogsqode-posts
 blogstamp
 blogstand-smart-banner
 blogstreamr
+blogsync
 blogtal-trackback
 blogtext
 blogthis
@@ -16099,6 +16102,7 @@ charts-for-tablepress-chartist
 charts-ninja-graphs-and-charts
 chartsbeds
 charty
+charty-custom-smart-analytics
 chasee-xact-payment-gateway-for-woocommerce
 chat
 chat-ai-with-dispatcher
@@ -18699,6 +18703,7 @@ complete-online-restaurant
 complete-open-graph
 complete-paypal-payments-for-woocommerce
 complete-post-list-by-alphabetically-ordered-categories
+complete-product-cleaner-for-woocommerce
 complete-profiler
 complete-stats
 complete-twitter-solution
@@ -20098,6 +20103,7 @@ core-web-vitals-pagespeed-booster
 core-web-vitals-real-user-monitoring-rum
 core37-form-builder
 coreactivity
+coreline
 coremetrics
 corepayments-payment-gateway
 coresettings
@@ -24279,6 +24285,7 @@ developer
 developer-admin-bar
 developer-bootstrap
 developer-code-editor
+developer-debug-mode
 developer-firewall
 developer-info
 developer-instagram-feed
@@ -24615,6 +24622,7 @@ digirisk-dashboard
 digiseller
 digishop
 digistore24
+digitadive-login-with-google-one-tap
 digital-and-analog-clock-widget
 digital-api-gate-for-fbr
 digital-art-image-gallery
@@ -24757,6 +24765,7 @@ direct-stripe
 direct-to-checkout-for-woocommerce
 directa24-for-woocommerce
 directadmin-dashboard
+directchat-floating-button
 directdiscuss-free-live-chat
 directedit
 direction-map
@@ -24863,6 +24872,7 @@ disable-cart-page-for-woocommerce
 disable-check-comment-flood
 disable-checkout-fields
 disable-classic-editor-and-widget
+disable-commands
 disable-comment
 disable-comment-author-links
 disable-comment-url
@@ -40630,6 +40640,7 @@ headless-cms
 headless-converter
 headless-mode
 headless-pages
+headless-rest-api-security
 headless-single-sign-on
 headless-wc
 headless-wp
@@ -41764,6 +41775,7 @@ hoo-document-importer
 hoo-hreflang-tags
 hoodame
 hook-flowchart
+hook-injector
 hook-locator
 hook-me-up-ajax-filter
 hook-sniffer
@@ -49980,6 +49992,7 @@ linkflora-affiliate-program
 linkflora-affiliate-program-let-your-wordpress-site-earn-money
 linkflow
 linkflow-chat
+linkfuse
 linkgather
 linkgenius
 linkgist-affiliate-marketing-tool
@@ -51540,6 +51553,7 @@ lunapay-givewp
 lunar-payments-for-woocommerce
 lunar-sell-photos-online
 lunasolcal-sun-info-widget
+lunatec-callback-widget
 lunchaihop-widget
 lunchcom-communities
 lunchtime-inlinecode
@@ -52404,6 +52418,7 @@ maniacal-maze
 manifest-builder
 manifold-google-maps
 manipulation-for-amazon-sitestripe-image
+manly-no-emojis
 manoknygalt-ads
 mansplainer
 mantabrain-instagram-pack
@@ -57602,6 +57617,7 @@ narnoo-shortcodes
 narpp
 narrafirma
 narrative
+narrative-forms
 narrative-so
 narwhal-microblog
 narzedzia-dostepnosci-accessibility-tools
@@ -59852,6 +59868,7 @@ ochatbot-and-ometrics-conversion-optimization-tools
 ochre-w3c-geolocation-services
 ochres-community-wireless-network-manager
 ocl-widget
+ocmalabs-free-shipping-bar
 ocr
 ocr-one
 octagent
@@ -60731,6 +60748,7 @@ openbadgesme-open-badges-designer
 openblocks
 openbook-book-data
 openbookings-calendar-plugin
+openbotauth
 openbroker
 openbucks-payment-gateway
 openbuilder-drag-drop
@@ -70020,6 +70038,7 @@ rankmetric-serp-rank-tracker
 rankology-seo-all-in-one-seo-analytics
 rankology-seo-and-analytics-tool
 rankpeak
+rankpill-integration
 rankriskindex
 ranks
 rankscanner
@@ -76686,6 +76705,7 @@ sh-advance-polls
 sh-autolink-super
 sh-contextual-help
 sh-email-alert
+sh-email-tester
 sh-jobamatic
 sh-nice-slug
 sh-slideshow
@@ -82658,6 +82678,7 @@ soprano
 sopre-short-url-social-share
 sopro
 sorenson-360
+soro-seo
 sorolipi-scroll
 soronet-popup
 sorry-adblocker
@@ -84985,6 +85006,7 @@ sun-tzu-quotes
 sunburst-code-prettify
 suncart-data-migration-from-shopify-for-woocommerce
 sunday-news-lite-toolkit
+sunfolia-smart-cart-popup
 sunlime-post-label-center-export-tool
 sunny
 sunny-image-video-text-post-slider
@@ -85216,6 +85238,7 @@ supermalink
 supermarquee-wp-lite
 supermetatag
 supermoon
+supernifty-bublz
 superoffice
 superpack
 superpress
@@ -88499,6 +88522,7 @@ tiny-email-form
 tiny-emotions
 tiny-favorites
 tiny-feedback-bar-by-gekko
+tiny-finch
 tiny-google-analytics
 tiny-grid
 tiny-gtag-js-analytics
@@ -89332,6 +89356,7 @@ trac-issue-wp-hive
 trac-ticket-shortcode
 tracemyip-visitor-analytics-ip-tracking-control
 tracify
+track-a-bot
 track-a-click-on-google-analytics
 track-call
 track-changes
@@ -97029,6 +97054,7 @@ winspark-widget-specific-posts
 winston-ai-wp
 winter-snow-effect
 winterlock
+wintouch-cloud
 wintouch-forms
 wip-custom-login
 wip-incoming-lite
@@ -100336,6 +100362,7 @@ workchat
 worker
 workflow
 workflow-approvals
+workflowdone-404-monitor
 workflowdone-geo-blocker
 workflowprotools-bulk-product-importer-for-woocommerce
 workible-jobs-widget
@@ -109898,6 +109925,7 @@ yabe-kokoro
 yabe-ukiyo
 yabe-webfont
 yablog
+yablonsky-product-feed-for-kainos-lt
 yaboe-wordpress-plugin
 yabp
 yacaptcha
