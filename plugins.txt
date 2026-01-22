@@ -615,6 +615,7 @@ abd-dashboard-widget-manager
 abdal-security-headers
 abdiel-global-variables
 abdiel-multi-style-kits-for-elementor
+abdiel-multilingual-manager
 abdul-tag
 abdul-tag-widget
 abdul-wp-plugin
@@ -4068,6 +4069,7 @@ aiko-developer-lite
 aikon-role-manager
 aiktp
 ailig-knowflow-ai-chatbot
+ailinkmaster-internal-auto-manager
 ailog-chat
 aim-style-vault
 aim3-shop2ad
@@ -6014,6 +6016,7 @@ app-icons-by-device
 app-it-up
 app-la-carte
 app-liberachat
+app-link-generator
 app-links
 app-log
 app-mockups-carousel
@@ -11365,6 +11368,7 @@ blog2widget
 blogactivityshortcode
 blogarate-rating-widget
 blogbabel-rank-plus
+blogbotz-ai-blog-automation
 blogbus-importer
 blogbutler-ai-import
 blogbuzztime-for-wp
@@ -15132,6 +15136,7 @@ category-posts-sidebar-widget
 category-posts-slider-pro
 category-posts-tabber
 category-posts-widget
+category-products-slider-for-woocommerce
 category-protection
 category-quiz
 category-radio
@@ -29386,6 +29391,7 @@ elevate-parent-category-template
 elevate-seo
 elevated-comments
 elevation-blocks
+elevation-magic-link
 elevation-testimonials
 elevator
 elevaweb
@@ -30125,6 +30131,7 @@ enable-customizer
 enable-database-tools
 enable-default-editor
 enable-disabled-serbian-latin-google-fonts
+enable-drag-and-drop-on-plug-in-upload
 enable-edd-comment
 enable-google-analytics
 enable-google-maps
@@ -31006,6 +31013,7 @@ event-timetable
 event-volunteer
 event-voting-live-leaderboard-by-clicksmith
 eventadmin-volunteer-management
+eventano
 eventappi-lite
 eventario
 eventbee-rsvp-widget
@@ -31053,6 +31061,7 @@ eventr
 events-addon-for-elementor
 events-and-docs
 events-as-posts
+events-block
 events-block-for-the-events-calendar
 events-calendar
 events-calendar-by-plugistan
@@ -33333,6 +33342,7 @@ feedforward-recommendation-network
 feedgeorge-augmented-reality-plugin
 feedgeorge-wordpress-plugin
 feedhi-4wp
+feedhub-feedback-widget
 feedier-go-beyond-feedback
 feedify
 feedjit
@@ -33788,6 +33798,7 @@ findwords
 findyourmp
 fine-dashboard-client
 fine-dashboard-source
+finerspay
 finest-blocks
 finest-mini-cart
 finest-quickview
@@ -38325,6 +38336,7 @@ glossary-tooltip
 glossom
 glossy
 glossy-mega-menu
+glotcore-rest-api
 glotpress
 glotpress-notify
 glow
@@ -43064,6 +43076,7 @@ iguga-bible
 igumbi-online-booking
 igw-memory-usage-info
 ih-company-email-validation
+ih-shipping-for-auspost
 ih-sliders-showcases
 ihide
 ihitro-media
@@ -43113,6 +43126,7 @@ ilc-rich-title
 ilc-thickbox
 ilen-video-locker
 iletisim-makinesi-entegrasyon-platformu
+ilghera-carta-della-cultura-for-woocommerce
 ilike-social-media-optimization
 iliketoblog
 ilinaya-callback
@@ -44732,6 +44746,7 @@ instant-knowledgebase
 instant-locations
 instant-marketplace
 instant-membership
+instant-order-notifier-woc
 instant-order-status-notifier-with-telegram
 instant-page
 instant-page-load
@@ -45095,6 +45110,7 @@ internal-viral-linking
 internallink-audit
 internallinkbuilder
 internap
+international-fixed-calendar-date
 international-namedays
 international-phone-number-code-dropdown-for-woocommerce
 international-phone-number-display
@@ -49051,6 +49067,7 @@ leadzai
 leaf-crm
 leafio-letter-avatar
 leaflet
+leaflet-address-map
 leaflet-map
 leaflet-map-widget
 leaflet-maps-marker
@@ -52337,6 +52354,7 @@ mam-news-ticker
 mama-addons-for-elementor
 mambo-joomla-importer
 mambrum
+mametech-chat-button
 mammoth-docx-converter
 mamoorkharid
 mamurjor-employee-info
@@ -53788,6 +53806,7 @@ mensagem-seguir-twitter-no-final-do-post
 mensiopress
 menstrual-cycle-calculator
 mensy
+mentaro-lms
 mention-comments-authors
 mention-links
 mention-me
@@ -53927,6 +53946,7 @@ merch-systems
 merch-systems-storefront
 merch38-for-wp
 merchant
+merchant-ai-feed
 merchant-buddy
 merchant-center-reviews-for-woocommerce
 merchant-e-solutions
@@ -61200,6 +61220,7 @@ order-tracking
 order-tracking-codes-for-woocommerce
 order-tracking-for-skroutz
 order-tracking-for-woocommerce
+order-transfer-tool
 order-up-custom-page-order
 order-up-custom-post-order
 order-up-custom-taxonomy-order
@@ -61557,6 +61578,7 @@ overwrite-author-name
 overwrite-it
 overwrite-uploads
 ovesio
+ovesio-ecommerce-for-woocommerce
 ovi-maps
 ovic-addon-toolkit
 ovic-import-demo
@@ -68487,6 +68509,7 @@ punbb-recent-topics
 punbb-recent-topics-plugin
 punchin
 punchlist
+punchout-rocket-cxml-oci-integration
 punchr-lite
 punchtab
 punnel-landing-page-builder
@@ -69226,6 +69249,7 @@ quick-bulk-tags-creator
 quick-bulk-taxonomy-term-creator
 quick-business-website
 quick-buy-now-button-for-woocommerce
+quick-buy-one-get-one-free
 quick-cache
 quick-cache-clear-for-publisher
 quick-cache-comment-garbagecollector
@@ -70198,6 +70222,7 @@ ratingwp
 ratio-site-control
 ratio-thumbnails-size
 rational-theme-server
+rationalcleanup
 rattach
 raudhah-pay-for-woocommerce
 ravatar
@@ -71388,6 +71413,7 @@ registration-agreement-checkboxes
 registration-and-authorization
 registration-control
 registration-domain-specific
+registration-email-blocker
 registration-for-woocommerce
 registration-form-eu
 registration-form-for-woocommerce
@@ -72982,6 +73008,7 @@ review-box
 review-buddypress-groups
 review-builder
 review-content-type
+review-deck
 review-disclaimer
 review-engine
 review-fetcher
@@ -73287,6 +73314,7 @@ rigreference-solar-conditions-and-hf-propagation
 riipay-for-woocommerce
 rijksoverheid-cookie-opt-out
 rikkis-wp-social-icons
+rilanto-rss-reviews
 riloadr-for-wordpress
 rim-diary
 rim-signature
@@ -75360,6 +75388,7 @@ search-engine-keywords-related-posts-widget
 search-engine-management
 search-engine-query-in-wordpress-related-contents
 search-engine-related-posts
+search-engine-snitch
 search-engine-tags
 search-engine-verify
 search-engine-visibility-updater
@@ -83952,6 +83981,7 @@ staylogged
 stb-network-ads
 stc-facebook-like-widget
 stcw-coverage-assistant
+stcw-headless-assistant
 steadfast-api
 steady-wp
 stealth-honeypot-for-store-registration
@@ -88806,6 +88836,7 @@ tl-coming-soon
 tl-sms
 tlab-wp-cv
 tlc-transients
+tlcc-gdpr-cookie-consent
 tld-woocommerce-downloadable-product-update-emails
 tld30-short-url
 tld30-social-shares
@@ -88954,6 +88985,7 @@ toggleable-admin-bar
 toggler
 toggles
 toggles-shortcode-and-widget
+tohidul-certificate-verification-system
 tohju-ai-shopping-assistant
 toi-news
 tok
@@ -89986,6 +90018,7 @@ ts-business-hours
 ts-collections
 ts-comfort-database
 ts-demo-importer
+ts-hotspot-quiz
 ts-lock
 ts-login
 ts-product-showcase
@@ -92171,6 +92204,7 @@ us-cars
 us-debt-clock
 us-debt-clock-widget
 us-heat-map
+us-lottery-results-ai-stats-nichebrai
 us-weather-widget-willyweather
 us-zoom-tweet-instant
 usability-feedback
@@ -100850,6 +100884,7 @@ wp-alipay
 wp-aliyun
 wp-all-backup
 wp-all-export
+wp-all-export-csv-excel-xml-for-acf
 wp-all-import
 wp-all-import-woocommerce-multistore-add-on
 wp-all-in-one-admin-bar
