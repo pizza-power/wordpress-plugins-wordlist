@@ -3166,6 +3166,7 @@ advanced-permalink
 advanced-permalinks
 advanced-photo-gallery
 advanced-pins
+advanced-pixel-editor
 advanced-plugin-search
 advanced-plugin-view
 advanced-pod-export-csv
@@ -3388,6 +3389,7 @@ adwords-conversion-tracking-code
 adwords-remarketing
 adwords-retargeting-by-page-views
 adwork-media-ez-content-locker
+adx-ad-inserter
 adxchanger
 adyourblogroll
 adz
@@ -4922,6 +4924,7 @@ alpine-photo-tile-for-tumblr
 alpona
 alpus-core
 alquemie-seo
+alquingadev-aeo-schema
 already-existing-tags
 als-forms
 als-twoinfo-imagetexe
@@ -5573,6 +5576,7 @@ ank-google-map
 ank-prism-for-wp
 ank-simplified-ga
 anka-commerce
+ankit-secure-private-files
 ankyler
 anmiated-twitter-bird
 annasta-woocommerce-product-filters
@@ -9618,6 +9622,7 @@ bcloud-elementor-form-extender
 bcm-duplicate-menu
 bcms
 bcodecraft-blocks
+bcodecraft-submissions-cf7
 bcorp-shortcodes
 bcorp-slider
 bcorp-visual-editor
@@ -14258,6 +14263,7 @@ california-state-grants
 calii-slideshow
 calipio-screen-recorder
 calj
+call-agent-ai-web-agent
 call-button
 call-button-widget-for-elementor
 call-center-online
@@ -14811,6 +14817,7 @@ cartgreet-light
 carthook-for-easy-digital-downloads
 carthook-for-woocommerce
 cartick
+carticy-checkout-shield-for-woocommerce
 cartlink-generator
 cartloom
 cartmagnet-publisher-script
@@ -19591,6 +19598,7 @@ contestant-rating
 contestfriend
 contesthopper
 contests-from-rewards-fuel
+context-ai-product-description-generator
 context-manager
 context-sharing
 context-term-tidier
@@ -20814,6 +20822,7 @@ crisp-gallery
 crisp-grid
 crisp-slider
 crisply-time-tracking
+crispycohd-advanced-accordion-block
 crispycohd-gated-content-block-lite
 critical-css
 critical-css-for-wp
@@ -23620,6 +23629,7 @@ dealsurf
 deans-fckeditor-for-wordpress-plugin
 deans-fckeditor-with-pwwangs-code-plugin-for-wordpress
 dear-lms
+dear-sticky
 deardocs
 dearpdf-lite
 deartimeline
@@ -24312,6 +24322,7 @@ developer-portfolio
 developer-project-portfolio
 developer-share-buttons
 developer-showcase
+developer-sitemap
 developer-tool
 developer-toolbar
 developer-tools
@@ -24503,6 +24514,7 @@ diakse-360showrooms
 dial-voyants
 dialbunny
 dialective
+dialekt
 dialog-contact-form
 dialog-e-sms
 dialog-ez-cash-payment-gateway-for-woocommerce
@@ -30246,6 +30258,7 @@ engagebay-woocommerce-addon
 engagely
 engagement
 engagement-grower
+engagemuse-insights
 engagespot-web-push-notifications
 engaging-buttons
 engaging-convo
@@ -30642,6 +30655,7 @@ error-notify-slack
 error-reporting
 error-tracker
 errorlytics
+errorlyze
 eru-store-locator
 erudus-one
 ervan-limit-login
@@ -31037,6 +31051,7 @@ eventful-for-elementor
 eventi-asiago-it
 eventify
 eventilla-events
+eventim-us-event-listings
 eventin-addon-for-surecart
 eventin-divi-addon
 eventish
@@ -34705,6 +34720,7 @@ flux-media-optimizer
 flux-payments-gateway
 flux-to-posts
 fluxey-shortcode
+fluximages
 fluxlive
 fluxtore
 flv-embed
@@ -38096,6 +38112,7 @@ giodoinfo
 giornalismo-story-details
 giphypress
 girafi
+giraforms
 giribaz-analytics
 giro-555
 girocheckout
@@ -38103,6 +38120,7 @@ girocode
 girokonto-information
 gis-maps
 gist-amp
+gist-answers
 gist-button
 gist-embed
 gist-for-elementor
@@ -42446,6 +42464,7 @@ hungred-smart-quotes
 hungry-flamingo-wp-affiliate-links
 hungry-for-posts
 hungry-resource-monitor
+hungry-rest-api-monitor
 hungryfeed
 hunk-companion
 hunk-external-links
@@ -43420,6 +43439,7 @@ image-seo
 image-seo-tag
 image-shadow
 image-sharer-by-sumome
+image-shift
 image-shortcake
 image-shrink
 image-shuffle
@@ -45895,6 +45915,7 @@ jannes-mannes-versions
 jano-wp-woocommerce-advanced-search
 janolaw-agb-hosting
 janrain-capture
+janzeman-shared-albums-for-google-photos
 japan-disaster-appeal
 japan-tenki
 japanese-autotag
@@ -47213,6 +47234,7 @@ kahanit-wp-fw
 kahis-comments-references
 kahis-notes
 kahis-wp-lite
+kaigai-spam-mail-blocker
 kaigen
 kailash-recent-post-pages
 kaimbo-semantic-search
@@ -49162,6 +49184,7 @@ legal-pages
 legal-plus
 legal-services-management
 legal-texts-connector-it-recht-kanzlei
+legalblink-for-aruba
 legalblink-policy
 legalform
 legalmonster-cookie
@@ -52711,6 +52734,7 @@ market-360-viewer
 market-exporter
 market-trends-comparison-graph-sidebar-widget
 marketamerica
+marketcat-ecommerce-analytics
 marketeer
 marketengine
 marketer-addons
@@ -55639,6 +55663,7 @@ moodgiver-hide-shop-categories
 moodle-course-list-widget
 moodlight
 moodmixer-slider-plugin
+moodmoderator
 moods-addon-for-ultimate-tinymce
 moodthingy-mood-rating-widget
 moody
@@ -57211,6 +57236,7 @@ myadmanager
 myadsense
 myagilepixel
 myagileprivacy
+myaio-your-ai-powered-co-founder
 myaliceai
 myanalytics
 myanime-widget
@@ -58418,6 +58444,7 @@ nexindex
 nexlifydesk
 nexlogiq-amazon-s3-links-generator
 nexmind
+nexora-product-insights-for-woocommerce
 nexron-ai-chat
 nexs-app-embed
 next-accordion-block
@@ -60481,6 +60508,7 @@ oneliners
 onelinerz-free
 onelogin
 onelogin-saml-sso
+onemax-product-seeder-for-woocommerce
 onenote-publisher
 oneofones-nospam
 onepage-checkout-lite-for-whmcs
@@ -61501,6 +61529,7 @@ ourpass-payment-gateway
 ourrootsdatabase
 ourstats-stats-widget
 ourstatsde-widget
+oursvp-event-rsvp-forms
 ourwebseo
 ourwebsms
 ousecurity
@@ -62158,6 +62187,7 @@ paguelofacil
 pagup-tiktok-advertising-pixel
 pai-search-box
 paid-business-listings
+paid-cash
 paid-downloads
 paid-downloads-savano-gateway
 paid-member-subscriptions
@@ -63743,6 +63773,7 @@ phone-lookup
 phone-number-shortcode
 phone-orders-for-woocommerce
 phone-specs-schema-markup-generator
+phone-validator-for-wpforms
 phone-validator-with-flags-for-woocommerce
 phone2app
 phonefactor
@@ -66316,6 +66347,7 @@ postcode-shipping
 postcode-shipping-module
 postcodes4u-address-finder
 postcodex-lookup
+postcollab-toolkit
 postcrafts
 postdates
 postdivider
@@ -66561,6 +66593,7 @@ posturinn
 postviaemail
 postviews-insights
 posty-widget
+postybot
 postyper
 potentialaction-sitesearch-google
 potentially
@@ -69865,6 +69898,7 @@ ram108-sape
 ram108-typo
 ramadan
 ramadan-alert-bangladesh-timing
+ramadan-calendar-bangladesh
 ramadan-countdown
 ramadhan-countdown
 ramazan-imsakiyesi
@@ -71580,6 +71614,7 @@ relative-url
 relative-url-for-img-and-a-tags
 relative-url-shortcode
 relative-urls
+relatura-directory-optimizer
 relay
 relay-affiliate-marketing
 relay-point-for-woocommerce
@@ -72268,6 +72303,7 @@ resell-gd
 reseller-connection-for-oxxa
 reseller-store
 reseller-store-settings
+resend-email-integration
 resend-welcome-email
 resengo-widget
 resermy
@@ -79830,6 +79866,7 @@ simple-wc-shoplinks
 simple-weather
 simple-weather-widget
 simple-web-discovery
+simple-web-marketing-attribution
 simple-web-monetization-by-interledger
 simple-webhooks
 simple-webp-converter
@@ -84366,6 +84403,7 @@ stopwatch
 stopwatch-matching-any-theme
 stopwords-for-comments
 storage-for-edd-via-dropbox
+storage-for-edd-via-onedrive
 storage-for-edd-via-s3-compatible
 storagemadeeasy-multicloud-files-backup
 storagepress-self-storage
@@ -86972,6 +87010,7 @@ teg-twitter-api
 teg-wp-dialog
 teguidores
 tehgd-url-shortner
+tehnika-media-exporter
 teipress
 tejo-makeup-recommender
 tejus-add-cat-image
@@ -88317,6 +88356,7 @@ ticketmachine-event-manager
 ticketmaster
 ticketmiller-widget
 ticketor
+ticketpaygo-lite
 ticketrilla
 ticketrilla-client
 ticketrilla-server
@@ -92154,6 +92194,7 @@ url-shorten-twitter-tools-tynienet
 url-shortener
 url-shortener-4eq
 url-shortener-and-twitter-notifier
+url-shortener-by-melk
 url-shortener-for-twitter-tools
 url-shortener-ultimate
 url-shortify
@@ -110279,6 +110320,7 @@ yes-youtube-essential-statistics-widget
 yesallofus
 yesh-invoice-invoices-for-woocommerce
 yeshourun-digital-support
+yesimteam-esim-plan-importer
 yesno
 yesnology
 yespo-cdp
