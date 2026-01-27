@@ -269,6 +269,7 @@
 3r-elementor-timeline-widget
 3rd-party-authentication
 3rd-party-request-manager
+3task-glossary
 3veta
 3wart-content-performance-heatmap-light
 3wart-product-variation-gallery-for-woocommerce
@@ -11656,6 +11657,7 @@ bmlt-tabbed-ui
 bmlt-wordpress-satellite-plugin
 bmlt-workflow
 bmlt2calendar
+bmnh-add-to-cart-text-change
 bmo-expo
 bmologin
 bmoney-custom-metaboxes
@@ -15467,6 +15469,7 @@ cdn-bull
 cdn-buster
 cdn-enabler
 cdn-enabler-replace-content
+cdn-error-mockups
 cdn-image-proxy
 cdn-linker
 cdn-manager
@@ -16114,6 +16117,7 @@ chartcook
 charted-archives
 charter-boat-bookings
 charterpad-widgets
+chartivio
 chartlocal
 chartly-charts
 chartnerd
@@ -17919,6 +17923,7 @@ coding-bunny-easy-chat-lite
 coding-bunny-easy-duplicate-post
 coding-bunny-image-optimizer-lite
 coding-bunny-llms-generator
+coding-bunny-mail-smtp
 codingfreaks-cookiemanager
 codious-chat-call-floating-buttons
 codious-external-links-opener
@@ -19883,6 +19888,7 @@ cookieadmin
 cookiealert
 cookiebar
 cookiebar-by-beard
+cookiebloom-consent-manager
 cookiebot
 cookiecert-eu-cookie-directive
 cookiecode
@@ -24387,6 +24393,7 @@ devim-wpmaintenance
 devinlabs-chat-button
 devinlabs-length-and-distance-converter
 devitems-front-end-submission-lite
+devlab-maintenance-mode
 devlab-woocommerce-dynamic-pricing-wpml-fixer
 devllo-events
 devllo-events-bookings
@@ -31649,6 +31656,7 @@ extended-featured-content-widget
 extended-folder-compression
 extended-google-map-for-elementor
 extended-gravatar
+extended-image-box-widget-for-elementor
 extended-image-grabber
 extended-image-info-for-nextgen-gallery
 extended-options
@@ -35213,6 +35221,7 @@ forced-login
 forcefield
 forceful-toolkit
 forceprivate
+forcepushed-team-page-display-widget-embed
 forcesslswitcher
 fordnox-24-hours-clock
 foreclosure-search-widget
@@ -37234,6 +37243,7 @@ generate-wordpress-entities
 generate-wpgraphql-image-dataurl
 generateblocks
 generatewp-oembed
+generatify
 generative-engine-optimization
 generator-for-pdf
 generator-llms-txt-by-wanilia-pl
@@ -44955,6 +44965,7 @@ integration-for-baazarvoice
 integration-for-beaver-themer
 integration-for-billingo-gravity-forms
 integration-for-billingo-woocommerce
+integration-for-breakdance-and-wpml
 integration-for-cardconnect-and-gravity-forms
 integration-for-cf7-pardot-form-handlers
 integration-for-contact-form-7-and-google-sheets
@@ -45321,6 +45332,7 @@ invoicing
 invoicing-for-economic
 invoicing-integration-for-fakturowo-and-woocommerce
 invoicing-integration-for-infakt-and-woocommerce
+invoicing-integration-for-wfirma-and-woocommerce
 invoicing-quotes
 invoize
 involve-me
@@ -47573,6 +47585,7 @@ ketchup-shortcodes-pack
 ketno-lazy-page-loader
 keto-calculator
 keto-macro-calculator
+keto-metrics-tracker
 kevinjohn-gallagher-pure-web-brilliants-base-framework
 kevinjohn-gallagher-pure-web-brilliants-capital-p-iss-off
 kevinjohn-gallagher-pure-web-brilliants-cross-pollination-post-pagination
@@ -48840,6 +48853,7 @@ laybuy-gateway-for-woocommerce
 layby-cafe
 layby-cafe-gateway
 layer-ad-plugin
+layer-crypto-checkout
 layer-maps
 layer-slider
 layerads-dashboard-widget
@@ -50344,6 +50358,7 @@ listenbutton
 listenlayer
 listenloop
 listenthis-ai
+listenup
 lister-for-the-wp-blog-list
 listic-listicle-creator
 listicle
@@ -50423,6 +50438,7 @@ little-free-archive-freshener
 little-hippo
 little-lightbox-by-wpparse
 little-message-lite
+little-moo-media-visitor-stats
 little-problem
 little-social
 little-wp-to-twitter
@@ -51733,6 +51749,7 @@ lytics-wp
 lytiks
 lyxity
 lyza-loop
+lyzerslab-ai-blog-automation
 lz-accordion
 lz-scroll-bar
 lz-scroll-up
@@ -52928,6 +52945,7 @@ mass-format-conversion
 mass-mail
 mass-messaging-for-buddypress-by-alkaweb
 mass-messaging-in-buddypress
+mass-meta-creator-ai
 mass-page-creator
 mass-page-maker
 mass-page-remover
@@ -59178,6 +59196,7 @@ noactive-for-gravityforms
 noadblock-nice-message
 noadmincomments
 noadpl-paypal-widget
+noah-shop-builder-for-woocommerce
 noahs-classifieds-bridge
 noaiseo-ai-article-generator
 noakes-menu-manager
@@ -64999,6 +65018,7 @@ pluginstaller
 plugintel
 pluginviadeo
 plugitter
+plugiva-clientguard
 pluglab
 plugmatter-gdpr-bot-integration
 plugmatter-optin-feature-box-lite
@@ -65278,6 +65298,7 @@ poket-rewards-for-woocommerce
 pokupo
 poky-product-importer
 polako-gateway-for-woocommerce
+polanger-admin-menu-manager
 polanger-category-story-carousel
 polanger-contact-buttons
 polar-auto-post
@@ -73262,6 +73283,7 @@ rexly-toolbox
 rexminer-monero-xmr-pool
 rexpansive-page-builder
 rexpay-payment-gateway
+rexultz-product-feeds
 rezbs-connect
 rezdycom
 rezerwujestolik
@@ -75613,6 +75635,7 @@ searchles-related-posts
 searchlive-lite
 searchmetrics-content-experience
 searchmindai-enhanced-search
+searchoptimizerai
 searchplus
 searchpoint-connect
 searchpress
@@ -76500,6 +76523,7 @@ seo-xml-sitemap
 seo404
 seo4cms
 seoai
+seoauto-ai-content-publisher
 seobot-monitor
 seobrrr
 seocare
@@ -83213,6 +83237,7 @@ spectacula-advanced-search
 spectacula-page-widget
 spectacula-threaded-comments
 spectoos-testimonials
+spectre-icons
 spectrocoin-accepting-bitcoin
 spectrom-db-cleanup
 spectrom-get-lead-source
@@ -85067,6 +85092,7 @@ sucuri-flush
 sucuri-scanner
 sucursales-correo-argentino-para-woocommerce
 sudan-online-payments-for-woocommerce
+sudeem-ai
 sudo-juice-admin-dashboard-theme
 sudo-oauth
 sudoku
@@ -86980,6 +87006,7 @@ teaser-slider
 teasers-by-category
 tebuto-online-terminbuchung
 tec-elementor-single-builder
+tec-jovvie-payments-gateway
 tec-subscriber-addons
 tech-instagram-feed
 tech-news
@@ -88265,6 +88292,7 @@ threat-scan-plugin
 threatpoint-api
 threatpoint-email-validator
 threatpress-security
+three-code-canvas-embed-for-threejs
 three-column-screen-layout
 three-d-cube
 three-importer
@@ -91057,6 +91085,7 @@ typing-lag-fix-for-yoast-seo
 typing-language
 typing-text
 typing-text-animation
+typo-hunter
 typo3-importer
 typofixer
 typofr
@@ -91159,6 +91188,7 @@ ucm-files-manager-ucm-fm
 ucomment
 ucontext
 ucontext-for-amazon
+ucp-adapter-for-woocommerce
 ucto-invoices
 ucul
 ud-connector-for-oxygen
@@ -93121,6 +93151,7 @@ vebtraffic
 vector-slider
 vectormap-smart-sitemap-lite
 vectormap-visitors-globe-lite
+vectoron
 vectorseek-ai-search
 vectr-embedded-graphics-editor
 vedicastro
@@ -93313,6 +93344,7 @@ vertimenu
 vertimonial
 vertycal
 veruspay-verus-gateway
+verve-ai-inventory-forecasting
 verve-meta-boxes
 verve-mobile-plugin
 verve-ssl
@@ -96475,6 +96507,7 @@ wens-ie-css3-support
 wens-responsive-column-layout-shortcodes
 wens-social-links
 weo-llms-ai-crawler-guide
+weon-for-woocommerce
 weontech-auto-social-poster
 wep-demo-import
 wepay-checkout-options
