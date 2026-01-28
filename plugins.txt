@@ -688,6 +688,7 @@ absolute-thumbnail-column
 absolute-to-relative-urls
 absolute-weaver-theme-support
 absoluterss
+absoluto-access-gate
 absolutte-blocks
 abstract-submission
 abt-exit-disclosure
@@ -6081,6 +6082,7 @@ appful-app
 appgrade-nautica
 appiapp-carousel-free
 appiapp-clickable-query-loop
+appibase
 appifire-for-mobile-apps
 appify
 appify-chat
@@ -6297,6 +6299,7 @@ arashtad-testimonials-slider
 arashtad-toggle
 arastoo-cpt
 arastoo-gmap-extended
+arbana-sale-tracker
 arbitrage-expert
 arbitrary-shortcodes
 arbitrary-sidebars
@@ -6334,6 +6337,7 @@ archive-post-tabs
 archive-posts-accordion-panel
 archive-posts-sort-customize
 archive-remote-images
+archive-studio-for-elementor
 archive-title
 archive-widget-collapsed-with-css
 archive-widgets
@@ -6682,6 +6686,7 @@ ask-expert
 ask-faq
 ask-global-scroll-up
 ask-it
+ask-junkie-ai-chatbot
 ask-me-anything
 ask-me-anything-anonymously
 ask-my-content
@@ -12648,6 +12653,7 @@ brand-master
 brand-my-footer
 brand-my-login
 brand-page-for-woocommerce
+brand-protection
 brand-regard-plugin
 brand-voice-generator
 branda-white-labeling
@@ -13045,6 +13051,7 @@ bsuite-drop-folder
 bsuite-monitor
 bsw-blocks-adel
 bsw-gravityforms-pipedrive
+bsw-notes-dashboard
 bt-actve-discussions
 bt-captcha
 bt-customizer-plus-lite
@@ -16058,6 +16065,7 @@ channel-io
 channel-playlists-player-for-youtube
 channel-solution-for-twitch
 channel-subscribe-youtube
+channel3-for-woocommerce
 channelengine-integration
 channelengine-woocommerce
 channelize-io-real-time-messaging-and-video-calling
@@ -16258,6 +16266,7 @@ chatmetrics
 chatmoat-ai-chatbot
 chatnhanh
 chatnode
+chatnova-app-ai-chatbot
 chatnox-live-chat
 chatolia
 chatperk
@@ -17509,6 +17518,7 @@ cloudswipe
 cloudtables
 cloudthis
 cloudup-oembed
+cloudusk-2fa-two-factor-authentication
 cloudvps-object-store
 cloudware-city-authentication
 cloudwatch
@@ -17880,6 +17890,7 @@ codepress
 codepress-admin-columns
 codepress-menu
 codeprey-mi-video-popup
+codepros-autocomplete-address-for-woocommerce
 codepros-image-optimizer
 codeqrcode-adsense
 coder-block
@@ -18780,6 +18791,7 @@ compressx
 compreval
 comprobante-de-pago-peru
 comprobantes-electronicos-arca
+comptaflow-by-meetempo
 compute-links
 computer-repair-shop
 computerboeknl-widget
@@ -22576,6 +22588,7 @@ customisation
 customise-wp-login-page
 customised-dashboard-widget
 customizable-captcha-and-contact-us-form
+customizable-checkout-experience-for-woo-stores
 customizable-dark-mode-toggle
 customizable-dashboard
 customizable-etsy-widget
@@ -24661,6 +24674,7 @@ digikala-affiliate
 digikalascraper
 digilan-token
 digilirapay-blockchain-payment-gateway
+digilytiks-consent-stats-lite
 digimall-litemulti-vendore-store
 digimastertools-email-sync
 digioh
@@ -26248,6 +26262,7 @@ downloadr
 downloadr-for-wordpress
 downloads-accordion
 downloads-box
+downloads-for-logged-in-users
 downloads-manager
 downloads-manager-v20
 downml
@@ -28497,6 +28512,7 @@ eatly-widget
 eatransform-auto-keyword-linker
 eatransform-sns-publisher
 eawo-profile-widget-dockerhub
+eazly-content-generator
 eazy-ad-unblocker
 eazy-cf-captcha
 eazy-cf-catpcha
@@ -28641,6 +28657,7 @@ eclipse-crossword-integration
 eco-agenda
 eco-friendly-website-badge
 eco-safe-merit-badge
+eco-shield
 ecochat-pangeanic
 ecolet
 ecologeeks-buddypress-maps
@@ -38617,6 +38634,7 @@ goingup-web-analytics
 gojionora
 gokada-delivery-for-woocommerce
 gol-ibe-search-form
+golala-email-sender
 golang-brush-for-syntaxhighlighter-evolved
 gold-addons-for-elementor
 gold-member
@@ -44133,6 +44151,7 @@ indexisto
 indexjump-submitter
 indexnow
 indexnow-pro-seznam-cz
+indexpro-url-indexing-manager
 indexreloaded
 indexspy
 indextank
@@ -47786,6 +47805,7 @@ kindle-best-seller-calculator
 kindle-dx-3-graphite-widget
 kindle-dx-widget
 kindle-this
+kindpixels-pdf-gallery
 kindred-installer
 kindred-posts
 kinescope
@@ -47912,6 +47932,7 @@ kiwiz-invoices-certification-pdf-file
 kiwys
 kiyoh-customerreview
 kiyoh-klantenvertellen
+kiyoh-reviews
 kizen
 kj-db-downloader
 kjm-admin-notices
@@ -51651,6 +51672,7 @@ lumia-calender
 lumia-product-tabs
 lumia-testimonials
 lumia-woocommerce-product-gallery
+lumiblog-debug-log-inspector
 lumiere-movies
 luminate-ai-schema-data
 luminate-for-wp
@@ -51666,6 +51688,7 @@ lunapay-givewp
 lunar-payments-for-woocommerce
 lunar-sell-photos-online
 lunasolcal-sun-info-widget
+lunatec-article-to-markdown
 lunatec-callback-widget
 lunchaihop-widget
 lunchcom-communities
@@ -52894,6 +52917,7 @@ marvinerp-api
 marvinerp-eu-vat
 marvy-animation-addons-for-elementor-lite
 marwen-checkout-toolkit-for-woocommerce
+marzipan-commerce-for-wineries
 marzo-negro-ribbon
 mas-addons-for-elementor
 mas-static-content
@@ -54133,6 +54157,7 @@ meta-generator-and-version-info-remover
 meta-information-generator
 meta-keywords-for-each-page
 meta-keywords-generator
+meta-ledger
 meta-locker
 meta-manager
 meta-manager-eng
@@ -55503,6 +55528,7 @@ module-shortcode
 modules-insight
 modules-kit
 modulobox-lite
+modulux-chat-box
 modulux-shipping-helper
 modus-post-slider-widget
 modus-youtube-channel
@@ -61366,6 +61392,7 @@ organic-customizer-widgets
 organic-profile-block
 organic-shortcodes
 organic-widget-area-block
+organicstack-publisher
 organisation-maps
 organization-chart
 organization-schema-widget
@@ -61719,6 +61746,7 @@ oxcyon-2-wp
 oxford-comma-go-away
 oxford-debate
 oxicat-onboarding-tours
+oxicat-password-form-styler
 oxipay-payment-gateway
 oxsn-accordion
 oxsn-animation
@@ -61796,6 +61824,7 @@ ozh-who-sees-ads
 ozhs-correctly-spell-wordpress
 ozhs-ip-to-nation
 ozi-bbcode-eklentisi
+ozi-external-links
 ozi-image-alt-tag-fixer
 ozi-internal-link-booster
 ozioma
@@ -73033,6 +73062,7 @@ return-shortlink-button
 return-to-login-fix
 return-to-top
 returnless-api
+returnsup-connector
 retweet
 retweet-anywhere
 retweet-para-post
@@ -73813,6 +73843,7 @@ royal-copyright-text
 royal-elementor-addons
 royal-google-maps
 royal-image-hover-effects
+royal-links
 royal-mail-woocommerce-shipping-calculator
 royal-mcp
 royal-popup-notice
@@ -74109,6 +74140,7 @@ rt-webhook-for-contact-form-7
 rt-widget-statistics
 rt-wp-logo-slider
 rta-restricted-to-adults-header
+rtav-vbot
 rtbiz
 rtd-client-testimonial
 rtd-crm
@@ -74202,6 +74234,7 @@ runsql
 runtastic-widget
 runthings-category-children-coupons
 runthings-current-year-shortcode
+runthings-empty-media-title
 runthings-jsf-apply-button-scroll-to-top
 runthings-secrets
 runthings-taxonomy-tags-to-checkboxes
@@ -74633,6 +74666,7 @@ sam-donation
 sam-modal-login
 sam-pro-free
 sam-reading-time
+sam-scroll-master
 sama-member-registration
 sama-payment-gateway
 samandehi-logo-manager
@@ -78265,6 +78299,7 @@ sigma-search-replace
 sigmalabs-ai-ecommerce-analytics
 sigmize
 sign-customiser
+sign-documents-with-crypto-pro
 sign-in-widget
 sign-in-with-bitbadges
 sign-in-with-essentials
@@ -78635,6 +78670,7 @@ simple-comment-notification
 simple-comment-rating
 simple-comment-reply-notification
 simple-comment-word-count
+simple-commenter
 simple-compiler-scss
 simple-concept-slider
 simple-connect-adverts
@@ -87273,6 +87309,7 @@ teportfolio
 tera-charts
 teraco-for-woocommerce
 teral-translate
+teratips
 terbit-coming-soon
 terillion-reviews
 term-based-dynamic-post-templates-for-total
@@ -91872,6 +91909,7 @@ unix-timestamp-date-converter
 unleashai
 unlimicolors
 unlimita-free-addons
+unlimitcookie
 unlimited
 unlimited-addon-for-elementor
 unlimited-addons-for-wpbakery-page-builder
@@ -94533,6 +94571,7 @@ vulnerability-alerts
 vulnerable-plugin-checker
 vulnero
 vulners-scanner
+vulnity
 vulntitan
 vupango
 vuploads
@@ -97218,6 +97257,7 @@ wincher-rank-tracker
 wind-speed-converter
 winddoc
 winddoc-no-profit
+winden-dplugins-tailwind-css-compiler
 windfyre-embed
 window-blinds-solution
 window-width
