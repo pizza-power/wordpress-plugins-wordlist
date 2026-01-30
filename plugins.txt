@@ -2123,6 +2123,7 @@ adirectory
 adiscon-outdated-content
 adistry-ad-network
 adistry-profile-widget
+aditi-speed-tuner
 aditroreqruit-widget
 aditta-bkash-rocket-bd-mobile-payments-gateway
 aditum-gateway
@@ -4902,6 +4903,7 @@ alpha-blocks
 alpha-cache
 alpha-google-map-for-elementor
 alpha-insights-intelligent-profit-reports-for-woocommerce
+alpha-insights-sales-report-builder-analytics-for-woocommerce
 alpha-pay-wechat-pay-alipay-for-woocommerce
 alpha-price-table-for-elementor
 alpha-single-product-for-elementor
@@ -7385,6 +7387,7 @@ authy-two-factor-authentication
 authyo-chatlead
 authyo-otp-authentication-for-woocommerce
 authyo-otp-for-contact-form-7
+authyo-otp-for-ninja-forms
 authyo-otp-for-wpforms
 authyo-passwordless-login
 autience-yes-or-no-popup
@@ -23076,6 +23079,7 @@ dancepress-trwa
 dandelion
 dandyid-services
 daneshjooyar-post-gallery
+danhthong-print-design-upload
 danielme-weather
 daniels-dropdowns
 danixland-asciinema
@@ -24458,6 +24462,7 @@ deweys-twitter-card-helper
 dewplayer-flash-mp3-player
 dewplayerplugin
 dewtube-video-player
+dexacube-3d-for-elementor
 dexatel-for-woocommerce
 dexecure
 dexonline
@@ -26059,6 +26064,7 @@ donation-link-manager
 donation-meter
 donation-or-tip-for-woocommerce
 donation-pro
+donation-qr-block
 donation-ribbons
 donation-round-up-for-woocommerce
 donation-thermometer
@@ -26466,6 +26472,7 @@ drip-payments
 drive-content
 drive-downloads-lite
 drive-folder-embeder
+drive-upload-for-gravity-forms-google-drive
 drive-wp
 drivefx-woocommerce
 driver-delivery-management-by-xpressdelivery
@@ -30659,6 +30666,7 @@ era-digital-clock
 eraclito-limit-product-quantity
 erana-icons-font-for-visual-composer
 erated-woocommerce
+erdo-image-optimizer
 ere-colors
 ere-download-document
 ere-recently-viewed
@@ -38076,6 +38084,7 @@ gi-blinkpay
 gi-catalog
 gi-media-library
 gi-weather
+gia-conversion-tracking-for-ecommerce-google-analytics-4
 gianism
 giantbomb-widget
 giantcampaign
@@ -39381,6 +39390,7 @@ gowpwalla
 gozen-engage
 gozen-forms
 gozen-growth
+gozer
 gozo-album
 gp
 gp-add-gp-profile-to-wp-profile
@@ -48058,6 +48068,7 @@ knowd-traffic-widget
 knowhalim-remove-duplicates
 knowledge-ai-bot
 knowledge-base
+knowledge-base-chatbot
 knowledge-base-cpt
 knowledge-base-maker
 knowledge-building
@@ -51688,6 +51699,7 @@ luminate-for-wp
 luminate-top-participants
 lumino-payments-for-woocommerce
 luminous-lightbox
+lumiverse-security-watchdog-lite
 lumping-day
 lumturio-wp-monitor
 luna
@@ -59530,6 +59542,7 @@ notifier-for-phone
 notifier-to-slack
 notifikacie-sk
 notifikuj-cz
+notifish
 notifixious-plugin
 notifly
 notiflyer
@@ -59902,6 +59915,7 @@ nyasro-world-day
 nymcard-payment-gateway
 nyx-tickets
 nyzo-tip
+nz-paye-calculator
 nz-wechat-qr-code-support-chat
 nzymes
 o-crop
@@ -60078,6 +60092,7 @@ odds-widget
 odds-widgets
 oddsnews-betting-odds-calculator
 oddspress
+oderland-smtp-postal-mailer
 odesk-hire-me-widget
 odesk-job-feed
 odesk-profile-fetcher
@@ -64709,6 +64724,7 @@ planitappy-nutrition-wizard
 planitappy-online-store
 plankton-social-widget
 planleft-contact-camo
+planned-outage
 planned-soft-min-max-quantities
 planning-applications
 planning-center-online-giving
@@ -67818,6 +67834,7 @@ product-photo-ai-for-woocommerce
 product-pre-orders-for-woo
 product-preview-for-woocommerce
 product-price-by-formula-for-woocommerce
+product-price-color-manager
 product-price-enquiry-quote-request-contact-form
 product-price-history
 product-price-history-tracker-for-woocommerce
@@ -69314,6 +69331,7 @@ query-wrangler
 querydb
 queryloader2-for-wp
 queryquery
+queryra-ai-search
 querywall
 querywall-plugn-play-firewall
 quest
@@ -74718,6 +74736,7 @@ sample-slider
 samply
 samra-custom-footer
 samrat-emily-mail-tracker
+samrat-profit-calculator-for-woocommerce
 sams-integration
 samsarin-php-widget
 samsarin-php-widget2
@@ -77969,6 +77988,7 @@ show-git-developer-profile
 show-google-analytics-widget
 show-hidden-custom-fields
 show-hidden-post-meta
+show-hide-accordion-by-mediaart
 show-hide-author
 show-hide-author-and-tag
 show-hide-commentform
@@ -81409,6 +81429,7 @@ smart-image-resizer
 smart-image-seo
 smart-input-pricing-for-woocommerce
 smart-instalments-manager-for-woocommerce
+smart-internal-linking-optimizer
 smart-investment-calculator
 smart-invoice-and-billing-management
 smart-keywords-tool
@@ -85810,6 +85831,7 @@ sweetdate-matches
 sweettitles
 swekey
 swelen-sdk
+swell-smart-responsive-blocks
 swellenterprise
 swerve
 swf
@@ -96568,6 +96590,7 @@ wep-demo-import
 wepay-checkout-options
 wepay-wordpress-plugin
 weplant
+weply-chat
 wepo-submenu
 wepop
 wepos
@@ -110515,6 +110538,7 @@ yg-subdomain
 ygncos-button
 ygncos-shorten
 ygvideo
+ygz-music-widget
 yicker
 yideng
 yieldkit
