@@ -1406,6 +1406,7 @@ ad-injection
 ad-ink
 ad-inserter
 ad-inserter-optimizer
+ad-integration-for-mobile-de-api
 ad-invalid-click-protector
 ad-itt
 ad-kangaroo-for-adsense
@@ -3609,6 +3610,7 @@ affilibee-for-woocommerce
 affiliblocks
 affilicious
 affilicode-tag-setting
+affililabs
 affilinet-performance-module
 affilinet-product-widgets
 affilinker
@@ -12178,6 +12180,7 @@ botbanish-firewall-client
 botblocker
 botblocker-security
 botdetect-wp-captcha
+botdolphin-ai-chatbot
 botfaqtor-code
 botfirewall
 botfoundry
@@ -19509,6 +19512,7 @@ content-randomizer
 content-randomizer-free
 content-rating
 content-recycler
+content-refresh-assistant
 content-refresh-manager
 content-regions
 content-relations
@@ -20164,6 +20168,7 @@ core-web-vitals-pagespeed-booster
 core-web-vitals-real-user-monitoring-rum
 core37-form-builder
 coreactivity
+coreessentials-email-gated-downloads
 coreline
 coremetrics
 corepayments-payment-gateway
@@ -24343,6 +24348,7 @@ devarai-games
 devauth-split-identity-sign-in-with-device-authentication
 devbrothers-admin-panel
 devbrothers-cyrillic-url
+devbrothers-simple-translator
 devbuddy-twitter-feed
 devcon-tag
 devdesigndazzle-post-views
@@ -27140,6 +27146,7 @@ dzs-custom-wp-query-shortcode
 dzs-enable-debug
 dzs-video-block-for-youtube
 e-addons-for-elementor
+e-arsiv-fatura-enteragrasyonu
 e-bbsmate
 e-billing-moyen-de-paiement-woocommerce
 e-billing-payment-gateway
@@ -28445,6 +28452,7 @@ easyinsights
 easyinstall
 easyjobs
 easyjscss
+easylaunchproducts
 easyling
 easyling-for-wp
 easylogo
@@ -29184,6 +29192,7 @@ effective-bio-boxes
 effective-highlighter
 effective-spambot-stopping
 effects-for-nextgen-gallery
+effibadge-ai-visual-content-cards-share-smarter
 efficient-related-posts
 effin-wp-login-customizer
 effortless-carousel-with-gallery
@@ -34687,6 +34696,7 @@ flowaccount-api
 flowboard
 flowbox
 flowcharts-ai
+flowcontent
 flowdust
 flower
 flower-delivery-by-florist-one
@@ -41147,6 +41157,7 @@ heureka
 hex-coupon-for-woocommerce
 hex-framework
 hex-tcgbrowser-card-tooltips
+hexa-grid-product-showcase
 hexa-team-responsive-grid-free
 hexabot-chat-widget
 hexagonal-reviews
@@ -45605,6 +45616,7 @@ irex-iliad-black-widget
 irex-iliad-silver-widget
 iris-ai
 iris-color-picker-enhancer
+iris-translate
 irish-shipping-for-jigoshop
 irisnet-api
 irm-newsroom
@@ -48845,6 +48857,7 @@ latitude-pay-genoa-pay-integrations
 latmmo-aff-amazon
 latpay-direct-payment
 latterpress
+latw-ai-translator-for-wpml
 laudd-social-sharing
 laughing-squid-dashboard-widget
 laughing-squid-starving-artists-plugin
@@ -54523,6 +54536,7 @@ mighty-captcha
 mighty-content-locker
 mighty-frequently-bought-together
 mighty-media-cleaner
+mighty-notification-bar
 mighty-portfolio
 mighty-pros-cons
 mighty-review-for-discount
@@ -55485,6 +55499,7 @@ modern-editor
 modern-events-calendar-lite
 modern-facebook-post-embed
 modern-fb-fan-page
+modern-fields
 modern-fonts-stacks-for-font-library
 modern-footnotes
 modern-i-infotech-contact-form
@@ -57906,6 +57921,7 @@ navigator-eoxia
 navigo-plugin
 navilytics-heatmaps-and-user-recordings
 navis-documentcloud
+navitree-html-sitemap
 navmenu-addon-for-elementor
 navmenu-popup
 navmenusearchadmin
@@ -59647,6 +59663,7 @@ novera-smart-chat
 novex-demo-importer
 novinhub
 novo-chat-button
+novo-contact-form
 novo-map
 novocall-callback-widget
 now-easy-social-bookmarking
@@ -61060,6 +61077,7 @@ optenhanse
 opti-behavior
 opti-marketing
 opti-mozjpeg-guetzli-webp
+opticache
 optifile-online
 optifin-forms
 optiflow-webp-media
@@ -61960,6 +61978,7 @@ page-breadcrumbs-for-wptitle
 page-break
 page-builder
 page-builder-add
+page-builder-audit
 page-builder-by-azexo
 page-builder-companion
 page-builder-for-coffee-zen
@@ -63170,6 +63189,7 @@ paystation-woocommerce-payment-gateway
 paysuite-payment-gateway-for-woocommerce
 payt-upsell-for-elementor
 paytalk-lipa-na-mpesa
+paythefly-crypto-gateway
 paythru-payment-gateway
 paytiko
 paytium
@@ -64709,6 +64729,7 @@ planaday-connector
 planet-9
 planet-blockchain-coin-explorer
 planet-pay-payment
+planet-pop
 planet-wordpress
 planetary-position
 planetcalc
@@ -66734,6 +66755,7 @@ power-calculator
 power-captcha
 power-captcha-recaptcha
 power-code-editor
+power-coupons
 power-editor
 power-form-7
 power-forms-builder
@@ -68698,6 +68720,7 @@ pure-html
 pure-ivp-player
 pure-js-code-plugin-ajax-featured
 pure-metafields
+pure-pgn-viewer-engine
 pure-php-localization
 pure-php-pagination
 pure-social-icons
@@ -74744,6 +74767,7 @@ samudra-log
 samurai
 samuweb-related-questions
 samuweb-skim-blog
+samybaxy-hyperdrive
 san-auto-thumbs
 san-thumbnail-posts
 sanalpospro-payment-module
@@ -94024,6 +94048,7 @@ virtual-theme
 virtual-tours
 virtual-try-on-for-shops
 virtualbadge-io-certificate-validator
+virtualcode-bogo-same-product
 virtualjog
 virtualspirits-chatbot
 virtualwindow-custom-blocks
@@ -96393,6 +96418,7 @@ webvtt
 webwealth-me-wp-help
 webwiki-siterateing
 webwinkelkeur
+webwonderland-seo-image-optimiser
 webworkqa
 webxpay-payment-gateway-for-woocommerce
 webyard-custom-notification-display
@@ -110755,6 +110781,7 @@ youcruit-job-listings
 youdao-translator
 youdroop-woocommerce
 youearth
+youelblocks
 youforms-free-for-copecart
 yougler-blogger-profile-page
 youlicit-more-widget
@@ -111346,6 +111373,7 @@ zeta-abandoned-cart
 zetamatic-integration-hubspot-caldera-forms
 zethos-speed-reading-tool
 zetpy-mobile-login
+zetpy-product-review
 zetta-erp
 zettle-pos-integration
 zeus-admin-theme
