@@ -4039,6 +4039,7 @@ ai-try-on-assistant
 ai-twitter-feeds
 ai-user-content-generator
 ai-vector-search-semantic
+ai-virtual-try-on-for-woocommerce
 ai-vision-block
 ai-widget
 ai-workflow-automation-ai-agent-hub
@@ -21488,6 +21489,7 @@ currency-exchange-rates
 currency-exchange-rates-widget
 currency-manager-for-gravity-forms
 currency-per-product-for-woocommerce
+currency-preamble-for-woocommerce
 currency-rates-of-the-russian-ruble
 currency-switcher
 currency-switcher-for-woocommerce
@@ -25332,6 +25334,7 @@ discount-master-for-woocommerce
 discount-patreon-connect
 discount-payment-moona
 discount-percent
+discount-percentage-display-for-woo
 discount-percentage-for-woocommerce
 discount-price-for-woocommerce
 discount-price-woocommerce
@@ -46208,6 +46211,7 @@ jerelabs-ccb
 jeromes-keywords
 jestion
 jesus-words
+jesuslopez-gpt-merchant-feed
 jet-active-blog-list-ru-edition
 jet-blocker-anti-ad-blocker-detector
 jet-blog-meta-list-2-ru-edition
@@ -53826,6 +53830,7 @@ membermouse-addon-for-wp-courseware
 membermouse-member-count-shortcode
 memberpay
 memberpress-addon-for-wp-courseware
+memberpress-gift-reporter
 members
 members-360-wp
 members-biography
@@ -54752,6 +54757,7 @@ minha-loja-wp
 minhas-redes-sociais
 minhnhut-link-gateway
 mini-ajax-woo-cart
+mini-cache
 mini-capatcha
 mini-cart
 mini-cart-for-woocommerce
@@ -62547,6 +62553,7 @@ parstools-like-dislike-voting
 parstools-social-sharing
 parstools-star-rating
 part-content-encryption
+partbase-filterfinder
 partcl
 parteibuch-aggregator
 parthrana-admin-login-activity-monitor
@@ -64149,6 +64156,7 @@ phrase
 phraseanet-client
 phu-admin-theme
 phunnl
+phynite-analytics
 physical-custom-upload-folder
 physical-media-folders
 physio-cloud-software
@@ -76877,6 +76885,7 @@ setter-ai-chatbot
 settimize
 settings-api
 settings-for-youtube-block
+settings-manager-for-elementor
 settings-menu-shortcut-by-coffeecupweb
 settings-revisions
 setup-adsense-for-amp
@@ -80968,6 +80977,7 @@ sleek-custom-facebook-feed
 sleek-elementor-addon
 sleek-facebook-feed
 sleek-facebook-slider
+sleek-tweaks-for-elementor
 sleeker-admin-color-schemes
 sleeker-editor-admin-menu
 sleekplan
