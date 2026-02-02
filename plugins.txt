@@ -712,6 +712,7 @@ ac-change-login-logo
 ac-custom-loop-shortcode
 ac-loadmore
 ac-prediction-game-creator
+ac-print-email
 ac-scroll-up
 ac-simple-post-widget
 ac-stop-content-copier
@@ -3931,6 +3932,7 @@ ai-generated-faces
 ai-generated-post
 ai-generative-search-optimizer
 ai-generator
+ai-ghostwriter
 ai-gpt-3-content-generator
 ai-gpt-tools
 ai-graid
@@ -9392,6 +9394,7 @@ bb-header-footer
 bb-include-topics-replies-search
 bb-login-module
 bb-lyrics
+bb-mega-menu
 bb-seo-optimizer
 bb-stats
 bb-toolbox
@@ -9639,6 +9642,7 @@ bcloud-elementor-form-extender
 bcm-duplicate-menu
 bcms
 bcodecraft-blocks
+bcodecraft-post-lifecycle
 bcodecraft-submissions-cf7
 bcorp-shortcodes
 bcorp-slider
@@ -10511,6 +10515,7 @@ big-sur-ai-web-agent
 big-surprise
 big-voodoo-mega-menu-related-links-menu
 bigad-wp
+bigbad-agency-product-linked-attributes-mapper-for-woocommerce
 bigbluebutton
 bigboss-all-in-one-facebook-social-widget
 bigboss-cpt-post-widget
@@ -11022,6 +11027,7 @@ bloat-buster
 bloatoff-utils
 blob-mimes
 blobinator
+blocdash-backend-dashboard-toolkit
 block-a-saurus
 block-accessibility-checks
 block-admin
@@ -19600,6 +19606,7 @@ contentboxes
 contentcalendar
 contentclick
 contentde
+contentee-ai
 contentfry-social-media-displays
 contentgecko-connector
 contentify-ai
@@ -22036,6 +22043,7 @@ custom-login-redirect
 custom-login-screen
 custom-login-uk
 custom-login-url
+custom-login-url-login-designer
 custom-login-url-manager
 custom-login-widget
 custom-login-widget-with-cube-points-integration
@@ -26453,6 +26461,7 @@ dreampoints-slider-by-kris-iv
 dreamspeed-cdn
 dreamstime-stock-photos
 dreamy-delete-post-revisions
+dreamy-tags
 dreevo-for-woocommerce
 dregister
 dreifeature
@@ -26919,6 +26928,7 @@ dynamic-block-content
 dynamic-block-enhancer
 dynamic-blocks
 dynamic-blocks-builder
+dynamic-blog-grid-filters-for-elementor
 dynamic-blog-protector
 dynamic-blogname
 dynamic-calculator
@@ -35432,6 +35442,7 @@ formilla-live-chat
 forminator
 forminator-add-on-user-info
 forminix
+formipay
 formit
 formitable-development-kit
 formito
@@ -37638,6 +37649,7 @@ georgian-sms-2-step-authorization
 georgian-symbols-sanitizer
 georgian-symbols-sanitizer2
 georouter
+geosec
 geoskipper
 geosm2
 geosmart
@@ -40014,6 +40026,7 @@ grow-with-woocommerce
 growanizer
 growelfare-connect
 growffinity-crm-for-woocommerce
+growify-ai
 growmap-anti-spambot-plugin
 growmap-anti-spambox-plugin
 growpro-widgets
@@ -45126,6 +45139,7 @@ intentdeep-virtual-files
 intento
 interact-do-conversation-and-chat-ui
 interact-quiz-embed
+interaction-boilerplate-creator
 interactions
 interactive-3d-flipbook-powered-physics-engine
 interactive-australia-map
@@ -46907,6 +46921,7 @@ jr-pagerank
 jr-poll
 jr-popularposts
 jr-post-image
+jr-post-to-photocard-maker
 jr-protection
 jr-qtip-for-wordpress
 jr-quotes
@@ -46932,6 +46947,7 @@ jreferences
 jresizr
 jrm-killboard
 jrss-widget
+jrt-commentshield
 jrwdev-daily-specials
 js-antispam
 js-appointment
@@ -48187,6 +48203,7 @@ konfirmi
 kong-website-builder
 kongapay
 konkur94
+konnect-contact-form-builder
 konnichiwa
 konora
 konora-membership
@@ -50811,6 +50828,7 @@ lms-chat
 lmsace-connect
 lmwd-ziptree
 lnbits-bitcoin-onchain-and-lightning-payment-gateway
+lnc-ai-quiz-generator
 lnc-near-comments
 lnc-output-filter
 lncj-variations-price
@@ -57847,6 +57865,7 @@ native-apps-builder
 native-blocks
 native-blocks-carousel
 native-comment
+native-content-relationships
 native-custom-fields-meta-box-and-acf
 native-emoji
 native-fullscreen
@@ -57895,6 +57914,7 @@ nav-menus
 nav-query
 nav-zoom-meet
 nav2me
+navable-accessibility-widget
 navarak-code-highlighter
 navayan-csv-export
 navayan-subscribe
@@ -60763,6 +60783,7 @@ only-tweet-like-share-and-google-1
 only-type-search
 only-webp-uploads
 onlychat
+onlygrow-analytics
 onlyoffice
 onlyoffice-docspace
 onlyssl-tool
@@ -63063,6 +63084,7 @@ paymentwall-for-woocommerce
 paymill
 paymob-for-woocommerce
 paymytable
+paynecta-payment-gateway-for-woocommerce
 paynote
 paynowdirect
 payo-cod
@@ -68467,6 +68489,7 @@ proxy-vpn-blocker
 proxygoblins-connector
 proxymis-shoutbox-com
 proxyposter
+prozen-integration-for-dzen
 prune-database
 prune-users
 pryc-woocommerce-edit-all-orders
@@ -73325,6 +73348,7 @@ revlifter
 revo-video
 revochat-ai-chatbot
 revoffers-advertiser-integration
+revoker-for-woocommerce
 revolut-gateway-for-woocommerce
 revolution-ajax-content-loader
 revolution-for-elementor
@@ -74707,6 +74731,7 @@ salespanel
 salespeak-llm-optimizer
 salespress
 salesviewer-integration
+salesvista-for-woocommerce
 salesworks-media-sitemap
 saleztalk
 salmon
@@ -75051,6 +75076,7 @@ scan-wp-theme-and-plugin-detector-admin-version
 scan2login
 scan2pay-alertco-woo
 scan2payme
+scanandpay-payments-via-payid-for-woocommerce
 scancircle
 scand-easy-ga-toolkit
 scand-multi-mailer
@@ -76339,6 +76365,7 @@ sentinel-headers-unlimited-extension
 sentinote
 sentralize-content-2-context
 sentry
+sentwatch-email-uptime-monitoring
 senvio-for-woocommerce
 senzoo-donation-notification-widget
 seo
@@ -79045,6 +79072,7 @@ simple-form-with-captcha
 simple-forum-widgets
 simple-from-email-change
 simple-front-end-edit-buttons
+simple-frontend-avatar-uploader
 simple-frontend-template-display
 simple-ftp-directory-lister
 simple-full-screen-background-image
@@ -84587,6 +84615,7 @@ stopwords-for-comments
 storage-for-edd-via-dropbox
 storage-for-edd-via-onedrive
 storage-for-edd-via-s3-compatible
+storage-for-woo-via-s3-compatible
 storagemadeeasy-multicloud-files-backup
 storagepress-self-storage
 storageqloud-for-wordpress
@@ -87976,6 +88005,7 @@ the-viddler-wordpress-plugin
 the-video-popup
 the-viking-abandoned-monitor
 the-viking-auto-dismiss
+the-viking-critical-change-alert
 the-viral-widget
 the-visitor-counter
 the-voice-designer-by-data-driven-design
@@ -89895,6 +89925,7 @@ translate-wp-with-google-languages-translator
 translate2011
 translatecart
 translatecom-website-translator
+translatecraft-manual-translation
 translated-nextscripts-social-networks-auto-poster
 translatejs-website-translator
 translateml
@@ -91206,6 +91237,7 @@ tyresaddict-promo
 tyresaddict-wheel-product-filter
 tyresaddict-woo-tyre-custom-metadata
 tyresaddict-woo-tyre-product-filter
+tyresaddict-ymm-product-filter
 tyrone-the-wp-watchdog
 tyxo
 tyxo-monitoring
@@ -92697,6 +92729,7 @@ user-registration-date
 user-registration-date-last-login
 user-registration-email-validator
 user-registration-for-elementor-forms
+user-registration-form-for-elementor
 user-registration-last-login-time
 user-registration-stats
 user-registration-using-contact-form-7
@@ -100694,6 +100727,7 @@ worker
 workflow
 workflow-approvals
 workflowdone-404-monitor
+workflowdone-amazon-affiliate-elementor-widget
 workflowdone-geo-blocker
 workflowprotools-bulk-product-importer-for-woocommerce
 workible-jobs-widget
@@ -110427,6 +110461,7 @@ yawp-utils
 yawpp
 yay-customer-reviews-woocommerce
 yay-images
+yay-wholesale-b2b
 yaycurrency
 yayextra
 yayforms
