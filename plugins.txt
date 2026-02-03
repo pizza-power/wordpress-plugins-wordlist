@@ -730,6 +730,7 @@ academy-certificates
 academy-divi-modules
 academy-elementor-addons
 academy-starter-templates
+acadlix
 acadlix-addon-for-elementor
 acapela-vaas
 acast
@@ -5664,6 +5665,7 @@ another-wordpress-classifieds-plugin
 another-wordpress-meta-plugin
 another-wordpress-seo-plugin
 another-wordpress-tracker-plugin
+anpc-display
 anppopular-post
 anrghg
 anrghg-helper
@@ -7604,6 +7606,7 @@ auto-numbering-post
 auto-original-source
 auto-page-creator
 auto-parts-4-less-marketplace-sync
+auto-photocard-by-midsync
 auto-picasa-js-album
 auto-pickup-locations-for-woocommerce
 auto-pin-it-button
@@ -13597,6 +13600,7 @@ bulk-entry
 bulk-export-import-images-seo-attributes
 bulk-exporter-for-gravity-forms
 bulk-featured-image
+bulk-fixtures-for-sportspress
 bulk-generate-thumbnails
 bulk-image-alt-text-with-yoast
 bulk-image-resize-utility
@@ -14034,6 +14038,7 @@ byconsole-greetingcard
 byconsole-woo-order-delivery-time
 byconsoleorderinvoice
 bye-bye-howdy
+bye-bye-passwords
 bye-dolly
 bye-felicia
 bye-ie
@@ -16123,6 +16128,7 @@ charity-donation-for-woocommerce
 charity-donation-offers-for-woocommerce
 charitydonation-thermometer
 charityemail-sign-up-widget
+charityglow
 charjing
 charla-live-chat
 charles-divi-hide-header-menu
@@ -16293,6 +16299,7 @@ chatplusjp
 chatpress
 chatpress-ai
 chatpressai
+chatprojects
 chatprop
 chatra-live-chat
 chatrag
@@ -19731,6 +19738,7 @@ contus-video-comments
 contus-video-gallery
 contus-video-galleryversion-10
 convatic
+convboost-sticky-notification-bar
 convead-for-woocommerce
 convenios-medicos-brasileiros
 convergehub-forms-add-on-for-contact-form-7
@@ -20976,6 +20984,7 @@ cross-registration-integration
 cross-relate-yarpp-wpgraphql
 cross-rss
 cross-sell-product-display-for-woocommerce
+cross-site-copy-field-for-acf
 cross-theme-stylesheets
 cross-up-sales-for-woocommerce
 cross-upsell-popup-for-woocommerce
@@ -21314,6 +21323,7 @@ csv-exporter-for-terms
 csv-import
 csv-import-and-exporter
 csv-import-export
+csv-import-to-table
 csv-import-tool-for-premiumpress
 csv-importer
 csv-importer-for-pods
@@ -34115,6 +34125,7 @@ fixing-bnb
 fixit
 fixon-cadastro-de-clientes
 fixpress
+fixquotes-quote-of-the-day
 fixreport-maintenance-logger
 fixture-viewer-for-playhq
 fixtureslive-hockey-league
@@ -34748,6 +34759,7 @@ fluent-community
 fluent-connect
 fluent-crm
 fluent-forms-connector-for-mailpoet
+fluent-invoice
 fluent-members
 fluent-player
 fluent-query-logger
@@ -37008,6 +37020,7 @@ gasolineras-de-espana
 gastcoin-gateway
 gastro-site-table-reservation
 gatekeeper
+gatekeeper-download-manager
 gateland
 gatelink-client
 gatelink-manager
@@ -37251,6 +37264,7 @@ geliver-akilli-kargo-pazaryeri
 gellum-business-hours
 gellum-delivery-calculator
 gelo-ai-block
+gemboards
 gemdocs-cf7-pdf
 gemius-for-wordpress
 gemius-plugin
@@ -39373,6 +39387,7 @@ gotmls
 goto-contact-center-webchat
 goto-outbound-links-and-analytics
 goto-redirect
+gotobim-business-info
 gotomenu
 gotomyaccounts-single-sign-on
 gotoviar
@@ -40126,6 +40141,7 @@ gtg-audio-player
 gtg-product-blocks
 gth-simple-shortcodes
 gti-factura
+gtin-product-feed-for-google-shopping
 gtin-schema-for-woo
 gtl-components
 gtm-by-maverick
@@ -41633,6 +41649,7 @@ hillstone-wp-sso
 hilp
 himegoto
 himis-plugin-organizer
+himuon-integration-for-klaviyo-and-gravity-forms
 hina-ajax-comment
 hinagata-speech-balloon
 hindi-dates
@@ -47562,6 +47579,7 @@ kebo-twitter-feed
 keedev-pricing-tables
 keedpay-checkout-for-woocommerce
 keek
+keekan-seo
 keendelivery-woocommerce-koppeling
 keensalon-companion
 keep-backup-daily
@@ -50121,6 +50139,7 @@ linkam-share-button
 linkbee-links-converter
 linkbird-content-marketing
 linkblog-by-lucy
+linkboostr
 linkbot-automated-internal-linking
 linkbuildingadmin
 linkbuildr
@@ -51306,6 +51325,7 @@ loginease
 loginer-custom-login-page-builder
 loginfy
 logingpower
+loginhue-admin-login-customiser
 loginid-directweb
 loginify
 loginizer
@@ -53549,6 +53569,7 @@ media-mentions
 media-menu-order
 media-meta
 media-metadata
+media-metadata-autofill
 media-metadata-list
 media-mime-types
 media-mirror
@@ -59356,6 +59377,7 @@ nofollow-tags-in-posts
 nofollow-wp
 nofollower
 nofollowr
+noform
 nofraud-protection
 nofrixion-for-woocommerce
 nohackme-defender
@@ -61521,6 +61543,7 @@ orthodoxcalendarru
 orthotypo-orthotypographie-automatique
 orufy-bookings
 orufy-connect
+oryx-bookings
 orzeszek-tag-cloud
 os-adder
 os-anspress-custom-fields
@@ -62906,6 +62929,7 @@ payfort
 payfull
 payfurl-extension-for-woocommerce
 paygate-payweb-for-woocommerce
+paygenius-hosted-payment-gateway
 paygine
 paygol-for-woocommerce
 paygreen-impact
@@ -69067,6 +69091,7 @@ qlwz-package
 qmean
 qmoney
 qmpblog-profile
+qmspace-business-facts
 qmt-scroll
 qnachat
 qnap-nas-backup
@@ -70308,6 +70333,7 @@ rankioz-seo
 rankiva-seo-insights-for-gsc
 rankjet-ai
 ranklet-seo
+ranklite
 rankmetric-serp-rank-tracker
 rankology-seo-all-in-one-seo-analytics
 rankology-seo-and-analytics-tool
@@ -71225,6 +71251,7 @@ recmnd
 reco-for-woocommerce
 reco-widget
 recobox
+recode-cron-viewer
 recognant-summarization-and-tagging
 recojo-por-otra-persona
 recolize
@@ -80015,6 +80042,7 @@ simple-upcoming-events
 simple-update
 simple-update-notification
 simple-upi-qr-code
+simple-upload-weight-limit
 simple-upload-widget
 simple-url-shortener
 simple-url-to-qr-code
@@ -81489,6 +81517,7 @@ smart-image-optimizer-ai-lite
 smart-image-resize
 smart-image-resizer
 smart-image-seo
+smart-initial-caps-titles
 smart-input-pricing-for-woocommerce
 smart-instalments-manager-for-woocommerce
 smart-internal-linking-optimizer
@@ -93023,6 +93052,7 @@ v-voting
 v4notification
 v4search
 v5pro-accordion-faq
+v7-legacy-editor-enabler
 v7n-rss-feed
 va-check-old-password
 va-detail-in-three-lines
