@@ -483,6 +483,7 @@ a-youtube-plugin
 a-z-indexing-startup
 a-z-listing
 a1-social-share-free
+a1-tools
 a11y-buttons
 a11y-enhancer
 a11y-kit
@@ -3866,6 +3867,7 @@ ai-chatbot-camhdk
 ai-chatbot-customer-support-chatfromai
 ai-chatbot-easy-integration
 ai-chatbot-for-heyloha
+ai-chatbot-for-support-e-commerce
 ai-chatbot-for-website-ordemio
 ai-chatbot-for-winck
 ai-chatbot-live-chat-for-wordpress-using-chatgpt
@@ -9215,6 +9217,7 @@ barebones-rss
 barebones-twitter
 barestho
 bargain
+barika
 barikoi-map
 barilo-light-top-bar-message
 bark
@@ -12604,6 +12607,7 @@ bpe-woo
 bpgroups
 bphonetic-wordcount
 bplayer
+bplugins-lorem-generator
 bplus-wp-sync-authenticator
 bpmcontext
 bpmcontext-client-suite
@@ -12829,6 +12833,7 @@ bridgy-publish
 bridhy-addons-for-contact-form-7
 brief
 brief-message
+briefnote
 bright-brands-for-woocommerce
 bright-deposits-for-woocommerce
 bright-link-previews
@@ -13510,6 +13515,7 @@ buildaring
 buildecom
 builder-blocks
 builder-cloud
+builder-critical-css-tools
 builder-shortcode-extras
 builder-source
 builder-template-categories
@@ -14214,6 +14220,7 @@ calais-auto-tagger
 calameo
 calc
 calc-read-time
+calcform-calculator
 calcfusion-for-wp
 calcinss
 calconic
@@ -23384,6 +23391,7 @@ datacue-for-woocommerce
 datadev-jadlog-for-woocommerce
 datadev-total-express-for-woocommerce
 datadome
+datafast
 datafeed-studio
 datafeedfile-featured-product
 datafeedfilecom-dff-product-showcase-plugin
@@ -27528,6 +27536,7 @@ easy-contact-popup
 easy-content
 easy-content-adder
 easy-content-analysis
+easy-content-linker-lite
 easy-content-lists
 easy-content-manager
 easy-content-protector
@@ -28514,6 +28523,7 @@ easysave
 easysecure-bulk-product-importer-for-woocommerce
 easysecure-import-export-courses-learndash
 easysecure-import-export-quizzes
+easysecure-subscriptions
 easysell
 easyseo
 easyservices
@@ -33057,6 +33067,7 @@ fbook-page-widget-ex-like-box
 fbpromotions
 fbs-activity-tracker
 fbs-secure-optimize
+fbs-stockmind
 fbsharecount
 fbt-templates-for-bricks-builder
 fbthumbnail
@@ -33316,6 +33327,7 @@ feed-geomashup
 feed-globedia
 feed-globedia-10
 feed-google-buzz
+feed-importer-for-blogger
 feed-importer-micro-blog
 feed-input
 feed-instagram-lite
@@ -37872,6 +37884,7 @@ getautoseo-ai-content-publisher
 getback-optimize-web-push-notifications
 getbats-o2o
 getblogx
+getcited
 getcontentfromurl
 getcost
 getdave-responsive-navigation-block
@@ -40434,6 +40447,7 @@ h5p-css-editor
 h5p-sharing
 h5pxapikatchu
 h6-private-store-for-woocommerce
+h6-smart-checkout-fields-for-woocommerce
 h7-tabs
 ha-background-color-customizer
 ha-banners
@@ -40588,6 +40602,7 @@ happy-gig-calendar
 happy-helpdesk-support-ticket-system
 happy-new-year
 happy-new-year-lantern
+happy-ordering
 happy-reader
 happy-santa
 happy-scss-compiler
@@ -44452,6 +44467,7 @@ ingenico-server-for-woocommerce
 ingenidev-bogo-offers-for-woocommerce
 ingenidev-cashondelivery-shield
 ingenidev-code-widget-for-elementor
+ingenidev-france-zones-et-departements-pour-wc
 ingenidev-gift-unlocker-for-woocommerce
 ingenidev-iraq-iqd-currency-symbol-changer
 ingenidev-ksa-sar-currency-symbol-changer
@@ -49773,6 +49789,7 @@ lightning-deal-for-woo
 lightning-fast-buttons
 lightning-flow-iframe
 lightning-import
+lightning-load-speed-optimization
 lightning-payment-gateway-lnbits
 lightning-paywall
 lightning-publisher
@@ -50023,6 +50040,7 @@ link-converter-for-orangelabel
 link-counter
 link-data-from-another-db
 link-designer-lite
+link-diagnostic-and-insights
 link-different
 link-directory-plugin
 link-exchange-for-wp
@@ -54643,6 +54661,7 @@ mihostcgi-google-rich-snippets
 miinto-feed-generator
 miiplus-button
 miiverse-oembed
+miix-laposta-campaigns-lite
 mijireh-checkout-for-gravity-forms
 mijireh-checkout-for-ithemes-exchange
 mijireh-checkout-for-jigoshop
@@ -58918,6 +58937,7 @@ nice-onlinenaira-button-lite
 nice-page-transition
 nice-paypal-button-lite
 nice-portfolio
+nice-price-editor
 nice-quotes-rotator
 nice-responsive-wp-faq
 nice-scrollbar
@@ -60469,6 +60489,7 @@ omni-chatbox
 omni-contact-form
 omni-icon
 omni-lazy-load
+omni-ping-list-checker
 omni-secure-files
 omniads
 omnibus
@@ -61839,6 +61860,7 @@ oxapay-payment-gateway-for-easy-digital-downloads
 oxcyon-2-wp
 oxford-comma-go-away
 oxford-debate
+oxicat-cookies-manager
 oxicat-onboarding-tours
 oxicat-password-form-styler
 oxipay-payment-gateway
@@ -61921,6 +61943,7 @@ ozi-bbcode-eklentisi
 ozi-external-links
 ozi-image-alt-tag-fixer
 ozi-internal-link-booster
+ozinexus-missed-enquiry-detector
 ozioma
 ozon-book-cover
 ozon-export-products
@@ -68879,6 +68902,7 @@ pushflew-push-notification
 pushforge-web-push
 pushie
 pushify
+pushinator
 pushit
 pushlib
 pushlive
@@ -69681,6 +69705,7 @@ quickcep
 quickchat
 quickconnect
 quickcreator
+quickcreator-agent
 quickcustomize
 quickdashboard
 quickdocs
@@ -74202,6 +74227,7 @@ rssmedia
 rssphoto
 rssunssl
 rssupplement
+rsswire
 rst-awesome-team-widget
 rsv-360-view
 rsv-google-maps
@@ -76430,6 +76456,7 @@ seo-backlink-monitor
 seo-backlinks
 seo-backlinks-saver
 seo-bar
+seo-batch-edit-hero
 seo-beginner-auto-post
 seo-blogger-to-wordpress-301-redirector
 seo-blogroll
@@ -80729,6 +80756,7 @@ sitemile-social-icons-widget
 sitemile-terms-of-use-agree
 sitenotice-generator
 siteobservers-for-wp
+siteoptimize-ai-auto-writer
 siteorigin-css
 siteorigin-panels
 siteorigin-slider
@@ -81537,6 +81565,7 @@ smart-maintenance-scheduler
 smart-manager-for-wp-e-commerce
 smart-map
 smart-marketing-for-wp
+smart-match-for-woocommerce
 smart-media-replacement
 smart-media-tools
 smart-menu-shortcode
@@ -85583,6 +85612,7 @@ superfrete
 superhero-avatars
 superior-faq
 superior-flickr
+superlight-cpt-manager
 superlinks
 superlinks-ads
 superlist-block
@@ -110557,6 +110587,7 @@ yeasfi-back-to-top
 yeblon-qr-code-generator
 yedpay-for-woocommerce
 yeecommerce-conditional-checkout-for-woocommerce
+yeediscounts
 yeekit-conditional-logic-for-contact-form-7
 yeekit-pdf-catalog-builder-for-woocommerce
 yeekit-signature-field-for-wpforms
@@ -111121,6 +111152,7 @@ yubikey-plugin
 yuewei
 yufi-epub-and-mobi-upload
 yufi-mac-files-upload
+yuga-login-form
 yugioh-card-links
 yuhi-smarter-content-controls
 yuko-integration
