@@ -399,6 +399,7 @@
 8-degree-notification-bar
 8-disable-right-click
 800-com-call-tracking
+800website-loyalty-rewards
 8080-barode-genertor
 87pixels-tinymce-advanced
 893-the-current-realtime-playlist
@@ -2936,6 +2937,7 @@ advanced-content-pagination
 advanced-control-for-gutenberg
 advanced-control-manager
 advanced-cookies
+advanced-countdown-timer-block
 advanced-country-blocker
 advanced-coupon-conditions-for-woocommerce
 advanced-coupon-for-woocommerce
@@ -3816,6 +3818,7 @@ ahn-feedsyndicate-news-content-plugin
 ahp-recent-posts
 ahp-tags-to-hashtags
 ahrefs-seo
+ahs-image-to-webp-converter
 ai
 ai-404-redirect
 ai-addons-for-elementor
@@ -6727,6 +6730,7 @@ asm-brush
 asm-manager
 asm-wc
 asmember
+asmkc-schema
 asmoney-woocommerce
 asmw
 asocial-bookmarks
@@ -8312,6 +8316,7 @@ avishi-floating-horizontal-navigation
 avishi-wp-paypal-payment-button
 aviso-de-cookies-de-amplifica
 avivid-signal
+aviya-ai-chatbot
 aviyo-cookie-consent
 avk-background-manager
 avk-shop
@@ -14870,6 +14875,7 @@ cartograf-cookie-filter
 cartograf-featured-image-in-feed
 cartographer
 cartoline-on-line
+carton-optimizer-for-woocommerce
 cartoon-url
 cartopress
 cartpanda
@@ -20681,6 +20687,7 @@ cradsense-under-image-reloaded
 craftgate-payment-gateway
 crafthemes-demo-import
 craftie-welcome-email
+craftify-ai-content-publisher
 craftwork-utilities-for-woocommerce
 crafty-clicks-postcode-lookup
 crafty-social-buttons
@@ -21673,6 +21680,7 @@ custom-author-bio
 custom-author-box
 custom-author-byline
 custom-author-permalink
+custom-auto-featured-image
 custom-availability-for-woocommerce
 custom-avatars
 custom-avatars-for-comments
@@ -24423,6 +24431,7 @@ develux-product-label-builder
 devenia-autoposter-for-linkedin
 devenia-replace-media
 devexhub-gallery
+devforge-admin-toolkit
 devformatter
 devgirl-countdown-clock
 devgirl-reviews-slider
@@ -25706,6 +25715,7 @@ dj-rotator-for-wordpress
 djd-site-post
 djhackraj-admin-template
 djmetabox
+djot-markup
 djpress
 djvu-integration
 dk-new-medias-image-rotator-widget
@@ -26523,6 +26533,7 @@ drnet-youtube
 droidyoursite
 droit-dark-mode
 droit-elementor-addons
+drona-role-based-form-access-cf7
 drop-a-deal-fomo-pop-ups
 drop-cap-shortcode
 drop-caps
@@ -29607,6 +29618,7 @@ elog
 elogo-wc-icin-fatura-islemleri-ucretsiz
 elokenz-most-shared-articles-for-authors
 eloquent
+eloquent-chatbot
 elpix-rate-post-in-comment
 elquarto
 elrist
@@ -46781,6 +46793,7 @@ jploft-facebook-twitter-wp-login
 jpress-admin-column-search
 jpress-archive
 jpro-cars
+jprompts-pixengine
 jps-affiliate
 jps-get-rss-feed
 jpssp
@@ -51939,6 +51952,7 @@ macks-poker-news-feed
 macks-premier-league-news-feed
 macme
 macro-expander
+macro-tech-titan-ai
 mactrak
 macymed-link-tracker
 maczin-widgets-toggle
@@ -53668,6 +53682,7 @@ mediagauge-streaming-media-analytics
 mediahaven-lite
 mediahawk-call-tracking
 mediahub
+mediahue-media-rename-auto-alt-text
 mediajel-tracker
 medialab-oembed
 medialibrary-feeder
@@ -54053,6 +54068,7 @@ menu-in-menu
 menu-in-post
 menu-item-ancestor
 menu-item-anchor-ref-to-class
+menu-item-badges-admin-fields
 menu-item-custom-attributes
 menu-item-custom-fields
 menu-item-duplicator
@@ -55023,6 +55039,7 @@ miro-hristov-rss-reader
 mirrar
 mirror
 mirror-app-social-gallery
+mirror-app-social-mix
 mirror-app-social-page
 mirror-gravatar
 mirror-posts
@@ -55079,6 +55096,7 @@ mitrapay-payment-gateway
 mitsol-tweets
 mitsukaranakatta
 mitt-pwa
+mittwald-ai-provider
 mitwitter
 mitxen-lms
 mity-interactive-video
@@ -56255,6 +56273,7 @@ mq-relinks
 mq-woocommerce-products-price-bulk-edit
 mqtranslate
 mqtranslate-separate-comments
+mqtt-plug
 mqttchat
 mr-backlink
 mr-block-pay-for-woocommerce
@@ -59879,7 +59898,6 @@ nuceyt-sayac-eklentisi
 nuclear-engagement
 nucleora-brightcove-importer
 nucleus-addons
-nuclia-search-for-wp
 nuconomy
 nuconomy-insights
 nucuta-password-protect
@@ -61631,6 +61649,7 @@ osom-block-visibility
 osom-for-youtube
 osom-login-page-customizer
 osom-modal-login
+osom-multi-theme-switcher
 osom-youtube-make-youtube-embed-block-privacy-friendly
 osomblocks
 oss-adfly-url-changer
@@ -65328,6 +65347,7 @@ podamibe-simple-footer-widget-area
 podamibe-social-icons-widget
 podamibe-twilio-private-call
 podamibe-twitter-feed-widget
+podbase
 podbean-shortcode
 podbuzzz
 podcast-box
@@ -71587,6 +71607,7 @@ referralyard
 referrer-analytics
 referrer-detector
 referrer-input-for-contact-form-7
+referrer-insights
 referrer-spam-blocker
 referrer-tracker-for-forms
 referrer-wp
@@ -72576,6 +72597,7 @@ reset-slugs
 reset-the-net-splash-screen
 reset-thumbnails
 reset-wp
+resetify
 resetstock
 reshareit-button
 reshareit-share-button
@@ -74327,6 +74349,7 @@ rucy
 rudimentary-information
 rudra-ai-auto-content-generator-for-website
 rudra-image-optimizer
+rudrastyh-product-sync-for-woocommerce
 rufilenametranslit
 ruigehond-embed
 rulehook-connector
@@ -76047,6 +76070,7 @@ seedtag
 seedtrace-transparency
 seedx-video-gallery-for-woocommerce
 seeing-red
+seekmake
 seekxl-snapr
 seel-worry-free-purchase
 seemax-sidebar-resize
@@ -76147,6 +76171,7 @@ selective-thumbnail-regenerator
 selective-tweets
 selectivizr
 selecto
+selectpress-image-optimizer-webp-avif-converter
 selectyco
 self-check-in
 self-guided-tour-itineraries-from-unanchorcom
@@ -76766,6 +76791,7 @@ sepyra-analytics
 seqrly
 sequel
 sequence-animation
+sequensy
 sequential-invoice-numbers
 sequential-order-numbers-for-woocommerce
 sequential-post-number-display
@@ -77878,6 +77904,7 @@ shortcode-options
 shortcode-pagination-for-woocommerce
 shortcode-plugin-download-counter
 shortcode-poll
+shortcode-popup-forms
 shortcode-post-list
 shortcode-pour-atmo-auvergne-rhone-alpes
 shortcode-preview
@@ -81477,6 +81504,7 @@ smart-content-expiry
 smart-content-generator
 smart-content-links
 smart-content-protection-tool
+smart-content-sync
 smart-cookie-kit
 smart-copy-protect
 smart-copy-protection-lite
@@ -81747,6 +81775,7 @@ smartcat-video-image-slider
 smartcat-wpml
 smartchat
 smartcheckout
+smartcloud-ai-kit
 smartcoin
 smartcookiebar
 smartcounter
@@ -83128,6 +83157,7 @@ soulcity-feel-the-city
 souliyo-key
 soulmatch
 soumettre-fr
+sound-money-info-quotes-widget
 soundbeat-widget
 soundcheck
 soundcloud-featured-tracks-widget
@@ -84017,6 +84047,7 @@ stacks-access
 stacks-mobile-app-builder
 stacksight
 stacksuite-designer
+stacksuite-sales-manager-for-woocommerce
 stacktack
 staempfli-crowd-login
 staff-directory
@@ -87276,6 +87307,7 @@ tedtalks-for-wordpress
 teduca-palettes
 tedwp
 teechart
+teecontrol-course-data
 teedee-chatbots
 teemill-sustainable-print-on-demand
 teen-spirit
@@ -91256,6 +91288,7 @@ tynt-insight-for-wordpress
 tyntcom-for-wordpress
 type-a-file
 type-geez
+type-wr
 typea-ftc-disclosure
 typeahead
 typebot
@@ -92302,6 +92335,7 @@ upladobe
 uplatnica
 upleitor
 uplexa-woocommerce-gateway
+uplizd-chat
 upload-add-on-for-woocommerce
 upload-am-file-hosting-vpn
 upload-any-mime-types
@@ -93002,6 +93036,7 @@ utf8ize
 uthsc-wpcas
 utilities-for-mtg
 utilitify
+utility-kit
 utility-pack-for-wp-all-export
 utilitygenius-widget
 utitle-plugin
@@ -94503,6 +94538,7 @@ vn-links
 vn-luanar-calendar
 vn-lunar-calendar
 vn-manage-report
+vn-speed-optimizer
 vnative
 vnative-advertiser
 vnecategory
@@ -111251,6 +111287,7 @@ zamango-page-navigation
 zamen
 zamir
 zamkai-video-gallery-for-youtube
+zamzam-post-grid-blocks
 zang
 zanjir-cryptocurrency-payment-gateway-for-woocommerce
 zanmantou
