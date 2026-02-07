@@ -18040,6 +18040,7 @@ coingate-for-woocommerce
 coingeckocom-price-tracker
 coinify-for-woocommerce
 coinilla-bitcoin-payment-gateway
+coinley-payment-gateway
 coinmall
 coinpal-payment-gateway2
 coinpaprika
@@ -19477,6 +19478,7 @@ content-expire-scheduler
 content-feature-image
 content-fetcher
 content-finder
+content-flow-manager
 content-flow3d
 content-for-money
 content-for-multiple-courses-in-learnpress
@@ -33324,6 +33326,7 @@ febrone-vc-addons
 fecha
 fedex-ups-usps-parcel-tracking-system
 fedex-woocommerce-shipping-method
+fediboost
 fediverse-embeds
 fedora-11-countdown-widget
 fee-recovery-for-givewp
@@ -44505,6 +44508,7 @@ ingenidev-morocco-mad-currency-symbol-changer
 ingenidev-oman-omr-currency-symbol-changer
 ingenidev-small-order-fee
 ingenidev-uae-shipping-emirates
+ingenidev-uk-zones-and-counties-for-wc
 ingenious-advertiser-tracking
 ingoals-twitter-updater
 ingresse-embed-button
@@ -45059,6 +45063,7 @@ integrate-pods-act-yoast-seo
 integrate-polarsteps
 integrate-posthog-web-analytics
 integrate-razorpay-contact-form-7
+integrate-rybbit
 integrate-sendbird-chatbot-by-renstar-ai
 integrate-sharpspring-and-gravity-forms
 integrate-skype
@@ -60542,6 +60547,7 @@ omnicard-lite
 omnicommerce-connector-for-woocommerce
 omnicommerce-integracion-para-dragonfish
 omnicommerce-integracion-para-lince-indumentaria
+omnieditor-notes-board
 omnifeed
 omniform
 omnify-widget
@@ -62476,6 +62482,7 @@ paldesk-live-chat-helpdesk
 paldrop-dropbox-shop
 paletly-shop-similar
 pallet-packaging-for-woocommerce
+pallet-sales-for-ecommerce
 palmodule-paypal-payment-for-woocoomerce
 palomma
 paloose-xml-processor
@@ -67464,6 +67471,7 @@ price-table-for-wpbakery-page-builder
 price-tracker-for-woocommerce
 price-watch-for-amazon
 price-woocommerce-feed-generator
+priceboard-lite
 pricecommerce
 pricefish-pricing-tables
 pricegarcon
@@ -73854,6 +73862,7 @@ roi-calculator
 roi-hunter-easy-for-woocommerce
 roi-master
 roi-seo
+roidnet-ai-content-generator
 rokgallery-background-slideshow
 rokgallery-pages-list
 rokgallery-shortcode
@@ -83523,6 +83532,7 @@ speed-contact-bar
 speed-demon-littlebizzy
 speed-made-easy
 speed-mate
+speed-matrix
 speed-matters
 speed-sense
 speed-test
@@ -87812,6 +87822,7 @@ textx
 texty
 textyourwebsite-com
 texy
+teya-payments-for-woocommerce
 teylos-pricing-table-woocommerce
 tezropay-checkout-for-woocommerce
 tf-bp-profile-field-maps
@@ -92686,6 +92697,7 @@ user-analysis
 user-and-document-monitoring
 user-and-login-management
 user-and-options-manager
+user-approval-manager
 user-assign-categories
 user-audit
 user-avatar
