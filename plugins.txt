@@ -269,6 +269,7 @@
 3r-elementor-timeline-widget
 3rd-party-authentication
 3rd-party-request-manager
+3task-calendar
 3task-glossary
 3veta
 3wart-content-performance-heatmap-light
@@ -7406,6 +7407,7 @@ authy-two-factor-authentication
 authyo-chatlead
 authyo-otp-authentication-for-woocommerce
 authyo-otp-for-contact-form-7
+authyo-otp-for-forminator-form
 authyo-otp-for-ninja-forms
 authyo-otp-for-wpforms
 authyo-passwordless-login
@@ -11343,6 +11345,7 @@ blog-introduction
 blog-juice
 blog-layout-design
 blog-layouts
+blog-link-hover-preview
 blog-linkit
 blog-lister
 blog-manager-light
@@ -11808,6 +11811,7 @@ boldgrid-backup
 boldgrid-connect
 boldgrid-easy-seo
 boldify
+boldpost
 boldtostrong
 boldwallet-mycred
 boleto-cora
@@ -17567,6 +17571,7 @@ cloudusk-2fa-two-factor-authentication
 cloudvps-object-store
 cloudware-city-authentication
 cloudwatch
+cloudways-site-manager
 cloudwok-file-upload
 cloudwork-verifi
 cloudy-tags
@@ -18618,6 +18623,7 @@ comments-on-feed
 comments-plus
 comments-policy
 comments-posted-elsewhere
+comments-press-zone
 comments-rating
 comments-ratings
 comments-reactions
@@ -22970,6 +22976,7 @@ dabble-logo
 dabble-slider
 dabble-social-media
 dabkrabe
+dabl-restaurant-reservations
 dable
 dachat
 dad-jokes-generator
@@ -33995,6 +34002,7 @@ firesoft
 firestats-charts
 firestorm-real-estate-plugin
 firestudio
+firetap-knowledge-panel-schema
 firevert
 firewall-security
 firework-videos
@@ -38172,6 +38180,7 @@ giantcampaign
 giantwp-discount-rules
 giao-hang-sieu-toc
 gibbertext
+gif-animation-fix-for-woocommerce
 gif-animation-preview
 gif-controller
 gif-image-resize
@@ -40857,6 +40866,7 @@ headless-rest-api-security
 headless-single-sign-on
 headless-wc
 headless-wp
+headlesskey-jwt-auth
 headline
 headline-analyzer
 headline-booster-ai-title-suggestions
@@ -41293,6 +41303,7 @@ hhg-for-translatepress
 hi-ads
 hi-deas-website-dialer
 hi-easyfacebook-comments
+hi-express-for-woocommerce
 hi-fcm-firebase-cloud-messaging
 hi-guru-webmessage
 hi-heat-map
@@ -45095,6 +45106,7 @@ integration-dynamics
 integration-e-conomic-for-woocommerce
 integration-for-baazarvoice
 integration-for-beaver-themer
+integration-for-billingo-fluentcart
 integration-for-billingo-gravity-forms
 integration-for-billingo-woocommerce
 integration-for-breakdance-and-wpml
@@ -48010,6 +48022,7 @@ kit-com
 kit-days-away
 kit-product-for-woocommerce
 kitab
+kitbix-commerce
 kitblocks
 kitbuilder
 kitcart
@@ -51843,6 +51856,7 @@ luxento-lite-toolkit
 luxento-toolkit
 luxicar-lite-toolkit
 luxury-hotel-booking-lite
+luzid-content-scheduler
 luzuk-photo-gallery
 luzuk-slider
 luzuk-team
@@ -53430,6 +53444,7 @@ mcninja-post-styles
 mcode-video-overlay
 mconvert-currency-converter
 mcp-for-woocommerce
+mcp-tracker
 mcping
 mcpopup-popup-form-for-mailchimp
 mcq-test
@@ -53470,6 +53485,7 @@ mdc-youtube-downloader
 mdemch-embed-checker
 mdi-custom-alt-text-for-elementor-image-widget
 mdi-http-referer-block
+mdi-persist-query-string
 mdirector-newsletter
 mdjm-google-calendar-sync
 mdjm-to-pdf
@@ -71064,6 +71080,7 @@ rearrange-comment-form
 rearrange-woocommerce-products
 rearviewmirrorwp
 reaseo
+reasonable-spread
 rebel-cookies-notification
 rebel-slider
 rebelmouse-plugin-light
@@ -74849,6 +74866,7 @@ salesviewer-integration
 salesvista-for-woocommerce
 salesworks-media-sitemap
 saleztalk
+salmanpatnee-mpgs-for-woocommerce
 salmon
 salon-booking
 salon-booking-system
@@ -77292,6 +77310,7 @@ sharebacks
 sharebar
 sharebear-social-share-buttons
 shareboost
+sharebox-ai
 sharebttns
 sharebuddy
 sharebuttons
@@ -81215,6 +81234,7 @@ slidely-slideshows-embed
 slidenote-for-wordpress
 slidenswap-gallery
 slideonline
+slidepdf
 slidepost
 slideposts-ajax-pagination
 slidepress
@@ -81828,6 +81848,7 @@ smartemailing
 smarter-analytics
 smarter-archives
 smarter-navigation
+smarter-search-products-posts
 smartfilter
 smartfolio
 smartfootnotes
@@ -83024,6 +83045,7 @@ sold-alerts
 sold-out-badge-for-woocommerce
 soldi-pubblici
 soldpress
+soldsteps-demo-import
 solea
 soleaspay-payment-gateway-for-woocommerce
 solicitors-nationwide-conveyancing-comparison-tool
@@ -85006,6 +85028,7 @@ striper
 stripewp
 stripshow
 striptease
+strivewp-image-attributes-manager
 strobe-ticketing
 strong-admin
 strong-authentication
@@ -92441,6 +92464,7 @@ uploads-by-proxy
 uploads-folder
 uploads-for-woocommerce
 uploads-protector
+uploads-unleashed
 uploagin
 upm-html-tag-manager
 upm-polls
@@ -92614,6 +92638,7 @@ us-debt-clock
 us-debt-clock-widget
 us-heat-map
 us-lottery-results-ai-stats-nichebrai
+us-states-visited-map
 us-weather-widget-willyweather
 us-zoom-tweet-instant
 usability-feedback
@@ -93407,6 +93432,7 @@ vd-likes
 vd-my-header-footer
 vd-ratings
 vd-settings
+vdl-ai-seo
 vdocipher
 vdpetform
 vdslider
@@ -96556,6 +96582,7 @@ website-visitor-converter-by-lead-liaison
 websitealive
 websiteanalist
 websitechatnet-live-support
+websitecrawler-seo-dashboard
 websitedefender-wordpress-security
 websiteoptimizer-ai
 websitescanner-custom-schema
@@ -109974,6 +110001,7 @@ wurmfarm-klima-monitor
 wustage
 wuunder-dynamic-checkout
 wuunder-for-woocommerce
+wuunder-shipping
 wuwidget-booking-online-widget-by-wubook
 wux-blog-editor
 wuxt-headless-wp-api-extensions
