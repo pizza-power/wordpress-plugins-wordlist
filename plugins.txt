@@ -4974,6 +4974,7 @@ alt-report
 alt-rows-or-cols
 alt-tags-for-gravatar
 alt-tags-for-images
+alt-text-assistant
 alt-text-automator
 alt-text-describer
 alt-text-generator
@@ -6453,6 +6454,7 @@ arkayne
 arkayne-site-to-site-related-content
 arkcommerce
 arkhe-blocks
+arkhost-security-pack
 arkli
 arkpay
 arlen-woo-freecharge
@@ -18786,6 +18788,7 @@ competition-manager
 competitive-pricing-for-wc-and-gs
 competitor-price-comparison
 compfight
+compibot
 compilekit
 complete-admin-bar
 complete-admin-suite
@@ -19684,6 +19687,7 @@ contesthopper
 contests-from-rewards-fuel
 contexa-ai-search
 context-ai-product-description-generator
+context-alt
 context-manager
 context-sharing
 context-term-tidier
@@ -23957,6 +23961,7 @@ defer-css-addon-for-bwp-minify
 defer-media
 defer-parsing-of-javascript
 defer-transictional-emails-for-woocommerce
+defin-azul-text-find-replace
 define-constants
 define-server
 definitely-allow-mobile-zooming
@@ -24741,6 +24746,7 @@ digibyte-pay-for-woocommerce
 digicommerce
 digiconsent
 digicution-simple-twitter-feed
+digiforma
 digigroup-fb-fancy-gallery
 digikala-affiliate
 digikalascraper
@@ -25827,6 +25833,7 @@ dms-shortcode-module-for-divi
 dms3-woopoly
 dmscookie
 dmsguestbook
+dmsi-ddls-digital-downloads-licensing-subscriptions
 dmx-page-restriction
 dn-cookie-notice
 dn-facebook-customer-chat
@@ -43081,6 +43088,7 @@ ideta-livechat-chatbot
 idev-wp-like-and-dislike-counter
 idevcenter
 idevelop-floating-circle-button
+idevelop-simple-custom-admin-columns
 idienstlers-latex-code
 idienstlers-tracking-code
 idlcatsignalwp
@@ -47216,6 +47224,7 @@ jumpple
 jumpstart
 jumpstart-banners
 jumpstarter
+jumpsuitai-llms-txt
 juna-it-poll
 juna-video-gallery
 junaid-bhura-switch-blog-theme
@@ -54367,6 +54376,7 @@ metadas-version-removal
 metadata-seo
 metadata-viewer
 metadino
+metadologie-payments-and-subscriptions
 metagellan-3d-galleries
 metainfo-protection-by-skytells
 metal-social-share
@@ -61328,6 +61338,7 @@ optiontree-metabox-ui
 optiontree-shortcode
 optipic
 optipub
+optisize-webp-konwerter
 optistate
 optix-calendar
 optkit-conversion-rate-optimization-kit
@@ -61801,6 +61812,7 @@ out-of-stock-display-for-woocommerce
 out-of-stock-display-manager-for-woocommerce
 out-of-the-box
 outaigate-webchat-installer
+outblog-ai
 outbound-automation-contact-form-7-extension
 outbound-click-tracker
 outbound-link-manager
@@ -64548,6 +64560,7 @@ pinkify
 pinkify-it
 pinkvisual-api
 pinme
+pinnaclemarketing-login-redirect-for-ultimate-member
 pinnedurl
 pinnion
 pinnion-api-client-library
@@ -64688,6 +64701,7 @@ pix-por-piggly
 pixabay-images
 pixabay-images-gallery
 pixabay-media-downloader
+pixalia-image-assistant
 pixatopress-lite
 pixavid-random-pics
 pixazza
@@ -65744,6 +65758,7 @@ popup-box
 popup-builder
 popup-builder-block
 popup-builder-by-azexo
+popup-builder-maker-lite
 popup-by-supsystic
 popup-click
 popup-contact-form
@@ -68588,6 +68603,7 @@ provesource
 provide-forex-signals
 provide-live-help
 provide-support-live-chat
+provimedia-geo-widget
 provinces-and-districts-of-panama-for-woocommerce
 provincias-de-ecuador-para-woocommerce
 prowa-image-button
@@ -73016,6 +73032,7 @@ rest-api-to-miniprogram
 rest-api-toolbox
 rest-api-user-basic-authentication
 rest-api-widgets
+rest-armor-security
 rest-cache
 rest-cent-donations
 rest-client-tap
@@ -74646,6 +74663,7 @@ sackson-web-data
 sacoronavirus-link
 sacredbits-remove-website-link-input-field-from-comment-form-of-post
 sadad-payment
+saddam-hossen-webp-optimizer
 sadded-by-sadad
 sadesign-password-generator
 sadhguru-quotes
@@ -77462,6 +77480,7 @@ shieldclimb-remove-hentry-and-hatom
 shieldclimb-reviews-tab-before-description
 shieldclimb-variation-radio-buttons
 shieldfy
+shieldgate
 shieldpass-admin-authentication
 shieldpass-two-factor-authentication
 shieldsquare
@@ -77593,6 +77612,7 @@ shipping-methods-by-classes
 shipping-mipaquete-woocommerce
 shipping-nova-poshta-for-woocommerce
 shipping-on-product-page-for-woocommerce
+shipping-online-tracker-for-ctt
 shipping-option-conditions-wc
 shipping-options
 shipping-per-neighborhood-for-woocommerce
@@ -83954,6 +83974,7 @@ squirrels-auto-inventory
 squirrly-seo
 sqweb
 sr-childpages
+sr-partial-payments-for-woocommerce
 sr-partner
 sr-piechirt-wp
 sr-post-like-dislike
@@ -85942,6 +85963,7 @@ svelto
 svenska-namnsdagar
 svenskatemadagar
 svensoft-social-share-buttons
+svetlik-analytics-for-contact-form-7
 svg-autocrop
 svg-automotion
 svg-block
@@ -88220,6 +88242,7 @@ theepi
 thefeedfeed-reposter
 thefinancials-market-widgets
 theforge-single-product-checkout
+theforge-smart-cod-control-fraud-blocker-for-woocommerce
 thefork-button
 thefork-widgets
 thegdprlaw
@@ -89935,6 +89958,7 @@ tracks2map
 tracksend-for-woocommerce
 trackserver
 tracksharp
+tracksheet-by-cxd
 trackship-for-woocommerce
 tracktastic
 tracktechio-integration
@@ -96405,6 +96429,7 @@ webmiro-bluepay-woo-addon
 webmob-social
 webnews-plugin-german
 webnlive-ai-assistant
+webnns-quick-connect
 webo-facto-connector
 webo-site-insight
 webo-site-speedup
