@@ -1965,6 +1965,7 @@ additional-charge
 additional-charges-on-wc-checkout
 additional-checkout-fields-for-woo
 additional-content
+additional-css-shortcut
 additional-email-for-order-by-category
 additional-email-recipients
 additional-featured-images-and-media-uploader-anywhere
@@ -5975,6 +5976,7 @@ api2cart-live-shipping-4-woocommerce
 api2cart-webhook-helper
 apicheck-automatische-adres-aanvulling
 apicheck-contact-form
+apicoid-ghostwriter
 apidae-insertion-widget
 apijoin-gumroad
 apiki-ajax-order-pages
@@ -19014,6 +19016,7 @@ connect-pocket-to-website
 connect-polylang-elementor
 connect-profilepress-and-discord
 connect-restrictcontentpro-to-discord-addon
+connect-revenda-store-locator-pos
 connect-sendgrid-for-emails
 connect-shopify-and-woocommerce
 connect-sociallymap
@@ -19035,6 +19038,7 @@ connect2form-advanced-contact-form-builder-with-marketing-tools
 connect2site
 connecta
 connectacrowd-push-notifications
+connectapre
 connected-sermons
 connected-web
 connectid-business
@@ -20924,6 +20928,7 @@ crisp-slider
 crisply-time-tracking
 crispycohd-advanced-accordion-block
 crispycohd-gated-content-block-lite
+crispycohd-interactive-hotspot-image-lite
 critical-css
 critical-css-for-wp
 critical-net-fraud-prevention
@@ -24714,6 +24719,7 @@ dig-breadcrumb
 dig-description
 dig-title
 diga-cultura-pvr-button
+digages-website-monitor
 digent-smart-ai
 digest
 digest-post
@@ -34727,6 +34733,7 @@ floating-wishlist-for-woo
 floatingsocialmediapopout
 floatwarning
 floaty-book-now-chat
+floatyfaq
 floatyheader-sticky-header
 floatysocial-awesome-social-floating-sidebar
 flockler
@@ -39896,6 +39903,7 @@ gravitywp-merge-tags
 gravy-events-widgets
 gravyware-quick-links
 gray-login-customizer
+gray-sms
 grayscale
 grayscale-body
 grayscale-images
@@ -51952,6 +51960,7 @@ m7-go-top
 m77-spotify-embed
 ma-contact-form-7
 ma-e-boutique
+ma-smart-image-cleaner
 ma-teyahch
 ma-visioconference-visio-chat
 ma3rifa-footnote
@@ -55062,6 +55071,7 @@ minutemailer-subscribe
 minutes-agendas-newsletters
 minutes-city-linker
 mio-custom-resent-posts-widget
+mioguard-for-contact-form-7
 mipl-cf7-crm
 mipl-stockist-store-locator
 mipl-wc-checkout-fields
@@ -55916,6 +55926,7 @@ moody
 moody-weather
 moohpay
 moojax-comment-posting
+mool-role-restrictor
 moolah-e-commerce
 moolamojo
 moolre-payment-gateway
@@ -59825,6 +59836,7 @@ nowpayments-becrypto-gateway-for-woocommerce
 nowpayments-for-woocommerce
 nowpayments-payment-gateway-for-woocommerce
 nowplayingwp-v20
+nowpost-click-collect
 nowshop
 nowtalk
 nowthen-photo-display
@@ -62660,6 +62672,7 @@ parkingpro-booking-widgets
 parknav-wp
 parkopedia
 parks-parker-post-formats
+parksystem
 parku-search
 parkvisitor-park-finder
 parle
@@ -67102,6 +67115,7 @@ pramadillo-priceline-partner-network
 prankzapper
 pranshtech-301-redirect-manager
 pratik-yemek-tarifleri
+praveenmalv-image-text-carousel-for-elementor
 pravel-rent-sell-addon-for-woocommerce
 pravin-smart-content-scheduler
 pray-for-japan
@@ -67830,6 +67844,7 @@ proclaimer
 procommerca-booking
 procure-eminence-theater
 prodalet
+prodfaq
 prodibi-photo-library
 prodigy-commerce
 prodii-presentation-for-teams-and-organisations
@@ -73243,6 +73258,7 @@ retack-ai
 retaggr
 retail-media-network-onet-ads
 retailer-today-group-api
+retailers-management-for-woocommerce
 retailmaven
 retain
 retain-author
@@ -73746,6 +73762,7 @@ rj-socal-media-in-widget
 rjw-flickr
 rjw-thinglink
 rjw-twitter
+rk-ai-post-reader
 rk-currency-rates
 rk-hreview-for-wp
 rk-image-upload
@@ -78762,6 +78779,7 @@ simple-antispam
 simple-app-changelogs
 simple-archive-generator
 simple-archives
+simple-article-byline
 simple-attributes
 simple-attribution
 simple-audio-player
@@ -82216,6 +82234,7 @@ snap-tales
 snap-tweet
 snap-video-gallery
 snapapp
+snapaura-menu-manager
 snapbase-jquery-popup
 snapbase-theme-engine
 snapcache
@@ -83603,6 +83622,7 @@ speedmetriks
 speedox
 speedplus-antimat
 speedplus-optimini
+speedpress-for-woocommerce
 speedron-speed-test
 speedsearch
 speedship-myunishippers-rating
@@ -94331,6 +94351,7 @@ visibility-warning
 visible-easy-gallery
 visible-gallery
 visible-stock-threshold-for-woocommerce
+visiblefirst
 visibli
 visidea
 visideign-login
@@ -96320,6 +96341,7 @@ webeki-soccer-scores
 webemailprotector
 webena-mellat-pay
 webengage
+webequipe-pdf-search
 webequipe-spin-win-wheel
 webera-redcase
 weberino-timed-quiz-creator
@@ -108572,6 +108594,7 @@ wpc-product-tabs
 wpc-product-videos
 wpc-role-based-payment-methods
 wpc-role-based-shipping-methods
+wpc-selective-cart-items
 wpc-server-ping
 wpc-share-cart
 wpc-shop-as-customer
@@ -111956,6 +111979,7 @@ zx-csv-upload
 zxcvbn
 zycoonapps-login-sms-alert
 zyflora-ai-article-generator
+zyflora-analytics
 zyflora-easy-multi-platform-retargeting
 zyflora-landing-page-templates
 zyflora-media-share-widget
@@ -111965,6 +111989,7 @@ zynatic-medlemsregister
 zypento
 zypento-abandoned-cart-recovery
 zypento-agilecrm
+zypento-blocks
 zypento-mailchimp
 zypento-quick-view-for-woocommerce
 zypento-wishlist-for-woocommerce
