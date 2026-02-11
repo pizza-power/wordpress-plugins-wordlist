@@ -627,6 +627,7 @@ abdul-wp-plugin
 abe-caf-donate
 abeta-punchout
 abg-rich-pins
+abilities-bridge
 ability
 ability2read
 abitgone-commentsafe
@@ -817,6 +818,7 @@ accessibility-enabler
 accessibility-enhancer
 accessibility-font
 accessibility-font-resizer
+accessibility-guard
 accessibility-help-button
 accessibility-helper-wr
 accessibility-language
@@ -7426,6 +7428,7 @@ auto-advance-for-gravity-forms
 auto-age
 auto-ai-featured-image
 auto-aliexpress-dropshipping
+auto-alt-image-meta
 auto-alt-text
 auto-alt-text-for-images
 auto-amazon-product-widget
@@ -8576,6 +8579,7 @@ awp-disallow-root-control
 awp-placeholder-variable
 awp-s2m-pro-cc
 awpcp-listing-grid-view
+awpd-product-delete-for-woocommerce
 aws-auto-ses
 aws-cdn-by-wpadmin
 aws-cookies-popup
@@ -9215,6 +9219,7 @@ bao-kim-payment-gateway-for-woocommerce
 baobrain-analytics-for-woocommerce
 baokimvn-payment-gateway-for-woocommerce
 baqend
+baqibot
 bar-pie-chart
 barack-obama-sidebar-widget
 barbas-default-wp-mail-sender
@@ -10539,6 +10544,7 @@ big-surprise
 big-voodoo-mega-menu-related-links-menu
 bigad-wp
 bigbad-agency-product-linked-attributes-mapper-for-woocommerce
+bigbad-store-hours
 bigbluebutton
 bigboss-all-in-one-facebook-social-widget
 bigboss-cpt-post-widget
@@ -11107,6 +11113,7 @@ block-editor-for-products
 block-editor-for-woocommerce
 block-editor-gallery-slider
 block-editor-navigator
+block-editor-roles
 block-editor-search-replace
 block-editor-social-embeds
 block-editor-taxonomy-description
@@ -13605,6 +13612,7 @@ bulk-delete-product-images
 bulk-delete-unused-images
 bulk-delete-users-by-email
 bulk-delete-users-by-keyword
+bulk-deployer
 bulk-description-update
 bulk-download-for-gravity-forms
 bulk-draft-creator
@@ -14426,6 +14434,7 @@ camoo-sms
 camoo-sso
 campagin-monitor-dual-registration
 campaign
+campaign-ai
 campaign-archive-block-for-mailchimp
 campaign-kit-twitter-widget
 campaign-monitor-api-create-and-send
@@ -14501,6 +14510,7 @@ cancanit-review-widget
 cancel-order-request-woocommerce
 cancellation-surveys-offers-for-woo-subscriptions
 cancelled-order-email-notification-for-woocommerce
+cancer-awareness-ribbon-shortcode
 candam-fotoware-editor-button-for-fotoweb8-base
 candescent
 candid-advanced-toolset
@@ -23534,6 +23544,7 @@ davidson-domains-tagger
 davons-floating-admin-bar
 davsy
 dawanda-shop-plugin
+daworks-outbound-mailer-for-ncloud
 day-counter
 day-finder
 day-of-week
@@ -26399,6 +26410,7 @@ dpdp-compliance
 dpdpa-compliance-india
 dpepress
 dpiordie
+dplab-pagestudio
 dplayer
 dplayer-for-wp
 dpnews
@@ -33930,6 +33942,7 @@ find-duplicates
 find-function
 find-me-elsewhere
 find-me-on
+find-missing-more-tags
 find-my-agent-user-and-switch-my-theme
 find-my-audience
 find-my-blocks
@@ -34875,6 +34888,7 @@ flussonic-media
 flutterwave
 flux
 flux-addons
+flux-ai-media-alt-creator
 flux-calendrier-des-courses
 flux-media-optimizer
 flux-payments-gateway
@@ -37589,6 +37603,7 @@ genuine-product-checker
 genwi-comments
 genzel-breadcrumbs
 geo
+geo-ai-booster
 geo-block
 geo-blocker
 geo-blogroll
@@ -37683,6 +37698,7 @@ geographical-redirect
 geoguard-country-access-manager
 geohtmlcom-geomarketing
 geoip
+geoip-content-switcher
 geoip-detect
 geojson-maps
 geokbd
@@ -40508,6 +40524,7 @@ ha-banners
 ha-css-background-generator
 ha-font-color-customizer
 haayal-ai-slug-translator
+habibur-comment-blocker
 habla-for-wordpress
 habla-im-your-readers
 habu
@@ -41223,6 +41240,7 @@ hero-maps-pro
 hero-portfolio
 hero-posts-lite
 hero-revisions
+hero-section-block
 hero-section-for-elementor
 hero-section-genesis
 hero-social-widget
@@ -47562,6 +47580,7 @@ kaskus-hot-threads
 kaskus-smiley
 kaskus-widget
 kaspa-payments-gateway-woocommerce
+kasperopay-for-woocommerce
 kassa-at-for-woocommerce
 kasviewer
 kata-motivasi-dan-mutiara
@@ -51666,6 +51685,7 @@ lowercase-urls-enforcer
 lowermedia-iframes-on-demand
 lowermedia-sticky-js-menus
 lowermedia-wp-social
+lowest-price-tracker
 lowlevel-webforms
 lowtechwp
 loxi-event-calendar
@@ -52609,6 +52629,7 @@ mam-css3-accordion
 mam-image-and-video-accordion
 mam-news-ticker
 mama-addons-for-elementor
+mamba-cache-for-woocommerce
 mambo-joomla-importer
 mambrum
 mametech-chat-button
@@ -61477,6 +61498,7 @@ order-minimum-amount-for-woocommerce
 order-monitor
 order-notification-for-telegram
 order-notification-for-telegram-bot
+order-notification-waba-nxc
 order-notifications-messaging-apps-for-woocommerce
 order-number-prefix-for-woocommerce
 order-on-chat-for-woocommerce
@@ -64731,6 +64753,7 @@ pixel-gallery
 pixel-manager-for-contact-form-7
 pixel-manager-for-woocommerce
 pixel-perfect
+pixel-post-grid
 pixel-pulse-for-woocommerce
 pixel-random-quotes-and-images
 pixel-sitemap
@@ -67118,6 +67141,7 @@ pratik-yemek-tarifleri
 praveenmalv-image-text-carousel-for-elementor
 pravel-rent-sell-addon-for-woocommerce
 pravin-smart-content-scheduler
+praxis-booking
 pray-for-japan
 pray-for-me
 pray-for-paris
@@ -74388,6 +74412,7 @@ rt-simple-post-and-page-list
 rt-slider
 rt-stock-manager-for-woocommerce
 rt-webhook-for-contact-form-7
+rt-webhook-for-gravity-forms
 rt-widget-statistics
 rt-wp-logo-slider
 rta-restricted-to-adults-header
@@ -74694,6 +74719,7 @@ safan-doc
 safan-enable-svg
 safan-guest-post
 safari-push
+safe-activate
 safe-ad-network
 safe-ai-malware-protection-for-wp
 safe-and-secure-wp
@@ -74755,6 +74781,7 @@ safestream
 safetag
 safetemplogin-tawa
 safety-exit
+safety-exit-button-quick-exit
 safety-jacket-patreon-connect
 safety-passwords
 safetymails-forms
@@ -75693,6 +75720,7 @@ sd-meeting-tool
 sd-pdf-template-customizer
 sd-questions-and-answers
 sd-simple-antispam
+sd-smart-text-replacer
 sd-sms-master
 sd-timer
 sdac-author-search
@@ -84438,6 +84466,7 @@ steam-api-widget
 steam-community-gamestats-widget
 steam-community-gamestats-widget-german-deutsch
 steam-community-gamestats-widget-germandeutsch
+steam-dash-trailer
 steam-group-viewer
 steam-group-widget
 steam-library-gt
@@ -86273,6 +86302,7 @@ symbiostock
 symbolset-shortcode
 symfony-vardumper
 symfopress-lite
+symmetria-smart-images
 sympathy-for-the-devil
 sympose
 symptoma-covid19
@@ -86999,6 +87029,7 @@ taro-open-hour
 taro-series
 taro-taxonomy-blocks
 tarokina-free
+taros-chat-widget
 tarot
 tarot-and-horoscope
 tarot-diario
@@ -88613,6 +88644,7 @@ thoof-submit-and-rank
 thoora-wordpress-widget
 thorcommerce
 thorium-extension
+thormail-client
 those-were-the-days
 thoth-suggested-tags
 thoths-suggested-tags
@@ -91612,6 +91644,7 @@ uk-competition-entry-form
 uk-cookie
 uk-cookie-consent
 uk-food-hygiene-rating
+uk-gdpr-compliance-checker
 uk-lottery-results-widget
 uk-portfolio
 uk-property-research-tool
@@ -111576,6 +111609,7 @@ zenkipay
 zenlatest
 zenloop-woocommerce-nps-platform
 zenmetrics-for-woocommerce
+zennotice-warden
 zeno-chatbot-ai
 zeno-crypto-payment-gateway
 zeno-font-resizer
