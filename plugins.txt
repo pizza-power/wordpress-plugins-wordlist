@@ -11269,6 +11269,7 @@ blocks-for-bookwyrm
 blocks-for-churchsuite
 blocks-for-civicrm
 blocks-for-discogs
+blocks-for-discogs-sellers
 blocks-for-discogs-users
 blocks-for-documents-articles-and-faqs
 blocks-for-eventbrite
@@ -13138,6 +13139,7 @@ btcpay-greenfield-for-woocommerce
 btcpaywall
 btcquote
 btn-admin-login-customizer-pro
+btn-admin-restrictor
 btnbuddy-dynamic-floating-button
 btranslator
 btses-crypto-widget
@@ -14262,6 +14264,7 @@ calcform-calculator
 calcfusion-for-wp
 calcinss
 calconic
+calcslive-article-embed
 calculadora-gestacional
 calculate-bmr
 calculate-customers-savings
@@ -16675,6 +16678,7 @@ chip-get-image
 chipbot
 chiramise
 chiron
+chirp-instant-post-notifications
 chirpbox-chat
 chirphub-widget
 chirpyweb
@@ -18009,6 +18013,7 @@ coding-bunny-image-optimizer-lite
 coding-bunny-llms-generator
 coding-bunny-mail-smtp
 codingfreaks-cookiemanager
+codingmall-product-relay-for-woocommerce
 codious-chat-call-floating-buttons
 codious-external-links-opener
 codirun-codir2me-cdn
@@ -28532,6 +28537,7 @@ easycontent
 easycontentunits
 easycontract
 easycoupon
+easycoupon-scheduler-for-woocommerce
 easycpmods-toolbox
 easycron
 easydash-for-bricks
@@ -34092,6 +34098,7 @@ firstpage-sg-security-headers
 firstpromoter
 firsttimer
 fiscal-solution-for-e-commerce
+fiscalita-ita-light
 fiscomm-purs-e-fiscalisation
 fiserv-checkout-for-woocommerce
 fish-and-ships
@@ -36500,6 +36507,7 @@ funnelkit-payment-gateway-paypal-for-woocommerce
 funnelkit-payment-gateway-square-for-woocommerce
 funnelkit-stripe-woo-payment-gateway
 funnelplugins-cf-embed
+funnelwheel-country-based-pricing
 funny-blood-alcohol-calculator
 funny-branding
 funny-chat-bot
@@ -40140,6 +40148,7 @@ grouptivity
 grow-for-wp
 grow-with-woocommerce
 growanizer
+growats-donations-for-stripe
 growelfare-connect
 growffinity-crm-for-woocommerce
 growify-ai
@@ -41293,6 +41302,7 @@ hetjens-mediarss
 hetjens-registered-only
 hetzner-online-cloud-control
 heureka
+heurilens-ux-analyzer
 hex-coupon-for-woocommerce
 hex-framework
 hex-tcgbrowser-card-tooltips
@@ -48378,6 +48388,7 @@ kony-countdown
 kony2012
 konzilo
 koo-publisher
+kookoo-ai-alt-text-creator
 kool-multistep-product-configurator
 koolkit
 koopid-chat
@@ -49505,6 +49516,7 @@ lenky-related-links
 lenochat
 lens-calculator
 lens-media-library-folders
+lens2go-video-generator
 lenses-prescription
 lenxel-core
 leo-footer-echo
@@ -52114,6 +52126,7 @@ mage-reviews
 mage-slider
 mage-support-online
 mage-wp-sync
+magecomp-ai-description-generator-for-woocommerce
 magecomp-pincode-checker
 magee-custom-post
 magee-page-builder
@@ -53232,6 +53245,7 @@ master-shipping-for-woocommerce
 master-slider
 master-table-for-elementor
 master-whats-chat
+masterai-rankwriter
 masterbar-note
 masterbip-comunas-de-chile
 masterbip-for-elementor
@@ -54589,6 +54603,7 @@ mgb-masonry-image-gallery
 mgblog2blog
 mgosuppliers
 mgrt
+mh-accessibility
 mh-board
 mh-display-prayer-times
 mh-free-gifts-for-woocommerce
@@ -55597,6 +55612,7 @@ mobilook
 mobiloud-commerce
 mobiloud-mobile-app-plugin
 mobiloud-smart-app-banner
+mobimint-mobile-app-builder
 mobio-sms-lock
 mobiopush-notifications
 mobipaid
@@ -56177,6 +56193,7 @@ motif-youtube-wooocmmerce-product-feature-video
 motiforms
 motion
 motion-gallery
+motionix-elementor
 motionlab
 motionmagic
 motionpoint-express
@@ -58764,6 +58781,7 @@ nexlifydesk
 nexlogiq-amazon-s3-links-generator
 nexmind
 nexora-product-insights-for-woocommerce
+nexoy-pricing-rules
 nexron-ai-chat
 nexs-app-embed
 next-accordion-block
@@ -80066,6 +80084,7 @@ simple-slideshow-builder
 simple-slideshow-display
 simple-slideshow-manager
 simple-slug-translate
+simple-smart-business-hours-manager
 simple-smilies
 simple-smtp
 simple-smtp-by-maileroo
@@ -80979,6 +80998,7 @@ sitesassure-wp-malware-scanner
 sitesauce
 siteselector
 siteseo
+sitesidekick-ai-chatbot
 sitesights-analytics
 sitesignal
 siteskite
@@ -85461,6 +85481,7 @@ subscription-widget-for-sendgrid
 subscriptiondna
 subscriptionflow-add-on-for-paywall
 subscriptionflow-integration-for-woocommerce
+subscriptionflow-recurring-payments-for-woocommerce
 subscriptions-for-woo
 subscriptions-for-woocommerce
 subscriptions-memberships-for-paypal
@@ -89913,6 +89934,7 @@ tours
 toursys-connect
 tout
 tovaromen-woocommerce-1c
+tovik
 toxic-comments
 toxic-links-scanner
 toy-drive-community-edition
@@ -92600,6 +92622,7 @@ uploads-for-woocommerce
 uploads-protector
 uploads-unleashed
 uploagin
+uply-scroll-to-top-and-progress-bar
 upm-html-tag-manager
 upm-polls
 upmenu
@@ -96371,6 +96394,7 @@ webask
 webatta-deposit-for-wc-products
 webba-booking-lite
 webbersai-product-content-generator
+webbiz-toolkit
 webbricks-addons
 webburo-custom-wp
 webby-chat
@@ -96736,6 +96760,7 @@ webslicer2
 webslides-presentations
 websms-ru
 websms-ru-woocommerce
+websorcery-request-price
 webspeechapi-for-wp
 webspellchecker
 webspero-read-more-toggle
