@@ -490,6 +490,7 @@ a11y-buttons
 a11y-enhancer
 a11y-kit
 a11y-speech-synthesis
+a11ybridge
 a1ai-chatbot
 a1jspamguard
 a1post-bg-shipping-for-woocommerce
@@ -3734,6 +3735,7 @@ agent700-ai-chat
 agenteasy-properties
 agentic-commerce-protocol-chatgpt-product-feed-ovena-acp-for-woocommerce
 agentivo-chatbots
+agentorie-chat
 agentpress-broker-listings
 agentpress-listings
 agentpress-listings-taxonomy-reorder
@@ -6419,6 +6421,7 @@ aretk-crea
 aretopay-payment-gateway-for-woocommerce
 arevico-security-basic
 arewa-apk-apps-manager
+arewa-mobile-bottom-navigation-bar
 areyoupop-playpops
 arfaly-mass-multi-file-uploader
 arforms-form-builder
@@ -7105,6 +7108,7 @@ attributor-fairshare-plugin
 attributron-2000
 atum-stock-manager-for-woocommerce
 atwi-interview
+atxp-custom-post-types
 au-vizio
 aucor-core
 aucor-url-sanitizer
@@ -10889,6 +10893,7 @@ bizzio-sync-for-woocommerce
 bizzmagsmarketplace
 bizzmudra
 bizzorder
+bizzswatches
 bizzybees
 bj-facebook-popular-posts
 bj-lazy-load
@@ -23602,6 +23607,7 @@ db-share-count
 db-signatures
 db-size
 db-snapshot
+db-solution-2fa
 db-sync-for-excel
 db-table-viewer
 db-tables-importexport
@@ -23906,6 +23912,7 @@ decorator-woocommerce-email-customizer
 decoupled-preview
 dedicated-transients
 dedinomy
+deed-pay-woo
 deefbox
 deel-op-leesmee
 deema-affiliate-for-woocommerce
@@ -29256,6 +29263,7 @@ educator-woocommerce-integration
 eduhack
 edukit-assessed-posts
 edukit-notes
+eduma-courses-table-elementor
 edump
 edunext-openedx-integrator
 edupix
@@ -35522,6 +35530,7 @@ formed
 formello
 formenhancer
 formentor-elementor-form-plus
+formera
 formesign
 formester
 formfacade
@@ -40756,6 +40765,7 @@ hash-elements
 hash-form
 hash-hash-tags
 hash-link-scroll-offset
+hashagile-multisite-content-duplicator-translator
 hashbar-wp-notification-bar
 hashbuddy
 hashcash
@@ -41292,6 +41302,7 @@ herzog-dupont
 hes-dead-jim
 hesabfa-accounting
 hesabpay-gateway-for-woocommerce
+hesapis-market-data-gold-currency-crypto-prices
 heslo-login
 hester-core
 hestia-integration
@@ -44333,6 +44344,7 @@ indexhibit2-importer
 indexic-areservation
 indexisto
 indexjump-submitter
+indexmenow
 indexnow
 indexnow-pro-seznam-cz
 indexpro-url-indexing-manager
@@ -44392,6 +44404,7 @@ individual-notifications
 indizar
 indli-wordpress-plugin
 indo-shipping
+indobe-for-woocommerce
 indoeuropean-translator-widget
 indoge-social-share-pro
 indomap
@@ -44585,6 +44598,7 @@ ingenidev-uae-shipping-emirates
 ingenidev-uk-zones-and-counties-for-wc
 ingenious-advertiser-tracking
 ingoals-twitter-updater
+ingreedible
 ingresse-embed-button
 inhabit
 inherit-featured-image
@@ -48107,6 +48121,7 @@ kitestudio-core
 kitgenix-captcha-for-cloudflare-turnstile
 kitgenix-order-tracking-for-woocommerce
 kitgenix-pdf-invoicing-for-woocommerce
+kitgenix-stock-sync-for-woocommerce
 kiticon-icon-block
 kitpack-for-persian-elementor
 kits-templates-and-patterns
@@ -51505,6 +51520,7 @@ logistiq-shipping
 logistos
 logistra-woocommerce-integrasjon-fra-wildrobot-app
 loglink
+logmate
 logmouse
 logmycalls-dashboard
 logmytrip
@@ -51736,6 +51752,7 @@ loyal-customer-benignsource
 loyalgenie-loyalty-program-for-woocommerce
 loyalty-discounts-for-woocommerce
 loyalty-for-woocommerce
+loyalty-links
 loyalty-reward-points-for-hubspot
 loyalty-suite
 loyaltydog
@@ -51884,6 +51901,7 @@ lug-map2
 lugath
 lukas-tripster
 lukian-ai
+lukstack-uptime-monitor
 lul-me
 lumberjack
 lumeer-embed
@@ -54727,6 +54745,7 @@ midia-negocios-block-bot
 midnight-deals-for-woocommerce
 midtrans-woocommerce
 midwest-logistics
+miebadge
 mieruca-heatmap-tag-manager
 mietkaution-spende
 mietshop-shopsystem
@@ -55418,6 +55437,7 @@ mncombine
 mnml-footnotes
 mnmlwp-simple-contact-form
 mnotifysms-for-woo
+mnp-newsroom-popular-posts
 mntextselector
 mnumidesigner
 mnw
@@ -58832,6 +58852,7 @@ nextchat
 nextclick-page-recommendations
 nextclick-slideshow-post-navigation
 nextclick-widget
+nextdash
 nextdate
 nextend-accordion-menu
 nextend-auto-login-on-register
@@ -61157,6 +61178,7 @@ open-social
 open-social-login-for-china
 open-source-cv
 open-source-emoji
+open-source-event-calendar
 open-source-software-contributions
 open-table-widget
 open-trainer
@@ -61854,6 +61876,7 @@ otter-blocks
 otter-text-chat-widget
 otter-waiver-waiver-embed
 otterfixer-ai-bot-tracker
+otterfixer-task-board
 otterwp-animate-blocks
 otterwp-animate-blocks-test
 otterwp-buy-again
@@ -61947,6 +61970,7 @@ ouzayyts
 ovas-connector
 ovation-elements
 ovation-hall-analytics-code
+overbeta-image-testimonials-for-woocommerce
 overblocks
 overengineer-gasp
 overlapping-images-block
@@ -62453,6 +62477,7 @@ pageflip-adv
 pageflip-book
 pageflow-embeds
 pagefluent
+pageforge
 pagefrog
 pageglimpsebubble
 pagelayer
@@ -68484,6 +68509,7 @@ promobar
 promociones-mercado-pago
 promociones-tap
 promocode-manager
+promoforge-smart-campaigns-for-woocommerce
 promolayer-popup-builder
 promolivechat
 promotator
@@ -70933,6 +70959,7 @@ readable
 readable-names
 readabler-assistant
 readblog
+readease-text-resizer
 readefined-com-embedded-code
 readefined-com-troll-filter
 reader
@@ -71469,6 +71496,7 @@ reco-widget
 recobox
 recode-cron-viewer
 recognant-summarization-and-tagging
+recognyze-client
 recojo-por-otra-persona
 recolize
 recomaze-ai-personalization
@@ -73870,6 +73898,7 @@ rlm-elementor-widgets-pack
 rls2000
 rm-head-junk
 rm-mailchimp-manager
+rm-smart-redirects
 rm-wpcf7-recaptcha-defer
 rmdm-barra-brasil
 rmoov-link-removal
@@ -76003,6 +76032,7 @@ searchcraft
 searchekko
 searches-and-referrals
 searchfiltersort
+searchfit
 searchfit-shortcodes
 searchie
 searchify
@@ -77285,6 +77315,7 @@ shabbat-blocker
 shabbos-and-yom-tov
 shachipoco
 shader-carousel
+shader-grid
 shader-spiral-carousel
 shadow-screen-options
 shadow-terms
@@ -83392,6 +83423,7 @@ soup-show-off-upcoming-posts
 soup-waiter
 soupio-feed-widget
 soupio-widget
+souqmetrics-attribution-for-woo
 source
 source-affix
 source-cleanup
@@ -83523,6 +83555,7 @@ spam-to-blacklist
 spam-trap-for-contact-form-7
 spam-word-blocker
 spam-words
+spamanvil
 spamassassin-preferences
 spambam
 spambanana-ai-spam-protection
@@ -87090,6 +87123,7 @@ targetpop
 targetsms-ru-contact-form-7
 tariffuxx
 tarifvergleich-plugin-strom
+tarikul-hotel-booking-manager
 taringa-for-jetpack
 taro-ad-fields
 taro-browser-happy
@@ -87421,6 +87455,7 @@ team-vs
 team-with-skills-and-slider
 teamacle
 teamgate-crm-forms
+teamjuh-smart-chatbot
 teamleader-form-integration
 teamlinkt-sports-league-club-and-association-manager
 teammates
@@ -95116,6 +95151,7 @@ wage-conversion-calculator
 wagering-requirement-calculator
 wagga-wagga-web-custom-features
 wah-forms
+wahra-rentals-bookings
 wai-metrics
 wait-list-app
 waiteraid-booking
@@ -96569,6 +96605,7 @@ webmicro-payflowpro-woo-addon
 webminimalism-blocks
 webmiro-bluepay-woo-addon
 webmob-social
+webnalytics
 webnews-plugin-german
 webnlive-ai-assistant
 webnns-quick-connect
@@ -101079,6 +101116,7 @@ workiz
 workout-of-the-day
 workout-timer
 workoutlog
+workreadyai-data-sync
 workshop-butler
 worksiq-website-visitor-tracking
 workzen-connector
@@ -111066,6 +111104,7 @@ ym-fast-seo
 ym-gallery
 ym-online-comment
 ym-online-status
+ym-site-kit
 ym-twitter-feed
 ymaps-marker-field-for-acf
 ymc-crossword
