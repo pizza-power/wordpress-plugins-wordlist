@@ -19708,6 +19708,7 @@ contentside-semantic-platform
 contentstream
 contentstudio
 contentsuit-integration
+contenttrace
 contentview
 contentweaver-ai-lite
 contentwizard-quotes
@@ -30344,6 +30345,7 @@ enable-maintenance-mode
 enable-maintenance-page
 enable-mastodon-apps
 enable-media-replace
+enable-navigation-icons
 enable-numeric-slugs
 enable-oembed-discovery
 enable-or-disable-comments
@@ -31053,6 +31055,7 @@ etsy-shop-advanced-mod
 etsy-treasury-posting-tool
 etsy-widget
 etsy360
+eu-ai-act-ready
 eu-base-price-display
 eu-cookie
 eu-cookie-bar
@@ -37605,6 +37608,7 @@ genesis-widgetized-archive
 genesis-widgetized-footer
 genesis-widgetized-notfound
 genesis2-html5
+genform
 gengo
 genially-embed
 genie-business-payment-gateway
@@ -45556,6 +45560,7 @@ invoices-for-woocommerce
 invoicesonline
 invoicing
 invoicing-for-economic
+invoicing-integration-for-fakturownia-and-woocommerce
 invoicing-integration-for-fakturowo-and-woocommerce
 invoicing-integration-for-infakt-and-woocommerce
 invoicing-integration-for-wfirma-and-woocommerce
@@ -46840,6 +46845,7 @@ joomsport-achievements
 joomsport-prediction
 joomsport-sports-league-results-management
 joonbot
+jorgecastro
 jos-imgseo
 josie-api
 jot-data-manager
@@ -52353,6 +52359,7 @@ mailbigfile
 mailbluster4wp
 mailbob
 mailboxvalidator-email-validator
+mailbreeze
 mailbul
 mailbuzz
 mailcamp
@@ -59017,6 +59024,7 @@ nginx-manager
 nginx-mobile-theme
 nginx-proxy-cache-integrator
 nginx-proxy-cache-purge
+ngm-content-ai
 ngo-branding
 ngo-concert
 ngo-list
@@ -61600,6 +61608,7 @@ order-role-manager-for-woocommerce
 order-sales-popups-for-woocommerce
 order-search-repair-for-woocommerce
 order-signature-for-woocommerce
+order-sms-for-woocommerce
 order-sms-notification
 order-sms-notification-woocommerce
 order-status-control-for-woocommerce
@@ -68279,6 +68288,7 @@ productive-commerce
 productive-demo-importer
 productive-forms
 productive-style
+productlinker-for-amazon
 productlisters
 productprint
 products
@@ -83295,6 +83305,7 @@ sony-touch-edition-black-widget
 sony-touch-edition-red-widget
 sony-touch-edition-silver-widget
 sonypayment-light-for-woocommerce
+sookie-cmp
 soometa
 sooon-page-site-under-construction
 sooqr-site-search
@@ -111097,6 +111108,7 @@ yith-woocommerce-watermark
 yith-woocommerce-wishlist
 yith-woocommerce-zoom-magnifier
 yivic-easy-live-chat-express
+ylabs-connector-for-wpwriter
 yld-server-information
 ym-contact-display
 ym-fast-options
