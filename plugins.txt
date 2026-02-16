@@ -6216,6 +6216,7 @@ appsadm-utm-widgets-for-elementor
 appsaur-localization
 appsaur-twp-youtube
 appscenic
+appscreo-visual-css-customizer
 appsell
 appsero-helper
 appsfruit-embed-for-elementor
@@ -11071,6 +11072,7 @@ blobinator
 blocdash-backend-dashboard-toolkit
 block-a-saurus
 block-accessibility-checks
+block-account-create-login-by-country-grc
 block-admin
 block-admin-user-logins
 block-ads-to-bitcoin
@@ -13124,6 +13126,7 @@ bt-customizer-plus-lite
 bt-faq
 bt-ipay-payments
 bt-multi-image-portfolio
+bt-svg-viewer
 bt-translator
 bt-widget
 bt2image-sphere
@@ -13149,6 +13152,7 @@ btnbuddy-dynamic-floating-button
 btranslator
 btses-crypto-widget
 bttlive
+btw-admin-boost
 btw-importer
 bu-learning-blocks
 bu-navigation
@@ -17360,6 +17364,7 @@ clickrank-ai
 clicks-counter
 clicks-to-reveal
 clicksco-offerstack
+clickscroll-content-loader
 clicksell-photos
 clicksend-contactform7
 clicksend-formcraft-sms-add-on
@@ -24370,6 +24375,7 @@ design-tokens-manager-for-elementor
 design-upgrade-learndash
 designbro-business-name-generator
 designcontest-feed
+designedfordistinction-mailpoet-optin-for-formidable-forms
 designer
 designer-for-elementor-lite
 designer-inspirer
@@ -29109,6 +29115,7 @@ edge-cdn
 edge-expansion
 edge-gallery
 edge-images
+edge-link-router
 edge-plugin-switch
 edge-suite
 edgeio-classifieds
@@ -32600,6 +32607,7 @@ fair-timetable
 faircoin-donation-dutton
 faire-for-woocommerce
 fairplayer-sms-gateway
+faithinfused-profit-analyzer-for-woocommerce
 faithlife-news-widget
 faixan-cl-r
 faizpay-commerce
@@ -34350,6 +34358,7 @@ flashcard
 flashchat-app
 flashcounter
 flashfader
+flashfolders
 flashfreeze
 flashlight
 flashmeister
@@ -34851,9 +34860,11 @@ flowplayer6-video-player
 flowpoint-analytics-tracking-code
 flows
 flowsplit
+flowsystems-webhook-actions
 flowt
 flowtown-webhook
 flowxo
+floyi
 flshow-manager
 flu-pandemic-level
 fluchtlingen-helfen
@@ -40175,6 +40186,7 @@ growthnation
 growthseo-content-sync
 growyn-search
 grs-lnd-for-wp
+grt-ticket
 grumft-amp
 grunion-ajax
 grunion-contact-form
@@ -44281,6 +44293,7 @@ inclusense-accessibility-widget
 inclusif-widget
 inclusive-parents
 incogneato-anonymous-suggestion-box
+incognito-admin-manager
 incognito-chat
 incognito-window-detect
 incoin
@@ -46358,6 +46371,7 @@ jeba-wp-preloader
 jebe-cute-social-slide
 jeebly-delivery-partner
 jeebly-shipping
+jeelpay-for-woocommerce
 jeeng-push-notifications
 jeepers-peepers
 jeero
@@ -48490,6 +48504,7 @@ kratos-anti-spam
 kratos-skin-for-wp-configurator-pro
 krautpress-patterns-block
 krea3-client-for-citykomi
+kreativ-broken-image-finder
 kreativ-report-broken-link
 kredeum-nfts
 kreditkarten-nachrichten
@@ -50664,6 +50679,7 @@ lite-event-calendar
 lite-google-map
 lite-maintenance-mode
 lite-seo
+lite-shipping-counter-notice
 lite-social-share-buttons
 lite-syntax-highlighting
 lite-wp-logger
@@ -50979,6 +50995,7 @@ llegoya-envios
 llm-bot-tracker-by-hueston
 llm-friendly
 llm-hubspot-blog-import
+llm-moderator-for-wpforo
 llmagnet-llm-txt-generator
 llmo-schema-markup
 llms-backpack-lite
@@ -53944,6 +53961,7 @@ mega-giga-gallery-slider
 mega-giga-tabs
 mega-justified-images-gallery
 mega-menu
+mega-menu-builder
 mega-navify
 mega-store-companion
 mega-sync
@@ -67273,6 +67291,7 @@ precios-bitcoin-criptomonedas
 precious-metals-automated-product-pricing-pro
 precious-metals-chart-and-widgets
 precise-columns
+precise-expressions-product-customiser
 precise-plugin-updater
 precise-sales-for-woocommerce
 precision-contact-web-chat
@@ -68509,6 +68528,7 @@ promedio
 promesas-de-dios-al-dia
 prometheus-x-dataspace-landing-page-generator
 prominent-manager
+promiosync
 promissa
 promo
 promo-codes-for-contact-form-7
@@ -73876,6 +73896,7 @@ riu-responsive-image-uploader
 rivalout-ai-driven-competitive-intelligence-platform
 rivercraft
 riveted
+rivio-ai-cart-recovery-marketing-email-automation
 rivio-reviews-for-woocommerce
 rivva-reactions
 riyaz
@@ -76657,6 +76678,7 @@ sent-messages-for-sensei-lms
 sent-to-mobile-by-tagga
 sentence-to-seo
 senthor-io
+sentient-ai
 sentifyd-avatar
 sentiment-analysis
 sentiment-analysis-with-tensorflowjs
@@ -86979,6 +87001,7 @@ tajer
 taka
 takbull-gateway
 takbull-gateway-funnelkit
+takbull-invoice-for-woocommerce
 take-control-of-the-wordpress-toolbar
 take-note
 take-notice
@@ -88130,6 +88153,7 @@ thank-you-product-recommendations-for-woocommerce
 thank-you-reader
 thanks-for-reading
 thanks-gdpr
+thanks-mail-for-stripe
 thanks-you-counter-button
 thankyou-coupons-for-wc
 thankyousteve
@@ -109116,6 +109140,7 @@ wpgancio
 wpgcal
 wpgcontacts
 wpgdrive
+wpgear-consent-privacy-policy-acceptance
 wpgeared-better-export
 wpgeared-llms-txt-generator
 wpgen-forms

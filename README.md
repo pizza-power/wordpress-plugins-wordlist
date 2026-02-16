@@ -4,9 +4,8 @@ A continuously updated wordlist of WordPress plugin slugs derived from the offic
 
 - Source: https://plugins.svn.wordpress.org/
 - One plugin per line
-- Intended for security testing, research, and bug bounty hunting
-- Updated daily
+- Intended for security testing and research
 
-**Total entries:** 112,200
+**Total entries:** 112,225
 
-Last updated: 2026-02-15
+Last updated: 2026-02-16
