@@ -1299,6 +1299,7 @@ active-plugin-snapshots
 active-plugins-on-multisite
 active-preview
 active-share-by-orangesoda
+active-twist-seo-json-ld
 active-user
 active-users-list
 activecalculator
@@ -2641,6 +2642,7 @@ ads-after-first-paragraph
 ads-automated-creator-by-clever-ads
 ads-bbpress
 ads-benedict
+ads-bot-ai-dla-wc
 ads-by-cb
 ads-by-country
 ads-by-datafeedrcom
@@ -4464,6 +4466,7 @@ akismet-spam-counter
 akismet-wedge-for-mu-plugin
 akismets-little-helper
 akivaspay
+akkedli-connector
 akl-webhost-post-widget
 aklamator-digital-pr
 aklamator-float-video-on-your-blog
@@ -12668,6 +12671,7 @@ bq-musical-notes
 br-knowledge-base
 br-twitter-widget
 bra-size-calculator
+bracket-post-order
 bracketcloud
 bracketpress
 bracketpress-login-and-registration-widget
@@ -15101,6 +15105,7 @@ categories2menu
 categories4page
 categoriesshowhide
 categorify
+categorix-for-woocommerce
 categorize-pages
 categorize-your-wishlist-for-woocomerceposts-custom-post-types
 categorized
@@ -19813,6 +19818,7 @@ contus-video-comments
 contus-video-gallery
 contus-video-galleryversion-10
 convatic
+convboost-exit-rescue
 convboost-sticky-notification-bar
 convead-for-woocommerce
 convenios-medicos-brasileiros
@@ -20046,6 +20052,7 @@ cookies-shortcode
 cookiescan
 cookiescontrol-spanish-rules
 cookietractor
+cookietrust
 cookievj
 cookiex-consent-management-platform
 cookifi
@@ -20573,6 +20580,7 @@ coursemanagement-cm
 coursepress
 coursestorm
 courseticket
+court-booking-system
 court-reservation
 courtesy-link-notification-tool
 cover-crossfade-background
@@ -22928,6 +22936,7 @@ cybersoldier
 cybersource-payment-gateway
 cybersyn
 cyberus-key
+cybokron-consent-manager-translations-yootheme
 cybook-bookeen-widget
 cybozu-wp-to-kintone
 cybreed
@@ -30736,6 +30745,7 @@ epayco-gateway
 epayments-gateway-for-woocommerce
 epdf-support-elements-pdf-creator-addon-for-elementor-lite
 epds-remove-website-fields
+epe-formetto-pdf-attachments-for-contact-forms
 epeken-all-kurir
 epeken-delivery-date
 epeken-jexpress
@@ -31876,6 +31886,7 @@ extension-for-wp-job-manager-support-in-elementor-pro
 extension-info-exporter
 extension-manager
 extension-on-pages
+extension-profiles
 extensionly-full-width-customizer
 extensions-for-all-in-one-seo-pack
 extensions-for-cf7
@@ -33486,6 +33497,7 @@ feed2post-ircf
 feed2tabs
 feed2tweet
 feedage-tracker
+feedagentx-connect
 feedaggregator
 feedaty-rating-for-woocommerce
 feedback
@@ -34399,6 +34411,7 @@ flauntopia
 flaver-cbd-calculator
 flaver-nicotine-shot-calculator
 flavio
+flavor-2fa
 flawless-themes-demo-importer
 flaxoslider
 flc-forma-lms-connector
@@ -35844,6 +35857,7 @@ framework-mobilede
 framework360-connect
 franceimage-map-filter-for-geotagged-posts
 franchise-manager
+frank-dead-link-checker
 frank-schema-markup-generator
 frankencookie
 franklin
@@ -40175,6 +40189,7 @@ growanizer
 growats-donations-for-stripe
 growelfare-connect
 growffinity-crm-for-woocommerce
+growfund
 growify-ai
 growmap-anti-spambot-plugin
 growmap-anti-spambox-plugin
@@ -46091,6 +46106,7 @@ iwant-one-ihave-one
 iwanttoseewhatitislike
 iwapppress-builds-ios-app-for-website
 iwd-checkout-connector
+iwd-quick-order
 iwd-woocommerce-checkout-suite
 iweblab-hosting-manager
 iwg-faster-tagging
@@ -46336,6 +46352,7 @@ jcwt-order-timeline-for-woocommerce
 jd-faq
 jd-link-exchange
 jd-redesign-images
+jd-web-and-ship
 jda-login-page
 jdefender
 jdl-javascript-countup-bubble
@@ -51926,6 +51943,7 @@ lukas-tripster
 lukian-ai
 lukstack-uptime-monitor
 lul-me
+luma-product-fields
 lumberjack
 lumeer-embed
 lumenare-search
@@ -55213,6 +55231,7 @@ mirror
 mirror-app-social-gallery
 mirror-app-social-mix
 mirror-app-social-page
+mirror-app-video-feed
 mirror-gravatar
 mirror-posts
 mirrorgrid-demo-importer
@@ -85656,6 +85675,7 @@ sukellos-image-formats
 sukellos-login-style
 sukellos-login-wrapper
 sukeyorg-banner
+sukhesh-security-activity-logger
 sukhiba-wa-integration
 sukhjot-google-map
 suki-sites-import
@@ -90531,6 +90551,7 @@ trollishly-social-media-profile-assistant
 trombiz
 tron-login-protect
 tron-payment-button-for-paypal
+trott-bailey-family-smart-tv-feed
 troubleshooting
 trove
 trs-address-book
@@ -95429,6 +95450,7 @@ wb-product-enquiry
 wb-sticky-notes
 wb-widget-builder
 wb4b-o-matic
+wbai-blogsai
 wbb-off-canvas-menu
 wbb-wp-owa
 wbblatest-widget
@@ -108801,6 +108823,7 @@ wpc-smart-notification
 wpc-smart-price-filter
 wpc-smart-product-collections
 wpc-smart-upsell-funnel
+wpc-sortable-cart-items
 wpc-sticky-add-to-cart
 wpc-update-variations-in-cart
 wpc-variation-bulk-editor
