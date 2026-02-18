@@ -5457,6 +5457,7 @@ anchor-highlighter
 anchor-link-effect
 anchor-links
 anchor-smooth-scroll
+anchorflow-menu
 anchorkit-table-of-contents
 anchorman-quotes
 anchorpress
@@ -10557,6 +10558,7 @@ big-sur-ai-web-agent
 big-surprise
 big-voodoo-mega-menu-related-links-menu
 bigad-wp
+bigambitions-glueup-bridge
 bigbad-agency-product-linked-attributes-mapper-for-woocommerce
 bigbad-store-hours
 bigbluebutton
@@ -17910,6 +17912,7 @@ code9
 codeablepress-simple-frontend-profile-picture-upload
 codeandcore-user-registration-cf7
 codeart-units-converter
+codeatoz-hide-price-for-stores
 codebaby-avatar
 codebard-help-desk
 codeblock-social-poster
@@ -23582,6 +23585,7 @@ davons-floating-admin-bar
 davsy
 dawanda-shop-plugin
 daworks-outbound-mailer-for-ncloud
+dawsony-bulk-edit-tabs
 day-counter
 day-finder
 day-of-week
@@ -24544,6 +24548,7 @@ devlab-woocommerce-dynamic-pricing-wpml-fixer
 devllo-events
 devllo-events-bookings
 devllo-events-pmpro
+devllo-wine-essentials
 devman-marketing-tools
 devmatic
 devmedialabs-autogen-content-scheduler
@@ -30239,6 +30244,7 @@ emma-email-signup
 emma-emarketing-plugin
 emma-signup
 emma-woo-addon
+emmeo-booking-reception
 emmerce-chatbot
 emnon-localized-link-creator
 emo-bulk-update-prices-for-woocommerce
@@ -35601,6 +35607,7 @@ formpays-pro
 formplus
 formpress
 formquiz
+formrank-lead-scoring
 forms
 forms-3rd-party-inject-results
 forms-3rd-party-xpost
@@ -37150,6 +37157,7 @@ garees-twitter-stream
 garmin-connect
 garnet-seller
 garrett-county-planning-tool-gcpt
+garsen-accessibility-guard
 garsoft-ehliyet-yas-hesaplama
 garsoft-yurtici-kargo-entegrasyonu
 gartentechnik-com
@@ -38320,6 +38328,7 @@ gift4u-gift-cards-all-in-one-for-woo
 giftable-for-woocommerce
 giftd
 gifted-testimonials
+giftflow
 giftfold
 giftify
 gifting-addon-for-easy-digital-downloads
@@ -38510,6 +38519,7 @@ glidy-addons-for-elementor
 gliffy-plugin-for-wordpress
 glift-go-game
 glimbyte-ssl-guardian
+glimbyte-starter-sorter
 glimp-shortcode
 glindr
 glitch-authenticator
@@ -38606,6 +38616,7 @@ glossary-tooltip
 glossom
 glossy
 glossy-mega-menu
+glotcore-limit-import-strings-number
 glotcore-rest-api
 glotpress
 glotpress-notify
@@ -44890,6 +44901,7 @@ insight-metrics
 insight-stash
 insight-swatches
 insighto-ai-widget
+insightpress-advanced-analytics-for-woocommerce
 insights
 insights-reloaded
 insign
@@ -48209,6 +48221,7 @@ kkprogressbar
 kktc-doviz-kurlari
 kl-debug
 klaive
+klamra-paycal-for-aspaclaria
 klan1-functions
 klantenvertellen
 klantenvertellen-sideshow-media
@@ -51005,6 +51018,7 @@ lks-product-connector
 lktags-linkedin-insight-tags
 llama-ai-blog-assistant
 llama-redirect
+llama-shuffle-by-barking-llama
 llamapress-common-styles
 llavero-io
 llc-tax
@@ -53867,6 +53881,7 @@ mediahaven-lite
 mediahawk-call-tracking
 mediahub
 mediahue-media-rename-auto-alt-text
+mediahue-webp-converter
 mediajel-tracker
 medialab-oembed
 medialibrary-feeder
@@ -54718,6 +54733,7 @@ mi-testimonial-slider
 mi-tienda-mercadolibre
 mi13-access-by-link
 mi13-chat
+mi13-clean-up
 mi13-comment-user-edit
 mi13-errors-log
 mi13-glossary
@@ -59252,6 +59268,7 @@ ninja-announcements
 ninja-araclar
 ninja-auto-post-expire
 ninja-beaver-lite-addons-for-beaver-builder
+ninja-chandel-form-builder-blocks
 ninja-charts
 ninja-columns
 ninja-countdown
@@ -60901,6 +60918,7 @@ oneclick-form-lite
 oneclick-reorder
 oneclick-whatsapp-hello
 oneclick-whatsapp-order
+oneclickai-site-optimizer
 oneclickcalls-button-placer
 oneclickcontent-titles
 oneclickjmiguel
@@ -62135,6 +62153,7 @@ oxsn-tabs
 oxsn-user-status
 oxsn-video-player
 oxsn-wp-query
+oxtilo-fast-cal
 oxy-howto-maker
 oxy-relogin-window
 oxygen-mydata
@@ -68043,6 +68062,7 @@ product-bundles-variation-bundles
 product-call-for-price-for-woocommerce
 product-card-property
 product-carousel
+product-carousel-slider-biddut-block
 product-carousel-slider-for-easy-digital-downloads
 product-carousel-slider-for-woocommerce
 product-carousels-for-total
@@ -70709,6 +70729,7 @@ rate-the-site-experience
 rate-this-author
 rate-this-page-plugin
 rate-this-site
+ratec-contact-form
 rated90-player-rankings
 rateit
 rateitcool
@@ -77322,6 +77343,7 @@ sfce-create-event
 sfce-time-tools
 sfdc-lead-generation
 sforsoftware-sconnect-woocommerce
+sfr-analytics
 sfr-book-review-showcase
 sfr-clone-site
 sfr-directory-analytics
@@ -77381,6 +77403,7 @@ shaicon-block
 shailesh-leadcapture-pro
 shake-add-to-cart-button-animation-for-woocommerce
 shakes
+shakoor-media-cleaner
 shalom-world-media-gallery
 shaloz-for-woocommerce
 shameless-slide-out
@@ -78075,6 +78098,7 @@ short-link
 short-link-by-greenwpx
 short-link-maker
 short-links-and-traffic
+short-links-for-m8c
 short-post-link
 short-post-urls
 short-syntax-highlighter
@@ -80638,6 +80662,7 @@ simplicy-twitter-press
 simplifia-woocommerce-export-to-accounting
 simplificar-menu-de-administracion
 simplified
+simplified-checkout-upsells
 simplified-contact-form
 simplified-content
 simplified-font-manager
@@ -81934,6 +81959,7 @@ smart-review-widget
 smart-reviews-display
 smart-role-login-redirects
 smart-rtl-post
+smart-sale-scheduler-for-woocommerce
 smart-sales-boost
 smart-scroll-posts
 smart-scroll-to-top-lite
@@ -81994,6 +82020,7 @@ smart-tools-for-woocommerce
 smart-tribune-addsnippet
 smart-update-filter
 smart-upsell-compare-for-woocommerce
+smart-url-fixer-toolkit
 smart-user-slug-hider
 smart-variations-images
 smart-varnish
@@ -86175,6 +86202,7 @@ svetlik-analytics-for-contact-form-7
 svg-autocrop
 svg-automotion
 svg-block
+svg-block-for-dashicon-rotistudio
 svg-captcha
 svg-color-changer
 svg-complete
@@ -87513,6 +87541,7 @@ teamjuh-smart-chatbot
 teamleader-form-integration
 teamlinkt-sports-league-club-and-association-manager
 teammates
+teamnotify-for-amelia
 teampress
 teampresslite
 teamraxy
@@ -92545,6 +92574,7 @@ up-sell-trio-for-woocommerce
 up-user-datakeeper
 up-wp-cart
 up2-map-places
+up2date-notifier
 upamp-connector
 upc-ean-barcode-generator
 upc0ming
