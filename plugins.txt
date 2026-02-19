@@ -5446,6 +5446,7 @@ analytify-analytics-dashboard-widget
 analytify-contact-form-7-gooogle-analytics-tracking
 analyzati-website-visitor-tracking
 ananas
+anand-quiz
 anant-addons-for-elementor
 anant-team-member
 ananta-sites
@@ -11532,6 +11533,7 @@ blogorola-wordpress-plugin
 blogoxy-similar-articles-button
 blogoxy-similar-articles-button-plugin
 blogpatcher-seo
+blogport-migrator-for-blogger
 blogpost-widgets
 blogpresseo
 blogpressseo
@@ -13980,6 +13982,7 @@ buybot-notifications
 buybox-widget
 buyguard-for-woocommerce
 buyhttp-super-polls
+buyience-novacore-b2b-quote-engine
 buying-buddy-idx-crm
 buymeacoffee
 buyplaytix
@@ -24377,6 +24380,7 @@ desert-companion
 desert-import
 desheelabs-content-protection
 deshi-news-aggregator
+deshi-pay
 design
 design-approval-system
 design-buster
@@ -24536,6 +24540,7 @@ device-push
 device-specific-media-element
 device-theme-switcher
 device-wrapper
+deviceredirect24
 devices
 devices-elementor
 devicons
@@ -32762,6 +32767,7 @@ fancynav-elementor
 fancytabs
 fancytube
 fancytweet
+fand-pickup-points-ultimate-edition-for-wcfm
 fand-transient-action-cleaner
 fandistro-favorites-widget
 fanfou-tools
@@ -39687,6 +39693,7 @@ gps-signin
 gps-track-on-google-maps
 gps-tracker
 gps-tracking-roi-calculator
+gpsem-io
 gpsiesembed
 gpsr-ce-ukca-for-woocommerce
 gpsr-for-woocommerce
@@ -40137,6 +40144,7 @@ gritter
 grlca-search-for-woocommerce
 gro-crm
 gro-online-child
+groandeck-dad-jokes
 grocerslist
 grocery-list-creator-by-out-of-milk
 grocery-shop-grocerybuddy
@@ -42270,6 +42278,7 @@ hot-simple-contact
 hot-tags
 hot-topics-by-comments-number
 hot-weather
+hotblocks-counters
 hotel-booking-by-xfor
 hotel-booking-for-woocommerce
 hotel-bookings-progress-bar-for-motopress
@@ -42818,6 +42827,7 @@ hype
 hype-animations
 hype-band-add-on
 hypemachine-widget
+hyper-admin-speed-ultra
 hyper-admins
 hyper-cache
 hyper-cache-clear-link
@@ -44769,6 +44779,7 @@ innovate-inventory-management-system
 innovation-list-shortcode
 innovator-ai
 innovs-hr-manager
+innovs-vc-whmcs-lite
 innovs-woo-manager
 innozilla-conditional-shipping-and-payments-woocommerce
 innozilla-image-gallery-8
@@ -44887,6 +44898,7 @@ insert-verification-and-analytics-code
 insert-video-with-schemaorg-ivws
 insert-video-with-shortcode
 insert-wandering-qr
+insertabot-ai-chatbot-solution
 insertagram
 insertchat
 inserter
@@ -51660,6 +51672,7 @@ lolpress
 loltracker
 lomadee
 lomadee-wp-ofertas-relacionadas
+londom-out-of-stock-alternatives
 london-2012
 london-comedy-gigs
 london-events-guide
@@ -52486,6 +52499,7 @@ mailing-opt-in-for-stager-using-cf7
 mailingboss
 mailingreport
 mailjet-for-wordpress
+mailjunky
 mailkitchen-official-plugin
 maillister
 mailmaga-x
@@ -52647,6 +52661,7 @@ majscan
 makale-net
 makale-sistemi-mechatronian
 makaledepo-senkronizasyon-sihirbazi
+makapay-payment-gateway
 makase-quote-widget
 makcubes-no-revisions-purge
 make-a-reddit
@@ -54907,6 +54922,7 @@ milkans-simple-hit-counter
 milkbox
 milkbox-plugin
 milkcocoa-chat-support
+miller-media-server-file-import
 million-eyez
 million-shades-toolkit
 millionchats
@@ -55292,6 +55308,7 @@ misspelling-reporter
 mistape
 misterchat
 misterplan
+mistertranslate
 mistral-pay-woocommerce-payment-gateway
 mistviper-agegate
 mit-google-button
@@ -57297,6 +57314,7 @@ my-accordion
 my-account-custom-fields-for-woocommerce
 my-account-customize-for-wp
 my-account-customizer-for-woocommerce
+my-account-menu-builder-for-woocommerce
 my-account-page-lite-for-divi
 my-admin-bookmarks
 my-affiliate-link
@@ -59668,6 +59686,7 @@ nokautwl
 nokia-mapsplaces
 nolip-nofollow-links-in-posts-reborn
 nom-event-management
+nomad-shipping
 nomad-world-map
 nomadcast-oembed
 nomads-connected
@@ -64164,6 +64183,7 @@ pf-timer
 pf404-for-petfinder
 pfacturas-for-woocommerce
 pfand-deposit-for-woocommerce-products
+pfand-manager
 pfd-ai-quick-read-summarizer
 pflegekorb-open-weather
 pflickr
@@ -65434,6 +65454,7 @@ plugintel
 pluginviadeo
 plugitter
 plugiva-clientguard
+plugiva-pulse
 pluglab
 plugmatter-gdpr-bot-integration
 plugmatter-optin-feature-box-lite
@@ -65556,6 +65577,7 @@ pmpro-zapier-webhooks
 pmr-google-social-profiles-in-search-results
 pmr-media-library-image-dimensions
 pmzez-page-loader
+pn-cookies-manager
 pn-counter
 pn-customers-manager
 pn-tasks-manager
@@ -67054,6 +67076,7 @@ postscomments-time
 postscript
 postsections
 postsible-facebook-content-management
+postsimple-integration
 postsite-tools
 postsquirrel
 poststack-block
@@ -67828,6 +67851,7 @@ printfriendly
 printful-shipping-for-woocommerce
 printify-for-woocommerce
 printkk-for-woocommerce
+printpilot
 printpress
 printrove-integration-for-woocommerce
 printseek
@@ -73702,6 +73726,7 @@ revolution-for-elementor
 revolver-maps
 revolving-gallery
 revostock-gallery
+revoty
 revpress
 revpulse
 revrise-wp
@@ -75891,6 +75916,7 @@ sdac-author-search
 sdac-post-slideshows
 sdac-related-content
 sdac-translate
+sdaweb-social-galleri-feed
 sdc-harvest-plugin
 sdc-orderfusion-lite
 sdi-scarcity-timer
@@ -85481,6 +85507,7 @@ submission-tracker-connector
 submissions-counter-for-flamingo
 submissions-hub-for-divi
 submit-content
+submit-ninja-feedback
 submit-recommend
 submit-to-any
 submit-to-any-for-wordpress
@@ -87733,6 +87760,7 @@ template-manager
 template-map
 template-max-shortcodes
 template-modules
+template-oriented-form-utilities
 template-overide
 template-part-block
 template-part-recent-posts-widget
@@ -90113,6 +90141,7 @@ tr-edit-menu-icon
 tr-filterable-portfolio
 tr-https-site
 tr-options-migrator-for-acf
+tr-pixel-engine
 tr-post-slider-widget
 tr-recent-post-view-by-category
 tr-register-only
@@ -90976,6 +91005,7 @@ tw-recent-posts-widget
 tw-shortcodes
 tw-sidebar-slider
 tw-simple-click-call
+tw-simple-slider
 tw-switch-mobile-domain
 tw-user-link
 twami
@@ -92759,6 +92789,7 @@ upqode-google-maps
 upress-link
 uproc-form-validator
 ups-eu-woocommerce
+ups-global-checkout-for-woocommerce
 ups-i-parcel-e-commerce-logistics-woocommerce
 ups-israel-domestic-print-orders
 ups-usps-parcel-tracking
@@ -93773,6 +93804,7 @@ velvpay-official
 vemetric
 venby
 vendbile-payment-gateway
+vendboard-vendor-dashboard-for-woocommerce
 vendevor-online-store
 vendi-abandoned-plugin-check
 vendi-cache
@@ -94983,6 +95015,7 @@ vonage-2fa
 vonavpilot-lite-voice-navigation-accessibility
 vondelphia-chat-for-discord
 vonic-voice-assistant-for-woocommerce
+vonseo
 voo-shipping
 vooddo
 voodoo-sms-notify-customers-admin-by-text-message-for-wp-ecommerce
@@ -107468,6 +107501,7 @@ wp-stateless-siteorigin-css-addon
 wp-stateless-siteorigin-widgets-bundle-addon
 wp-stateless-woocommerce-addon
 wp-stateless-woocommerce-extra-product-options-addon
+wp-stateless-wpbakery-page-builder-addon
 wp-stateless-wpforms-addon
 wp-static-cache
 wp-static-html-output
@@ -111831,6 +111865,7 @@ zenloop-woocommerce-nps-platform
 zenmetrics-for-woocommerce
 zennotice-warden
 zeno-chatbot-ai
+zeno-crypto-checkout-for-easy-digital-downloads
 zeno-crypto-payment-gateway
 zeno-font-resizer
 zeno-report-comments
@@ -112035,6 +112070,7 @@ zipposter
 zippy
 zippy-engage-companion
 zippy-form
+zippy-message-floating-chat
 zippyshare-embed-plugin
 ziptax-sales-tax-for-woocommerce
 ziptimize-connect
