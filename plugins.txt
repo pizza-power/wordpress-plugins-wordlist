@@ -3897,6 +3897,7 @@ ai-contact-form
 ai-contact-us
 ai-content
 ai-content-agent
+ai-content-by-parallax
 ai-content-classifier
 ai-content-copilot-auto-social-media-posting
 ai-content-creator
@@ -4507,6 +4508,7 @@ alb-block-theme-type-1-banner
 alba-board
 albacross
 albatross-audio
+albert-ai-butler
 alberta-emergency-alert-widget
 albnet-shortcodes
 albo-pretorio-on-line
@@ -5262,6 +5264,7 @@ american-censorship
 american-theme-mixpanel
 american-to-english-autocorrecter
 ameya-retouch
+amglabs-cron-inspector
 amglabs-minesweeper-game
 ami-link-hide-wp
 amiba-chatbot-integration-for-woocommerce
@@ -6399,6 +6402,7 @@ archives-plus-plus
 archives-widget-extended-by-urbancube
 archivescode-addons-for-elementor
 archivespress
+archiviomd
 archivist
 archivist-custom-archive-templates
 arco-portfolio
@@ -6591,6 +6595,7 @@ artificial-photo-gallery
 artificial-poets
 artificial-scrollup
 artijigonosidebar
+artikolo
 artinar
 artisan
 artisan-slider
@@ -6625,6 +6630,7 @@ aruba-hispeed-cache
 aruba-wp-migration-tool
 arukereso-for-woocommerce
 arukereso-megbizhato-bolt-integracio
+arunstheme-editorial-notes
 arvancloud-cache-cleaner
 arvancloud-cdn
 arvancloud-object-storage
@@ -11600,6 +11606,7 @@ blogwalking
 blogware-importer
 blogwidth
 blogwings-companion
+blogwolf
 bloks-landing-page
 bloks-stripe-donation
 blomming
@@ -12737,6 +12744,7 @@ brand-regard-plugin
 brand-voice-generator
 branda-white-labeling
 brandapp
+brandbees-delivery-scheduling-for-woocommerce
 brandcaptcha-cf7
 branded-admin
 branded-email
@@ -19336,6 +19344,7 @@ contact-form-email
 contact-form-email-validation
 contact-form-entries
 contact-form-entries-database
+contact-form-extender-for-divi-builder
 contact-form-for-any-themes
 contact-form-fx
 contact-form-generator
@@ -26647,6 +26656,7 @@ drnet-youtube
 droidyoursite
 droit-dark-mode
 droit-elementor-addons
+drona-call-phone-click-analytics
 drona-role-based-form-access-cf7
 drop-a-deal-fomo-pop-ups
 drop-cap-shortcode
@@ -31101,6 +31111,7 @@ etsy-shop-advanced-mod
 etsy-treasury-posting-tool
 etsy-widget
 etsy360
+ett-easy-time-tracker-for-woocommerce
 eu-ai-act-ready
 eu-base-price-display
 eu-cookie
@@ -31625,6 +31636,7 @@ exito-product-bundle
 exlink-safe-filter
 exly-wp
 exmage-wp-image-links
+exmoment-author
 exnet-movies
 exodox
 exopin-blogging-for-money
@@ -40478,6 +40490,7 @@ gurado-webconnect
 gurken-subscribe-to-comments
 gurols-list
 guroot-captcha
+gurpreet-webtranslator-ai
 gurualpha-bulk-product-images-changer-for-woocommerce
 gurufocus-guru-links
 gurufocus-ticker-links
@@ -41110,6 +41123,7 @@ hebrewdates
 heckler
 hectane
 hedef-image-optimizer-webp-avif
+hedef-sanal-pos
 hedmansoft-city-temperatures
 hedmansoft-milestones
 hedomi-filterable-list
@@ -50038,6 +50052,7 @@ lightpost
 lightpull
 lightrail-for-woocommerce
 lightrcommerce
+lightshare-social-sharing
 lightslide
 lightspeed-links
 lightsyncpro
@@ -51747,6 +51762,7 @@ loopbuddy-by-pluginbuddycom
 loopdesk
 loopedin-sso
 loopfeedback
+loophq
 looping-image
 loopingo
 looppay
@@ -54060,6 +54076,7 @@ megamenu-storefront
 megamo
 megaoptim-image-optimizer
 megapress
+megasend-for-woocommerce
 megathread
 megaticker
 megaventory
@@ -55472,6 +55489,7 @@ mlsjs-featured-properties
 mlsp-media-embed
 mlumen
 mlv-contextual
+mlx-cookie-consent
 mm
 mm-ajax-login
 mm-breaking-news
@@ -57907,6 +57925,7 @@ myna-for-wordpress
 mynewsdesk
 mynote-admin
 mynx-page-builder
+myog-social
 myopenid
 myopenid-delegation
 myorderdesk
@@ -62656,6 +62675,7 @@ pages-on-top
 pages-only
 pages-order
 pages-posts
+pages-taxonomy-manager
 pages-to-page
 pages-with-category-and-tag
 pages-with-extension
@@ -62808,6 +62828,7 @@ papercite
 paperdork
 paperform-form-builder
 paperglee
+paperless-invoicing
 paperlit
 papernapfree-expert-reviews
 papershare-paperclip
@@ -68062,6 +68083,7 @@ proai-txt-manager-llms-robots
 probelix-blowball
 probo-connect
 proboast
+probonoseo-basic
 probotdev-customer-support-faq-chatbot
 probuilder
 process-automation
@@ -68623,6 +68645,7 @@ projects-postype
 projects-showroom
 projekktor-html5-video-extensions-and-shortcodes
 projeqt
+proleadsai
 prolific
 prolike-button
 prolink
@@ -70182,6 +70205,7 @@ quizbit
 quizchecks
 quizell
 quizess
+quizflow
 quizleads
 quizlord
 quizmaster
@@ -73470,6 +73494,7 @@ restricted-search
 restricted-site-access
 restricted-site-notifier
 restricted-to-adults
+restricted-user-activity
 restrictedarea
 restriction
 restriction-on-cart
@@ -77474,6 +77499,7 @@ shadowbox-js
 shadowbox-zoom-plugin
 shadowed-headers
 shadows
+shadowscan-security-link
 shaf-random-quotes
 shahadatmasoom
 shaicon-block
@@ -78723,6 +78749,7 @@ si-captcha-for-wordpress
 si-contact-form
 si-magnifier
 si-rating-review
+sianovision-alttext-ai
 siara-shield
 sibling-pages
 siborikomi-alpha-premium
@@ -81550,6 +81577,7 @@ slidedeck3
 slidee
 slideing-pic
 slidely-slideshows-embed
+slidemotion
 slidenote-for-wordpress
 slidenswap-gallery
 slideonline
@@ -86951,6 +86979,7 @@ tac-theme-authentication-checker
 taca-taca
 tachcard-payments-gateway-for-woocommerce
 tackthis
+taco-table-of-contents
 tactal-website-call-button
 tactile-crm-contact-form
 tada
@@ -87424,6 +87453,7 @@ taxonomy-templates
 taxonomy-templates-1
 taxonomy-term-listing-visual-composer-addon
 taxonomy-term-widget
+taxonomy-terms-counter
 taxonomy-terms-grid
 taxonomy-terms-list
 taxonomy-terms-list-block
@@ -88748,6 +88778,7 @@ themehunk-login-registration
 themehunk-megamenu-plus
 themeid-caldera-form-to-slack
 themeinception
+themeinthebox-popup-coupons-for-woocommerce
 themeinwp-import-companion
 themeisle-companion
 themekit
@@ -89389,6 +89420,7 @@ tiny-spoiler
 tiny-style
 tiny-table
 tiny-table-of-contents-tinytoc
+tiny-talk
 tiny-tiny-check
 tiny-url
 tiny-video-gallery
@@ -92339,6 +92371,7 @@ unasearch
 unasked-questions-and-answers-plugin
 unattach
 unattach-and-re-attach-attachments
+unattached-media-manager
 unauthenticated-users-rest-api
 unauthorised-login-redirect
 unbloater
@@ -93949,6 +93982,7 @@ verify-id-tokens-firebase
 verify-ownership
 verify-site-in-google-search-console
 verifyai-fact-checker
+verifymate-email-verification-for-woocommerce
 verifyne
 verifytrusted
 verishow
