@@ -154,6 +154,7 @@
 2fas
 2fas-light
 2focus-bookmarks
+2fox4-accessibility-suite
 2hive
 2index-page-indexer
 2j-photo-gallery
@@ -4004,6 +4005,9 @@ ai-product-description-generator
 ai-product-recommendations-lite
 ai-product-tools
 ai-proposal-builder
+ai-provider-for-anthropic
+ai-provider-for-google
+ai-provider-for-openai
 ai-publisher
 ai-quiz
 ai-readiness-advisor
@@ -4189,6 +4193,7 @@ airsuggest-store-for-blogs
 airsuggest-upsell-via-blog
 airticle-flow
 airwallex-online-payments-gateway
+airy-frontend-forms
 airy-wishlist
 ais-ip-blocker
 aisalebot
@@ -25894,6 +25899,7 @@ dm4extensions
 dma-woo-modal-cart-lite
 dmaps
 dmarcian
+dmarcreport-domain-auth-checker
 dmb-lyrics
 dmc-media
 dmc-sale-banner
@@ -28640,6 +28646,7 @@ easynewsticker
 easynostr-nip05
 easypag-woocommerce
 easypages-staff
+easypanel-offer-showcase
 easyparcel-shipping
 easypay-gateway-checkout-wc
 easypay-mobile-money
@@ -37460,6 +37467,7 @@ genai-toolbox
 genbe-connector-for-article-agent
 genchat
 gender-decoder
+gendiscover
 genealogical-tree
 genealogy
 geneanet-embedded-individual
@@ -43884,6 +43892,7 @@ imagebrico
 imagecare
 imagecloud
 imagecomply
+imagecraft-ai-alt-text-file-renamer-image-seo
 imagedock
 imagedrop
 imageflow
@@ -49719,6 +49728,7 @@ lexicon
 lexidef
 lexilink
 lexiqueagency
+lexiterm
 lexity-live-for-wp-e-commerce
 lexs-last-update-widget
 lexs-visits-logger
@@ -53074,6 +53084,7 @@ mapstr
 mapsvg-lite-interactive-vector-maps
 maptags
 maptalks-plugin
+mapthread
 maptip
 mapvisiblr-sections-visibility-elementor-for-mapgeo
 mapwiz
@@ -54991,6 +55002,7 @@ milo-woocommerce-change-button-text
 milwaukee-beer-society-beer-list
 milyen-nap-van-most
 mim-preloader
+mima-menu-builder
 mimbo-post-images
 mime-types-extended
 mime-types-plus
@@ -62715,6 +62727,7 @@ pagli-companion
 pago-redsys-tpv-grafreak
 pago-webpay
 pagodigital
+pagoforms
 pagopar-woocommerce-gateway
 pagos-moviles-peru
 pagosfiable-payment
@@ -76492,6 +76505,7 @@ seinfeld-quotes
 seitwertde-plugin
 seize-the-day
 sekeyword
+sekhlo-schema-code
 sekur-me
 sel-church-events
 sel-church-sermons
@@ -76616,6 +76630,7 @@ sello-channelconnector
 selloship
 sellpress
 sellsy
+selmitec-quicksnap-restore
 selz-ecommerce
 selzee-ai-chat
 sem-admin-menu
@@ -82267,6 +82282,7 @@ smartupworld-feed-author-control
 smartupworld-video-modal
 smartusername
 smartvideo
+smartwait-animated-preloader
 smartwaiver-waiver-widget
 smartweb-disable-click
 smartwebcontiq-ai
@@ -90473,6 +90489,7 @@ translate-words
 translate-wp
 translate-wp-with-google-languages-translator
 translate2011
+translate3k-browser-language-switcher
 translatecart
 translatecom-website-translator
 translatecraft-manual-translation
