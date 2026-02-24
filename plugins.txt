@@ -10979,6 +10979,7 @@ blackout-darkmode-widget
 blackout-sopa-with-the-oatmeal
 blackout-your-blog
 blackpiggy
+blackstone-online-gateway
 blackswan-block-external-request
 blackswan-woo-attributes-easy-select
 blackwater-album-manager
@@ -14160,6 +14161,7 @@ bytes-role-and-customer-based-pricing-for-woocommerce
 bytes-route-digital-adoption-platform
 bytesweavers-ai-chat-master
 bytheway
+bytnexo-seo-manager
 bytnexo-user-switcher
 bz9-webmaster-tools
 bzh-shortner
@@ -16393,6 +16395,7 @@ chatprojects
 chatprop
 chatra-live-chat
 chatrag
+chatreact
 chatrify-live-chat
 chatrix
 chatroll-live-chat
@@ -16513,6 +16516,7 @@ checkout-for-freemius
 checkout-for-paypal
 checkout-freemius
 checkout-freemius-rewamped
+checkout-gateway-for-paddle
 checkout-gateway-iris
 checkout-guard
 checkout-italia-semplice-lite
@@ -17977,6 +17981,7 @@ codegres-woo2shopify-csv-export
 codeguard
 codeguard-backup
 codehaveli-bitly-url-shortener
+codeideal-open-fields
 codeies-elite-user-ratings
 codeincept-portfolio
 codeins-post-voting
@@ -39728,6 +39733,7 @@ gppro-entry-content
 gppro-export-css
 gppro-google-webfonts
 gpress
+gps-2-photos
 gps-map-widget
 gps-mission-stats
 gps-plotter
@@ -41877,6 +41883,7 @@ hillstone-wp-sso
 hilp
 himegoto
 himis-plugin-organizer
+himuon-flex-cart
 himuon-integration-for-klaviyo-and-gravity-forms
 hina-ajax-comment
 hinagata-speech-balloon
@@ -58022,6 +58029,7 @@ mystickyelements
 mystickymenu
 mystickysidebar
 mystique-extra-nav-icons
+mystoreguardian-connector
 mystyle-custom-product-designer
 mytestboxcom-latest-posts-web-software-reviews
 mythemes-wizard
@@ -58951,6 +58959,7 @@ nexlifydesk
 nexlogiq-amazon-s3-links-generator
 nexmind
 nexora-product-insights-for-woocommerce
+nexoy-order-tracker-for-woocommerce
 nexoy-pricing-rules
 nexron-ai-chat
 nexs-app-embed
@@ -63259,6 +63268,7 @@ paychant-checkout-for-woocommerce
 paycheckout-for-woocommerce
 paychef-payments-for-woocommerce
 paychoice
+paycoinpro-for-woocommerce
 paycorp-commercial-bank-ipg
 paycorp-sampath-bank-ipg
 paycove
@@ -66972,6 +66982,7 @@ posting-helpmate-robot
 posting-links-with-images
 postit-socail-plugin
 postitz
+postlane-posts-block
 postlay-automatic-blog-post-layout-addon
 postless
 postlinks
@@ -68235,6 +68246,7 @@ product-expiry-for-woocommerce
 product-expiry-manager-for-woocommerce
 product-explode
 product-export-for-woocommerce
+product-faker-example-product-generator
 product-faq
 product-faq-for-woocommerce
 product-faq-manager
@@ -68668,6 +68680,7 @@ prolo-finder
 promaker-chat
 promaker-dashboard
 promaker-slider
+promasterweb-sommaire-automatique
 promedio
 promesas-de-dios-al-dia
 prometheus-x-dataspace-landing-page-generator
@@ -78207,6 +78220,7 @@ shopybot-woocommerce
 shordio
 shore-booking-widget
 short-and-tweet
+short-bg-url-shortener
 short-bio
 short-bio-widget
 short-code-press
@@ -81399,6 +81413,7 @@ sku-generator-for-wc
 sku-search
 sku-shortlink-for-woocommerce
 skutum-security
+sky-changelog-notifier
 sky-elementor-addons
 sky-image-slider
 sky-login-redirect
@@ -81513,6 +81528,7 @@ sleeker-admin-color-schemes
 sleeker-editor-admin-menu
 sleekplan
 sleekstore
+slek-gateway-for-woocommerce
 slem-url-shortener
 slenderbox
 sliced-invoices
@@ -82488,6 +82504,7 @@ smsnotice
 smspay-payment-gateway-for-woocommerce
 smspilot-ru-woocommerce
 smsplug
+smsplus-for-woocommerce
 smsq-notifications-for-woocommerce
 smsvio-pro-woocommerce
 smt-toolkit
@@ -86403,6 +86420,7 @@ swarm-effect
 swarm-removal-zipcode-search
 swarm-removal-zipcode-search-2
 swatchly
+swayam-ai-chatbot
 swaypay-woocommerce
 swaysmart
 swe-country-code-field-gf-add-on
@@ -94658,6 +94676,7 @@ virtual-ayar-myanmar-unicode-keyboard
 virtual-bangla-keyboard
 virtual-bot
 virtual-brick-social-bar-side-widget
+virtual-candles
 virtual-cron
 virtual-downloadable-only-products-for-woocommerce
 virtual-hdm-for-taxservice-am
@@ -112355,6 +112374,7 @@ ztranslate
 zu-contact
 zu-media
 zubbin-uptime-node
+zulkaif-seo-file-manager
 zulu-edm-contact-form-7-sync
 zundokokiyoshi
 zune-stats
