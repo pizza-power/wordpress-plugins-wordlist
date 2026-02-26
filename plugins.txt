@@ -678,6 +678,7 @@ abovewp-bulgarian-eurozone
 abovewp-bulk-attribute-change
 abovewp-min-max-quantity
 abovewp-page-loader
+abovewp-tweaks-optimizer
 abraia
 abrestan
 abs-accordion
@@ -19028,6 +19029,7 @@ confidentcaptcha
 config-constants
 config-email-smtp
 config-interface
+configiview
 configpress
 configurable-hotlink-protection
 configurable-tag-cloud-widget
@@ -23373,6 +23375,7 @@ dashboard-lite
 dashboard-log-monitor
 dashboard-maintenance-mode
 dashboard-menu-reorder
+dashboard-menu-visibility
 dashboard-menus-cleaner
 dashboard-message-for-wordpress
 dashboard-messages
@@ -45570,6 +45573,7 @@ interswitch-webpay-woocommerce-payment-gateway
 interval-stock-price-refresher
 intervention
 interview
+interwebbis-asset-inliner
 interworky-assistant
 intherooms-meeting-schedule
 intimate-io-cryptocurrency-payments
@@ -48563,6 +48567,7 @@ kopa-xmax-toolkit
 kopatheme
 kopgit-otomatik-link-kisaltma
 kopi-chat
+kopo-kopo-for-woocommerce
 koppel-je-boekhouding
 koraki-social-proof
 koralie-fb
@@ -48637,6 +48642,7 @@ kredeum-nfts
 kreditkarten-nachrichten
 kreditkarten-news
 kreditkarten-validierung
+kreebi-forms
 kreechat
 krevil-user-registration-login
 kriptomat-cryptocurrency-price-widget
@@ -67668,6 +67674,7 @@ pressplay-lite
 pressprimer-quiz
 pressroom
 pressroom-by-newswire
+pressstart-maintenance-reports
 presstagram
 presstags
 presstest
@@ -75675,6 +75682,7 @@ scheduled-posts-dashboad-widget
 scheduled-posts-issue-fixer
 scheduled-posts-planner
 scheduled-posts-publisher
+scheduled-posts-showcase
 scheduled-posts-widget
 scheduled-products-for-woocommerce
 scheduled-stickiness
@@ -81209,6 +81217,7 @@ sitekit
 siteklean-website-scanner
 siteleads
 sitelets-for-multisite
+siteline-agent-analytics
 sitelinks-search-box
 sitelint
 sitelinx-accessibility-lite
@@ -86293,6 +86302,7 @@ surbma-yoast-seo-sitemap-to-robotstxt
 surecart
 surecontact
 suredash
+suredonation
 surefeedback-cloud
 sureforms
 suregifts
@@ -86509,6 +86519,7 @@ swifno-merchant-api
 swift-backup
 swift-callouts
 swift-checkout
+swift-commerce
 swift-control
 swift-coupons-for-woocommerce
 swift-custom-post-navigator
@@ -86679,6 +86690,7 @@ synaplan-ai-support-chat
 synapse
 synapser
 synapser-for-wp
+synapsis-ai-translator
 sync
 sync-ac-with-wp
 sync-basalam
@@ -94246,6 +94258,7 @@ vibe-ai-chatbot
 vibe-buddypress-to-wp-mail-fix
 vibe-buddypress-woocommerce
 vibe-seo-pack
+vibe-testimonial-shoutouts
 viber-sharing-button-for-jetpack
 vibes
 vibrate
