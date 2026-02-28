@@ -3777,6 +3777,7 @@ agile-video-player
 agile-whatsapp-share
 agilepress
 agilepress-content-block-for-acf
+agilepress-schema-json-ld-block
 agilita-image
 agilityfeats-click-to-call
 agin-crm-sending-leads
@@ -6442,6 +6443,7 @@ aretopay-payment-gateway-for-woocommerce
 arevico-security-basic
 arewa-apk-apps-manager
 arewa-mobile-bottom-navigation-bar
+arewa-recently-viewed-content
 areyoupop-playpops
 arfaly-mass-multi-file-uploader
 arforms-form-builder
@@ -7854,6 +7856,7 @@ autoblog-videos
 autoblog-wpmagic
 autoblogger
 autoblue
+autoboostseo-connector
 autobute-auto-image-attribute-bulk-updater
 autocap
 autocat
@@ -41709,6 +41712,7 @@ hide-price-and-add-to-cart-for-woocommerce
 hide-price-for-woocommerce
 hide-price-until-customer-login
 hide-price-until-login
+hide-price-until-login-for-woocommerce
 hide-price-until-user-login-for-woocommerce
 hide-priceless-products
 hide-prices
@@ -53983,6 +53987,7 @@ media-toolkit
 media-tools
 media-tracker
 media-trash-button
+media-trim
 media-type-excluder-for-aiowp-migration
 media-upload-accessibility-tweaks
 media-upload-admin-widget
@@ -58986,6 +58991,7 @@ newspack-newsletters
 newspage
 newspaper
 newspaper-columns
+newspaper-social-media-photo-card
 newspaper-style-posts
 newsplug
 newsplugin
@@ -65035,6 +65041,7 @@ pivotpress
 pivotrev
 pivotway-leads-generator
 pivto
+piweb-ai-tools-mcp-woocommerce
 piwebsolution-alerts-contact-form-7-telegram
 piwi-warehouse
 piwigomedia
@@ -74436,6 +74443,7 @@ rotor-signup-code
 rototext
 rotten-tomatoes-box-office-top-10
 rotten-tomatoes-movie-library
+rouergue-creation-sidebar-embed
 rouergue-creation-top-notice-bar
 rougeo-connect
 rougeo-maps
@@ -79860,6 +79868,7 @@ simple-link
 simple-link-checker
 simple-link-cloaker
 simple-link-directory
+simple-link-embed
 simple-link-library
 simple-link-list-widget
 simple-linked-variations-for-woocommerce
@@ -84044,6 +84053,7 @@ speedcache
 speedcheck-internet-speed-test
 speedcounter
 speeddoctor-advanced-performance-analysis-tool
+speedforge
 speedguard
 speedien
 speedix
@@ -98327,6 +98337,7 @@ woco-advanced-smtp
 wocrl-leagues-and-personal-race-history
 wodenevents
 wodhopper
+wods-webhook-for-contact-form-7
 wodtogether-whiteboards
 woemirates-dropdown
 wofiz-stripe-transaction-metadata-editor-with-woocommerce
