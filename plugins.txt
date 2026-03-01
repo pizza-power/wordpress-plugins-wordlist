@@ -1962,6 +1962,7 @@ addgeorss
 addi-simple-slider
 addiction-recovery-connector
 addictivepoints
+addifect
 adding-content-to-the-footer
 adding-css
 addinto
@@ -7664,6 +7665,7 @@ auto-more-tag
 auto-ms-creator-id
 auto-multiurl
 auto-nofollow-links
+auto-noindex-for-thin-content
 auto-numbering-post
 auto-original-source
 auto-page-creator
@@ -9907,6 +9909,7 @@ beemembers
 beep-conditional-payments
 beep-notifier
 beepal-influence
+beepbeep-ai-alt-text-generator
 beepmate
 beepress
 beepxtra-payment-gateway
@@ -14167,6 +14170,7 @@ byte-php-code
 bytecoder-news-ticker
 bytecoder-post-ticker
 bytedefense
+bytefyre-db-replace
 byteplant-email-validator
 byteplant-phone-validator
 byteplugs-invoice-checkout-fields-timologio
@@ -16255,6 +16259,7 @@ chartboot-for-wordpress
 chartcook
 charted-archives
 charter-boat-bookings
+charter-booker
 charterpad-widgets
 chartivio
 chartlocal
@@ -20857,6 +20862,7 @@ creador-de-widgets
 cream6-admin-theme
 creamailer-featured-image-for-rss
 creamailer-for-elementor
+creamailer-for-gravityforms
 creamailer-for-ninja-forms
 creamailer-for-woocommerce
 creame-whatsapp-me
@@ -35045,6 +35051,7 @@ flux360-precision-delete
 fluxey-shortcode
 fluximages
 fluxlive
+fluxpress
 fluxtore
 flv-embed
 flv-flash-fullscreen-video-player
@@ -43985,6 +43992,7 @@ images-optimize-and-upload-cf7
 images-optimizer
 images-placeholder-generator
 images-regenerator
+images-sync-for-cloudflare
 images-thumbnail-sliderv1
 images-to-avif
 images-to-div-converter
@@ -48293,6 +48301,7 @@ kite-print-and-dropshipping-on-demand
 kite-publisher
 kitecv
 kitestudio-core
+kitgenix-affiliate-link-manager
 kitgenix-captcha-for-cloudflare-turnstile
 kitgenix-order-tracking-for-woocommerce
 kitgenix-pdf-invoicing-for-woocommerce
@@ -76106,6 +76115,7 @@ sdk-wp-dynamic-url
 sdk-wp-smtp
 sdl-managed-translation-for-polylang
 sdn-contributor
+sdotee
 sdp-conditional-product-tabs-for-woocommerce
 sdp-custom-order-status-for-woocommerce
 sdp-price-per-unit-for-woocommerce
@@ -96920,6 +96930,7 @@ webita-chat-ai-chatbot
 webites-currency
 webiwork-per-product-shipping
 webjunk-phplist
+webkernelai-advanced-form-builder
 webkew-image-dominant-color-generator
 webkew-wp-references-and-citations
 webkima-elements
