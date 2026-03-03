@@ -699,6 +699,7 @@ absolute-weaver-theme-support
 absoluterss
 absoluto-access-gate
 absolutte-blocks
+abstract-box
 abstract-submission
 abt-exit-disclosure
 abt-featured-heroes
@@ -6528,6 +6529,7 @@ arqspin-woocommerce-extension
 array-partition
 array-toolkit
 arrayforms
+arraysubs
 arrested-development
 arrivala-online-business-reviews
 arrjs
@@ -11085,6 +11087,7 @@ blink-for-woocommerce
 blinking-stars
 blinkingrobots
 blinko-broadcaster
+blinkspeed
 blip-slideshow
 blip-this
 blip-tv-episodes-widget
@@ -14179,6 +14182,7 @@ bytecoder-news-ticker
 bytecoder-post-ticker
 bytedefense
 bytefyre-db-replace
+byteonic-intake
 byteplant-email-validator
 byteplant-phone-validator
 byteplugs-invoice-checkout-fields-timologio
@@ -20753,6 +20757,7 @@ cpanel-mail-creator
 cpanel-manager-from-worpit
 cpanel-operations
 cpay-crypto-payment-gateway
+cpb-custom-product-builder
 cpb-page-builder
 cpcast-canalpiloto
 cpd-comment-scores
@@ -23673,6 +23678,7 @@ days-ago-post-date-format
 days-until
 dayschedule-appointment-event-and-service-booking
 dayswitcher
+dazestack-bulk-plugin-manager
 dazzler-blog-integration
 dazzlersoft-teams
 db-access
@@ -34558,6 +34564,7 @@ flexappointment
 flexbillet-events
 flexblocks
 flexi
+flexi-booking-system
 flexi-flick
 flexi-instagram-feed-lite-instagram-gallery
 flexi-menu
@@ -36616,6 +36623,7 @@ fun-without-cliches
 funbutler-booking
 funcaptcha
 function-cache
+functionalities
 functionality
 functionality-for-blogpost-lite-theme
 functionality-for-blogpost-theme
@@ -39647,6 +39655,7 @@ gostats-for-wordpress
 gostats-refreshed
 gosu-chat
 gosweetspot-shipping-options
+got-a-sale
 gotcha-gesture-based-captcha
 gotcha-user-centric-analytics-triggers-driven-by-micro-surveys
 gotchosen-social-exchange
@@ -40764,6 +40773,7 @@ hajimecreate-text-weaver-api-integration
 hal
 hal-html-widget
 half-baked-category-colours
+half-baked-link-injection
 half-baked-tag-colour-manager
 hall-ai-analytics
 hallo-destra
@@ -44101,6 +44111,7 @@ imeud-auto-menu-swap
 imeud-auto-menu-swap-footer
 imeud-scroll-up
 imforza-news
+img-alt-gen-pro
 img-custom-post-types
 img-dead-simple-contact-form
 img-fluid
@@ -49717,6 +49728,7 @@ lemiho-responsive-menu
 lemin-cropped-captcha
 lemm-toolbar
 lemmony-companion
+lemnity
 lemon-hive-modules-for-beaver-builder
 lemon-n-lime-internationalization-lnl-i18n
 lemon-slider-shortcode
@@ -51411,6 +51423,7 @@ lock-it-up
 lock-last-modified-date
 lock-login
 lock-my-bp
+lock-my-site
 lock-my-woocommerce
 lock-out
 lock-pages
@@ -54542,6 +54555,7 @@ merchant-ai-feed
 merchant-buddy
 merchant-center-reviews-for-woocommerce
 merchant-e-solutions
+merchant-transaction-portal
 merchant-xml-feed-generator
 merchantx
 merchi
@@ -54933,6 +54947,7 @@ mibbit-ajax-irc-for-wordpress
 mibbit-webchat
 micdrop-block
 mice-operations
+michael-cloud-image-auto-importer
 michaels-space-pdf-filler
 michigan-marketing-firm
 micro-anywhere
@@ -62151,6 +62166,7 @@ otter-blocks
 otter-text-chat-widget
 otter-waiver-waiver-embed
 otterfixer-ai-bot-tracker
+otterfixer-simple-ai-meta-descriptions-generator
 otterfixer-task-board
 otterwp-animate-blocks
 otterwp-animate-blocks-test
@@ -78318,6 +78334,7 @@ shopperpress-datafeed-importer
 shopperpress-shopping-cart-plugin
 shoppers-mind
 shopping-ads
+shopping-agent-with-ucp
 shopping-cart
 shopping-cart-for-wordpress
 shopping-feed
@@ -90089,6 +90106,7 @@ tools4shuls
 toolsfors3
 toolshot-player
 toolstruthsocial
+toolszu-image-optimizer
 tooltip
 tooltip-ck
 tooltip-crazy
@@ -90889,6 +90907,7 @@ tristar-wordgento
 trivia-adapter-pack
 trivialy
 trivian-widget-wp
+trivo-point-of-sale
 trkrr-lite
 trl-reset-wp
 troll-hunter
@@ -96943,6 +96962,7 @@ webform-integration
 webful
 webful-simple-grocery-shop
 webgains-ads-widget
+webgears-ai-product-describer-for-woocommerce
 webglobe-purge-cache
 webglobe-yegon-purge-cache
 webgoias-float-freeshipping-button-for-woocommerce
@@ -97341,6 +97361,7 @@ weever-geolocation
 weevo
 weezevent
 wefact-hosting-bestelformulier-integratie
+wefixit-category-organizer-for-woocommerce
 weforms
 weforms-pdf
 weg-mit-219a
@@ -97407,6 +97428,7 @@ welcomeuser
 welcomewiki-lite
 welcomewp
 welcomify
+welcomingweb-a11y-widget
 weldpress
 welight-easy-impact
 well-framework
@@ -109140,6 +109162,7 @@ wpc-backend-product-filter
 wpc-badge-management
 wpc-brands
 wpc-buy-now-button
+wpc-cart-item-note
 wpc-change-default-email
 wpc-checkout-restrictions
 wpc-composite-products
