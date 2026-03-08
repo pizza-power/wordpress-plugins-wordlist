@@ -8,4 +8,4 @@ A continuously updated wordlist of WordPress plugin slugs derived from the offic
 
 **Total entries:** 112,811
 
-Last updated: 2026-03-07
+Last updated: 2026-03-08
