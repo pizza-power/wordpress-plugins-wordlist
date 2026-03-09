@@ -3441,6 +3441,7 @@ aegilock-transaction-guardian-for-woocommerce
 aegis-shield
 aeiou
 aelia-foundation-classes-for-woocommerce
+aeo-bob-lite
 aeolus-creative-portfolio
 aero
 aeroleads-contact-us-details
@@ -6852,6 +6853,7 @@ asset-preloader
 asset-queue-manager
 asset-store-publisher-contact-form
 asset-tracker
+assetbroom-media-cleaner
 assets-manager
 assets-to-footer
 assetsminify
@@ -6885,6 +6887,7 @@ associations
 associative-dictionary-widget
 associator
 asta-html-minifier
+astalias-seo-tower
 asterisk-web-callback
 asteroids-widget
 asteroids-widget-by-electric-tree-house
@@ -8732,6 +8735,7 @@ az-custom-tabs-for-woocommerce
 az-one
 az-order
 az-product-slider-for-woocommerce
+az-radial-image-ring-gallery-for-elementor
 az-video-and-audio-player-addon-for-elementor
 azadify-cdn-100-free-cdn
 azaflash-retargeting
@@ -19964,6 +19968,7 @@ conversion-tracking-for-woocommerce-and-google-ads
 conversioncow
 conversions-extensions
 conversions-popup-widget
+conversionwax
 convert-a-link
 convert-address-to-google-maps-link
 convert-all-inactive-urls
@@ -38412,6 +38417,7 @@ ggis-inline-post
 ggis-subscribe
 ggmaps-responsive
 ggpush
+ggr-website-audit
 gh-members-showoff
 gh-profile-widget
 ghactivity
@@ -41515,6 +41521,7 @@ heritageaction-score-card-member-scores
 hermit
 hero-banner-slider
 hero-banner-ultimate
+hero-color-picker
 hero-for-genesis-framework
 hero-maps-pro
 hero-portfolio
@@ -42474,6 +42481,7 @@ hot-simple-contact
 hot-tags
 hot-topics-by-comments-number
 hot-weather
+hotblocks-contact-form
 hotblocks-counters
 hotel-booking-by-xfor
 hotel-booking-for-woocommerce
@@ -43635,6 +43643,7 @@ iks-menu
 iksweb
 iksweb-git
 iksweb-sitemap
+ikvala-pop-integrator
 il-privacy-cookie-consent
 ilab-docs
 ilab-media-tools
@@ -45262,6 +45271,7 @@ instant-cart-update
 instant-chat-assistant
 instant-chat-wp
 instant-checkout
+instant-checkout-for-chatgpt-openai-readiness-for-woocommerce
 instant-checkout-via-acp-agentic-commerce-for-woocommerce
 instant-comment-validation
 instant-connect-wechat-for-woocommerce
@@ -50759,6 +50769,7 @@ linkxl-text-links
 linkxlcom
 linky
 linkylinkerton
+linkyy-link-tracker
 linkz-ai
 linotp
 linq-button
@@ -51166,6 +51177,7 @@ livechatai
 livechatoo
 livechatscriptcom
 livediscourse
+livedraft-search-replace
 liveeditor
 liveensure
 livees-checkout
@@ -53349,6 +53361,7 @@ markdown-comment-block
 markdown-display-by-logic-hop
 markdown-editor
 markdown-extra-unofficial
+markdown-for-ai-agents
 markdown-for-p2
 markdown-for-wordpress-and-bbpress
 markdown-formatter
@@ -53874,6 +53887,7 @@ mcninja-post-styles
 mcod-bulk-delete-media-by-content
 mcode-video-overlay
 mconvert-currency-converter
+mcp-content-manager-lite
 mcp-for-woocommerce
 mcp-tracker
 mcping
@@ -55681,6 +55695,7 @@ mksddn-collection-for-postman
 mksddn-forms-handler
 mksddn-migrate-content
 mksociallocker
+mkwebtech-cta-studio
 ml
 ml-adverts
 ml-parallax
@@ -65582,6 +65597,7 @@ pluggable-functions-explorer
 pluggable-logs
 plugginai
 plugginsight-maintenance-status
+pluggix-altgen-ai
 plugim-for-wordpress
 plugin-99-minutos
 plugin-activation-date
@@ -68808,6 +68824,7 @@ profit-margin-calculator
 profit-products-tables-for-woocommerce
 profit-reports-for-woocommerce
 profitblue-financial-reporting-for-woocommerce
+profitguard
 profitori
 profitshare
 profound-agent-analytics
@@ -75465,6 +75482,7 @@ salespagemakerpro-guarantee-graphics
 salespanel
 salespeak-llm-optimizer
 salespress
+salespulse
 salesviewer-integration
 salesvista-for-woocommerce
 salesworks-media-sitemap
@@ -81694,6 +81712,7 @@ sku-generator-for-wc
 sku-search
 sku-shortlink-for-woocommerce
 skutum-security
+skwirrel-pim-sync
 sky-changelog-notifier
 sky-elementor-addons
 sky-image-slider
@@ -82023,6 +82042,7 @@ slightly-troublesome-permalink
 slim-facebook-fanpage-stream
 slim-low-bandwidth-mode
 slim-maintenance-mode
+slim-mobile-theme-switcher
 slim-seo
 slim-slider
 slim-wp
@@ -92901,6 +92921,7 @@ universal-analytics-without-cookies
 universal-blocks
 universal-chat
 universal-clocks
+universal-commerce-protocol-ucp-for-woocommerce
 universal-control-for-tahoma
 universal-currency-converter-lite
 universal-edit-button
@@ -96005,6 +96026,7 @@ wbs-secure-login
 wbtfe-multichannel-inventory-sync
 wbto
 wbugboard
+wbuild-affiliate-links-sidebar
 wc-18app
 wc-6amtech-payment-gateway-bkash
 wc-a11y
@@ -97159,6 +97181,7 @@ webjunk-phplist
 webkernelai-advanced-form-builder
 webkew-image-dominant-color-generator
 webkew-wp-references-and-citations
+webkih-secure-sitemap-generator
 webkima-elements
 webkinder-toybox
 webkite
@@ -112741,6 +112764,7 @@ zundokokiyoshi
 zune-stats
 zupot-atendimento-online-e-helpdesk-para-websites
 zuppler-online-ordering
+zupportly
 zurahotlinks
 zurb-foundation-5-clearing-gallery
 zuta-lucky-wheel
