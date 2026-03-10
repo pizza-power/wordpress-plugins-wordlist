@@ -273,6 +273,7 @@
 3rd-party-request-manager
 3task-calendar
 3task-glossary
+3task-polls
 3veta
 3wart-content-performance-heatmap-light
 3wart-product-variation-gallery-for-woocommerce
@@ -4246,6 +4247,7 @@ aitrackerstats
 aitrillion
 aitrillion-engage
 aitu-releated-posts-with-thumbnails
+aivec-ai-search-schema
 aiventory-connector
 aivey-seo
 aivoov-text-to-speech
@@ -5052,6 +5054,7 @@ altforge-ai-alt-text
 alti-popular-posts
 alti-watermark
 altibox
+altify-ai-auto-alt-text-generator
 altima-lookbook-free-for-woocommerce
 altinator
 altis-accelerate
@@ -7057,6 +7060,7 @@ atomic-reach
 atomic-reach-audience-engager
 atomic-reach-post-analyzer
 atomic-slider
+atomic-social-kit
 atomica-vision
 atomicpay-for-woocommerce
 atomizecrm-chat
@@ -7244,6 +7248,7 @@ audit-log-mailer-for-allinonesecurity
 audit-syslog-wp
 audit-trail
 audit-your-ads-on-google-by-clever-ads
+auditizer-ai-website-audit-optimization
 auditwave-seo
 audius-block
 auglio-try-on-mirror
@@ -11527,6 +11532,7 @@ blogchat-chat-system
 blogcontentbuddy
 blogcopilot-io
 blogcopyright
+blogcutter-activity-log-security-audit
 blogdog
 blogdog-connector
 blogeek-widget
@@ -14208,6 +14214,7 @@ bytecoder-news-ticker
 bytecoder-post-ticker
 bytedefense
 bytefyre-db-replace
+bytejutsu-fixed-order-fee-for-woocommerce
 byteonic-intake
 bytepaper-click-to-chat-widget
 byteplant-email-validator
@@ -15125,6 +15132,7 @@ catalog-booster-for-woocommerce
 catalog-enquiry
 catalog-for-logged-out-users
 catalog-for-woocommerce
+catalog-mode-for-surecart
 catalog-mode-for-woocommerce
 catalog-mode-pricing-enquiry-forms-promotions
 catalog-organization
@@ -18086,6 +18094,7 @@ codeprey-mi-video-popup
 codepros-autocomplete-address-for-woocommerce
 codepros-image-optimizer
 codeqrcode-adsense
+codequill-web-to-app
 coder-block
 coder-customizer-framework
 coderbits-profiler
@@ -20465,6 +20474,7 @@ cosmic-campaigns
 cosmic-carousel
 cosmic-history-quotes
 cosmic-normalizer
+cosmic-slider
 cosmic-spam-protection
 cosmica-advance-sections
 cosmick-star-rating
@@ -25120,6 +25130,7 @@ directory-control
 directory-index-guard
 directory-listing
 directoryengines-counter
+directorykit-car-dealer-addon
 directorypress
 directorypress-directory-plugin-for-wordpress
 directorypress-frontend
@@ -33929,6 +33940,7 @@ fidgetr
 fidnos-custom-page-logo
 fidnos-logo-link-remover
 fido-u2f
+fidras-by-catalystiq
 fidup
 field-block-for-acf-pro
 field-finder-for-acf
@@ -34619,6 +34631,7 @@ flex-ssl
 flexappointment
 flexbillet-events
 flexblocks
+flexcheckout
 flexi
 flexi-booking-system
 flexi-flick
@@ -35025,6 +35038,7 @@ flowboard
 flowbox
 flowcharts-ai
 flowcontent
+flowdino
 flowdust
 flower
 flower-delivery-by-florist-one
@@ -35674,6 +35688,7 @@ form-multilingual-for-givewp
 form-multipopup-quiz-builder
 form-notify
 form-pendaftaran-plugin
+form-plant
 form-press
 form-print-pay
 form-reach
@@ -36343,6 +36358,7 @@ friendsroll
 friendstore-for-woocommerce
 friendz
 friendzsoft-chatbot
+frinextqr
 frinly-photo-sharing-widget
 fripixel-cookies-permission
 fripixel-crypto-quotation
@@ -40449,6 +40465,7 @@ gsa
 gsaini-db-optimizer
 gsearch-plus
 gseor
+gsheet-tables
 gsheetconnector-caldera-forms
 gsheetconnector-easy-digital-downloads
 gsheetconnector-for-elementor-forms
@@ -43658,6 +43675,7 @@ ilc-thickbox
 ilen-video-locker
 iletisim-makinesi-entegrasyon-platformu
 ilghera-carta-della-cultura-for-woocommerce
+ilghera-contributo-raee-for-woocommerce
 ilike-social-media-optimization
 iliketoblog
 ilinaya-callback
@@ -44245,6 +44263,7 @@ immobiliareai
 immobilien-leadgenerator
 immocaster
 immonex-kickstart
+immonex-kickstart-for-elementor
 immonex-kickstart-team
 immopress
 immotoolbox-connect
@@ -44505,6 +44524,7 @@ incendium
 incentivibe
 incert-coupons
 inch-count
+incident-agent
 incilinfo
 incites-ai
 include
@@ -52276,6 +52296,7 @@ luway-seo-checker
 luway-upsale
 lux-copyright-manager
 lux-vimeo-shortcode
+luxcord-order-notification
 luxe-gallery
 luxento-lite-toolkit
 luxento-toolkit
@@ -53490,6 +53511,7 @@ marquee-style-rss-news-ticker
 marquee-top
 marquee-xml-rss-feed-scroll
 marqueeall
+marqueeflow
 marqueex
 mars-sol-date
 marshall-bootstrap-slider
@@ -55157,6 +55179,7 @@ migrate-wp-cron-to-action-scheduler
 migrate-wufoo-to-gravity-forms
 migrate-xoops-users
 migratestore
+migratico-lite
 migration-drupal-to-wp
 migration-notice
 migration-to-webone
@@ -60557,6 +60580,7 @@ nx-ads
 nx-adstxt
 nx-portfolio-slider
 nxshortcode
+nxt-cloud-chat
 nxt-floating-chat-widget
 nxtauth
 nxtbridge
@@ -64905,6 +64929,7 @@ picdefense-io-image-copyright-risk-checker
 picdonkey
 picgrab
 pichautari-alt-manager
+pichautari-schema-automation
 pichitme-images
 picignite
 pick-giveaway-winner
@@ -66076,6 +66101,7 @@ polako-gateway-for-woocommerce
 polanger-admin-menu-manager
 polanger-category-story-carousel
 polanger-contact-buttons
+polanger-videohub-lite
 polar-auto-post
 polar-mass-advanced-ip-blocker
 polar-polls
@@ -68578,6 +68604,7 @@ product-price-history
 product-price-history-tracker-for-woocommerce
 product-price-markup-for-woocommece
 product-profit-reporter
+product-publisher-info
 product-puller
 product-purchase-notifications
 product-qa-for-woocommerce
@@ -71946,6 +71973,7 @@ reco-for-woocommerce
 reco-widget
 recobox
 recode-cron-viewer
+recode-front-html-editor
 recognant-summarization-and-tagging
 recognyze-client
 recojo-por-otra-persona
@@ -73836,6 +73864,7 @@ retain-author
 retainful
 retainful-next-order-coupon-for-woocommerce
 retainly
+retainwoo
 retappd
 retargetapp-integration-for-woocommerce
 retargetengine
@@ -74581,6 +74610,7 @@ root-cookie
 root-cookie-path-subdomains
 root-relative-urls
 root-wp-cookie
+rootabl
 rootables
 rootblox
 rootitr
@@ -77645,6 +77675,7 @@ session-shredder-for-woocommerce
 session-slap
 sessioncam
 sessionhunt
+sessionquota
 sessions
 set-a-time-appointment-scheduling
 set-admin-colour-on-staging-and-dev
@@ -77758,6 +77789,7 @@ sfce-time-tools
 sfdc-lead-generation
 sforsoftware-sconnect-woocommerce
 sfr-analytics
+sfr-analytics-hub
 sfr-book-review-showcase
 sfr-clone-site
 sfr-directory-analytics
@@ -82245,6 +82277,7 @@ smart-content-generator
 smart-content-links
 smart-content-protection-tool
 smart-content-sync
+smart-convert-currency-unit-conversion
 smart-cookie-kit
 smart-copy-protect
 smart-copy-protection-lite
@@ -82417,6 +82450,7 @@ smart-send-logistics
 smart-send-pickup-shipping
 smart-sense
 smart-seo
+smart-seo-booster
 smart-seo-tool
 smart-service
 smart-share-floating-buttons
@@ -91025,6 +91059,7 @@ triggered-actions
 triggered-messaging-solution-for-e-commerce
 triggerfish-bytbil-accesspaket
 triggerninja-actions-for-elementor-form
+triggerninja-for-contact-form-7
 triggerninja-for-ninja-forms
 triggervox
 triggerwarning
@@ -94569,6 +94604,7 @@ vibe-seo-pack
 vibe-testimonial-shoutouts
 viber-sharing-button-for-jetpack
 vibes
+vibeseo
 vibrate
 vibraudio-audio-player-for-powerpress
 vicap
@@ -107999,6 +108035,7 @@ wp-stateless-buddypress-addon
 wp-stateless-divi-theme-addon
 wp-stateless-easy-digital-downloads-addon
 wp-stateless-elementor-website-builder-addon
+wp-stateless-for-the-events-calendar
 wp-stateless-gravity-forms-addon
 wp-stateless-gravity-forms-signature-addon
 wp-stateless-litespeed-cache-addon
