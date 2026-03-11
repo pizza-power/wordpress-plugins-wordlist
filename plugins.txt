@@ -4003,6 +4003,7 @@ ai-mortgage-calculator
 ai-muse
 ai-news
 ai-news-poster
+ai-only-pages
 ai-optimization-for-google-position-zero
 ai-page-generator
 ai-plus-block-editor
@@ -6389,6 +6390,7 @@ arcavis-synchronisation-firstmedia
 arcgis-map
 archiiv
 archisketch-3d-interior-design-solution
+archivarix-broken-links-recovery
 archivarix-external-images-importer
 archive
 archive-agenda-minutes
@@ -6602,6 +6604,7 @@ article-importer
 article-json-ld
 article-lock
 article-photo
+article-read-time
 article-read-time-lite
 article-reading-time
 article-status-email-notifications
@@ -8734,6 +8737,7 @@ ays-social-buttons
 aysnc-login-with-auth0
 ayudante-ai
 ayyash-studio
+ayzeo-geo-seo
 az-advanced-custom-scrollbar
 az-content-finder
 az-custom-tabs-for-woocommerce
@@ -10971,6 +10975,7 @@ bizzmagsmarketplace
 bizzmudra
 bizzorder
 bizzswatches
+bizzwishlist
 bizzybees
 bj-facebook-popular-posts
 bj-lazy-load
@@ -15061,6 +15066,7 @@ case-lms
 case-sensitive-url
 case-study
 case-study-ninja
+caseai-click-to-chat
 casehistory
 casengo-faq-web-self-service-plugin
 casepress-upvote
@@ -16507,6 +16513,7 @@ cheapveilingen-rss
 cheat-sheet
 cheatsheet
 cheatsheets
+check-ai-export
 check-amazon-link
 check-and-enable-gzip-compression
 check-baidu-result
@@ -19149,6 +19156,7 @@ connect-cf7-to-zoho
 connect-contact-form-7-to-constant-contact-v3
 connect-contact-form-7-to-social-apps
 connect-contact-form-7-to-telegram
+connect-crm-realstate
 connect-daily-web-calendar
 connect-ecommerce
 connect-eduma-theme-to-discord
@@ -21228,6 +21236,7 @@ crowd-ideas
 crowdaa-sync
 crowdclock
 crowdcue
+crowded-collect-dues-fundraising
 crowdfunding
 crowdfunding-and-fundraising-campaign-builder-by-payform
 crowdfunding-for-woocommerce
@@ -24822,6 +24831,7 @@ diagnostic-glance
 diagnostic-tool
 diagonal-advertising-banner-plugin
 diagonal-banner
+diagonal-responsive-view
 diagram-factory
 diagramart-library
 diagrams
@@ -28528,6 +28538,7 @@ easy-svg
 easy-svg-image-allow
 easy-svg-upload
 easy-swipebox
+easy-symbols-icons
 easy-symlinks
 easy-syntax-highlighter
 easy-table
@@ -29755,6 +29766,7 @@ elements-ocean
 elements-plus
 elementskit-lite
 elementwoo
+elentix-addons-for-elementor
 elephant-datalayer
 elephant-maintenance
 elephant-post-order
@@ -35065,6 +35077,7 @@ flowt
 flowtown-webhook
 flowxo
 floyi
+fls-stock-photo-importer
 flshow-manager
 flu-pandemic-level
 fluchtlingen-helfen
@@ -38817,6 +38830,7 @@ glossary-tooltip
 glossom
 glossy
 glossy-mega-menu
+glotcore-import-glossaries
 glotcore-limit-import-strings-number
 glotcore-rest-api
 glotpress
@@ -39773,6 +39787,7 @@ gourl-woocommerce-bitcoin-altcoin-payment-gateway-addon
 gourl-wp-ecommerce-bitcoin-altcoin-payment-gateway-addon
 gourl-wpmudev-marketpress-bitcoin-payment-gateway-addon
 gourmand-light
+govalid-qr-validator
 govdelivery-subscription-creation
 govdelivery-tms-mailer
 govivace-chatbot
@@ -43801,6 +43816,7 @@ image-comparison-slider
 image-composer
 image-compositions
 image-compress
+image-compressor-webp-by-htmlrunner
 image-config-defaults
 image-content-show-hover
 image-converter-webp
@@ -45860,6 +45876,7 @@ invoicing
 invoicing-for-economic
 invoicing-integration-for-fakturownia-and-woocommerce
 invoicing-integration-for-fakturowo-and-woocommerce
+invoicing-integration-for-ifirma-and-woocommerce
 invoicing-integration-for-infakt-and-woocommerce
 invoicing-integration-for-wfirma-and-woocommerce
 invoicing-quotes
@@ -55126,6 +55143,7 @@ miden-pg
 midi-synth
 midia-negocios-block-bot
 midnight-deals-for-woocommerce
+midrag-trust-widget
 midtrans-woocommerce
 midwest-logistics
 miebadge
@@ -59193,6 +59211,7 @@ newstweet
 newsup-quiz-embed
 newsworthy-feed
 nex-button
+nex-forms-digital-signatures-add-on
 nex-forms-express-wp-form-builder
 nex-forms-form-themes-add-on
 nex-forms-zapier-add-on
@@ -61960,6 +61979,7 @@ order-calendar-for-woocommerce
 order-categories
 order-categories-for-woocommerce
 order-coupon-field-for-woocommerce
+order-daemon
 order-delivery-date
 order-delivery-date-and-time
 order-delivery-date-and-time-for-woocommerce
@@ -63926,6 +63946,7 @@ payza-payments
 payzah-payment-gateway-for-woocmmerce
 payzard
 payzaty
+payzcore-for-woocommerce
 payzec-gateway
 payzee-payment-gateway
 payzen-woocommerce
@@ -68384,6 +68405,7 @@ proai-txt-manager-llms-robots
 probelix-blowball
 probo-connect
 proboast
+probono-form-basic
 probonoseo-basic
 probotdev-customer-support-faq-chatbot
 probuilder
@@ -69516,6 +69538,7 @@ purpleads
 purpleads-ads-txt-manager
 purplepass-ticketing
 purplesalad
+purrlink
 push-agent
 push-ajaxify-websites-paw
 push-authenticator
@@ -70690,6 +70713,7 @@ rabbit-messenger-live-chat
 rabbit-payment-gateway
 rabbit-seo
 rabbitbuilder-global-central-js-css
+rabbitbuilds-anti-spam-comment-shield
 raben-slimbox-2
 racar-clear-cart-for-woocommerce
 racar-message-me
@@ -71064,6 +71088,7 @@ rankworks-ai-behavioral-analytics-platform
 rankyak
 rannum-shortcode
 rao-forms
+raoa-addons-for-elementor
 raopress-chat-firebase-chat-for-visitors
 rapaygo-for-woocommerce
 rapdate
@@ -71464,6 +71489,7 @@ reading-time-progress-bar
 reading-time-word-count-block-for-post
 reading-time-wp
 readinglist
+readivo
 readlistenwatch
 readme
 readme-creator
@@ -76015,6 +76041,7 @@ school-governor-block-by-itchyrobot
 school-holidays
 school-management-system
 school-press
+schooldigger-widgets
 schooltube-shortcode
 schreikasten
 schubwerk
@@ -78840,6 +78867,7 @@ show-archive-descriptions
 show-articles-by-keyword
 show-authors-in-page-list
 show-authors-without-posts
+show-certificates-anywhere-for-learndash
 show-comment-policy
 show-content-by-user-level
 show-content-only
@@ -82199,6 +82227,7 @@ small-pommo-integration
 small-tools
 small-wp-security
 smallcase-oembed-provider
+smalleasy-cart-text-replacer
 smallerik-file-browser
 smalloptions
 smallpay
@@ -83586,6 +83615,7 @@ socialcountdown
 socialcurrency
 socialdraft
 socialdrips
+socialfeeds
 socialfit
 socialflow
 socialgallery-block
@@ -85800,6 +85830,7 @@ structured-blogging
 structured-content
 structured-data
 structured-data-for-events-manager
+structured-data-for-schema-org
 structured-data-google
 structured-data-test-button
 structured-listing
@@ -85822,6 +85853,7 @@ student-management
 students-count-for-learndash
 studentsays-make-comment-or-feedback
 studio-immens-css-classes
+studio-jkn-dashboard
 studio-matrix-session-booking
 studio-noir-page-styles
 studio-twelve-google-analytics-conversion-goals
@@ -86733,6 +86765,7 @@ svgility-gallery-basic-version
 svgmagic
 svgpermissions
 svgplus
+svisciano-light-dark-theme-mode
 svisciano-snowfall-effect
 svn-auto-upgrade
 svn-updater
@@ -87785,6 +87818,7 @@ tax-report-for-woocommerce
 tax-switch-for-woocommerce
 tax-toggle-for-woocommerce
 taxcaster
+taxdebug-for-woocommerce
 taxdo
 taxi-booking
 taxi-fare-calculator-by-taxifarefindercom
@@ -88259,6 +88293,7 @@ template-provisioning
 template-sell-demo-importer
 template-seo-checker
 template-share-for-elementor
+template-skeleton-creator
 template-tag-shortcodes
 template-usage
 template-widget-for-beaver-builder
@@ -89000,6 +89035,7 @@ thecartpress-spanish-setup
 thechatpress
 thecircle-daily-horoscope
 theczarofalls-sc2-ladder-displayer
+thedock-enhanced-rich-text-editor
 theepi
 thefeedfeed-reposter
 thefinancials-market-widgets
@@ -91066,6 +91102,7 @@ triggerwarning
 triggmine-email-workflows-made-perfectly-easy
 triggmine-woocommerce
 trilisting
+trill-ai-chat-lite
 trilulilu-embed
 trim-admin-menu
 trim-update-core
@@ -109368,6 +109405,7 @@ wpbutton-styles
 wpbuzz
 wpbuzzer
 wpbw-beaver-lister
+wpc-add-product-to-order
 wpc-additional-variation-images
 wpc-admin-columns
 wpc-advanced-password-protect
