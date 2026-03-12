@@ -4031,6 +4031,7 @@ ai-publisher
 ai-quiz
 ai-readiness-advisor
 ai-ready-core
+ai-ready-wp
 ai-related-products
 ai-reply
 ai-responsive-gallery-album
@@ -6792,6 +6793,7 @@ askapaches-rewriterules-viewer
 askbox
 askeet
 askme
+askotter-connector
 askova
 askpro-product-widget
 askteammate-shapeart
@@ -14644,6 +14646,7 @@ candy-cal
 candy-slider
 candy-social-widget
 canecto
+caneidev-ai-chat-woocommerce-posts
 canli-doviz-kurlari
 canli-yayin-eklentisi
 cannaffiliate-advertiser-setup
@@ -23538,6 +23541,7 @@ dashboard-wordcount
 dashboard-xkcd
 dashboardplus
 dashboardzone
+dashclean
 dashcommerce
 dashdig-analytics
 dashi
@@ -28726,6 +28730,7 @@ easycommerce
 easycommerce-fakerpress
 easyconnect-for-kaufland
 easycontent
+easycontentflow-recipe-schema
 easycontentunits
 easycontract
 easycoupon
@@ -30945,6 +30950,7 @@ epic-selection-sharer
 epic-spinners
 epic-stage
 epic-tap-widgets
+epic-tracking
 epicpay-woocommerce-payment-gateway
 epicwin-subscribers
 epim-api-importer
@@ -32063,6 +32069,7 @@ extender-for-woocommerce
 extenderx
 extendfetch
 extendify
+extendmate-session-manager
 extendy
 extensible-html-editor-buttons
 extensible-widgets
@@ -34715,6 +34722,7 @@ flexible-woocommerce-checkout-field-editor
 flexicache
 flexicardsltfo-hummgroup
 flexidx-home-search
+flexilay-gateway-for-woocommerce
 flexilayouts
 fleximenu-for-woocommerce
 flexipress
@@ -37418,6 +37426,7 @@ gauntlet-security
 gavii-gallery
 gawain-ai-video
 gaxx-keywords
+gayatri-freelancer-support-system
 gaz-content-spinning-public
 gaza-massacre-counter
 gazchaps-woocommerce-auto-category-product-thumbnails
@@ -41025,6 +41034,7 @@ hardened-clean
 hardloopcalculator
 hare-krishna-mahamantra
 haremo-social-screenshots
+hark-customer-suggestions
 harlem-shake
 harmonia
 harmonizely-booking-product
@@ -46562,6 +46572,7 @@ javascript-shortcode
 javascript-snowflake-generator
 javascript-syntaxhighlight
 javatime-textonly
+javatop-no-comments
 javek-uploader
 javibola-custom-theme
 javis
@@ -52265,6 +52276,7 @@ lueira
 lug-map
 lug-map2
 lugath
+lukacodes-comment-shield
 lukas-tripster
 lukian-ai
 lukstack-uptime-monitor
@@ -52290,6 +52302,7 @@ lumping-day
 lumturio-wp-monitor
 luna
 lunacal-calendar-scheduling
+lunacore-specs-manager
 lunapay-for-woocommerce
 lunapay-givewp
 lunar-payments-for-woocommerce
@@ -52319,6 +52332,7 @@ luxento-lite-toolkit
 luxento-toolkit
 luxicar-lite-toolkit
 luxury-hotel-booking-lite
+luzid-backup-to-nextcloud
 luzid-content-scheduler
 luzuk-photo-gallery
 luzuk-slider
@@ -52521,6 +52535,7 @@ magee-restaurant
 magee-shortcodes
 mageewp-page-layout
 magefan-blog-export
+magefan-login-as-customer
 magelon-export
 magenest-sagepay-gateway
 magento
@@ -53324,6 +53339,7 @@ mapsian
 mapster-wp-maps
 mapstr
 mapsvg-lite-interactive-vector-maps
+mapswap-for-the-events-calendar
 maptags
 maptalks-plugin
 mapthread
@@ -54956,6 +54972,7 @@ meu-plugin-de-teste
 meu-plugin-de-teste-2
 meulareta
 meuprimeiroplugin
+mevabi-word-search-puzzle-builder
 mevio-publisher
 mexiko-aktuell
 mexp-23
@@ -59199,6 +59216,7 @@ newsplug
 newsplugin
 newspress
 newsquid
+newsroom-ai-assistant
 newsroomie
 newstastic-post-slider
 newstastic-recent-post-slider
@@ -60946,6 +60964,7 @@ og
 og-checkout
 og-gdpr
 og-meta
+og-pilot-dynamic-open-graph-images
 og-survey
 og-tags
 oganro-dialog-ezcash
@@ -66434,6 +66453,7 @@ portable-contacts
 portable-phpmyadmin
 portable-query-admin
 portafolio-facebook
+portal-cloud-9
 portaljumper-shareasale-datafeed-widget
 portaljumper-tradetracker-widget
 portaljumpercoms-commission-junction-feed-widget
@@ -70061,6 +70081,7 @@ quantity-increment-buttons-for-woocommerce
 quantity-multiples
 quantitymodifier
 quantitypro-for-woocommerce
+quantivs-testimonials
 quantum-addons
 quantum-predictive-preloading
 quantum-viewports
@@ -71216,6 +71237,7 @@ raven-analytics
 raven-sms
 ravens-antispam
 raven’s-antispam
+ravindra-chat-forms
 ravioli-for-woocommerce
 ravpage
 ravuss-seo
@@ -76840,6 +76862,7 @@ seevolution-heatmap-analytic
 seg
 seggwat-feedback
 segment-for-wp-by-in8-io
+segmentflow-connect
 segmentino
 segmentio
 segmentlab-extension
@@ -82388,6 +82411,7 @@ smart-link-final
 smart-links
 smart-links-by-allembru
 smart-loan-calculator
+smart-local-ai
 smart-logo-showcase-lite
 smart-maintenance-countdown
 smart-maintenance-mode
@@ -86511,6 +86535,7 @@ supermoon
 supernifty-bublz
 superoffice
 superpack
+superplus-for-woocommerce
 superpress
 superrss
 supersaas-appointment-scheduling
@@ -95733,6 +95758,7 @@ vverner-getnet-gateway
 vw-arts-gallery
 vw-floating-chat
 vw-notes-files-downloader
+vw-order-notify-for-telegram
 vw-property-listing
 vwe-voorraadlijst
 vwriter-guest-post
@@ -97250,6 +97276,7 @@ webisonline
 webita-chat-ai-chatbot
 webites-currency
 webiwork-per-product-shipping
+webixso
 webjunk-phplist
 webkernelai-advanced-form-builder
 webkew-image-dominant-color-generator
@@ -112413,6 +112440,7 @@ zen-yandex-weather
 zen4wp
 zenback
 zenback-for-wordpress
+zenblocks
 zencache
 zencart-and-wordpress-user-integration
 zencart-featured-products
