@@ -759,6 +759,7 @@ accelerate-patterns
 accelerate-your-advertising
 accelerated-mobile-page
 accelerated-mobile-pages
+accelvia-content-protection
 accept-2checkout-payments-using-contact-form-7
 accept-amazon-payments
 accept-authorize-net-payments-using-contact-form-7
@@ -3830,6 +3831,7 @@ ah-o8322
 ah-prism-syntax-highlighter
 ah-shortcodes
 ah-social-share
+aha-mail-smtp
 ahachat-messenger-marketing
 ahadis-imam-ali
 ahalogy-wp
@@ -3859,6 +3861,7 @@ ai-agent-for-seo-content-republish-ai
 ai-alt-generator
 ai-alt-text-builder
 ai-alt-text-generator
+ai-answer-toolkit
 ai-app-onsite
 ai-article-writer
 ai-assistant-by-10web
@@ -4974,6 +4977,7 @@ alpha-website-tools
 alphabet-filter-plugins
 alphabetic-pagination
 alphabetical-list
+alphacommerce-cart-recovery
 alphalisting
 alphaomega-captcha-anti-spam
 alphapay-gateway-brazil
@@ -5729,6 +5733,7 @@ another-wordpress-classifieds-plugin
 another-wordpress-meta-plugin
 another-wordpress-seo-plugin
 another-wordpress-tracker-plugin
+anowradio-player
 anpc-display
 anppopular-post
 anrghg
@@ -7076,6 +7081,7 @@ atompub
 atomsix-panel
 atomx-services
 atonce-live-chat-crm-helpdesk-help-center-customer-service-automation
+atoship-for-woocommerce
 atoz-sorting
 atp-call-now
 atp-chatbot
@@ -7973,6 +7979,7 @@ autologin-on-register-for-buddyboss
 automagic-twitter-profile-uri
 automagicalinks
 automail
+automaize-class-schedule
 automapping-excel-worksheet-price-calculation
 automate-chrome-push-notifications
 automate-dropshipping-for-b2bdropshipperwwtech
@@ -9500,6 +9507,7 @@ bb-auto-set-featured-image
 bb-bootstrap-alerts
 bb-bootstrap-cards
 bb-connect-for-give-donations
+bb-content-types
 bb-date-and-years-shortcode
 bb-delete-cache
 bb-edition-control
@@ -12370,6 +12378,7 @@ botsplash-chat
 botsubmit
 bottam-bar
 bottimmo-widget
+bottle
 bottled-water-costs-calculator
 bottom-admin-bar
 bottom-admin-toolbar
@@ -14102,6 +14111,7 @@ buzzcity-ads
 buzzcore-activity-logger
 buzzea-shopping-guide
 buzzer-button
+buzzetty-price-comparison-tables
 buzzfeed
 buzzfeed-hotness
 buzzfeed-style-personality-quizes
@@ -15065,6 +15075,7 @@ casasync
 casawp
 cascade-delete-media
 cascade-menu
+cascading-mega-menu-for-elementor
 case-assist-personal-injury-calculator
 case-converter
 case-insensitive-passwords
@@ -19017,6 +19028,7 @@ compreval
 comprobante-de-pago-peru
 comprobantes-electronicos-arca
 comptaflow-by-meetempo
+comptaflow-uk-by-meetempo
 computa-quiz-and-survey
 compute-links
 computer-repair-shop
@@ -19691,6 +19703,7 @@ content-importer-for-notion
 content-insights
 content-instead-of-the-excerpt
 content-kit
+content-lifecycle-manager
 content-likes
 content-link-center
 content-links
@@ -23402,6 +23415,7 @@ darkadmin
 darken
 darkg-simpay
 darkify
+darklio
 darklooks-dark-mode-switcher
 darklup-lite-wp-dark-mode
 darkmeta-dark-mode
@@ -24184,6 +24198,7 @@ definitions-internal-linkbuilding
 definitive-addons-for-elementor
 defithis
 deftchimp
+deftcoders-dynamic-pricing-conditional-fees
 degaa-analytics
 degradable-html5-audio-and-video
 degree-of-difficulty-for-sensei
@@ -24723,6 +24738,7 @@ devotionalium
 devotionals
 devowelizer
 devpress
+devpressfactory-live-chat
 devpri-custom-code
 devrama-image-lazyload
 devranter
@@ -34671,6 +34687,7 @@ flexi-post-grid
 flexi-product-slider-grid
 flexi-quote-rotator
 flexi-related-posts
+flexi-wc-subscriptions
 flexia-core
 flexiaddons
 flexible-ab-results
@@ -35762,6 +35779,7 @@ formataway
 formategory
 formation
 formative
+formatrica
 formatted-post
 formatting-correcter
 formatting-extender
@@ -37367,6 +37385,7 @@ gap3-sharemycart-for-woocommerce
 gap3coders-taxonomy-post-order
 gaphub-wp-directory
 gapify-ai-customer-communication
+garagem
 garagesale
 garam-livechat-chatbot
 garanti-bbva-virtual-pos-application-integration
@@ -40503,6 +40522,7 @@ gseor
 gsheet-tables
 gsheetconnector-caldera-forms
 gsheetconnector-easy-digital-downloads
+gsheetconnector-for-core-lite
 gsheetconnector-for-elementor-forms
 gsheetconnector-for-fluentform
 gsheetconnector-formidable-forms
@@ -46340,6 +46360,7 @@ itinerary
 itm-option-panel
 itm-simple
 itman-page-speed-insights
+itmaroon-ec-relate-blocks
 itmaroon-extra-settings
 itmaroon-social-post-sync
 itomx-wordpress-a-twitter
@@ -48575,6 +48596,7 @@ klikhotel-booking-button
 klikpay-secure
 klikwa-chat-button-widget-by-klikwa-net
 klima-monitor
+klingvall-custom-admin-dashboard
 klipse
 klipspringer
 klix-image-dimsum
@@ -52977,6 +52999,7 @@ mainwp-child
 mainwp-child-reports
 mainwp-key-maker
 mainwp-sites-seo-report
+maio-ai-meta-tag-generator
 maio-the-new-ai-geo-seo-tool
 mais-comentados
 mais-inscritos
@@ -53540,6 +53563,7 @@ markstesting2
 marktesting3
 marktfeed-for-woocommerce
 marktroll
+markuclean-markup-cleaner
 markup-by-attribute-for-woocommerce
 markup-json-ld-structured-in-schemaorg
 markup-markdown
@@ -55761,6 +55785,7 @@ mk-table-of-contents
 mk-to-lat
 mk-wordpress-portfolio
 mk-wp-block
+mkesar-indian-interest-pro
 mklasens-dynamic-widget
 mklasens-faq
 mklasens-photobox
@@ -56700,6 +56725,7 @@ motorsports-calendar-widget
 motube
 moulton-payment-gateway
 mountainbike
+mountdev-ai-mcp-connector
 mountdev-cloudflare-turnstile
 mountee
 mourl
@@ -57514,6 +57540,7 @@ munky-smiley
 mupost
 murderousgrowling
 murls-discounts
+murls-smart-popups
 muro
 musahimoun
 muscula
@@ -61137,6 +61164,7 @@ omfg-mobile-web-app-mode
 omh-landing-kits-for-elementor
 omi-live-talk
 omigo
+ominis-shortcodes
 omipay
 omise
 omit-parent-theme-page-templates
@@ -64168,6 +64196,7 @@ pdfl-io
 pdfsharing
 pdfsmith
 pdftoimg-viewer
+pdmkt-webhooks-for-cpt
 pdo-for-wordpress
 pdp-product-list-manager-for-woocommerce
 pdp-scrool-to-top-bottom
@@ -74624,6 +74653,7 @@ role-scoping-for-nextgen-gallery
 role-specific-access
 role-wc
 role-wise-category-post
+roleguard
 rolemaster-suite
 rolematrix-gw
 roles
@@ -75479,6 +75509,7 @@ sagi-binance-pay
 sagive-latest-posts
 sahih-al-bukhari-hadiths
 sahu-tiktok-pixel
+saia-reputation-manager-lite
 sailen-seo
 sailen-short-menu
 sailthru-triggermail
@@ -77667,6 +77698,7 @@ serped-net
 serpwars-mobile-cta
 serpzilla
 sertifier-certificates-open-badges
+serve-md
 serve_static
 servebolt-optimizer
 server-analytics
@@ -77788,6 +77820,7 @@ set-wp-email-headers
 set-yoast-to-bottom
 set-youtube-image-as-featured-thumbnail
 setary
+setchat
 setcron
 setel-express-for-woocommerce
 setfm-widget
@@ -81224,6 +81257,7 @@ simplify-mortgage-calculation
 simplify-post-taxonomy
 simplify-timeline
 simplio3d-product-configurator
+simpliplot-interactive-mapper
 simplistic-page-navi
 simplistic-seo
 simplitics
@@ -83322,6 +83356,7 @@ social-header-meta
 social-history-for-wordpress
 social-homes
 social-hub
+social-icon-block-variations
 social-icon-link-on-sidebar
 social-icon-links
 social-icon-replacements
@@ -86336,6 +86371,7 @@ sun-tzu-quotes
 sunburst-code-prettify
 suncart-data-migration-from-shopify-for-woocommerce
 sunday-news-lite-toolkit
+sunder-notice-bar
 sunfolia-smart-cart-popup
 sunlime-post-label-center-export-tool
 sunny
@@ -88052,6 +88088,7 @@ tcs3
 tcss-facebook-likebox-widget
 tct-dynamic-spreadsheet-counter-for-divi
 tct-specific-weather-day
+tcultura-connect
 tcusers
 tcvn-accordion-widget
 tcvn-coin-slider-widget
@@ -91168,6 +91205,7 @@ triggmine-email-workflows-made-perfectly-easy
 triggmine-woocommerce
 trilisting
 trill-ai-chat-lite
+trilobita-docvault
 trilulilu-embed
 trim-admin-menu
 trim-update-core
@@ -92405,6 +92443,7 @@ ucomment
 ucontext
 ucontext-for-amazon
 ucp-adapter-for-woocommerce
+ucphub-for-woocommerce
 ucto-invoices
 ucul
 ud-connector-for-oxygen
@@ -92868,6 +92907,7 @@ um-terms-conditions
 um-user-list
 um-user-switching
 um-wp-user-frontend
+umangapps-notice-organizer
 umanit-update-urls
 umapper
 umatter2us
@@ -94116,6 +94156,7 @@ v4notification
 v4search
 v5pro-accordion-faq
 v7-legacy-editor-enabler
+v7-low-stock-filter
 v7-product-alternatives
 v7n-rss-feed
 va-check-old-password
@@ -94928,6 +94969,7 @@ videotoblog
 videowalls-for-ziggeo
 videowarrior
 videowhisper-live-streaming-integration
+videowhisper-site-manager
 videowhisper-video-conference-integration
 videowhisper-video-presentation
 videozen
@@ -98573,6 +98615,7 @@ wipe-slideshow
 wipsum
 wiqet-photo-voice-and-webcam-video-personal-presentation-plugin
 wire-manager
+wireboard-analytics
 wirecard-woocommerce-extension
 wireclub-chat
 wired-goons-header
@@ -98644,6 +98687,7 @@ wit-antispam-v10
 wit-buzz
 witch
 with-melty-support
+withdraw-kit
 withings-scale
 withinweb-php-keycodes
 withinweb-remove-spam-subscribers
