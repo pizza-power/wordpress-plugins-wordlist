@@ -5043,6 +5043,7 @@ altcoins-donation-widget
 alter
 alter-feed-links
 alter-media
+alter-product-for-woocommerce
 altered-reality
 alterly
 alternate-contact-info
@@ -10053,6 +10054,7 @@ belo-add-to-cart-redirect-for-woocommerce
 belocal
 belocal-plugin
 belocalendar
+beltoft-in-stock-notifier
 beltoft-loyalty-rewards
 bemax-elementor
 bemo-a-z-index
@@ -14966,6 +14968,7 @@ cart-to-checkout-timer
 cart-total-rounding
 cart-tracking-for-woocommerce
 cart-update-without-button
+cart-validation-for-woocommerce
 cart-weight-for-woocommerce
 cart2cart-3dcart-to-woocommerce-migration
 cart2cart-ablecommerce-to-woocommerce
@@ -16974,6 +16977,7 @@ cimy-user-manager
 cincopa
 cincopa-video-slideshow-photo-gallery-podcast-plugin
 cinda-citizen-science
+cine-movie-engine
 cinema-catalog
 cinema-seat-reservation
 cinema-seat-reservation-xcloud-pro
@@ -24213,6 +24217,7 @@ deip
 deixto-for-windows-servers
 deixto-recommender-for-woocommerce
 dejavu
+dejunk-db
 dejureorg-vernetzungsfunktion
 dekabotann
 deklaracja-dostepnosci-wcag
@@ -26438,6 +26443,7 @@ doorlin-whiteboard
 doorman
 doorzz-real-estate
 doosearch-ajax-search-for-woo
+doozy-order-protection
 dop-player
 dop-shortcodes
 dop-slider
@@ -29344,6 +29350,7 @@ edisound-player
 edit-and-manage-product-for-woocommerce
 edit-any-table
 edit-author-slug
+edit-by-id
 edit-category-slug
 edit-comments
 edit-comments-xt
@@ -34478,6 +34485,7 @@ fixes-for-mod-pagespeed
 fixeter
 fixing-bnb
 fixit
+fixlayer-crosscart-sync
 fixon-cadastro-de-clientes
 fixpress
 fixquotes-quote-of-the-day
@@ -36607,6 +36615,7 @@ ft-signature-manager
 ft-stop-trackback-dos-attacks
 ft-trioutnc
 ftlcommerce-instant-product-search
+ftmpub-media-slider
 ftp-access
 ftp-access-file-manage
 ftp-free-theme-file-creator
@@ -36919,6 +36928,7 @@ fw-quick-langswitch
 fw-subpageinadiv-spiad
 fw-vimeo-videowall
 fw-wpgoogleusermap
+fwd-plasmic-audio-player
 fwd-slider
 fwd-social-share
 fwe-facebook-sidebar
@@ -49068,6 +49078,7 @@ laboreal-video-gallery
 labsbd-frame-studio
 labtheme-companion
 labtools
+labvaxe
 laci-link-cluster
 lacrm-connector-for-contact-form7
 lactose-free-wp
@@ -72398,6 +72409,7 @@ refgenerator
 refine-slide-shortcode-post-type
 refiner
 refineurl
+refinex
 refiral
 refiral-for-wp-e-commerce
 reflect
@@ -78804,6 +78816,7 @@ shortcode-widgets
 shortcode-with-preview-block
 shortcode-y-widget-oficial-insignia-ojala
 shortcodearcade-crypto-idle-game
+shortcodeglut
 shortcodegpt
 shortcodehub
 shortcodehub-addon-image-color-palette
@@ -81701,6 +81714,7 @@ sitetran
 sitetree
 sitetweet-tweets-user-behaviors-on-your-site-on-twitter
 siteurl-preview-links
+sitevault-backup-restore-migration
 sitewarranty-verified-seal-trust-seal
 sitewatcher
 sitewide-admin-headerfooter
@@ -84437,6 +84451,7 @@ speedien
 speedix
 speedly
 speedmetriks
+speedora-total-website-speed-optimization
 speedox
 speedplus-antimat
 speedplus-optimini
@@ -85643,6 +85658,7 @@ stoptheslowlane
 stopwatch
 stopwatch-matching-any-theme
 stopwords-for-comments
+storage-for-edd-via-box
 storage-for-edd-via-dropbox
 storage-for-edd-via-onedrive
 storage-for-edd-via-s3-compatible
@@ -92315,6 +92331,7 @@ typeahead
 typebot
 typecase
 typed
+typeflow-font-loader-google-fonts
 typeform
 typeform-addon-for-gravity-forms
 typeform-conversations
@@ -93292,6 +93309,7 @@ update-alt-attribute
 update-brief-mainwp
 update-comment-count
 update-comments-count
+update-compass
 update-control
 update-customer
 update-disable
@@ -98673,6 +98691,7 @@ wishlist-real-estate-manager-extension
 wishlist-shibainuit
 wishlist-with-hearts
 wishlist-woocommerce
+wishly-wishlist-for-woocommerce
 wishpond-social-campaigns
 wishpot-publisher-pro
 wishsimply
