@@ -105,6 +105,7 @@
 1on1-secure
 1on1-url-redirects
 1pass
+1platform-content-ai
 1player
 1pointmail-optinbox-for-wp
 1qlick
@@ -157,6 +158,7 @@
 2fas-light
 2focus-bookmarks
 2fox4-accessibility-suite
+2fox4-custom-popup
 2hive
 2index-page-indexer
 2j-photo-gallery
@@ -6809,6 +6811,7 @@ askteammate-shapeart
 askthis
 asktina-widget
 asl-blocks
+aslams-ai-provider-for-grok
 aslyder
 asm-brush
 asm-manager
@@ -11225,6 +11228,7 @@ block-editor-for-product
 block-editor-for-products
 block-editor-for-woocommerce
 block-editor-gallery-slider
+block-editor-image-filename-prompt
 block-editor-navigator
 block-editor-roles
 block-editor-search-replace
@@ -12351,6 +12355,7 @@ botless-core
 botmate
 botme-ai
 botmonitoring
+botmotion-widget
 botnet-attack-blocker
 botnet-blocker
 boton-de-cotizar-por-chat
@@ -17043,6 +17048,7 @@ cite-this
 cite-this-post
 citehq
 citekite
+citelayer
 citepress-automatic-citation-generator
 cities-shipping-zones-for-woocommerce
 citizen-initiative-support
@@ -19096,6 +19102,7 @@ conditional-payment-methods-for-woocommerce
 conditional-payments
 conditional-payments-for-woocommerce
 conditional-popup-creator
+conditional-quantity-manager-for-woocommerce
 conditional-shipping-and-payments-for-woocommerce
 conditional-shipping-for-woocommerce
 conditional-shortcode
@@ -20009,6 +20016,7 @@ conversion-tracking-for-contact-form-7
 conversion-tracking-for-woocommerce
 conversion-tracking-for-woocommerce-and-google-ads
 conversioncow
+conversionquality
 conversions-extensions
 conversions-popup-widget
 conversionwax
@@ -23575,6 +23583,7 @@ dashify
 dashing-memberships
 dashly
 dashnav
+dashnotes-modern-admin-notes
 dashpress
 dashview
 dashwidget
@@ -27505,6 +27514,7 @@ e-goi-mail-list-builder-contact-form-7
 e-goi-mail-list-builder-woo-commerce
 e-google-maps
 e-invoice-for-myinvois-lhdn
+e-invoicing-connector-for-scrada-lite
 e-junkie
 e-junkie-locked-content
 e-learning
@@ -30654,6 +30664,7 @@ energ1zer
 energy-saver
 energy-saver-smart
 energy-search
+enesozer-guard-for-core-web-vitals
 enflyer-auto-subscribe
 enfold-logo-per-page
 enforce-featured-image
@@ -31149,6 +31160,7 @@ esix-user-role
 esma-ul-husna
 esms-gui-tin-nhan-sms
 esms-notify
+esnapixel
 eso-hub
 eso-sets-and-skills
 eso-widgets
@@ -34240,6 +34252,7 @@ find-posts-by-title
 find-posts-using-attachment
 find-remote-file
 find-replace
+find-replace-blocks-patterns
 find-replace-lmps-first-plugin
 find-the-link
 find-tweets
@@ -42532,6 +42545,7 @@ hosting-stability-meter
 hosting-website-speed-check
 hostinger
 hostinger-reach
+hostingforall-domain-checker
 hostingspell-analytics
 hostme-restaurant-reservations
 hostnet-mailer
@@ -43152,6 +43166,7 @@ hyphoo
 hypodash
 hypotext
 hypothesis
+hyros-tracking
 hytolat
 hyve-lite
 hyveme
@@ -43361,6 +43376,7 @@ iclew-business-kit
 iclient-woocommerce
 iclientes-chat
 ico-list-widget
+ico-priradenie
 ico-progress-viewer
 icoach-motore-di-ricerca-sul-coaching
 icodes-voucher-plugin
@@ -43593,6 +43609,7 @@ ifavorites
 ifconfig
 ifeature-slider
 ifeed-for-elementor
+ifelse-pages-coming-soon-and-maintenance-mode
 ifelsend-go-top
 ifgathering-fundraising-widget
 iflair-pwa-app
@@ -48509,6 +48526,7 @@ kite-print-and-dropshipping-on-demand
 kite-publisher
 kitecv
 kitestudio-core
+kitful
 kitgenix-affiliate-link-manager
 kitgenix-captcha-for-cloudflare-turnstile
 kitgenix-order-tracking-for-woocommerce
@@ -49070,6 +49088,7 @@ label-guide
 label-old-posts
 label-plugins
 labelbaker
+labelglow-for-google-contacts
 labinator-content-types-duplicator
 labinator-minimal-maintenance-mode
 laboratory
@@ -50560,6 +50579,7 @@ lingoeducation
 lingofy
 lingojs-website-translation-integration
 lingotek-translation
+linguapress
 linguator-multilingual-ai-translation
 linguise
 lingulab-live
@@ -51914,6 +51934,7 @@ loginizer
 loginizr
 loginmojo
 loginner
+loginone-random-game-picker-for-steam
 loginout
 loginova
 loginpetze
@@ -58933,6 +58954,7 @@ netroics-blog-posts-grid
 netron-ict
 netrox-sc-live-chat
 netscore-connector
+netscore-loyalty-rewards
 netscore-rental-products
 netsecop
 netsensai-shield
@@ -64036,6 +64058,7 @@ payzito
 payzoft-woo-payment-gateway
 pazzeys-store-locator
 pb-addons
+pb-bulk-product-editor-for-woocommerce
 pb-duplicate
 pb-easydiv
 pb-embedflash
@@ -64959,6 +64982,7 @@ phrankly-food-and-drink-sourcing
 phrase
 phraseanet-client
 phu-admin-theme
+phub-product-table
 phunnl
 phynite-analytics
 physical-custom-upload-folder
@@ -68834,6 +68858,7 @@ product-weight
 product-widget-glopart
 product-widgets-for-elementor
 product-xml-feeds-for-woocommerce
+productbay
 productbird
 productcconfigurator-plugin
 productdyno
@@ -68955,6 +68980,7 @@ profit-margin-calculator
 profit-products-tables-for-woocommerce
 profit-reports-for-woocommerce
 profitblue-financial-reporting-for-woocommerce
+profitgate-for-woocommerce
 profitguard
 profitori
 profitshare
@@ -69514,6 +69540,7 @@ pubsubhubbub
 pubvendors-json-manager
 pubydoc-data-tables-and-charts
 puchi-ab-testing
+puckettworks-super-simple-sticky-sidebar
 pud-generator
 puddinq-dashboard
 puddinq-order-list
@@ -75789,6 +75816,7 @@ sastra-essential-addons-for-elementor
 satelite
 satellite
 satellite-portrait
+satish-ai-content-chat-assistant
 satispay-payment-for-woocommerce
 satollo-monitor
 satoshipay
@@ -79378,6 +79406,7 @@ signature-with-contact-form-7
 signed-posts
 significant-tags
 signly
+signteer
 signup-breach-checker
 signup-forms-for-wordpress
 signup-modal-add-on-for-mailpoet
@@ -82543,6 +82572,7 @@ smart-prefetch
 smart-pregnancy-calculator
 smart-prev-next
 smart-price-sync
+smart-product-badges-for-woocommerce
 smart-product-emails
 smart-product-gallery-for-fluentcart
 smart-product-gallery-slider
@@ -82818,6 +82848,7 @@ smilies-themer-update
 smiling-video
 smime
 smime-email-signing
+smitacs-ppob-gateway
 smithers-login
 smjrifle-qr-payments
 smk-sidebar-generator
@@ -83054,6 +83085,7 @@ snap-video-gallery
 snapapp
 snapaura-extensions-manager
 snapaura-menu-manager
+snapbar
 snapbase-jquery-popup
 snapbase-theme-engine
 snapcache
@@ -85024,6 +85056,7 @@ staging-prevent-indexing
 staging-sync
 staging-users-control
 stagtools
+stak-floating-cart-menu
 stakdev-recent-posts
 stale-content-notifier
 stale-order-alerts-for-woocommerce
@@ -85776,6 +85809,7 @@ storepress
 storeradar-analytics-for-woocommerce
 storerocket-store-locator
 storespot
+storesuite
 storeui
 storewave
 storeya-like-box
@@ -88360,6 +88394,7 @@ teleshop
 teletter-telegram-newsletter
 teligro
 telinfy-messaging
+telkari
 tell-a-friend
 tell-all-gz
 tell-sammy
@@ -93030,6 +93065,7 @@ unifeed
 unified
 unified-inventory-manager-for-wc
 unified-logging
+unified-login
 unified-login-error-messages
 unified-meta-box-order
 unified-payment-services-limited-payment-gateway-for-woocommerce
@@ -93924,6 +93960,7 @@ user-status-shortcode
 user-submitted-content
 user-submitted-posts
 user-subscription
+user-supersearch
 user-switcher
 user-switching
 user-switching-for-woocommerce
@@ -110952,6 +110989,7 @@ wsandwich
 wsb-brands
 wsb-etomitreba
 wsb-hub3
+wsc-404-redirect
 wschat-live-chat
 wsd-android-and-ios-for-woocommerce
 wsd-search-by-slug
@@ -111401,6 +111439,7 @@ xpac-lottie-interactive-animation
 xpand-image-gallery
 xpandable-author-tab
 xpay-payment-gateway
+xpayr-crypto-gateway-for-woocommerce
 xpd-reduce-image-filesize
 xpert-accordion
 xpert-tab
