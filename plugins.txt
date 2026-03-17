@@ -680,6 +680,7 @@ aboutmagic
 aboutme-widget
 aboutus-contractus
 above-the-fold-optimization
+abovewp-add-to-cart-upsell-popup
 abovewp-admin-dark-mode
 abovewp-bulgarian-eurozone
 abovewp-bulk-attribute-change
@@ -3922,6 +3923,7 @@ ai-contact-form
 ai-contact-us
 ai-content
 ai-content-agent
+ai-content-autopilot
 ai-content-by-parallax
 ai-content-classifier
 ai-content-copilot-auto-social-media-posting
@@ -6318,6 +6320,7 @@ apsc-crop
 apsense-brand-badge
 apsense-share-button
 apsis-pro-for-wp
+apslo-board
 apt-recommended-books
 apt-rich-snippets
 aptivada-for-wp
@@ -6535,6 +6538,7 @@ arman-responsive-email-style
 armember-membership
 armenian-keyboard
 armenian-links-change
+armoris-x402-agent-pay
 armory-atlas
 army-video-slider
 arnax-bitcoin-gateway
@@ -9435,6 +9439,7 @@ basis-llms-txt-file-generator
 basis-redirects
 basis-tables
 basislogin
+baskerville-ai-security
 basket-recovery
 basketball-scorebook
 basketin
@@ -13001,6 +13006,7 @@ brightcove-video-cloud
 brightcove-video-connect
 brightedge-autopilot
 brightedge-autopilot-page-publisher
+brightery-conversion-toolkit
 brightleaf-digital-php-compatibility-scanner
 brightslider
 brighttalk-wp-shortcode
@@ -13688,6 +13694,7 @@ builderall-cheetah-for-wp
 builderglut
 builderius
 buildin3d-for-woocommerce
+buildnatively
 buildr-features
 buildwithguru
 buildyoursite
@@ -23966,6 +23973,7 @@ dealership-aggregator
 dealersolutionscomau-inventory-search
 dealfront
 dealia-request-a-quote
+dealicious-conditional-checkout-rules
 dealicious-smart-discounts-rewards-for-woocommerce
 dealique
 dealnit-dealfeed-of-local-deals
@@ -24210,6 +24218,7 @@ definition-list
 definitions-internal-linkbuilding
 definitive-addons-for-elementor
 defithis
+defiway-pay-gateway
 deftchimp
 deftcoders-dynamic-pricing-conditional-fees
 degaa-analytics
@@ -30143,6 +30152,7 @@ email-template-customizer-for-woo
 email-template-customizer-for-woocommerce
 email-templates
 email-templates-customizer-for-woocommerce
+email-templates-for-contact-form-7
 email-test
 email-text-customizer-for-woocommerce
 email-tfa
@@ -31157,6 +31167,7 @@ esim-ninja-affiliates-widget
 esimple-wiki
 esir-win-fiskal-fiskalna-kasa
 esix-user-role
+eslamdev-floating-contact-buttons
 esma-ul-husna
 esms-gui-tin-nhan-sms
 esms-notify
@@ -34715,6 +34726,7 @@ flexible-ab-results
 flexible-blogtitle
 flexible-captcha
 flexible-checkout-fields
+flexible-content-filter-for-acf
 flexible-cookies
 flexible-coupons
 flexible-custom-post-type
@@ -37731,6 +37743,7 @@ generate-user-invoices
 generate-wordpress-entities
 generate-wpgraphql-image-dataurl
 generateblocks
+generatebot
 generatewp-oembed
 generatify
 generative-engine-optimization
@@ -37934,6 +37947,7 @@ genius-marketo-form-prefill
 genius-portfolio
 geniuscontacts-signup-form-45
 geniuspay-for-woocommerce
+geniustray-video-playlist-for-youtube
 genki-announcement
 genki-feedburner-sitestats
 genki-pre-publish-reminder
@@ -40891,6 +40905,7 @@ h5p-sharing
 h5pxapikatchu
 h6-private-store-for-woocommerce
 h6-smart-checkout-fields-for-woocommerce
+h6-smart-shipping-payment-control-for-woocommerce
 h7-tabs
 ha-background-color-customizer
 ha-banners
@@ -42430,6 +42445,7 @@ hook-locator
 hook-me-up-ajax-filter
 hook-sniffer
 hook-timer
+hookanywhere
 hooked-editable-content
 hookie
 hookie-buddypress
@@ -47097,6 +47113,7 @@ jnext-disable-wp-updates
 jnext-remove-attachments
 jnext-timeline-blocks
 joan
+joaosnken-domain-verification-for-oceani
 job-agency
 job-app-manager
 job-application-form
@@ -48457,6 +48474,7 @@ kings-different-content-for-members
 kings-faq
 kings-tab-slider
 kingsleys-whatpulse-widget
+kingswayvideo-selector
 kinguin
 kingvish-weekly-class-schedule
 kinka-js
@@ -50862,6 +50880,7 @@ linksharerss-ads
 linksmart
 linkstar
 linkstorm-internal-linking
+linkstrackly
 linksurgewp
 linksy-search-and-replace
 linkt
@@ -53618,6 +53637,7 @@ marquee-xml-rss-feed-scroll
 marqueeall
 marqueeflow
 marqueex
+marquix-for-elementor
 mars-sol-date
 marshall-bootstrap-slider
 marsoole-shipping-for-woocommerce
@@ -53659,6 +53679,7 @@ mask-comments
 mask-contact-form
 mask-elementor-form
 mask-form-elementor
+maskmyadmin
 masks-form-fields
 masoffer-dynamic-link
 masoffer-product-listing
@@ -54160,6 +54181,7 @@ media-filter
 media-finder
 media-focus-point
 media-folder
+media-folder-manager
 media-folders
 media-folders-codingdude
 media-folders-lite
@@ -54422,6 +54444,7 @@ mega-testimonial
 mega-woocommerce-addons-for-elementor
 megabase-calendar
 megabits-control-gastos
+megamanager-connector
 megamenu
 megamenu-storefront
 megamo
@@ -55861,6 +55884,7 @@ mlumen
 mlv-contextual
 mlx-cookie-consent
 mm
+mm-ai-post-generator
 mm-ajax-login
 mm-breaking-news
 mm-chat
@@ -56960,6 +56984,7 @@ mrm-localtime-simple
 mrm-recipes
 mroonga
 mrpopup
+mrqurban-emergency-rescue
 mrsignage
 mrsignage-digital-signage-for-woocommerce
 mrsoukbh-smart-captcha-for-google-recaptcha
@@ -58594,6 +58619,7 @@ native-blocks
 native-blocks-carousel
 native-comment
 native-content-relationships
+native-custom-fields
 native-custom-fields-meta-box-and-acf
 native-emoji
 native-fullscreen
@@ -59225,6 +59251,7 @@ newsflash-aink
 newsflow
 newsgram
 newsgrape-sync
+newshound-lite
 newsinapp-widget
 newsit
 newsletter
@@ -59390,6 +59417,7 @@ nextend-smart-slider-lite
 nextend-twitter-connect
 nexter-extension
 nexternal
+nextfly-domain-restricted-access
 nextgen-3d-flux-slider-template
 nextgen-ajax
 nextgen-cooliris-gallery
@@ -60677,6 +60705,7 @@ nuvora-timeline-for-elementor
 nuway
 nuwire-paper-boy
 nuxt-panel
+nv-live-visitor-count
 nv-slider
 nvd3-visualisations
 nvoice
@@ -63559,6 +63588,7 @@ pause-sales-on-woo
 pause-shop
 pausepage
 pausepay-gateway-for-woocommerce
+pavan-floating-call-button
 paw-masonry-gallery
 pawboost-lost-and-found-pets
 pawnbat-module
@@ -65989,6 +66019,7 @@ plus1-button
 plus1-google-1
 plus2download
 pluscaptcha
+pluscodes-product-csv-import-export-for-woocommerce
 plusminus-button
 plusnarrative-admin-theme
 plusone
@@ -76317,6 +76348,7 @@ scriptriz-smart-chat
 scriptrr-google-activity-feed-widget
 scriptrr-google-profile
 scripts
+scripts-and-pixels-datalayer-manager
 scripts-and-styles
 scripts-and-styles-manager
 scripts-gzip
@@ -80890,6 +80922,7 @@ simple-stupid-shortcode
 simple-submit
 simple-subscribe
 simple-subscriber-signup-widget
+simple-subscriptions-for-stripe-woocommerce
 simple-subtitle
 simple-subtitles
 simple-sugarsync-upload
@@ -81714,6 +81747,7 @@ sitepack-connect
 sitepackage-newsletter-opt-in
 sitepact-klaviyo-contact-form-7
 sitepal-talking-avatar
+siteplugi-status-emailer
 sitepress-multilingual-cms
 sitepress-multilingual-cms183
 sitepulse
@@ -83974,6 +84008,7 @@ solpress-payment-gateway
 solr-for-wordpress
 solr-power
 solrhq-for-wordpress
+solun-ai-concierge-search
 soluship-shipping
 solution-agde
 solutions-ad-manager
@@ -93395,6 +93430,7 @@ updater
 updates-api-inspector
 updates-submenu-for-admin-bar
 updates-to-slack
+updatronix
 updownupdown-postcomment-voting
 updraft
 updraftcentral
@@ -94198,6 +94234,7 @@ uyan
 uyetabani
 uyghur-uly-permalinks
 uyond-cdn
+uz-ai-search
 uzip-tinyurl
 uznwpe
 v-bargain
@@ -94484,6 +94521,7 @@ ve-tweets
 veb-local-seo-schema-markup
 vebra-properties
 vebtraffic
+vector-expressions
 vector-slider
 vectormap-smart-sitemap-lite
 vectormap-visitors-globe-lite
@@ -109532,6 +109570,7 @@ wpbatch-scroll-to-top
 wpbatch-simple-slider
 wpbbclone
 wpbd-my-favorites
+wpbean-quantity-controls-for-woocommerce
 wpbenchmark
 wpbetteradmin
 wpbettercodehighlighting
@@ -111339,6 +111378,7 @@ xlsx-viewer
 xlurlde-post-to-twitter
 xm-backup
 xm-importer
+xm-stilfinder
 xmail-the-right-way
 xmap
 xmas-decoration
@@ -113057,6 +113097,7 @@ zypento-mailchimp
 zypento-quick-view-for-woocommerce
 zypento-wishlist-for-woocommerce
 zyratalk-chat
+zyre-elementor-addons
 zywrap
 zyx-classical-circular-clock
 zz-image-slider
