@@ -3208,6 +3208,7 @@ advanced-permalinks
 advanced-photo-gallery
 advanced-pins
 advanced-pixel-editor
+advanced-pixel-for-barion
 advanced-plugin-search
 advanced-plugin-view
 advanced-pod-export-csv
@@ -3241,6 +3242,7 @@ advanced-product-author-for-woocommeerce
 advanced-product-fields-for-woocommerce
 advanced-product-filter-for-woocommerce
 advanced-product-labels-for-woocommerce
+advanced-product-review-system
 advanced-product-reviews-for-woocommerce
 advanced-product-search-for-woo
 advanced-product-table-for-woocommerce
@@ -10011,6 +10013,7 @@ before-after-image-slider
 before-after-image-slider-amp
 before-after-image-slider-lite
 before-after-images-for-divi
+before-after-slider
 before-and-after
 before-and-after-gallery
 before-and-after-product-images-for-woocommerce
@@ -18427,6 +18430,7 @@ colors-for-woocommerce
 colors-swatches-woo-by-preeti-palsra
 colorshop
 colorway-sites
+colorwhistle-ai-chatbot
 colorwp-twitter-widget
 colour-extractor
 colour-smooth-maps
@@ -18880,6 +18884,7 @@ commission-junction-link-shortcode
 commission-junction-product-search
 commission-widget-for-dokan
 commitchange-plugin
+commited-shopping-co2-neutralization-add-on-for-woocommerce
 committee-history
 commodity
 common-addons-for-elementor-by-xpertcodes
@@ -21072,6 +21077,7 @@ creativengine-congressional-utilities
 creativeon-slider
 creativesignal-testimonial
 creator-assistant
+creator-assistant-hub
 creator-five-for-woocommerce
 creatorlms
 creatorpilot
@@ -25012,6 +25018,7 @@ diggz-et
 digi-bill
 digi-id-authentication
 digi-report
+digi-schedule-update
 digi-woo-product-image-flipper
 digibitz-custom-order-status
 digiblocks
@@ -26475,6 +26482,7 @@ dop-player
 dop-shortcodes
 dop-slider
 dop-widgets
+dope-studio-business-reviews-slider-lite
 doppelganger
 doppelme-avatars
 doppler-for-learnpress
@@ -26656,6 +26664,7 @@ dp-import
 dp-intro-tours
 dp-maintenance-mode-lite
 dp-modal-form
+dp-multiple-addresses-for-woocommerce
 dp-post-views
 dp-rdfa-breadcrumb-generator
 dp-th-helper
@@ -34797,6 +34806,7 @@ flexipress
 flexishare-pro
 flexistatic
 flexitype-lite
+flexiwords
 flexizoom-product-image-zoom-for-woocommerce
 flexlab-google-analytics-for-woocommerce
 flexmls-idx
@@ -36316,6 +36326,7 @@ freelacer-sharing-icons
 freelance-admin-hider
 freelance-availability-widget
 freelance-status
+freelancebo-sentra-control
 freelancer
 freelancer-sharing-icons
 freemage
@@ -39882,6 +39893,7 @@ govpack
 gowalla-for-wordpress
 gowalla-spotter
 gowebp
+gowishcart-wishlist-for-fluentcart
 goworks-flip-clock
 goworks-styler
 gowowo-delivery-elementor
@@ -41348,6 +41360,7 @@ health-endpoint
 health-fitness-quotes-widget
 health-monitor
 health-progress
+health-radar
 health-report-mexico
 health-tracker-bp-addon
 healthbeam
@@ -43142,6 +43155,7 @@ hybrid-tabs
 hybrid-web-cluster-reseller-integration
 hybridai-chatbot
 hybridsupply-cookies
+hydori-seo-ai-powered-seo-automation
 hydra-booking
 hydravid
 hydravid-content
@@ -44266,6 +44280,7 @@ imagus
 imagy-wp
 imajinn-ai
 imajize
+imakash-mobile-bottom-menu
 imakeable-cal
 imam-reza
 imandrod
@@ -45158,6 +45173,7 @@ input-masks-for-contact-form-7
 input-masks-for-elementor-forms
 input-scanner
 inq-social
+inqiro
 inqob
 inquirer
 inquiry
@@ -46683,6 +46699,7 @@ jazzypay
 jb-accordion
 jb-common
 jb-horizontal-scroller-news-ticker
+jb-license-manager
 jb-list-slider
 jb-news-ticker
 jb-nice-scroll
@@ -48937,6 +48954,7 @@ kreditkarten-validierung
 kreebi-forms
 kreechat
 krevil-user-registration-login
+kridinifytech-seo-connector-for-trendsync
 kriptomat-cryptocurrency-price-widget
 krisha-login-branding
 kristall-integration
@@ -49205,6 +49223,7 @@ lane66-affiliate-tools
 lang-attribute
 lang-attribute-blocks
 langbly-for-loco-translate
+langbly-for-translatepress
 langbranch-shortcode
 langle-addons-for-elementor
 langly
@@ -50576,6 +50595,7 @@ limooit-autoreminder-email-sms-reminders
 limopay
 limousine-search
 limundo-widget
+limy-agent-analytics
 linchpin-next-page-link-previous-page-link
 line-auto-post
 line-break-in-tinymce-editor
@@ -52549,6 +52569,7 @@ mac-sonuclari
 macdock-mac-like-dock-plugin-for-wordpress-blogs
 macher-one
 machete
+machete-share-block
 machform-shortcode
 machhichintan-orders-sync-hubspot-crm
 machine-language
@@ -57146,6 +57167,7 @@ much-random-related-posts
 muchat-ai
 muchpages
 mucl-distributor-extension
+mudrava-acf-lucide-field
 mudslide-error-pages
 mudslideshow
 muevecubos-shortcode
@@ -58915,6 +58937,7 @@ nerd-contact-form
 nerd-social-share-buttons
 nerd-wp
 nerdcom-chat
+nerdcow-the-image-optimizer
 nerdtools-bad-bots-spam-defender
 nerdtools-bad-bots-spam-reporter
 nerdtools-comment-filter
@@ -60716,6 +60739,7 @@ nuu-contact
 nuvei-payments-for-woocommerce
 nuventech-ad-network
 nuvia-ai
+nuvora-aio-blocks
 nuvora-reading-time-progress-bar
 nuvora-timeline-for-elementor
 nuway
@@ -61396,6 +61420,7 @@ one-more-bite
 one-more-pageview-by-keepify
 one-off-emails-for-woocommerce
 one-page-blocks
+one-page-checkout-cod
 one-page-checkout-for-edd
 one-page-express-companion
 one-page-portfolio
@@ -61645,6 +61670,7 @@ ooorl
 oop-plugin-template-solution
 oopcee
 oopspam-anti-spam
+oopvulns-vulnerability-scanner
 oortle-livepress
 oosms
 ootb-openstreetmap
@@ -64379,6 +64405,7 @@ pelepay-integration-for-wpecommerce
 pelepay-standalone-embedder
 peligent-ai-assistant
 pelightbox-gallery-slider
+pelikan-ai-translator-for-polylang
 pembersih-urllink-url-cleaner
 pempo-ai-discovery
 pen-extra-features
@@ -65119,6 +65146,7 @@ pickscan-lite
 picksell-pay-for-woocommerce
 pickup-and-delivery-from-customer-locations-for-woocommerce
 piclyf
+picment-ai-featured-image-generator
 picnet-mouse-eye-tracking-service-plugin
 picnet-mouse-eye-tracking-service-plugin2
 picnote-image-annotations
@@ -65468,6 +65496,7 @@ pixelgrade-assistant
 pixeline-generative-engine-optimization-llm-txt
 pixelines-email-protector
 pixelmole-follow-up-emails
+pixelnest-blocks
 pixelo
 pixelonetry-companion
 pixelpay-ipg
@@ -65621,6 +65650,7 @@ planet-blockchain-coin-explorer
 planet-pay-payment
 planet-pop
 planet-wordpress
+planeta-envios-for-woocommerce
 planetary-position
 planetcalc
 planeteye-maps
@@ -69906,6 +69936,7 @@ qa-cost-of-goods-margins
 qa-heatmap-analytics
 qa-weeks-of-cover
 qalam
+qalimucho-for-woocommerce
 qamar
 qanswer-chatbot
 qanva-analog-clock-for-elementor
@@ -76011,6 +76042,7 @@ sbol-validator
 sbs-blogroll
 sbs-oembed-service
 sbs-seat-booking-system
+sbs-settings
 sbw-timeline
 sc-borrowing-widget
 sc-bxslider
@@ -81894,6 +81926,7 @@ sketch-bookmarks
 sketchfab-oembed
 sketchfab-viewer
 sketchjs
+sketchpop-builder
 sketchus-custom-form
 sketchus-pricing-tables
 sketricgen-chat-widget
@@ -82041,6 +82074,7 @@ sl-map
 sl-tools
 sl-user-create
 slaask
+slabcalc-concrete-calculator-widget
 slack
 slack-contact-form-7
 slack-edd
@@ -82957,6 +82991,7 @@ smooth-dynamic-slider
 smooth-gallery-replacement
 smooth-javascript-anchor-scrolling
 smooth-locations
+smooth-music-gallery
 smooth-page-scroll-to-top
 smooth-page-scroll-updown-buttons
 smooth-preloader
@@ -85862,6 +85897,7 @@ storeone-extension
 storepep-woocommerce-app-integration
 storepep-woocommerce-shipping-calculator
 storepilot
+storepoint-store-locator
 storepredictor
 storepress
 storeradar-analytics-for-woocommerce
@@ -86912,6 +86948,7 @@ survicate
 survival-stats-ark-edition
 suscribe-me
 suscriptflech
+sushant-media-scanner
 suspect
 suspended-lists-for-sportspress
 sustainable-ecommerce-cart
@@ -90457,6 +90494,7 @@ token2-hardware-tokens
 token2-two-factor-authentication
 tokenad
 tokenbacon
+tokencanvasio
 tokenico-cryptocurrency-token-launchpad-presale-ico-ido-airdrop
 tokenizer-two-factor-authentication
 tokenlink-sso-login-for-zendesk
@@ -90549,6 +90587,7 @@ toolsfors3
 toolshot-player
 toolstruthsocial
 toolszu-image-optimizer
+toolszu-link-shortener
 tooltip
 tooltip-ck
 tooltip-crazy
@@ -90607,6 +90646,7 @@ top-five-videos-from-youtube
 top-fixed-banner
 top-flash-embed
 top-friends
+top-goalscorers-for-scoremer
 top-header-notification
 top-hokya
 top-level-categories
@@ -96150,6 +96190,7 @@ wao-io-cache-control
 wap-gallery
 wapi-ai
 wapi360-order-notifier-for-woocommerce
+waply-click-to-chat-widget
 wapp-abandon-cart-recovery
 wapp-live-chat
 wappaa-cookies-gdpr-and-pwa-app
@@ -98744,6 +98785,7 @@ wireframe-email-unlimited
 wireless-butler
 wireless-wordpress
 wiremonkey-internet-connection-tracker
+wireservice
 wirewheel-connector
 wirtualna-polska-pixel
 wis-logger
@@ -98867,6 +98909,7 @@ wl-tweet-list-widget
 wl-wc-newsletter
 wln-chat
 wls-wp-integration
+wlu-custom-order-status-workflow
 wlw-disabler
 wlw-login
 wm-accordion
@@ -112529,6 +112572,7 @@ zamen
 zamir
 zamkai-video-gallery-for-youtube
 zamzam-post-grid-blocks
+zanderio-ai
 zang
 zanjir-cryptocurrency-payment-gateway-for-woocommerce
 zanmantou
