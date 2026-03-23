@@ -3765,6 +3765,7 @@ agent700-ai-chat
 agenteasy-properties
 agentic-commerce-protocol-chatgpt-product-feed-ovena-acp-for-woocommerce
 agentivo-chatbots
+agentmark
 agentorie-chat
 agentpress-broker-listings
 agentpress-listings
@@ -4041,7 +4042,10 @@ ai-product-tools
 ai-proposal-builder
 ai-provider-for-anthropic
 ai-provider-for-google
+ai-provider-for-mistral
+ai-provider-for-ollama
 ai-provider-for-openai
+ai-provider-for-openrouter
 ai-publisher
 ai-quiz
 ai-readiness-advisor
@@ -6776,6 +6780,7 @@ ashch-scroll-top
 ashe-extra
 ashique-reel-slider
 ashop-commerce
+ashraf-speedfix
 ashtabula
 ashutosh-kumar
 ashutosh-upload-max-file-size
@@ -7166,6 +7171,7 @@ attendance-list
 attendance-management-for-lifterlms
 attendance-manager
 attending-users
+attendra
 attention-bar
 attention-grabber-hello-bar-alternative
 attention-grabbing-browser-tab-titles
@@ -8809,6 +8815,7 @@ azrulat
 azscore
 aztheme-toolkit
 aztolat
+azup-acessibilidade
 azure-cognitive-service-personalizer
 azurecurve-bbcode
 azurecurve-breadcrumbs
@@ -14913,6 +14920,7 @@ cargo-tracking-for-woocommerce
 cargoflux
 cargohub-kargo-takip
 cargus
+carien-pdf-invoice-credit-notes-lite
 carimbador-maluco
 carla
 carlog
@@ -16373,6 +16381,7 @@ charter-boat-bookings
 charter-booker
 charterpad-widgets
 chartivio
+chartlet
 chartlocal
 chartly-charts
 chartnerd
@@ -19934,6 +19943,7 @@ context-alt
 context-manager
 context-sharing
 context-term-tidier
+contextlift
 contextly-linker
 contextly-related-links
 contexto
@@ -21299,6 +21309,7 @@ crossroads-flickr-plugin
 crosssell-mailer-post-purchase-coupon-rules-lite
 crossslide-jquery-plugin-for-wordpress
 crosssync
+crosstalk-comments-and-live-chat
 crosswinds-blocks
 crossword-compiler-puzzles
 crosswordsearch
@@ -24861,6 +24872,7 @@ dfoxt-thumbnails
 dfoxw-wechatgrab
 dfp-ads
 dfux-white-label-lite
+dfx-parish-retreat-letters
 dfx-woo-role-changer
 dfxa-for-wpforms
 dg-access-code
@@ -25162,6 +25174,7 @@ diller-loyalty
 dilli-email-validator
 dilmot-live-qa-chats
 dilobox-subscription
+diluted-test-order-for-woocommerce
 dilw
 dima-take-action
 dimage-360
@@ -26800,6 +26813,7 @@ dragons-printhint
 dragwyb-click-to-chat
 drain-hole
 drainware-comments-filter
+drakkar-one-map
 dramapress
 dramatars
 dramify
@@ -28700,6 +28714,7 @@ easy-translate
 easy-translator
 easy-translator-lite
 easy-tube
+easy-tubecasting
 easy-tweet-embed
 easy-twitter
 easy-twitter-button
@@ -31757,6 +31772,7 @@ exattosoft-multi-blogger
 exattosoft-wp-quotes
 exattosoft-wp-seo
 exattosoft-wp-site-protector
+exayard
 excalibur-paywall
 excanvas
 excel-export-plus
@@ -38686,6 +38702,7 @@ giftshop-airtime
 gifttest
 gifty
 gifty-for-woocommerce
+gig-logistics-delivery
 gig-promotion-for-fiverr
 giga-cache
 giga-messenger-bots
@@ -41255,6 +41272,7 @@ hb-security-code-generator
 hb-social-bookmark-widget
 hbagency
 hbl-payment-for-woocommerce
+hblateral-instant-donation-checkout
 hblpay-payment-gateway-for-woocommerce
 hbook
 hc-buy-now-button-for-woocommerce
@@ -41675,6 +41693,7 @@ helpwave-ai
 helpwidget
 hemmy-core
 hemulgm-password-generation
+henkan-webp-avif-converter
 heoheoheosziasztok
 hep-display-posts
 hepsiburada-entegrasyon-brksoft
@@ -45049,6 +45068,7 @@ ingenidev-bogo-offers-for-woocommerce
 ingenidev-cashondelivery-shield
 ingenidev-code-widget-for-elementor
 ingenidev-france-zones-et-departements-pour-wc
+ingenidev-germany-zones-and-bundeslander-for-wc
 ingenidev-gift-unlocker-for-woocommerce
 ingenidev-iraq-iqd-currency-symbol-changer
 ingenidev-ksa-sar-currency-symbol-changer
@@ -48862,6 +48882,7 @@ komito-analytics
 kommentbox
 kommento
 kommentvalasz
+kommercekit-wholesale
 kommercely-disable-product-reviews
 kommiku
 kommunicate-live-chat
@@ -52868,6 +52889,7 @@ mail-deactivation
 mail-debug
 mail-debug-for-woocommerce
 mail-designer-365-subscription-form-inserter
+mail-doctor
 mail-extender
 mail-forwarder-to-telegram
 mail-from
@@ -54555,6 +54577,7 @@ megusta-facebook-plugin-wp
 mehedis-social-share
 mein-preis
 mein-seh-check
+meine-infoseite-block-highlighter
 meintopf
 meinturnierplan
 meinturnierplande-widget-viewer
@@ -55798,6 +55821,7 @@ mirolabs-ai-seo
 mirrar
 mirror
 mirror-app-professional-feed
+mirror-app-short-video-feed
 mirror-app-social-gallery
 mirror-app-social-mix
 mirror-app-social-page
@@ -56019,6 +56043,7 @@ mmd-portfolio
 mme-real-estate
 mmedia-embed-plugin-for-wordpress
 mmedia-instant-sitemap
+mmedia-medigap-contact-wizard
 mmenacer-intentrank-connector
 mmfilesi-random-post
 mmk-scroll-to-top
@@ -57619,6 +57644,7 @@ multisite-random-blog-redirect
 multisite-recent-posts-widget
 multisite-rest-api
 multisite-robotstxt-manager
+multisite-search-visibility-indicator
 multisite-shared
 multisite-shared-blocks
 multisite-shared-menu
@@ -58604,6 +58630,7 @@ nabooki-booking
 nabz-image-gallery
 nacc-wordpress-plugin
 nachrichten
+nacionvirtual-alerts-for-telegram
 nadaft-kpr-simulation
 nafeza-coming-soon
 nafeza-prayer-time
@@ -58777,6 +58804,7 @@ navbar
 navception
 nave-for-woocommerce
 naveed-post-types
+naveencodes-image-optimizer
 navegg
 naver-analytics
 naver-blog-api
@@ -59446,6 +59474,7 @@ nexa-ai-product-content-smartsuite-for-woocommerce-lite
 nexa-blocks
 nexaguard-cmp
 nexenis-integracio
+nexgrid-catalog-gallery
 nexhbp-himalayan-bank-payment-gateway
 nexi-xpay-build
 nexindex
@@ -62647,6 +62676,7 @@ outshifter-export
 outside-filter
 outsidein-storymap
 outstanding-bar
+outsurface-agent-view
 outvio-shipping-tracking-returns-woocommerce
 outvoice
 ouzayyts
@@ -62817,6 +62847,7 @@ ozi-bbcode-eklentisi
 ozi-external-links
 ozi-image-alt-tag-fixer
 ozi-internal-link-booster
+ozinexus-enquiry-rescue-popup
 ozinexus-missed-enquiry-detector
 ozinexus-sticky-chat-call-button
 ozioma
@@ -63693,6 +63724,7 @@ paulund-pinterest-add-pin-buttons
 paulus-czytania
 paupress
 pausar-3d-ar-for-elementor
+pausar-metrics
 pause-adblocker
 pause-sales-on-woo
 pause-shop
@@ -66135,6 +66167,7 @@ plus1-google-1
 plus2download
 pluscaptcha
 pluscodes-product-csv-import-export-for-woocommerce
+plusmagi-search
 plusminus-button
 plusnarrative-admin-theme
 plusone
@@ -77107,6 +77140,7 @@ seel-worry-free-purchase
 seemax-sidebar-resize
 seemore
 seemymodel
+seenalt
 seentient-related-products-social
 seeonseaview
 seer-comment-exporter
@@ -81756,6 +81790,7 @@ site-renamer
 site-reset
 site-reviews
 site-safe
+site-scripts-speed-manager
 site-search
 site-search-360
 site-search-analytics-by-measured-search
@@ -83280,6 +83315,7 @@ snappify
 snapplify-e-commerce
 snapplify-payment-gateway
 snapplify-single-sign-on
+snappress-connect
 snappy
 snappy-concierge
 snappy-list-builder
@@ -84167,6 +84203,7 @@ some-chinese-please
 some-important-widget-for-elementor
 some-maps
 some-pay-social-shopping
+some-plus-bulk-manager
 some-plus-content-reactions
 some-plus-report-post
 some-time-ago
@@ -84312,6 +84349,7 @@ soundfaith-embed
 soundmanager2
 soundmento
 soundninja
+soundnode-sticky-player-for-laut-fm
 soundowl-html5-player
 soundpaste
 soundpress
@@ -87166,6 +87204,7 @@ sweet-custom-menu
 sweet-energy-efficiency
 sweet-glossary
 sweet-justice
+sweet-map
 sweet-sharmin-preloader
 sweet-titles
 sweet-urls
@@ -89456,6 +89495,7 @@ theme-info
 theme-info-in-toolbar
 theme-inspector
 theme-jason
+theme-json-design-manager
 theme-junkie-custom-css
 theme-junkie-features-content
 theme-junkie-portfolio-content
@@ -90436,6 +90476,7 @@ tlp-portfolio
 tlp-team
 tlp-testimonial
 tls-1-2-compatibility-test
+tly-url-shortener
 tm-chatbot-assistant
 tm-getcomplied-gdpr-wp
 tm-islamic-helper
@@ -90933,6 +90974,7 @@ touchtry-roomfit
 touchtry-watch-try-on
 tour-booking
 tour-booking-manager
+tour-itinerary-map
 tour-operator
 tour-operator-activities
 tour-operator-maps
@@ -91786,6 +91828,7 @@ turbo-addons-elementor
 turbo-admin
 turbo-blogger
 turbo-button
+turbo-rate-limiter
 turbo-shipping-rules-for-woocommerce
 turbo-sms
 turbo-templates-library-for-elementor
@@ -94154,6 +94197,7 @@ user-submitted-content
 user-submitted-posts
 user-subscription
 user-supersearch
+user-suspend
 user-switcher
 user-switching
 user-switching-for-woocommerce
@@ -97652,6 +97696,7 @@ webmasters-core-web-vitals-checker
 webmaxy
 webmaxycdp
 webmcp-ai-optimizer
+webmcp-bridge
 webme-cookie-privacy
 webmention
 webmetic
@@ -111947,6 +111992,7 @@ yayswatches
 yazi-sonu-metni
 yazzem-auto-post
 yblog-stats
+ybp-modify-date-control
 ybug-feedback-widget
 ycontributors
 yctvn-media-offload-cloudflare-r2
