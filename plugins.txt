@@ -498,6 +498,7 @@ a11y-enhancer
 a11y-kit
 a11y-speech-synthesis
 a11ybridge
+a11yfix-for-wcag
 a1ai-chatbot
 a1jspamguard
 a1post-bg-shipping-for-woocommerce
@@ -827,6 +828,7 @@ accessibility
 accessibility-abbreviation
 accessibility-access-keys
 accessibility-assistant
+accessibility-audio-tts-text-to-speech-for-articles
 accessibility-buddy
 accessibility-by-audioeye
 accessibility-checker
@@ -6862,6 +6864,7 @@ aspiesoft-auto-embed
 aspiesoft-church-sermon-video-list
 aspiesoft-wp-plugin-icons
 aspire-smart-faq
+aspired-chatbot
 aspl-advance-report-for-woocommerce
 aspl-contact-form
 aspl-dropbox-file-upload
@@ -7032,6 +7035,7 @@ atec-profiler
 atec-smtp-mail
 atec-stats
 atec-system-info
+atec-translation-status
 atec-web-map-service
 atec-webp
 atelier-create-cv
@@ -8725,6 +8729,7 @@ ax-scrollto-top
 ax-sidebar
 axai-galaxy-aichat
 axanet-tools
+axcelersblocks
 axcoto-slideshow-plugin
 axedit-seasons
 axel-pro-for-woocommerce
@@ -10083,6 +10088,7 @@ belingogeo
 belirli-gun-ve-haftalar
 bella-kit
 bellhop
+bello-widget
 bellows-accordion-menu
 bellsapp
 belo-add-to-cart-redirect-for-woocommerce
@@ -13311,6 +13317,7 @@ btranslator
 btses-crypto-widget
 bttlive
 btw-admin-boost
+btw-contact-forms
 btw-importer
 bu-learning-blocks
 bu-navigation
@@ -20344,6 +20351,7 @@ cool-video-gallery
 cool-virtual-keyboard
 cool-weather
 cool-yt-player
+coolbird-vietnam-address
 coolclock
 cooleye
 cooliris
@@ -20408,6 +20416,7 @@ copy-post-page-id
 copy-posts
 copy-protect
 copy-protection
+copy-sku-for-woocommerce
 copy-text-to-wechat
 copy-the-code
 copy-to-clipboard
@@ -28334,6 +28343,7 @@ easy-maps-block
 easy-marijuana-age-verify
 easy-mashable-social-bar
 easy-mask
+easy-mcp-ai
 easy-media-download
 easy-media-gallery
 easy-media-link
@@ -30609,6 +30619,7 @@ employee-spotlight
 employee-staff-directory
 employees-details-slides
 employeesalary
+emporiqa
 emporium
 empty-alt-image-container-swap
 empty-blog
@@ -30652,6 +30663,7 @@ en-masse-wp
 en-son-izledigim-film
 en-spam
 en-uygun-kredi-hesaplama
+enable-abilities-for-mcp
 enable-accessibility
 enable-all-font-uploads
 enable-anonymous-rest-comment
@@ -36627,6 +36639,7 @@ frontend-debugger
 frontend-dialog
 frontend-edit-profile
 frontend-editor-acf
+frontend-editor-for-avada
 frontend-file-search-and-secured-lite
 frontend-file-upload
 frontend-form-with-csv-export
@@ -37457,6 +37470,7 @@ gamipress-paid-memberships-pro-integration
 gamipress-peepso-group-leaderboard
 gamipress-peepso-integration
 gamipress-points-csv-tool
+gamipress-points-per-quiz-score-for-fluentcommunity
 gamipress-points-per-quiz-score-for-learnpress
 gamipress-points-per-quiz-score-for-lifterlms
 gamipress-points-per-quiz-score-for-tutor-lms
@@ -38182,6 +38196,7 @@ geomapss4u
 geomatic-ai
 geometa-acf
 geomood-v10
+geopay
 geoperks-for-geodirectory
 geoplatform-community-search
 geoplatform-maps
@@ -40586,6 +40601,7 @@ groupdocs-viewer-for-dot-net-html5-document-viewer
 grouped-comments-widget
 grouped-content
 grouped-links-widget
+grouped-product-name-in-cart-for-woocommerce
 grouped-variations-table
 grouper
 groupon-affiliates-manager
@@ -43230,6 +43246,7 @@ hw-feed-cleaner
 hw-image-widget
 hw-monitor
 hw-override-default-sender
+hw-smart-bacs-status-stock-for-woocommerce
 hw-wp-status-manager
 hw-yahoo-skype-status-pro
 hwd-youtube-videobox
@@ -45495,6 +45512,7 @@ instalocker
 instalogin
 instalogin-me
 instamapper-google-static-map
+instamigrate
 instamojo
 instana-eum
 instanow-lite
@@ -49205,6 +49223,7 @@ kwm-info-basic
 kwmlab-minimum-order-amount-for-woocommerce
 kwp-sozler-ve-deyimler
 kwp-wc-store-bak-butt
+kwtsms
 kxxx-qiniu
 kya
 kyano-forms
@@ -49811,6 +49830,7 @@ lc-archivers
 lc-disable-cdn
 lc-expo-push-notifications
 lc-header-footer-widget
+lc-hoverpeek
 lc-scripts-optimizer
 lc-shortlink
 lc-tags
@@ -51694,6 +51714,7 @@ local-highlighter
 local-images
 local-indicator
 local-info-powered-by-everyblock
+local-keywords-manager
 local-landing-pages
 local-like-and-share
 local-links
@@ -52492,6 +52513,7 @@ lucidel-for-wordpress
 luciditi-age-assurance
 lucidlms
 lucidpen
+luckduo-login-guard
 lucky-draw
 lucky-number-widget
 lucky-orange
@@ -58674,6 +58696,7 @@ nabz-image-gallery
 nacc-wordpress-plugin
 nachrichten
 nacionvirtual-alerts-for-telegram
+nacstech-delivery-and-pickup-date-time-scheduler
 nadaft-kpr-simulation
 nafeza-coming-soon
 nafeza-prayer-time
@@ -61902,6 +61925,7 @@ open-graph-support
 open-graph-tags
 open-graphite
 open-hours
+open-hours-and-holiday-closures
 open-hybrid
 open-in-new-tab-internal-link
 open-in-new-window-plugin
@@ -63265,6 +63289,7 @@ pagenavi-automatic-page-numbers
 pageone
 pagepatrol
 pagepeeker
+pagepin
 pagepost-content-shortcode
 pagepost-specific-social-share-buttons
 pagepressapp
@@ -64923,6 +64948,7 @@ phanes-marketing
 phanes-payments
 phanfare-widget
 phanoto-gallery
+phantom-record-buster
 phantom-writer
 phases
 phastpress
@@ -73503,6 +73529,7 @@ replacebsbytr
 replaceimagelink2posturl
 replacing-half-space
 replain
+replanta-connector-sap-woocommerce
 replay
 replaybird
 replicant
@@ -77224,6 +77251,7 @@ seize-the-day
 sekeyword
 sekhlo-schema-code
 sekur-me
+sekura-rest-bridge-for-acf
 sel-church-events
 sel-church-sermons
 sel-shortcodes
@@ -86882,6 +86910,7 @@ super-zoom-gallery
 superadmin-helper
 superadmin-plugin
 superauth
+superauth-for-supabase
 superb-blocks
 superb-helper
 superb-random-links
@@ -88872,6 +88901,7 @@ terror-alert-level-widget
 terrys-commentary
 tesla
 tesla-login-customizer
+tespondo-connect
 tessa-authorship
 tessmann-envio
 test
@@ -91505,6 +91535,7 @@ tres-noticias-principais
 tresias
 treu-quality-control
 treweler-map-builder
+trex-dual-preview
 trexanh-property
 trezor-connect-plugin
 triagetrak
@@ -111205,6 +111236,7 @@ wrapping-shortcode
 wrc-pricing-tables
 wretch-friends
 wright-membership-manager
+wrighthost-quick-product-updates-for-woocommerce
 wripl
 write-about-me
 write-first
