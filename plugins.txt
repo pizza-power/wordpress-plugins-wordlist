@@ -4594,6 +4594,7 @@ ald-openimagewindow
 ald-transpose-email
 aldnburg-inline-weather-shortcodes
 aldoone-workout
+alegra-invoicing-for-woocommerce
 alemha-watermark
 alenjoseph-page-exporter-lite
 aleno-restaurant-reservations
@@ -5059,6 +5060,7 @@ alt-text-imagerr-ai
 alt-text-pro
 alt-text-tools
 alt-text-updater
+altagonist
 altano-import-nfts-from-opensea-for-woocommerce
 altapay-for-woocommerce
 altcha-spam-protection
@@ -7065,6 +7067,7 @@ athlos-assistente-digitale
 atiendia-assistant-for-woocommerce
 atikin-seo
 atirame-ai-chatbox-assistant
+atlant-security
 atlas-content-modeler
 atlas-discuss-quote-form
 atlas-dynamic-messages-for-woocommerce
@@ -12924,6 +12927,7 @@ brasil-61-conteudo-gratuito-para-radios-sites-e-blogs
 brave-cache-preloader
 brave-payments-verification
 brave-popup-builder
+braveschat
 bravo-search-and-replace
 bravo-security
 bravo-translate
@@ -13075,6 +13079,7 @@ bringhub
 brinkin-banner-exchange
 briox-integration-woo
 briqpay-checkout-addon
+briqpay-for-woocommerce
 briqpay-fortnox-product-sync
 briqpay-signup-addon
 brisk-google-map-with-marker
@@ -14319,6 +14324,7 @@ bytheway
 bytnexo-seo-manager
 bytnexo-user-switcher
 bz9-webmaster-tools
+bzc-ai-summary-box
 bzh-shortner
 bzhy-feature-enhancements-for-woocommerce
 bzscore-live-score
@@ -16624,6 +16630,7 @@ check-google-result
 check-image-alt-text
 check-last-login
 check-links-intercambios
+check-login-lite
 check-memory-use
 check-missing-featured-images
 check-permission-dialogue
@@ -17720,6 +17727,7 @@ clmte-ecommerce-integration
 cloage
 cloak
 cloak-front-end-email
+cloaked-ink
 clobber-spam-users
 clock
 clock-in-portal
@@ -36520,6 +36528,7 @@ freshcode-image-compress-lite
 freshcontent-seo-api
 freshdesk
 freshdesk-support
+freshenup
 freshing
 freshjet
 freshmail-integration
@@ -38928,6 +38937,7 @@ gl-tag-cloud-nofollow
 glam-expert-post-plugin
 glamix-instagram-shop
 glamour
+glance-live-search
 glance-that
 glass
 glass-analytics
@@ -41499,6 +41509,7 @@ healthcare-review-master
 healthengine-online-booking-widget-installer
 healthlynked
 healthruwords-slider
+healthsweep-site-monitor
 healthtap-consult-online-consults-with-top-us-doctors
 healthy-bmi-calculator
 healthy-filenames
@@ -51315,6 +51326,7 @@ litebox
 litech
 litecoin-ticker-widget
 liteimage
+litelnk
 litepay
 literal-shortcode
 literally-wordpress
@@ -51657,6 +51669,7 @@ lmn-site-monitor
 lmp-pregnancy-calculator
 lms-chat
 lmsace-connect
+lmscrafter-gradient-text-for-elementor
 lmscrafter-user-menu-redirects
 lmwd-ziptree
 lnbits-bitcoin-onchain-and-lightning-payment-gateway
@@ -51940,6 +51953,7 @@ logic-pro
 logic-shortcodes
 logical-captcha
 logicaldoc
+logicfire-wishlist-registry-for-woocommerce
 logichat
 logickit-for-elementor
 logico
@@ -54285,6 +54299,7 @@ mdc-target-blank
 mdc-theme-switcher
 mdc-youtube-downloader
 mdemch-embed-checker
+mdi-better-revision-history
 mdi-custom-alt-text-for-elementor-image-widget
 mdi-http-referer-block
 mdi-persist-query-string
@@ -55826,6 +55841,7 @@ minimum-viable-sharing-meta
 minimum-word-count
 miniorange-2-factor-authentication
 miniorange-adfs-login
+miniorange-ai-agent
 miniorange-azure-login
 miniorange-discord-integration
 miniorange-firebase-sms-otp-verification
@@ -58747,6 +58763,7 @@ nagishly
 nahian-food-delivery-pickup-soluition
 nahian-tour-travel-booking-solution
 nahian-ultimate-integration-for-contact-form-7-and-elementor
+nahid-phone-flag-field
 naiba-coming-soon
 naibabiji-b2b-product-showcase
 naibabiji-global-connect-hub
@@ -61784,6 +61801,7 @@ online-results-cookie-manager
 online-reviews-io
 online-scheduling-and-appointment-booking
 online-skateboard-store-instant-affiliate
+online-sms-notifications
 online-status-insl
 online-stores
 online-succes
@@ -63516,6 +63534,7 @@ pap-afiliados-pro
 papa-rss-import
 papaya-youtube-widget
 paper
+paperbolt
 papercite
 paperdork
 paperform-form-builder
@@ -69617,6 +69636,7 @@ proud-mother-with-an-autistic-child-ribbon-plugin
 prouptime
 prove-you-are-a-human-ruh-captcha-plugin
 provecho-recipes
+provelopers-cache-manager
 provenexpert
 provensec
 proverbi-e-massime-di-medicina
@@ -69862,6 +69882,7 @@ pull-this
 pull-to-refresh
 pullquote
 pullquote-shortcode
+pulpcovers-modified-posts-feed
 pulpix
 pulse-chat-ai
 pulse-storm-launcher
@@ -70423,6 +70444,7 @@ qtvr-viewer
 qtwit
 qty-increment-buttons-for-woocommerce
 quabads
+quachcmo-video-study-notes
 quaderno-checkout
 quadient-simplymail
 quadlayers-telegram-chat
@@ -70522,6 +70544,7 @@ query-custom-fields
 query-debug-info
 query-editor
 query-filter
+query-forge
 query-from-content-shortcode
 query-gdstar-rating
 query-generator
@@ -72401,6 +72424,7 @@ recipe-schema
 recipe-schema-markup
 recipe-share
 recipe-snippets
+recipe-wizard-for-woocommerce
 recipecan-recipes
 recipecentral-search-widget
 recipepress-reloaded
@@ -72866,6 +72890,7 @@ reimagined-admin
 reinerouge-contact-form-7
 reinstall-plugins
 reinstall-themes
+reira-theme-fields
 reiseblog-widgets
 reiters-url-shortcodes
 reject-ie6
@@ -75161,6 +75186,7 @@ roxobot-chatbot-de-navigation
 roxpay-gateway
 royal-backup-reset
 royal-bangla-keyboard
+royal-checkout-field-manager
 royal-copyright-text
 royal-elementor-addons
 royal-google-maps
@@ -78591,6 +78617,7 @@ sheet-wise
 sheet2site
 sheetable-datatable-from-google-sheet
 sheetdb
+sheetfusion
 sheetlink
 sheetlink-forms
 sheetpoet
@@ -78904,6 +78931,7 @@ shopify-leaky-paywall-integration
 shopinext-for-woocommerce
 shopino
 shopinpic
+shopinzen-integrator
 shopizi
 shopkeeper-extender
 shoplemo-checkout-modulu-for-woocommerce
@@ -79266,6 +79294,7 @@ shortlinks-by-path
 shortlinkspro
 shortnit
 shortnotes
+shortnotify-for-woocommerce
 shortpack
 shortpixel-adaptive-images
 shortpixel-critical-css
@@ -79588,6 +79617,7 @@ si-captcha-for-wordpress
 si-contact-form
 si-magnifier
 si-rating-review
+siam-welcome-discount-popup
 sianovision-alttext-ai
 siara-shield
 sibling-pages
@@ -85955,6 +85985,7 @@ stockviz
 stoic-quotes
 stoken-console
 stokro
+stolik-menu
 stomp
 stomt-instant-feedback-button
 stone-html-compressor
@@ -91928,6 +91959,7 @@ ttv-easy-embed
 ttv-easy-embed-player
 ttv-easy-embed-wall
 ttxml-importer
+tu-crypto-widgets
 tu-vi-global
 tua-forma
 tubapay-v2
@@ -92990,6 +93022,7 @@ ulitmate-facebook-buttons
 ulogin
 ulteh-ai-agents
 ultima-clock-widget
+ultima-publishers
 ultimakit-for-wp
 ultimas-noticias
 ultimate-3d-model-viewer
@@ -95166,6 +95199,7 @@ vg-wort-minify
 vgc-for-edd
 vgc-for-givewp
 vgc-for-gravity-forms
+vgdev-cookie-banner-consent-mode-v2
 vgpodcasts-alertbar
 vgw-metis
 vgw-vg-wort-zahlpixel-plugin
@@ -97829,6 +97863,7 @@ webkernelai-advanced-form-builder
 webkew-image-dominant-color-generator
 webkew-wp-references-and-citations
 webkih-secure-sitemap-generator
+webkih-site-builder-kit
 webkima-elements
 webkinder-toybox
 webkite
@@ -98257,6 +98292,7 @@ welcomewiki-lite
 welcomewp
 welcomify
 welcomingweb-a11y-widget
+weld-cardano
 weldpress
 welight-easy-impact
 well-framework
@@ -98265,6 +98301,7 @@ well-known
 well-known-file-manager
 well-known-uris
 well-traveled
+well-web-notify
 wellseo-daily-display
 welocally-places
 welocally-places-for-wordpress
