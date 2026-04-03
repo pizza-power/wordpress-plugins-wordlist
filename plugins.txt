@@ -109,6 +109,7 @@
 1player
 1pointmail-optinbox-for-wp
 1qlick
+1r-chat-button
 1rhu-widget
 1seocom-keyword-research-tool
 1shoppingcartcom-wordpress-signup-forms
@@ -3284,6 +3285,7 @@ advanced-reporting-for-woocommerce
 advanced-reset-wp
 advanced-responsive-facebook-likebox
 advanced-responsive-video-embedder
+advanced-rest-api-devtools
 advanced-reviews
 advanced-rich-text-tools
 advanced-robots-txt-optimizer-editor
@@ -4517,6 +4519,7 @@ akbansa-ai-seo-manager
 akdev-spline-animation
 akeebabackupcore
 akfeatured-post-widget
+akhilcommerce-toolkit
 aki-toolset
 akia-web-chat
 akir-hide-text
@@ -6831,6 +6834,7 @@ ask-it
 ask-junkie-ai-chatbot
 ask-me-anything
 ask-me-anything-anonymously
+ask-my-brand-feed-by-epublishing
 ask-my-content
 ask-question
 ask-question-by-birds-host
@@ -11483,6 +11487,7 @@ blocksplus
 blockstrap-page-builder-blocks
 blocksy-companion
 blocktree
+blockux-workflow
 blockwheels
 blockx
 blockxpert
@@ -13119,6 +13124,7 @@ brixy-content-list-multiple
 brizy
 brk-product-sales-count-for-woocommerce
 brk-product-view-count-for-woocommerce
+brksoft-amazon-integration-for-woocommerce
 brksoft-n11-icin-entegrasyon
 bro-excerpt-length
 bro-excerpt-require
@@ -13172,6 +13178,7 @@ browse-topic
 browsealoud
 browseback-magic
 browsee
+browsefyi-local-font-loader-for-google-fonts
 browser-address-bar-color
 browser-address-bar-color-changer
 browser-and-operating-system-finder
@@ -15548,6 +15555,7 @@ catholicbible-scripturizer
 catholicjukebox-radio-lists
 cathopedia
 catid-in-permalink
+catkissfish-integration-for-woocommerce
 catna-woo-name-your-price-and-offers
 catnip
 catposts
@@ -18303,6 +18311,7 @@ codnloc-payment-gateway-for-whish-money
 codo-player
 codobookings
 codoc
+codocraft-smart-notify
 codoforum-sso
 codpartner
 codshield-ai
@@ -18557,6 +18566,7 @@ columns-reordering-for-elementor
 com-netvoxlab-ownradio
 com-resize
 comapi-webchat
+comaporter-ai-content-generator
 combat-comments-bot
 combidesk-eboekhouden
 combidesk-exact
@@ -27056,6 +27066,7 @@ dropp-pay-tipping
 dropp-payment-gateway-for-memberpress
 dropp-payment-gateway-for-restrict-content-pro
 droppa-shipping
+dropproduct
 droppx-delivery
 droproyal
 dropship-me
@@ -27494,6 +27505,7 @@ dynamic-injector
 dynamic-inspector-for-elementor
 dynamic-interlink
 dynamic-internal-links
+dynamic-keyword-insertion-lite
 dynamic-latest-post-in-nav-menu
 dynamic-link
 dynamic-links
@@ -28943,6 +28955,7 @@ easycommentspaginate
 easycommerce
 easycommerce-fakerpress
 easyconnect-for-kaufland
+easyconsent-cookie-consent-manager
 easycontent
 easycontentflow-recipe-schema
 easycontentunits
@@ -36503,6 +36516,7 @@ freelance-status
 freelancebo-sentra-control
 freelancer
 freelancer-sharing-icons
+freelancer-time-log-pro
 freemage
 freemind-wp-browser
 freemius
@@ -37152,6 +37166,7 @@ fw-quick-langswitch
 fw-subpageinadiv-spiad
 fw-vimeo-videowall
 fw-wpgoogleusermap
+fwd-easy-virtual-tour-builder
 fwd-plasmic-audio-player
 fwd-slider
 fwd-social-share
@@ -37477,6 +37492,7 @@ gamebattlestats
 gameconfs-widget
 gameplorers-wpcolorbox
 gamepress
+gamequery-servers-lists
 gameranger-widget
 gameriso-box
 games
@@ -53917,6 +53933,7 @@ markstestagain
 markstestagain2
 markstesting
 markstesting2
+marktag-for-woocommerce
 marktesting3
 marktfeed-for-woocommerce
 marktroll
@@ -54471,6 +54488,7 @@ media-element-html5-video-and-audio-player
 media-ep
 media-essentials
 media-expirator
+media-export-clean
 media-extra-fields
 media-features
 media-feed
@@ -54818,6 +54836,7 @@ melonpan-block-post-list
 melonpan-block-post-title
 melonpan-block-site-title
 melopo-duplicate-cleaner
+melopo-product-health-checker-for-woocommerce
 melu-live-chat
 mem-google-calendar-integration
 membees-member-login-widget
@@ -56194,6 +56213,7 @@ mlighten-mobile-ads
 mlm-social-buzz
 mlm-soft-integration
 mloovi-translate-widget
+mloun-side-contact-floating-contact-buttons-for-online-chat-wechat-phone
 mlr-audio
 mlr-tabs
 mlr-timeline
@@ -57204,6 +57224,7 @@ moyasar
 moyea-web-player
 moz-seo
 mozable-demo
+mozbeats-ficha-tecnica
 mozscape
 mp-ai-content-generator
 mp-artwork
@@ -63606,6 +63627,7 @@ pandora-fms-wp
 panegyric
 panel-my-blog
 panelhelper
+panelra-dashboard-builder
 pango-sensei-module-collapse
 pango-sensei-quiz-timer
 pangu
@@ -67761,6 +67783,7 @@ postcards
 postcasa
 postchat
 postcode-based-order-restriction
+postcode-checkout-address-validation-for-contact-form-7
 postcode-checkout-postcode-validation
 postcode-eu-address-validation
 postcode-redirect
@@ -75313,6 +75336,7 @@ rox-slider
 roxi
 roxobot-chatbot-de-navigation
 roxpay-gateway
+royal-access
 royal-backup-reset
 royal-bangla-keyboard
 royal-checkout-field-manager
@@ -83711,6 +83735,7 @@ snooth-widget-for-snoothcom
 snoox
 snordians-h5p-content-type-repository-manager
 snordians-h5p-resize-pulse
+snordians-h5p-themer
 snordians-local-user-data-for-h5p
 snorkel
 snow
@@ -85103,6 +85128,7 @@ spin-wheel
 spin2win-popup-woocommerce-coupon-code
 spin360
 spinchimp-wp-spinner
+spinex-bulk-image-rotator
 spinitron-player
 spinkx-content-marketing
 spinmyplanet
@@ -85398,6 +85424,7 @@ squelch-unspam
 squidge
 squirrels-auto-inventory
 squirrly-seo
+squish-site-patrol
 sqweb
 sr-childpages
 sr-partial-payments-for-woocommerce
@@ -86385,6 +86412,7 @@ storymaps
 storystack
 storytelling
 storytelling-tools
+storzen
 stout-google-calendar
 stow-dropship-shopify-to-woocommerce
 stp-importer
@@ -90953,6 +90981,7 @@ toggleable-admin-bar
 toggler
 toggles
 toggles-shortcode-and-widget
+togglix-variation-switcher-for-woocommerce
 tohidul-certificate-verification-system
 tohju-ai-shopping-assistant
 toi-news
@@ -93206,6 +93235,7 @@ ultimate-addons-for-gutenberg
 ultimate-admin-bar
 ultimate-ads-manager
 ultimate-adsense
+ultimate-ai-connector-compatible-endpoints
 ultimate-ajax-login
 ultimate-amazon
 ultimate-amp
@@ -93619,6 +93649,7 @@ understory
 undo-box
 undo-publish
 undo-wordpress-default-formatting
+unelma-email-verification-snapvalid
 unenroll-for-learndash
 unfazed-chat-for-woocommerce
 unfc-normalize
@@ -94837,6 +94868,7 @@ vacant-line-breaker
 vacation-rentals
 vaccine
 vachana-sanchaya-daily-vachana
+vachr-short-term-rental-reservations
 vader-8
 vadi-faq
 vadim-evards-archive-org-post-saver
@@ -110257,6 +110289,7 @@ wpc-price-by-user-role
 wpc-product-faqs
 wpc-product-image-swap
 wpc-product-options
+wpc-product-qr-code
 wpc-product-quantity
 wpc-product-size-chart
 wpc-product-table
@@ -110558,6 +110591,7 @@ wpfacebook
 wpfacebookchat
 wpfacebookchat-free
 wpfactory-conditional-shipping-for-woocommerce
+wpfalcons-quick-assign-for-learndash
 wpfancybox
 wpfanyi-import
 wpfaqblock
@@ -113362,6 +113396,7 @@ zferral-paypal
 zforms
 zg-edit-woocommerce-orders
 zgboke-nav
+zhangsir1724-smart-shield
 zhanzhangb-baidu-submit
 zhanzhangb-share
 zhanzhangb-tcdn
