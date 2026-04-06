@@ -5084,6 +5084,7 @@ alter
 alter-feed-links
 alter-media
 alter-product-for-woocommerce
+alterdiv-sales-display-for-woocommerce
 altered-reality
 alterly
 alternate-contact-info
@@ -5553,6 +5554,7 @@ and-it-portfolio-for-elementor
 and-the-winner-is
 and-the-winner-is…
 andora-lightbox
+andplus-schemabridge
 andreadb-coin-slider
 andreadb-google-maps
 andreani-shipping
@@ -13090,6 +13092,7 @@ brightcove-video-connect
 brightedge-autopilot
 brightedge-autopilot-page-publisher
 brightery-conversion-toolkit
+brightery-woo-order-api
 brightleaf-digital-php-compatibility-scanner
 brightslider
 brighttalk-wp-shortcode
@@ -23428,6 +23431,7 @@ daily-color-circle
 daily-crowdsource-headlines
 daily-crowdsource-news
 daily-different-corner-band
+daily-digest-emails-for-woocommerce
 daily-fishbase
 daily-fitness-tips
 daily-fortune-telling-cards
@@ -24403,6 +24407,7 @@ deko-boko-a-recaptcha-contact-form-plugin
 dekode-fundraising
 del-embed-for-bandcamp
 del-post-rev
+del-swish-checkout
 delay-load-any-content
 delay-popup
 delay-posts-in-rss-feed
@@ -35709,6 +35714,7 @@ fontsize-selector
 fontsize-v10
 fontslef
 fontsy
+fontvault-for-gdpr
 fontx-persian-fonts
 fonzy-ai-content-publisher
 foobar
@@ -36038,6 +36044,7 @@ formatrica
 formatted-post
 formatting-correcter
 formatting-extender
+formbeacon-form-health-monitor
 formbot-form-builder
 formbricks
 formbuddy
@@ -37857,6 +37864,7 @@ gdpr-formidable-forms
 gdpr-framework
 gdpr-helper
 gdpr-helper-for-youtube-videos
+gdpr-localizer
 gdpr-notice-original
 gdpr-notification
 gdpr-personal-data-reports
@@ -41212,6 +41220,7 @@ hal-html-widget
 half-baked-category-colours
 half-baked-link-injection
 half-baked-tag-colour-manager
+halka-webp-image-optimizer
 hall-ai-analytics
 hallo-destra
 hallo-kaizers
@@ -42595,6 +42604,7 @@ hngamers-atavism-user-verification
 hnp-openstreetmap
 ho-youdao-translate-for-translatepress
 hoasted-mailpro
+hoatzinmedia-library-cleaner
 hobbynote-facebook-open-graph
 hobbynote-twitter-cards
 hobinom
@@ -44652,6 +44662,7 @@ immonex-kickstart-for-elementor
 immonex-kickstart-team
 immopress
 immotoolbox-connect
+immowp-diagnostic-dpe-ges
 immowp-dpe-ges
 immowp-estimation
 immowp-gestion-immobiliere
@@ -44999,6 +45010,7 @@ independent-analytics-for-mainwp
 independent-donations-widget
 independent-favorite-plugins
 indesign-random-quotes
+indesign-text-marquee
 indesignhtml2post
 index-algolia
 index-autoload-littlebizzy
@@ -45929,6 +45941,7 @@ integration-with-bitrix24
 integration-with-hubspot-forms
 integration-with-mautic-for-wp
 integration-with-shoprocket-ecommerce
+integration-workos
 integrations-for-elementor
 integrations-for-mautic
 integrations-for-zoho-campaigns-and-cf7
@@ -51767,6 +51780,7 @@ llms-central-ai-bot-tracker
 llms-full-txt-generator
 llms-txt-ai-generator
 llms-txt-ai-website-content-crawling
+llms-txt-curator
 llms-txt-editor
 llms-txt-generator
 llms-txt-generator-by-mcpner
@@ -53745,6 +53759,7 @@ mapmyrun-embedder
 mapmyuser-widget
 mapnavigator
 mapotic-community-maps
+mapoza-click-to-load-for-google-maps
 mapp-intelligence
 mappedin
 mappedin-web
@@ -54325,6 +54340,7 @@ mb-user-switch
 mb-vimeo-videos
 mb-youtube-videos
 mb8wp
+mbacalis-b2b-price-hider-quote-for-woocommerce
 mbaierl-projects-cpt
 mbc-smtp-flex
 mbg-faq-block
@@ -56073,6 +56089,7 @@ mirror-app-social-mix
 mirror-app-social-page
 mirror-app-video-feed
 mirror-gravatar
+mirror-hours-lite
 mirror-posts
 mirrorgrid-demo-importer
 mirrorimages
@@ -60099,6 +60116,7 @@ niche-self-employment-mortgage-calculator
 nichetable
 nicho
 nick-smith
+nicky-me
 nicol-contador
 nicolasoft-digital-data-seller
 nictitate-lite-ii-toolkit
@@ -71036,6 +71054,7 @@ quickfisco
 quickfloat-chat
 quickform
 quickiebar
+quickify-ai
 quickleads-re
 quicklink
 quicklinks-manager
@@ -71973,6 +71992,7 @@ rdp-wiki-press-embed
 rdpano
 rdr-for-cf7
 rdrgz-questions
+rds-newsletter
 rduplicator
 rdv-category-image
 rdv360-reservation-en-ligne
@@ -76689,6 +76709,7 @@ schmie-twitter
 schmie-wetter
 schnaeppchen-und-dealz-widget
 schnaeppchen-widget
+scholabook
 scholar-publications
 scholar-publications-fetcher
 scholarpress-coins
@@ -85484,6 +85505,7 @@ srizon-flickr-gallery-basic
 srizon-instagram-album
 srizon-lorem
 srizon-responsive-youtube-album
+srkp-live-support
 srm-embed-smart-report-maker
 sroups
 srs-customer-requests-business-availability
@@ -87009,6 +87031,7 @@ summary-box-for-wikipedia-links
 summary-child-pages
 summary-page
 summatap
+summerify
 summits-alert
 summix-getmd
 summpressai
@@ -88904,6 +88927,7 @@ technical-on-page-seo-checker
 technical-problem-solver
 technical-site-auditor
 technical-support
+technicalhimanshu-chatconnect
 technicality-google-analytics
 technodrome-ai-content-assistant
 technolinks
@@ -88978,6 +89002,7 @@ tejo-makeup-recommender
 tejus-add-cat-image
 teknix-admin-ui
 teknoger-control
+teknora-crm
 teknora-kanban
 tekserve-press-mentions
 tekserve-single-post-shortcode
@@ -89106,6 +89131,7 @@ templementor
 templets
 templix-studio
 templora
+tempmails
 tempo-de-leitura
 tempora-faqpage-schema-accordion
 temporal-transients
@@ -96402,6 +96428,7 @@ voldo-basic-video-gallery
 volixta-ssl-security-headers
 volleynator-web
 volleytnt
+vollstart-appointment-desk
 volnorez-online
 voltax-video-player
 volumetric-shipping
