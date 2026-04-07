@@ -3790,6 +3790,7 @@ agentpress-listings
 agentpress-listings-taxonomy-reorder
 agentpress-permissions
 agentrank
+agentreadyscan
 agents24x7
 agentshop
 agenturbo-google-remarketing
@@ -3928,6 +3929,7 @@ ai-chat-simulator
 ai-chat-with-pages
 ai-chatbot
 ai-chatbot-builder
+ai-chatbot-by-text
 ai-chatbot-camhdk
 ai-chatbot-customer-support-chatfromai
 ai-chatbot-easy-integration
@@ -3963,6 +3965,7 @@ ai-content-guide-llms-text-generator
 ai-content-image-generator
 ai-content-optimizer
 ai-content-pipelines
+ai-content-plan
 ai-content-signals
 ai-content-wizard
 ai-content-writer
@@ -4058,6 +4061,7 @@ ai-product-description-generator
 ai-product-recommendations-lite
 ai-product-tools
 ai-proposal-builder
+ai-provider-for-alibaba-cloud
 ai-provider-for-anthropic
 ai-provider-for-google
 ai-provider-for-mistral
@@ -4764,6 +4768,7 @@ all-in-one-facebook-pack
 all-in-one-facebook-plugins
 all-in-one-favicon
 all-in-one-feedburner
+all-in-one-finance-calculator
 all-in-one-forms
 all-in-one-gallery
 all-in-one-google-analytics
@@ -6261,6 +6266,7 @@ appmarx-blog-networking
 appmax
 appmax-woocommerce
 appmysite
+appnest-film-catalog-core-lite
 appnetrets
 appnotch-easy-web-to-app
 appocalypsis-popups-and-widgets
@@ -7085,6 +7091,7 @@ athlon-manage-calameo-publications
 athlos-assistente-digitale
 atiendia-assistant-for-woocommerce
 atikin-seo
+atikur-security-and-risk-monitor
 atirame-ai-chatbox-assistant
 atlant-security
 atlas-content-modeler
@@ -14991,6 +14998,7 @@ cargo-tracking-for-woocommerce
 cargoflux
 cargohub-kargo-takip
 cargus
+cari-com-tr-integration-woocommerce
 carien-pdf-invoice-credit-notes-lite
 carimbador-maluco
 carla
@@ -17170,6 +17178,7 @@ citehq
 citekite
 citelayer
 citepress-automatic-citation-generator
+citepulse-ai-visibility-optimizer
 cities-shipping-zones-for-woocommerce
 citizen-initiative-support
 citizens-feedbacks
@@ -18326,6 +18335,7 @@ codoc
 codocraft-smart-notify
 codoforum-sso
 codpartner
+codrva-inkflow
 codshield-ai
 codup-deals-and-coupons
 codup-email-customizer
@@ -20867,6 +20877,7 @@ coupons-on-products-woo
 coupons-plus-for-woocommerce
 couponscom-plugin-widget
 couponsindemand
+couprix
 courier
 courier-address
 courier-home
@@ -23852,6 +23863,7 @@ dataplans-esims-for-woocommerce
 datapocket
 dataporten-oauth
 datapress
+dataprune
 datapulse-analytics
 dataqlick-inventory-sales-sync-to-accounting
 datarc-companion
@@ -24819,6 +24831,7 @@ dev-con-form
 dev-content-blocks
 dev-corner-badge
 dev-debug-tools
+dev-favicon-switcher
 dev-info-bar
 dev-land
 dev-monitor
@@ -31717,6 +31730,7 @@ eventi-asiago-it
 eventify
 eventilla-events
 eventim-us-event-listings
+eventin-addon-for-fluentcart
 eventin-addon-for-surecart
 eventin-divi-addon
 eventish
@@ -34735,6 +34749,7 @@ fixture-viewer-for-playhq
 fixtureslive-hockey-league
 fizen-pay-woocommerce
 fizfy
+fizteq-pulse
 fizzy-popups
 fjs-feedburner-integrator-for-wp
 fkn-model-viewer
@@ -35287,6 +35302,7 @@ floating-widgets
 floating-window-music-player
 floating-wishlist-for-woo
 floatingsocialmediapopout
+floatmessage-live-chat
 floatsy-chat-widget
 floatwarning
 floaty-book-now-chat
@@ -35360,6 +35376,7 @@ flowplayer-wrapper
 flowplayer5
 flowplayer6-video-player
 flowpoint-analytics-tracking-code
+flowread
 flows
 flowsplit
 flowsystems-webhook-actions
@@ -35569,6 +35586,7 @@ folder-slider
 folder-slideshow
 folder-to-category-link
 folder2page
+folderify
 folderly
 folderra-smart-folder-organizer
 folders
@@ -37338,6 +37356,7 @@ gainurl
 gaiseo-ai-seo-checker
 galactic-advanced-converter-and-optimizer-webp-only
 galaksion-tag-manager
+galaktion-tabidze
 galantom
 galau-ui-visual-editor
 galax-pay-woocommerce
@@ -39132,6 +39151,7 @@ globetrotter-affiliate-plugin
 globkurier
 globo
 globomailer-email-marketing-automation
+globus-debug-control
 gloder-rss
 gloder-suppressor
 glofox
@@ -49249,6 +49269,7 @@ kreditkarten-nachrichten
 kreditkarten-news
 kreditkarten-validierung
 kreebi-forms
+kreebi-forms-dashboard
 kreechat
 krevil-user-registration-login
 kridinifytech-seo-connector-for-trendsync
@@ -50895,6 +50916,7 @@ limit-user-posts
 limit-widgets
 limit-wp-admin-access
 limitar-blogs
+limited-admin-role
 limited-category-lists-widget
 limited-editor
 limon
@@ -53010,6 +53032,7 @@ magic-gallery
 magic-google-maps
 magic-image-gallery-with-popup
 magic-import-document-extractor
+magic-in-the-basement
 magic-inliner
 magic-link
 magic-link-login
@@ -56263,6 +56286,7 @@ mlsjs-featured-properties
 mlsp-media-embed
 mlumen
 mlv-contextual
+mlx-back-in-stock-notifier-for-woocommerce
 mlx-cookie-consent
 mm
 mm-ai-post-generator
@@ -58457,6 +58481,7 @@ my-tickets
 my-timeline-blog
 my-tips
 my-traffic-counter
+my-trail-camera
 my-trending-post
 my-trustedones-recommendations
 my-tweets
@@ -62741,6 +62766,7 @@ orion-data-merge
 orion-email-customizer-for-woocommerce
 orion-login-with-sms
 orion-sms-otp-verification
+orivo-business-hours-block
 orkestapay
 orkestapay-card
 ornani-unsplash-widget
@@ -68564,6 +68590,7 @@ presto-player
 pretekajsk
 pretio-rewards
 pretix-widget
+pretpot-massive-addons-kit-for-elementor
 prettier-trackbacks
 prettify-code-syntax
 prettify-gc-syntax-highlighter
@@ -70311,6 +70338,7 @@ pwf-wc-product-filters
 pwg-cookies
 pwgrandom
 pwh-honey-pot
+pwl-dte-for-bsale
 pwn-admin-user
 pwn-social-with-whatsapp-share
 pwp-lytebox
@@ -72912,6 +72940,7 @@ reed-write
 reedcrm
 reefiris
 reelgood-publishers-widget
+reelshive
 reenable-shortlink-item-in-admin-toolbar
 reenio
 reepay-checkout-gateway
@@ -76314,6 +76343,7 @@ sanitize-spanish-filenames
 sanitize-with-undescores
 sanooksookjai-menu-icon
 sanremo-trails
+sant-chat-ai
 santa-cruz-savory
 santapan-minda
 santas-christmas-countdown
@@ -77298,6 +77328,7 @@ seatmonger-events
 seatreg
 seats2meet-booking-widget
 seaweed
+seazonify
 sebar
 sebastian
 secdash
@@ -77445,6 +77476,7 @@ securepay-payments
 securepress
 securepress-plugin
 securesubmit
+secureweb16-ai-email-assistant
 securicheck
 securimage-wp
 securimage-wp-fixed
@@ -77635,6 +77667,7 @@ selflink
 selfnamed-cosmetics-on-demand
 seline-analytics
 seljedrive-document-library-for-google-drive
+seljevisitorsflags
 sell-ads
 sell-btc-by-hayyatapps
 sell-content
@@ -78837,6 +78870,7 @@ sheetdb
 sheetfusion
 sheetlink
 sheetlink-forms
+sheetmirror-for-google-sheets
 sheetpoet
 sheetpop
 sheetpress
@@ -82241,6 +82275,7 @@ sitecreate-documentor
 sitecreate-notification-bar-lite
 siteease-smart-product-filtering-engine
 sitefeedbackcom-feedback-tab
+siteflush
 siteglue
 sitegpt
 sitegrapher
@@ -83617,6 +83652,7 @@ smspilot-ru-woocommerce
 smsplug
 smsplus-for-woocommerce
 smsq-notifications-for-woocommerce
+smstunnel
 smsvio-pro-woocommerce
 smt-toolkit
 smtp
@@ -84464,6 +84500,7 @@ socko
 socmed-share-with-googl-url-shorterner
 socmen
 socranext
+socrates-site-map
 socwidgit
 socwit
 sodahead-polls
@@ -91294,11 +91331,13 @@ toplinks
 toplist
 toplist-cz
 toplistcz
+toply-return-risk-predictor
 toplytics
 topomer
 toppa-plugin-libraries-for-wordpress
 topper-pack
 toppersystem
+toppicks-block
 topposts-for-google-analytics
 topquark
 topsms
@@ -91982,6 +92021,7 @@ trollishly-social-media-profile-assistant
 trombiz
 tron-login-protect
 tron-payment-button-for-paypal
+trooinbound-form-insights-for-contact-form-7
 trott-bailey-family-smart-tv-feed
 troubleshooting
 trove
@@ -94184,6 +94224,7 @@ uppercase-titles
 uppercase-to-convert-lowercase-in-url
 upprev
 upprev-nytimes-style-next-post-jquery-animated-fly-in-button
+uppzy-ai-chatbot
 upqode-google-maps
 upress-link
 uproc-form-validator
