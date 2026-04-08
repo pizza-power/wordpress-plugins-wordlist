@@ -4068,6 +4068,7 @@ ai-provider-for-mistral
 ai-provider-for-ollama
 ai-provider-for-openai
 ai-provider-for-openrouter
+ai-provider-for-zai
 ai-publisher
 ai-quiz
 ai-readiness-advisor
@@ -5317,6 +5318,7 @@ ambiscale-activity-manager
 ambiscale-llms-friendly
 ambition-cloud-gf-add-on
 ambition-resource-latest-redirect
+amboopay-payment
 ambriel-anti-fraud
 ambrosite-body-class-enhanced
 ambrosite-nextprevious-page-link-plus
@@ -5954,6 +5956,7 @@ anytrack-affiliate-link-manager
 anytrack-for-woocommerce
 anyvar
 anyviz
+anywarex-clone-translate
 anyway-feedback
 anywhere
 anywhere-blocks-shortcode
@@ -7218,6 +7221,7 @@ attendra
 attention-bar
 attention-grabber-hello-bar-alternative
 attention-grabbing-browser-tab-titles
+attentiq
 attentive-security
 attesa-extra
 atticthemes-likes
@@ -8892,6 +8896,7 @@ azurecurve-timelines
 azurecurve-toggle-showhide
 azw-wcorder-file-uploads
 azw-woocommerce-file-uploads
+azwar-launch-task-manager
 azz-anonim-posting
 a´category-dropdown-list
 b-accordion
@@ -10177,6 +10182,7 @@ bepro-listings-business-directory
 bepro-listings-gallery-sliders
 bepro-listings-real-estate
 bepro-listings-wpjm
+berestov-element-scheduler
 berestov-goods-transfer-for-woocommerce
 beriyack-optimizations
 beriyack-seo
@@ -15148,6 +15154,7 @@ cartboss
 cartbox-messaging-widgets
 cartcount-for-woocommerce
 cartdna-bumperpay-gateway-for-woocommerce
+cartengine-back-in-stock-alerts-for-woocommerce
 cartes
 cartflows
 cartflush-autoclear-cart-for-inactive-users
@@ -17145,6 +17152,7 @@ circular-year-planner
 circupress
 cirilica-u-latinicu
 cirlatsearch
+cirquly-consignment-pos-for-woocommerce
 cirrusly-commerce
 cirv-box
 cirv-guard
@@ -24282,6 +24290,7 @@ decfirebase
 decibel-insight-simple-integration
 decimal-product-quantity-for-woocommerce
 decision-tree
+decision-tree-navigator
 decision-trees
 decisions
 deckbird-ai-webshow-button
@@ -24385,6 +24394,7 @@ defer-css-addon-for-bwp-minify
 defer-media
 defer-parsing-of-javascript
 defer-transictional-emails-for-woocommerce
+defform-contact-form
 defin-azul-text-find-replace
 define-constants
 define-server
@@ -24926,6 +24936,7 @@ devinlabs-length-and-distance-converter
 devitems-front-end-submission-lite
 devlab-maintenance-mode
 devlab-woocommerce-dynamic-pricing-wpml-fixer
+devlin-accessibility-monitor-for-woocommerce
 devlin-geo-pulse
 devllo-events
 devllo-events-bookings
@@ -25064,6 +25075,7 @@ di-multipurpose-demo-importer
 di-social-media-widget
 di-themes-demo-site-importer
 diablo-3-tooltip
+diablue-login-customizer
 diagnoseo
 diagnosis
 diagnostic-glance
@@ -26443,6 +26455,7 @@ documents-from-git
 documents-shortcode
 documents-tab-for-woocommerce
 docupress
+docurest-ai-assistant
 docus
 docx-to-html-free
 docxpresso
@@ -27247,6 +27260,7 @@ dummy-subscriptions-generator-for-woocommerce
 dummy-text
 dummy-text-generator
 dummy-text-shortcode
+dummy-users-finder-cleaner
 dummynator
 dump_env
 dump_queries
@@ -30045,6 +30059,7 @@ elespare
 eletro-widgets
 eleusis2021-support-ribbon
 elevate-alerts
+elevate-elements-for-elementor
 elevate-parent-category-template
 elevate-seo
 elevated-comments
@@ -33390,6 +33405,7 @@ fast-search-powered-by-solr
 fast-secure-recaptcha
 fast-select-woo-attributes
 fast-sendy
+fast-seo-fix-integration
 fast-short-news
 fast-shorten
 fast-smooth-scroll
@@ -36989,6 +37005,7 @@ fullcall
 fullcontext
 fullestop-analytics-code-option
 fullestop-lock-down-admin
+fullmetrix
 fullpage-vertical-horizontal-slider
 fullpower-leads
 fullscreen-10-for-wp-super-edit
@@ -40798,6 +40815,7 @@ grt-booking
 grt-consent-tool
 grt-ticket
 grumft-amp
+grumpy-ai-gate
 grundly-immobilienbewertung-wertermittlung-fuer-makler
 grunion-ajax
 grunion-contact-form
@@ -41104,6 +41122,7 @@ gutenverse-companion
 gutenverse-form
 gutenverse-news
 gutenverse-themes-builder
+gutenvibe
 gutenwave-blocks
 gutenwise
 gutenyx-blocks-animation
@@ -47464,6 +47483,7 @@ job-board-manager-expired-check
 job-board-manager-locations
 job-board-manager-widgets
 job-board-vanilla
+job-connect
 job-fetcher
 job-generator
 job-listing
@@ -48666,6 +48686,7 @@ keyword-strategy-internal-links
 keyword-tag-wrapper
 keyword-to-tooltip-lite
 keyword-to-url
+keywordbuddy
 keywordluv
 keywordpilot-seo
 keywords-2-links
@@ -56632,6 +56653,7 @@ modefilter-pro
 model-trains-data
 model-xtractor-class-diagram-viewer
 modeloform
+modelvista-3d-viewer
 modenapaymentgateway
 moderate-categories
 moderate-if-author-url
@@ -74988,6 +75010,7 @@ rift-raid-progress-widget
 rift-shard-status
 rift-slider
 rig-elements
+rigel-forms
 right-bottom-nav
 right-bottom-navigation
 right-click-disable
@@ -78222,6 +78245,7 @@ seolinkercz
 seoliz-seo-meta
 seologies
 seomator
+seomax-content-planner
 seomedia24-twitch-tv-and-kick-com-livestream
 seomix-disable-core-sitemaps
 seomoz-widgets
@@ -78990,6 +79014,7 @@ shipink
 shipinsure-for-woocommerce
 shipit
 shipjoy-free-shipping-bar-for-woocommerce
+shipkasa
 shiplee-woocommerce
 shiplemon-shipping
 shipmaster-for-fedex-by-uniquely
@@ -83113,6 +83138,7 @@ smart-duplicate-post-page
 smart-dynamic-sitemap
 smart-editor
 smart-email-alerts
+smart-estimate
 smart-external-links-manager
 smart-facebook-like-box
 smart-facebook-page-like-overlay
@@ -83705,6 +83731,7 @@ snack-bar
 snack-missed-schedule
 snackgame
 snagfilms-player-embed
+snagrelay
 snagshout
 snake
 snake-retro-game-shortcode-by-eskim
@@ -84664,6 +84691,7 @@ sonetel-website-chat
 song-book
 songkick-concerts-and-festivals
 songlark-api-player
+sonic-open-graph-preview
 sonic-play
 sonicblink
 sonu-simple-widget-template
@@ -89221,6 +89249,7 @@ tentbloggers-vimeo-youtube-rss-embed
 tenweb-speed-optimizer
 teoola
 teportfolio
+teppeki-country-restrictions-woo
 tera-charts
 teraco-for-woocommerce
 teral-translate
@@ -92266,6 +92295,7 @@ tubaret-network-share-button
 tube-video-ads-lite
 tube-video-curator
 tube-video-widget-using-post-meta
+tubebay
 tubecleaner
 tubelastica
 tubematic
@@ -95546,6 +95576,7 @@ vibe-testimonial-shoutouts
 viber-sharing-button-for-jetpack
 vibes
 vibeseo
+vibestack-stock-alert
 vibrate
 vibraudio-audio-player-for-powerpress
 vicap
@@ -113503,6 +113534,7 @@ zeus-admin-theme
 zeus-elementor
 zeus-payment-gateway-integration-for-woocommerce-and-paychoice
 zeuspay-for-woocommerce
+zevost-login
 zevvolabs-content-update-monitor
 zferral-paypal
 zforms
