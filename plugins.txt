@@ -20358,6 +20358,7 @@ cookied-cookie-consent
 cookiefirst-gdpr-cookie-consent-banner
 cookiefox
 cookiefr
+cookieframe
 cookiefy
 cookiegenie
 cookiego
@@ -21249,6 +21250,7 @@ creativeon-slider
 creativesignal-testimonial
 creator-assistant
 creator-assistant-hub
+creator-assistant-search
 creator-five-for-woocommerce
 creatorlms
 creatorpilot
@@ -21495,6 +21497,7 @@ crudlab-facebook-like-box
 crudlab-google-plus
 crudlab-scroll-to-top
 cruftless
+crumb
 crumblo-for-woocommerce
 crumbs-widget
 crunchbase
@@ -36863,6 +36866,7 @@ frontier-query
 frontier-restrict-backend
 frontier-restrict-media
 frontier-set-featured
+frontiers-hide-author-name
 frontify
 frontis-blocks
 frontis-interaction
@@ -37338,6 +37342,7 @@ g-structured-data
 g-translate
 g2image
 g3-avatar
+g33ki-cloud-storage-for-media-library
 g3client
 g4b-photo-gallery
 g7-smtp-mail
@@ -45296,6 +45301,7 @@ infograph
 infographic-and-list-builder-ilist
 infographic-embedder
 infographicninja-wp
+infography-auto-featured-image
 infolinks
 infolinks-ad-wrap
 infolinks-officlial-plugin
@@ -45427,6 +45433,7 @@ inline-context
 inline-crypto-price
 inline-css-block-gutenberg
 inline-editor
+inline-feedback-widget
 inline-footnotes
 inline-frame-brecher
 inline-frame-iframe
@@ -45527,6 +45534,7 @@ inpsyde-google-tag-manager
 input-masks-for-contact-form-7
 input-masks-for-elementor-forms
 input-scanner
+inpweb-ad-spaces
 inq-social
 inqiro
 inqob
@@ -55006,6 +55014,7 @@ memberglut
 memberhub
 memberlite-elements
 memberlite-shortcodes
+membermagix
 membermouse
 membermouse-addon-for-wp-courseware
 membermouse-member-count-shortcode
@@ -58184,6 +58193,7 @@ mvno-activation
 mvno-portin
 mvno-settings
 mvp-affiliate
+mvp-docs
 mvts
 mvx-cointopay-gateway
 mw-auth
@@ -59186,6 +59196,7 @@ navception
 nave-for-woocommerce
 naveed-post-types
 naveencodes-image-optimizer
+naveencodes-site-diagnostics
 navegg
 naver-analytics
 naver-blog-api
@@ -59317,6 +59328,7 @@ necessary-blocks
 necessary-tools
 necrologi-italia-nicv
 nectar-ninja
+nectomax-seo-pages
 ned-interferer
 nedhaf-chat-widget-for-agentx
 need-to-know-box
@@ -62449,6 +62461,7 @@ optimal-360
 optimal-google-analytics
 optimal-title
 optimality
+optimand
 optimate-ads
 optimator
 optimise-link-automation
@@ -64690,6 +64703,7 @@ pc-ktai-content-selecter
 pc-robotstxt
 pc-searchengine-verify
 pc-to-mobile-via-qr-code
+pc-user-address-manager-for-woocommerce
 pcauthors
 pcaviz
 pcaw-post-category-archive-widget
@@ -66339,6 +66353,7 @@ pluco-membership
 plug-and-play
 plug-and-quiz
 plug-chat
+plug-chatbot
 plug-error-handler
 plug-in-monitor
 plug-payments-gateway
@@ -71878,6 +71893,7 @@ raptive-creatorbot
 raptive-seo
 raptor
 raptor-editor
+raptor-global-addons-upsells-rules
 raptorize-it
 rapyd-payments
 rara-one-click-demo-import
@@ -73881,6 +73897,7 @@ repeaters-relationships-connector-acf-elementor
 repeating-post
 reperror
 repetitive-image-inserter
+repetito
 repivot
 replace
 replace-all-alt-text-with-company-name
@@ -75219,6 +75236,7 @@ roadmap
 roadmap-wp
 roam-block
 roanapur-opengraph
+roardev-doctor-therapist-finder
 roasted-url-shortener
 roaster-recipe-widget-by-beean
 roaver-widget
@@ -82451,6 +82469,7 @@ sitepulse
 sitepush
 siteready-coming-soon-under-construction
 siterecording
+siternet-post-deleter
 sites-coloring
 sites-generator
 sites-monitor
@@ -85626,6 +85645,7 @@ squeeze-stream
 squelch-tabs-and-accordions-shortcodes
 squelch-unspam
 squidge
+squirrel-links
 squirrels-auto-inventory
 squirrly-seo
 squish-site-patrol
@@ -87805,6 +87825,7 @@ swift-checkout
 swift-commerce
 swift-control
 swift-coupons-for-woocommerce
+swift-currency
 swift-custom-post-navigator
 swift-demo-import
 swift-fse-blocks
@@ -87916,6 +87937,7 @@ switchere-com-crypto-gateway
 switcheroo
 switchpay-pagamentos
 switips
+swiver-for-woocommerce
 swmenu
 swoop-password-free-authentication
 swooshbox
@@ -90959,6 +90981,7 @@ tisalabs-predictive-security
 tish-pricing-table
 tish-social
 tish-theme-ai-customizer-lite
+tisha-service-mode-for-woocommerce
 tishfy-slider
 tisie-relativetime
 tismy-user-profile-upload
@@ -98868,6 +98891,7 @@ wh-kartra-billing
 wh-loader
 wh-testimonials
 wh-tweaks
+wh4u-domains
 wha-area-charts
 wha-crossword
 wha-elementor-counter-up
@@ -113426,6 +113450,7 @@ zatca-e-invoice-for-woocommerce
 zaver-checkout-for-woocommerce
 zawgyi-embed
 zawgyi-one-to-ayar-unicode
+zaygl-ip-blocker-and-anti-ddos
 zazachat-live-chat
 zazzle-api-bridge
 zazzle-store-gallery
