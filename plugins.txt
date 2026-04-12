@@ -770,6 +770,7 @@ accelerate-patterns
 accelerate-your-advertising
 accelerated-mobile-page
 accelerated-mobile-pages
+accelvia-connect-floating-cta
 accelvia-content-protection
 accept-2checkout-payments-using-contact-form-7
 accept-amazon-payments
@@ -4523,6 +4524,7 @@ ak-tmdb-info
 akamai
 akari-worker
 akasa-media-social-chat
+akashahmed-toolbar-visibility
 akashic-health-records-patient-portal
 akaunting-for-woocommerce
 akay-digits
@@ -6446,6 +6448,7 @@ arashtad-testimonials-slider
 arashtad-toggle
 arastoo-cpt
 arastoo-gmap-extended
+araza-image-sizes-url-tools
 arbana-sale-tracker
 arbitrage-expert
 arbitrary-shortcodes
@@ -16633,6 +16636,7 @@ chatpiper
 chatpirate
 chatpirate-live-chat-for-woocommerce
 chatplusjp
+chatpod-ai
 chatpress
 chatpress-ai
 chatpressai
@@ -20672,6 +20676,7 @@ correct-prices
 correct-quotes
 correios-etiqueta-e-declaracao
 correios-update-status
+correo-argentino-for-woocommerce
 correo-direct
 correos-express
 correos-oficial
@@ -36429,6 +36434,7 @@ framework-mobilede
 framework360-connect
 franceimage-map-filter-for-geotagged-posts
 franchise-manager
+frank-channel-analytics-for-youtube
 frank-dead-link-checker
 frank-schema-markup-generator
 frankencookie
@@ -36944,6 +36950,7 @@ ft-stop-trackback-dos-attacks
 ft-trioutnc
 ftlcommerce-instant-product-search
 ftmpub-media-slider
+ftmpub-product-import-from-csv
 ftp-access
 ftp-access-file-manage
 ftp-free-theme-file-creator
@@ -40853,6 +40860,7 @@ grunion-ajax
 grunion-contact-form
 grupo-logistico-andreani
 gruveo-call-button
+gryphon-verified-client-ip
 gs-acf-icons
 gs-alternat-images
 gs-alternate-images
@@ -41055,6 +41063,7 @@ guild-armory-roster
 guild-network
 guild-news
 guild-raid-progression-for-wow-and-raider-io
+guild-recruitment-widget-for-wow
 guild-wars-2-players-character-list
 guild-wars-2-wvw-matchups
 guildquality-member-feedback-widget
@@ -41550,6 +41559,7 @@ hcard-widget
 hcardmapper
 hcgroup-shipping-for-woocommerce
 hclub
+hcode-teklif-yonetimi
 hcrm-connector-for-houzez
 hcsb-verse-of-the-day
 hct-community-database-management
@@ -48777,6 +48787,7 @@ khubaibtech-otp-registration-shield
 khudebarta-order-notify
 khush-captcha
 khush-captcha-for-buddy-press
+khushal-content-export-to-csv
 khushal-login-path-guard
 ki-live-video-conferences
 ki-twitter-analytics
@@ -51869,6 +51880,7 @@ llm-friendly
 llm-hubspot-blog-import
 llm-markdown
 llm-moderator-for-wpforo
+llm-override
 llmagnet-llm-txt-generator
 llmo-schema-markup
 llms-backpack-lite
@@ -54962,6 +54974,7 @@ melapress-role-editor
 melascrivi
 melati
 melative-link
+melgab-project-todo-board
 melhor-envio-cotacao
 melibo-chatbot
 meliconnect
@@ -55560,6 +55573,7 @@ meyshan-6-in-1-wordpres-plugin-with-image-support
 meyshan-6-in-1-wordpress-plugin
 meyshan-spicy-pipes-wordpress-plugin
 meyshan-ultimate-search-with-msn
+meyvora-convert
 mezar-quick-view
 mf-gig-calendar
 mf-plus-wpml
@@ -63997,6 +64011,7 @@ partspal
 party-connect-attendance
 party-hall-booking-management-system
 partybook-widget
+partyks-search-connector-for-bonsai
 parvenu
 parvin-poems
 pas-debug-log-manager
@@ -65264,6 +65279,7 @@ pett-tube
 peuwl-hero-block-lite
 pevne-mezery
 pexlechris-adminer
+peymo-payment-gateway
 pf-homefollow-shortcode
 pf-secure-toolkit
 pf-timer
@@ -66569,6 +66585,7 @@ plugmint-sticky-notes
 plugna
 plugnedit
 plugnmeet
+plugopolis-shipping-center
 plugpacket
 plugpdater
 plugpress
@@ -66849,6 +66866,7 @@ polako-gateway-for-woocommerce
 polanger-admin-menu-manager
 polanger-category-story-carousel
 polanger-contact-buttons
+polanger-ticket-system-for-woocommerce
 polanger-videohub-lite
 polar-auto-post
 polar-mass-advanced-ip-blocker
@@ -71989,6 +72007,7 @@ ravindra-chat-forms
 ravioli-for-woocommerce
 ravpage
 ravuss-seo
+ravycode-typing-speed-test
 raw
 raw-html
 raw-html-modal-window
@@ -79465,6 +79484,7 @@ shortcode-ajax
 shortcode-alarm
 shortcode-alias-api
 shortcode-anywhere-for-contact-form-7
+shortcode-atlas
 shortcode-autolink
 shortcode-bootstrap-visuals
 shortcode-box
@@ -84962,6 +84982,7 @@ south-african-id-number-validator
 south-pole-the-offset-movement
 southern-europes-bootscout-blocks
 soutien-giletsjaunes
+sovaryx-login-security
 sovay
 sovereign-crypto-payments
 sovratec-case-management
@@ -86591,6 +86612,7 @@ storeman
 storemap-store-locator
 storemapper
 storemind
+storenest-for-woocommerce
 storenvy
 storeone-extension
 storepep-woocommerce-app-integration
@@ -88070,6 +88092,7 @@ syncio-multistore-product-inventory-sync-for-woocommerce
 synckube-products-sync-for-shopify
 syncmate-by-assistro
 syncpa-discord-notifier-for-surecart
+syncranker-connector
 syncro-web-chat-2-text
 syncs3
 synctrackinginfo
@@ -89746,6 +89769,7 @@ thats-why
 thc-wordpress
 the
 the-404er
+the-9-dollar-menu-valet
 the-9-dollar-urlnip
 the-admin-theme-experience
 the-adsense-privacy-policy
@@ -91030,6 +91054,7 @@ titlematic
 titler
 titletopng
 titlify
+titlify-featured-image-generator
 titlizer
 tito
 titul
@@ -95470,6 +95495,7 @@ verificare-tva
 verification-code-for-comments
 verification-sms-targetsms
 verification-widget-authifyweb
+verified-crypto-checkout
 verified-pay-credit-card-payments
 verifiedvisitors
 verifone-bluecommerce-for-woocommerce
@@ -96225,6 +96251,7 @@ visibility-control-for-woocommerce
 visibility-control-for-wpcourseware
 visibility-controls-for-editor-blocks
 visibility-for-siteorigin
+visibility-kit-seo
 visibility-logic-elementor
 visibility-viewer
 visibility-warning
@@ -96970,6 +96997,7 @@ wangguard-registration-notice-add-on
 wangguard-wysija-newsletter-connector
 wanna-isotope
 wanpay-payment-for-woocommerce
+wanswers-seo-first-qa
 want-button
 want-flirty-leads
 wany-chat
@@ -98164,6 +98192,7 @@ web4pro-no-internet-explorer
 web4realty-idx
 web4x-product-comparison-table
 webability-accessibility-widget
+webadish-auto-sheets
 webagency-widget
 webalchlab-ddt-brt
 webamps-remove-double-menu
@@ -98240,6 +98269,7 @@ webdevise-elementor-blog-page-templates-widget
 webdevise-team-elementor-widget
 webdex
 webdez-collapsible-menu
+webdide-card-to-card-verification
 webdigit-llms-index-suite
 webdirective-directory-plugin
 webdoktoru-security
@@ -98805,6 +98835,7 @@ wenprise-wechatpay-checkout-for-woocommerce
 wens-ie-css3-support
 wens-responsive-column-layout-shortcodes
 wens-social-links
+wenstoncaptcha
 weo-llms-ai-crawler-guide
 weoinvoice
 weon-for-woocommerce
