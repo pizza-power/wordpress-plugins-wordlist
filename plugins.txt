@@ -5063,6 +5063,7 @@ alt-audit
 alt-bot
 alt-calendar
 alt-for-images
+alt-goblin
 alt-import-drupal
 alt-link-text
 alt-login
@@ -11091,6 +11092,7 @@ bizzartech-photobucket-slideshowthumbnails
 bizzcam
 bizzio-sync-for-woocommerce
 bizzmagsmarketplace
+bizzmagssynctrendyolwc
 bizzmudra
 bizzorder
 bizzswatches
@@ -13781,6 +13783,7 @@ buglog
 bugmuncher
 bugmuncher-website-feedback
 bugplug-by-omatum
+bugpost
 bugrem-feedback
 bugs-go-viral-facebook-promotion-generator-for-wordpress
 bugsnag
@@ -15786,6 +15789,7 @@ ccf-option-sort
 ccg-manager
 ccg-quickly
 ccichat-live-chat
+cclin-smart-toc
 ccm19-integration
 ccount
 ccpa-compliance-tool
@@ -17197,6 +17201,7 @@ cite-list
 cite-references
 cite-this
 cite-this-post
+citeboost-geo
 citehq
 citekite
 citelayer
@@ -18309,6 +18314,7 @@ coderembassy-wholesale-pricing
 coderlift-affiliate-compliance
 coderlift-product-page-booster
 coderpress-integration-for-nowpayments-with-gravity-forms
+codersly-seo
 codesala-broken-link-fixer
 codescar-radio-widget
 codeshield
@@ -23646,6 +23652,7 @@ darkroom
 darkroom-facebook-photo-gallery
 darkstar-file-manager
 darkstar-keyword-manager
+darktech-price-editor
 darmaview
 dartamas
 darujme
@@ -29828,6 +29835,7 @@ effortless-multisite-language-switcher
 effortless-multisite-template-copier
 effortless-qr-code-generator
 effortless-shortcode-insertion
+effortless-simple-email-configuration
 effortless-simple-image-optimiser
 effyispay
 efigerencianet-por-aireset
@@ -43076,6 +43084,7 @@ hpbtool
 hpcdd
 hpm-theme-core
 hpos-status-indicator-for-woocommerce
+hpp-relationship-sync-for-acf
 hq-goabroad
 hq-rental-software
 hq-sand-box
@@ -46945,6 +46954,7 @@ jade-gdpr
 jadedcoder-sticky-permalinks
 jado-swiper-gallery-slider
 jadwal-bola
+jagejobs-ai-writer-travel
 jagif-woo-free-gift
 jagjag-pager
 jahanpay-samanbank-gateway-for-edd
@@ -48869,6 +48879,7 @@ kindle-best-seller-calculator
 kindle-dx-3-graphite-widget
 kindle-dx-widget
 kindle-this
+kindpixels-next-event-countdown
 kindpixels-pdf-gallery
 kindred-installer
 kindred-posts
@@ -49358,6 +49369,7 @@ krevil-user-registration-login
 kridinifytech-seo-connector-for-trendsync
 kriptomat-cryptocurrency-price-widget
 krisha-login-branding
+krishnadas-hospital-appointments-clinic-manager
 kristall-integration
 krokedil-ecster-pay-for-woocommerce
 krokedil-paysoncheckout-20-for-woocommerce
@@ -50679,6 +50691,7 @@ library-viewer
 librarything-recently-reviewed-widget
 libravatar
 libravatar-replace
+libre-bite
 libre-photo-illustrator
 libre-scrolling
 librefm-now-playing
@@ -54726,6 +54739,7 @@ media-net-ads-manager
 media-order
 media-order-plugin
 media-organiser
+media-picker-for-immich
 media-placeholders
 media-playback-speed
 media-player
@@ -58706,6 +58720,7 @@ mycityselector
 myclang-forms
 mycloudplayers-playlist
 mycloudpress
+myclub-booking
 myclub-groups
 myclub-sections
 mycn-stock-manager
@@ -64615,6 +64630,7 @@ paystack-memberpress
 paystack-recurrent-billing
 paystack-sprout-invoices
 paystack-wpjobster-gateway
+paystage
 paystand-for-woocommerce
 paystar-card-payment-for-woocommerce
 paystar-easy-donations
@@ -66092,6 +66108,7 @@ pixopoint-email-submit
 pixopoint-menu
 pixopoint-theme-integrator
 pixops-image-optimization
+pixplet-media-library
 pixplugin-autoinsert
 pixproof
 pixrem
@@ -70633,6 +70650,7 @@ qos-payment-gateway
 qotd
 qotd-random-quote
 qotz
+qowwa-forms-for-hubspot
 qp-added-wp-functions
 qp-market-network
 qp-market-network-qpmn-for-woocommerce
@@ -71458,6 +71476,7 @@ r-s-contact-form
 r-scroll-up
 r1-widget
 r12themes-quotes
+r2-cloud-storage
 r2-storage-manager-for-cloudflare
 r2b-partial-cod-lite
 r2b2-monetization
@@ -72830,6 +72849,7 @@ recordar-for-bluesky
 recordbrowser
 recorp-divi-mailchimp-extension
 recotrust-integration
+recoup-returns-rma-for-woocommerce
 recover-abandoned-cart-for-woocommerce
 recover-fees-for-gravity-forms
 recover-text-widgets
@@ -76156,6 +76176,7 @@ sadded-by-sadad
 sadesign-password-generator
 sadhguru-quotes
 sadik-ai-talk-to-doc
+sadykov-form-submissions
 saec-seo
 saeid-simple-text-rotator
 saf-moss
@@ -76538,6 +76559,7 @@ satelite
 satellite
 satellite-portrait
 satish-ai-content-chat-assistant
+satishdb-cleaner-remove-revisions
 satispay-payment-for-woocommerce
 satollo-dispatcher
 satollo-monitor
@@ -78344,6 +78366,7 @@ seo4cms
 seoai
 seoauto-ai
 seoauto-ai-content-publisher
+seobot-ai
 seobot-monitor
 seobrrr
 seocare
@@ -79023,6 +79046,7 @@ shelfy-mobile-commerce-platform
 shellshock-check
 shempa-core
 shepherd-site-tour
+sherdore-link-on-keyword
 sherk-carousel-banners
 sherk-custom-post-type-displays
 sherk-skills-landing-pages
@@ -83332,6 +83356,7 @@ smart-overlay
 smart-page-link-widget
 smart-password-protect
 smart-passworded-pages
+smart-payment-gateway-control-for-woocommerce
 smart-paypal-checkout-for-woocommerce
 smart-phone-addon-for-ninja-forms
 smart-phone-field-for-gravity-forms
@@ -86155,6 +86180,7 @@ stella-chatbot
 stella-flags
 stella-free
 stella-metabox-i18n
+stella-smart-faq-ai-faq-generator-schema-builder
 stellar-places
 stellarpay
 stellarpress-federation
@@ -91853,6 +91879,7 @@ traffic-stats-widget
 trafficanalyzer
 trafficguard
 trafficmanager-wc
+trafficninja-content-syncer
 trafficometer
 trafficontent
 trafficspaces-plugin
@@ -91893,6 +91920,7 @@ transact
 transaction
 transaction-integration-for-affiliatewp-and-optimizepress
 transaction-reports-for-woo
+transaction-validation-fraud-mitigation
 transactium-gravity-forms-addon
 transactium-wallet-for-woocommerce
 transactium-woocommerce-addon
@@ -95527,6 +95555,7 @@ verosoft-integracja-hurtowni
 verostudio-font-tester-for-google-fonts
 verowa-connect
 versal-payments
+versana-companion
 versapay-payments
 versatile-jquery-slider
 versatile-toolkit
@@ -112029,6 +112058,7 @@ wu-block-comments
 wu-rating
 wubtitle
 wucdbm-symfony-menu-manager
+wuclean-database-cleaner-for-woocommerce
 wuco-wp-ultimate-cleanup-optimization
 wueen
 wufoo-integration
