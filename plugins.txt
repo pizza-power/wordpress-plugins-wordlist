@@ -635,6 +635,7 @@ abcapp-creator
 abcbiz-addons
 abcbiz-reviews
 abcsubmit
+abct-smart-orders
 abd-dashboard-widget-manager
 abdal-security-headers
 abdiel-global-variables
@@ -3759,6 +3760,7 @@ age-verification
 age-verification-for-woocommerce
 age-verification-screen-for-woocommerce
 age-verification-simple
+age-verification-with-ageonce
 age-verify
 agecheck
 agechecked-woocommerce-addon
@@ -4247,6 +4249,7 @@ airchat
 aircraft-builders-log-time-tracker
 airdriemedia-posts-for-bluesky
 airdrop
+aiready-llms-txt-generator
 airefs-ai-search-analytics-tracking
 airetnals
 airfieldhub
@@ -5577,6 +5580,7 @@ ancode-estimated-delivery-date-for-woocommerce
 and-it-portfolio-for-elementor
 and-the-winner-is
 and-the-winner-is…
+andale-search-insights
 andora-lightbox
 andplus-schemabridge
 andreadb-coin-slider
@@ -6619,6 +6623,7 @@ arne-feed
 arnes-gw2-riddle
 arnold-analytics
 aroksds-alerts-for-cf7-to-telegram
+aronda-access-tool
 aronda-filter-gallery
 around
 around-this-date-in-the-past
@@ -10733,6 +10738,7 @@ bic-media
 bictorys-payment-gateway-for-woocommerce
 bicycles-by-falbar
 bid13-auction-feed
+biddut-revision-cleaner
 bidorbuy-store-integrator
 bidorbuystoreintegrator
 bidsketch-proposal-software-gravity-forms
@@ -17202,6 +17208,7 @@ cispm-portfolio
 cispm-portfolio-1
 cit-media-sync
 cita-online
+citable-geo-schema
 citadela-directory-lite
 citatele-lui-motivonti
 citation-aggregator
@@ -18242,6 +18249,7 @@ code9
 codeablepress-simple-frontend-profile-picture-upload
 codeandcore-user-registration-cf7
 codeart-units-converter
+codeatoz-ai-readiness-woocommerce
 codeatoz-campaign-manager
 codeatoz-hide-price-for-stores
 codebaby-avatar
@@ -20693,6 +20701,7 @@ coronavirus-info
 coronawp
 corporate-testimonials
 corporate-testimonials-powered-by-assist
+corps-ai-chatbot-lite
 correct-audio-video-uploads
 correct-horse-battery-staple
 correct-image-orientation
@@ -24079,6 +24088,7 @@ dblocks-codepro
 dblocks-finder
 dblocks-hotspot
 dblocks-youtube-lazyload
+dbm-sonia-shop-assistant
 dbmaker
 dbmovies
 dboptimizer
@@ -39276,6 +39286,7 @@ glossom
 glossy
 glossy-mega-menu
 glossy-search-replace
+glotcore-history-limiter
 glotcore-import-glossaries
 glotcore-limit-import-strings-number
 glotcore-rest-api
@@ -52616,6 +52627,7 @@ loom-record
 loomisoft-ad-banner-manager
 loomisoft-button-widget
 loomisoft-content-blocks
+loomstorm-block-scheduler
 loomup
 loop-cards
 loop-grid-extender-for-elementor-pro
@@ -54304,6 +54316,7 @@ mastercurrency-wp
 masterit-authors-list
 masterlms
 masterpiece-lite-toolkit
+masterquiz-ai
 masterstudy-lms-divi-modules
 masterstudy-lms-learning-management-system
 masterwoos-facebook-pixel-pal
@@ -55534,6 +55547,7 @@ metal-social-share
 metalpriceapi
 metals-api
 metals-api-com
+metaly-for-acf-and-scf
 metamagic
 metamasterseo
 metamatic
@@ -61062,6 +61076,7 @@ nourish-enewlstters
 nousaccess
 nouw-css
 nova-blocks
+nova-custom-cursor
 nova-dashboard-cleanup
 nova-dashboard-widget-bbc-news
 nova-dashboard-widget-bbc-news-politics
@@ -61815,6 +61830,7 @@ oleggo-livestream
 olena-food-ordering
 oletheme-cleaning-cost-calculator
 olevmedia-shortcodes
+oli-import-sync-for-translatepress
 oli-media-cleaner
 olimometer
 olive-one-click-demo-import
@@ -62964,6 +62980,7 @@ orphanix-media-cleanup
 orphanpages
 orpress
 orqadesign-bluesky-feed
+orshot
 orthodox-calendar
 orthodoxcalendarru
 orthotypo-orthotypographie-automatique
@@ -63426,6 +63443,7 @@ packerland-custom-blocks
 packeta
 packing-charge
 packlink-pro-shipping
+packpilot
 packpin-widget
 packpin-woocommerce-shipment-tracking
 pactic-connect
@@ -71591,6 +71609,7 @@ rackspace-cloudfiles-cdn
 rackspace-news
 racoontools
 ractivejs
+racun123-for-woocommerce
 racydev-linky
 rad-bootstrap-3-blocks
 rad-dropbox-uploader
@@ -72086,6 +72105,7 @@ ravens-antispam
 raven’s-antispam
 ravindra-chat-forms
 ravioli-for-woocommerce
+ravooka
 ravpage
 ravuss-seo
 ravycode-typing-speed-test
@@ -73339,6 +73359,7 @@ rel-nofollow-categories
 rel-nofollow-checkbox
 rel-nofollow-for-tags-in-posts-and-pages
 rel-publisher
+relahconvert-image-tools
 relais-2fa
 relais-colis-officiel
 relap
@@ -73979,6 +74000,7 @@ rep-u-press-social-analytics
 repack-for-woocommerce
 repair-shop
 repayment-calculator
+repeat-customer-for-woocommerce
 repeat-events
 repeat-order-button-for-woocommerce
 repeat-order-for-woocommerce
@@ -75280,6 +75302,7 @@ riveted
 rivio-ai-cart-recovery-marketing-email-automation
 rivio-reviews-for-woocommerce
 rivva-reactions
+rixden-career-manager
 riyaz
 riyuk
 rizzi-guestbook
@@ -75644,6 +75667,7 @@ royal-recent-posts-widget-by-category
 royal-responsive-menu
 royal-seal-ent-radio-wrse
 royal-tree
+royalcomply
 royalfolio
 rozetta-translator
 rp-ads-manager
@@ -77539,6 +77563,7 @@ season-particles
 season-spark
 seasonal-content
 seasonal-css
+seasonal-popup
 seatext-free-translation-and-conversion-rate-boost
 seatgeek-affiliate-tickets
 seatgeek-tour-dates
@@ -77939,6 +77964,7 @@ sem-dofollow
 sem-external-links
 sem-fancy-excerpt
 sem-frame-buster
+sem-grup-kvkk-uyumluluk-eklentisi
 sem-opt-in-front
 sem-seo
 sem-subscribe-me
@@ -77958,6 +77984,7 @@ semerkand-radyo-dinle
 semi-manual-breadcrumb-navigation
 semi-private-attachments
 semi-private-comments
+semikashev-goal-tracker-ym-cf7
 seminar-registration-manager
 semios-ai-bot
 semiprivate-comments
@@ -82834,6 +82861,7 @@ skysa-weather-for-us-widget
 skysa-youtube-videos-app
 skyscraper
 skyscraper-io
+skyservers-ean-barcode-finder
 skyspeed-image-optimizer-webp-avif-converter
 skystats
 skytake
@@ -89303,6 +89331,7 @@ tekserve-testimonials
 tel-link-obfuscate
 tel-publish
 telaalbums
+telchar-site-freeze
 teleadmin
 telecash-ricaricaweb
 telecom-opcoes-e-planos
@@ -99730,6 +99759,7 @@ wipad
 wipe-slideshow
 wipsum
 wiqet-photo-voice-and-webcam-video-personal-presentation-plugin
+wira-kit-for-elementor
 wire-manager
 wireboard-analytics
 wirecard-woocommerce-extension
