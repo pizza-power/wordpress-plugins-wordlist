@@ -648,6 +648,7 @@ abdul-wp-plugin
 abe-caf-donate
 abeta-punchout
 abg-rich-pins
+abhishek-seo
 abilities-bridge
 ability
 ability2read
@@ -1998,6 +1999,7 @@ addictivepoints
 addifect
 adding-content-to-the-footer
 adding-css
+adding-extra-tax-or-amount
 addinto
 addismap-elementor-element
 additback
@@ -3919,6 +3921,7 @@ ai-auto-tool
 ai-automation
 ai-ban-spam-comment
 ai-block
+ai-blocks-generator-studio
 ai-blog-automator
 ai-blog-buddy
 ai-blog-generator
@@ -5722,6 +5725,7 @@ animbox
 anime-dropdown-widget
 anime-sub-plugin
 animentor-lottie-bodymovin-elementor
+animicro
 animiertes-frontend
 animista
 animoto-embeds
@@ -10820,6 +10824,7 @@ bike-rental
 bike-rental-manager-calendar
 bikemap-speedometer-widget
 bikit-business-directory
+bikronix-sales-engine
 bilbok-bulk-mailer-for-flamingo
 bilder-alt
 bildly
@@ -25424,6 +25429,7 @@ dinosaur-game
 dinosaurs
 dintero-checkout-express
 dintero-checkout-for-woocommerce
+diogen-ai
 dipdive
 dippi
 dippler
@@ -38340,6 +38346,7 @@ genki-pre-publish-reminder
 genki-youtube-comments
 genolve-toolkit
 genoo
+genseo
 gentime
 gentlesource-short-url
 genuine-product-checker
@@ -39041,6 +39048,7 @@ gim-back
 gimb
 gimme-calendar-feeds
 gimme-filter
+gimmecalc-embed
 gimonline-wp
 ginbox-for-woocommerce
 ginger
@@ -48396,6 +48404,7 @@ k7-church
 k9-estate
 kaamelott-quotes
 kaan-bulk-redirects
+kaatai-consent-manager
 kabook-auto-rank-math-snippet
 kabook-editor-tools
 kaboom-send-secrets
@@ -50432,6 +50441,7 @@ leenkme
 lees-membership-hierarchy
 leet-affiliate-for-freemius
 leet-speak
+leezi-crm
 left-pad
 left-right-image-slideshow-gallery
 leftsell
@@ -52497,6 +52507,7 @@ loginer-custom-login-page-builder
 loginfy
 logingpower
 loginhue-admin-login-customiser
+loginicity
 loginid-directweb
 loginify
 loginizer
@@ -53315,6 +53326,7 @@ maha-copyright-date
 maha-salat-times
 mahboob-contact-form
 mahboob-contact-forms
+mahesh-messanger
 mahjong
 mahjong-icons
 mahjong-tiles
@@ -54911,6 +54923,7 @@ mediamask
 mediamaster-reader-rss
 mediamatic
 mediamiles-social-sharing
+mediamind-ai-widget
 mediamodifier-for-woocommerce
 mediamoo-for-spaces
 medianova-cdn
@@ -56951,6 +56964,7 @@ moexrate
 mofuse
 mofuse-plugin
 mogul-functions
+mogura-schema-spark
 mohcin-taxonomy-seo-for-woocommerce
 mohtava-marketing
 mohu-product-grid
@@ -62991,6 +63005,7 @@ origisafe-advanced-image-optimizer
 origo-wp-slider
 orillacart
 orimon-chatbot
+oriole-one-master-guard
 orioly-book-now
 orion-data-merge
 orion-email-customizer-for-woocommerce
@@ -66171,6 +66186,7 @@ pixelflow
 pixelgrade-assistant
 pixeline-generative-engine-optimization-llm-txt
 pixelines-email-protector
+pixellize-site-issue-scanner
 pixelmole-follow-up-emails
 pixelnest-blocks
 pixelo
@@ -68713,6 +68729,7 @@ premmerce-woocommerce-toolkit
 premmerce-woocommerce-variation-swatches
 premmerce-woocommerce-wholesale-pricing
 premmerce-woocommerce-wishlist
+prenotacloud-storefront-widgets
 prenotazioni
 prensalista-platform-manager
 preorder-timer
@@ -72603,6 +72620,7 @@ realmagic-portfolio
 realplaces-xml-csv-property-listings-import
 realpress
 realpress-real-estate-plugin
+realreviews-io-reviews-widgets
 realsatisfied-review-widget
 realsatisfied-widget
 realsearch-little
@@ -76587,6 +76605,7 @@ samrat-website-cache
 sams-integration
 samsarin-php-widget
 samsarin-php-widget2
+samsswap-image-swap-for-woocommerce
 samudra-log
 samurai
 samurai-honeypot-for-forms
@@ -78501,6 +78520,7 @@ seobot-ai
 seobot-monitor
 seobrrr
 seocare
+seochat-analyzer
 seoella-automated-seo
 seofootertitle
 seogun
@@ -78523,6 +78543,7 @@ seonte-ai-content
 seopic-intelligent-seo-images
 seopilot
 seopilotpl-dla-wordpress
+seopix-ai-image-seo-optimizer
 seopress
 seopress-for-mainwp
 seoptimally-automatic-internal-linking
@@ -83963,6 +83984,7 @@ smsplug
 smsplus-for-woocommerce
 smsq-notifications-for-woocommerce
 smstunnel
+smstunnel-for-cf7
 smsvio-pro-woocommerce
 smt-toolkit
 smtp
@@ -85723,6 +85745,7 @@ spreadsheet-acf-import
 spreadsheet-block
 spreadsheet-of-posts
 spreadsheet-paste-block
+spreadsheet-sync-for-woocommerce
 spreadsheetcloudapi
 spreadshirt-rss-3d-cube-flash-gallery
 spreadshirt-widget
@@ -88839,6 +88862,7 @@ tantive-designed-headings
 tantive-gimmick-pack
 tantive-set-background
 tantive-text-effects
+tanvir-block
 tao-bao-ke-plugin-for-wordpress
 tao-form-ajax
 tao-quotes
@@ -92452,6 +92476,7 @@ trustistecommerce
 trustlens
 trustlocal-widgets
 trustmary
+trustmary-integration-for-woocommerce
 trustmate-io-integration-for-woocommerce
 trustmeter-for-google
 trustmetrics
@@ -92529,6 +92554,7 @@ tshirt-designer
 tshorti
 tsl-iframe-unfilter
 tsn-marketo-forms
+tso-image-master
 tsovweather
 tsp-authors-note
 tsp-disable-auto-save
@@ -93395,6 +93421,7 @@ twshot-for-wordpress
 twst-login-block
 twttr-widget
 twwc-protein
+twwim-ai
 twwittley-button
 twx-chat
 twylah-widget
@@ -94770,6 +94797,7 @@ used-car-lot
 used-media-identifier
 used-software
 usedeli
+useefy
 useful-404s
 useful-banner-manager
 useful-blocks
@@ -96121,6 +96149,7 @@ vidlinkr
 vidlive
 vidlog
 vidme
+vidolimo-seo-auditor
 vidoopcaptcha
 vidoopconnect
 vidplex
@@ -97079,6 +97108,7 @@ waavo
 wabaapi-alerts-for-woocommerce
 wabi-whatsapp
 wabuzz
+wac-post
 wacdmg-ai-content-assistant
 wad-recent-posts
 waddlebots
@@ -112240,6 +112270,7 @@ wunsch-koala-joey-der-wunschlisten-verwalter
 wuoz-connect
 wuphooey
 wupo-group-attributes
+wuppi-blocks
 wupsales-reward-points-for-woocommerce
 wurdey
 wurfl-capabilities
