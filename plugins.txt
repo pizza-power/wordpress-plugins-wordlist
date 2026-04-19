@@ -565,6 +565,7 @@ aapanel-wp-toolkit
 aarambha-demo-sites
 aarambha-kits-for-elementor
 aarons-no-ssl-flash-upload
+aas-ai-authors-studio
 aas-digg-digg-alternative
 aasigninwidget
 aasitemap
@@ -5775,6 +5776,7 @@ annytab-code-prettify
 annytab-photoswipe
 anobii-wordpress-widget
 anobiiwidget
+anofeed-feedback-on-click
 anomify
 anon-links
 anon-posting
@@ -10197,6 +10199,7 @@ benedic-chatbot
 benefits
 bengali-contact-form
 bengali-salat-times
+benharari-one-click-content-generator
 beni-demo
 benjamin-sterling-galleries
 benribot-for-woocommerce
@@ -11831,6 +11834,7 @@ blomming
 bloom
 bloom-for-publishers
 bloombees-ecommerce-shop
+bloomimages
 bloomly-integration
 bloomstack-gallery-spotlight-for-woocommerce
 blossom-opt-in-feature-box
@@ -13148,6 +13152,7 @@ brightcove-video-connect
 brightedge-autopilot
 brightedge-autopilot-page-publisher
 brightery-conversion-toolkit
+brightery-secure-2fa
 brightery-woo-order-api
 brightleaf-digital-php-compatibility-scanner
 brightslider
@@ -14907,6 +14912,7 @@ captain-slider
 captain-social
 captain-typekit
 captain-up
+captain-widgets-kit
 captainform
 captch-me
 captcha
@@ -15015,6 +15021,7 @@ cardanopress-ispo
 cardboard
 cardconnect-payment-module
 cardcrafter-data-grids
+cardea
 cardealer
 cardealerpress
 cardflow-for-woocommerce
@@ -15237,6 +15244,7 @@ cartresq
 carts-guru
 cartsaver-chat-recovery
 cartshark-security
+cartsplitter-partial-checkout-for-woocommerce
 cartstack-for-woocommerce
 carttrigger-bag
 carttrigger-quantity-discounts
@@ -15924,6 +15932,7 @@ cellarweb-multisite-site-notes-and-site-expire
 cellarweb-privacy-and-security-options
 cellarweb-server-side-analytics
 cellarweb-user-profile-access-control
+cellbot-widget
 cellulant-tingg-checkout
 cellulant-tingg-integration
 cellulant-tingg-payment-gateway
@@ -17201,6 +17210,7 @@ circuit-breaker
 circulair-geld
 circular-wealth-partners-postback
 circular-year-planner
+circulux-product-video
 circupress
 cirilica-u-latinicu
 cirlatsearch
@@ -20106,6 +20116,7 @@ contentview
 contentweaver-ai-lite
 contentwizard-quotes
 contentzavod
+contesimal-connector
 contest
 contest-code-checker
 contest-gallery
@@ -23374,6 +23385,7 @@ cycle-blocks
 cycle-online-payment-gateway
 cycle-responsive-slider
 cycles
+cyclesave
 cyclone-demo-importer
 cyclone-slider
 cyclone-slider-2
@@ -24231,6 +24243,7 @@ dealership-aggregator
 dealersolutionscomau-inventory-search
 dealfront
 dealia-request-a-quote
+dealicious-cart-reminder-timer-for-woocommerce
 dealicious-conditional-checkout-rules
 dealicious-smart-discounts-rewards-for-woocommerce
 dealique
@@ -24847,6 +24860,7 @@ design-buster
 design-experiments
 design-feedback
 design-import-export
+design-italia-semantic
 design-sidebar-using-page-builder
 design-tokens-manager-for-elementor
 design-upgrade-learndash
@@ -25046,6 +25060,7 @@ devranter
 devrix-dark-site
 devs-accounting
 devs-crm
+devsh-admin-compatibility
 devsniper
 devstage
 devsup
@@ -37337,6 +37352,7 @@ fw-vimeo-videowall
 fw-wpgoogleusermap
 fwd-easy-virtual-tour-builder
 fwd-plasmic-audio-player
+fwd-pop-audio-player
 fwd-slider
 fwd-social-share
 fwe-facebook-sidebar
@@ -41221,6 +41237,7 @@ gutenform
 gutenforms
 gutengrow-blocks
 gutenify
+gutenify-mega-menu
 gutenipsum
 gutenito-blocks-addon
 gutenium
@@ -41606,6 +41623,7 @@ haystack
 hayvn-pay-payment-gateway
 hayyabuild
 hazel-harlow
+haznox-cleaner-for-updraftplus
 hazrath-advanced-cta-block
 hb-audio-gallery
 hb-audio-gallery-lite
@@ -52305,6 +52323,7 @@ logicfire-wishlist-registry-for-woocommerce
 logichat
 logickit-for-elementor
 logico
+logicrays-ai-faq-builder
 logicrays-easy-coming-soon-page
 logicrays-easy-responsive-gallery-with-slider
 logicrays-instagram-feed
@@ -55820,6 +55839,7 @@ micro-flickr-album
 micro-paiement-acleec-pour-wordpress
 micro-posts
 micro-review
+micro-site-care-post-last-updated-date
 micro-warehouse-shipping-for-woocommerce
 microaudio
 microbite-business-schema
@@ -64417,6 +64437,7 @@ payday
 payday-loan-affiliate
 payday-loan-calculator
 payder-for-woocommerce
+paydibs-gateway
 paydirect-fpx
 paydirekt
 paydock-for-woocommerce
@@ -70688,6 +70709,7 @@ qe-ultimate-blocks
 qeado-tracking
 qeltra-gateway-for-securesoftpay
 qenta-checkout-seamless
+qentrox-bulk-variation-grid-for-woocommerce
 qero-loyalty-program-for-your-store
 qeryz-microsurvey-tool
 qf-getthumb
@@ -72730,6 +72752,7 @@ recapture-for-paid-memberships-pro
 recapture-for-restrict-content-pro
 recapture-for-woocommerce
 recast-paywall
+recast-table-builder-for-acf-scf
 recebimento-facil-multicaixa-for-woocommerce
 receiptful-for-edd
 receiptful-for-woocommerce
@@ -75035,6 +75058,7 @@ reviewnow
 reviewpack-reviews
 reviewpopup
 reviewpress
+reviewrequestpro-review-request
 reviewroll-free
 reviews-and-rating-docplanner
 reviews-and-rating-from-google-business
@@ -83325,6 +83349,7 @@ smallerik-file-browser
 smalloptions
 smallpay
 smallpict
+smallspaceglow-curtain-size-calculator
 smallspaceglow-rug-calculator
 smaly-widget
 smart-404
@@ -83819,6 +83844,7 @@ smilies-themer-update
 smiling-video
 smime
 smime-email-signing
+smitacs-pos-invoice
 smitacs-ppob-gateway
 smithers-login
 smjrifle-interactive-maps
@@ -84040,6 +84066,7 @@ snagfilms-player-embed
 snagrelay
 snagshout
 snake
+snake-image-optimizer
 snake-retro-game-shortcode-by-eskim
 snap
 snap-a-site
@@ -88115,6 +88142,7 @@ swipezoom-global-payment-and-shipping
 swipp
 swipy-by-errnio
 swish-image-optimization
+swish-migrate-and-backup
 swish-slider-lite
 swiss-5-cent-rounding
 swiss-army-knife
@@ -95909,6 +95937,7 @@ viavi-dummy-content-generator
 viavi-wp-testimonials
 viavi-wp-timeline
 vibby-oembed
+vibe-ai
 vibe-ai-chatbot
 vibe-buddypress-to-wp-mail-fix
 vibe-buddypress-woocommerce
@@ -98614,6 +98643,7 @@ webnlive-ai-assistant
 webnns-auto-anchor-links
 webnns-quick-connect
 webo-facto-connector
+webo-mcp
 webo-site-insight
 webo-site-speedup
 webolead
@@ -99767,6 +99797,7 @@ wincarts
 wincher-rank-tracker
 wind-speed-converter
 windcodex-geoblock
+windcodex-returndesk
 winddoc
 winddoc-no-profit
 winden-dplugins-tailwind-css-compiler
@@ -110773,6 +110804,7 @@ wpc-coupon-listing
 wpc-custom-related-products
 wpc-disable-wordpress-plugin-updates
 wpc-disable-wordpress-version-update
+wpc-email-preview-and-log
 wpc-estimated-delivery-date
 wpc-external-variations
 wpc-force-sells
@@ -112871,6 +112903,7 @@ yang-form
 yangra-image-resizer
 yank-widget
 yankees-you-tube-videos
+yap-yet-another-popups
 yapb-bulk-uploader
 yapb-feed-builder
 yapb-geotag
