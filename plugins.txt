@@ -3785,6 +3785,7 @@ agenda-running
 agenda-virtual
 agendapress
 agendu
+agenized-for-woocommerce
 agent-ai-bot-protect
 agent-image-news
 agent-listings
@@ -5711,6 +5712,7 @@ animated-typing-effect
 animated-weather-widget
 animategl
 animatepress-free
+animatikon-scroll-animations-motion-effects
 animation
 animation-addons-for-elementor
 animation-block
@@ -10920,6 +10922,7 @@ binlayercom-blog-banner
 binlayerpress
 binox
 binsaif-featured-video-replacer
+binsaif-instant-image-optimizer
 bio-links
 bio-widget
 biocryptology-login
@@ -11694,6 +11697,7 @@ blogcopyright
 blogcutter-activity-log-security-audit
 blogdog
 blogdog-connector
+blogdoseo-disclaimer-18
 blogeek-widget
 blogeinnahmen
 blogfa-templater
@@ -15239,6 +15243,7 @@ cartpipe-quickbooks-online-for-woocommerce
 cartpops
 cartpull
 cartrabbit
+cartrecovr
 cartrescuer
 cartresq
 carts-guru
@@ -17420,6 +17425,7 @@ classy-blocks
 classy-wp
 classy-wp-list-pages
 classyfrieds
+claudaborative-editing
 clayful-thunder
 clazy-load
 clc-products
@@ -23842,6 +23848,7 @@ dashboard-wordcount
 dashboard-xkcd
 dashboardplus
 dashboardzone
+dashcanopy-site-monitor
 dashclean
 dashclean-notice-manager
 dashcommerce
@@ -32650,6 +32657,7 @@ eyedrop-ai-alt-text
 eyelaser-savings-calculator-by-ostheimer
 eyemagine-hubspot-eyehub
 eyeone
+eyepin
 eyes-only-plus
 eyes-only-user-access-shortcode
 eyes-only-user-access-shortcodes
@@ -33228,6 +33236,7 @@ faithinfused-profit-analyzer-for-woocommerce
 faithlife-news-widget
 faixan-cl-r
 faizpay-commerce
+fajaedeseo-ai
 fajnekoszulki-na-twoim-blogu
 fake-about-me
 fake-about-me-fake
@@ -33449,6 +33458,7 @@ fare-calculator
 fareharbor
 farjana-reading-progress-bar
 farm-calculators
+farm-qr-code-generator
 farmtab-products-shortcode
 farsi-bible-verse-of-the-day
 farsi-font-for-elementor
@@ -34868,6 +34878,7 @@ fixel-sermons
 fixelhub-find-replace-pro
 fixes-for-mod-pagespeed
 fixeter
+fixgdpr-gdpr-compliance-consent-banner
 fixing-bnb
 fixit
 fixlayer-crosscart-sync
@@ -36147,6 +36158,7 @@ form-nest
 form-notify
 form-pendaftaran-plugin
 form-plant
+form-populate-with-ai
 form-press
 form-print-pay
 form-reach
@@ -38721,6 +38733,7 @@ getbats-o2o
 getblogx
 getcited
 getcontentfromurl
+getconzent-cmp-cookie-banner-consent-management
 getcost
 getdave-responsive-navigation-block
 getdeals
@@ -41352,6 +41365,7 @@ ha-banners
 ha-css-background-generator
 ha-font-color-customizer
 haayal-ai-slug-translator
+habibur-analytics
 habibur-classic-editor-switch
 habibur-comment-blocker
 habla-for-wordpress
@@ -43491,6 +43505,7 @@ hubtag-addons-elementor
 hubwoo-deal-per-order-lite
 hubwoo-integration
 huckabuy
+huddlespot-community
 hudzz-closing-disclosure-generator
 hueman-addons
 hueman-scrollable-sharrre-bar
@@ -44589,6 +44604,7 @@ image-source-overlay
 image-space-media
 image-space-media-ad-plugin
 image-specify
+image-split
 image-src
 image-store
 image-studio
@@ -44892,6 +44908,7 @@ import-export-acf
 import-export-for-bbpress
 import-export-for-woocommerce
 import-export-menu
+import-export-posts-and-pages
 import-export-with-custom-rest-api
 import-external-attachments
 import-external-files
@@ -45084,6 +45101,7 @@ inax-ir
 inazo-advanced-ads-management
 inazo-flamingo-automatically-delete-old-messages
 inbbe-chat-bot
+inblock-smooth-blocks
 inbound-brew
 inbound-marketing
 inbound-marketing-for-wordpress
@@ -46171,6 +46189,7 @@ intelli-builder
 intelli-content
 intelli-tv-video
 intelliads
+intelliagent-ai-lite
 intelliassist-marketing-suite
 intellichat-ai-chatbot
 intellidesc-for-woocommerce
@@ -59534,6 +59553,7 @@ neocraft-ai-product-images-generator-for-woocommerce
 neodis-privacy-policy-updater
 neoforms
 neoforum
+neogrow-loyalty
 neokred-cookie-integration
 neokuyorsuncom
 neokuyorsuncom-rss-reader
@@ -61522,6 +61542,7 @@ observer
 observo-monitoring
 obsocialbookmarker
 obstcha
+obsyde-aegis
 obvious-post-states
 obydullah-restaurant-pos-lite
 oc-age-verification
@@ -62940,6 +62961,7 @@ orderem-online-ordering-for-clover
 orderforms
 orderforms-stripe
 orderfort-fraud-shield
+ordergrace-wc-order-editor
 ordering
 ordering-system-ord-to
 ordering-widget-for-woocommerce
@@ -66998,6 +67020,7 @@ pointalize-faq-markup
 pointfast-website-tracking
 pointfinder-xml-csv-listings-import
 pointify
+pointly-booking
 pointnxt
 points
 points-and-rewards-for-woocommerce
@@ -68603,6 +68626,7 @@ pramadillo-activecampaign-email-preference-center
 pramadillo-priceline-partner-network
 prankzapper
 pranshtech-301-redirect-manager
+prantorpay
 pratik-yemek-tarifleri
 praveenmalv-image-text-carousel-for-elementor
 pravel-rent-sell-addon-for-woocommerce
@@ -76792,6 +76816,7 @@ save-vapor-products
 save-with-keyboard
 save-yupoo-imgs-to-local
 saved-articles
+savedpixel-remote-backup
 saveto-wishlist-lite-for-woocommerce
 saveyourinternet-protest-page
 savingscom-coupon-plugin-and-widget
@@ -78531,6 +78556,7 @@ seo-with-fannewscast
 seo-wizard
 seo-wordpress
 seo-wordspinner
+seo-worker-ai
 seo-wpbooster
 seo-writing-assistant-semrush-custom-fields
 seo-x
@@ -80891,6 +80917,7 @@ simple-easy-behance-portfolio-showcase
 simple-easy-contact-form
 simple-easy-feedback
 simple-easy-google-analytics
+simple-easy-social-login-oauth-login
 simple-easy-youtube-embed-video
 simple-ebook-viewer
 simple-editor-control
@@ -82718,6 +82745,7 @@ sitetree
 sitetweet-tweets-user-behaviors-on-your-site-on-twitter
 siteurl-preview-links
 sitevault-backup-restore-migration
+sitevitals-monitor
 sitewarranty-verified-seal-trust-seal
 sitewatcher
 sitewide-admin-headerfooter
@@ -83039,6 +83067,7 @@ slickpress
 slickquiz
 slickr-flickr
 slickr-gallery
+slickstock-lite-for-woocommerce
 slicpix-interactivity-studio
 slide
 slide-action-box
@@ -88069,6 +88098,7 @@ swift-demo-import
 swift-fse-blocks
 swift-landing-page
 swift-mailer
+swift-menu-duplicator
 swift-offload
 swift-performance-lite
 swift-pwa
@@ -90611,6 +90641,7 @@ this-is-staging-label-your-site
 this-or-that
 this-page-needs-files
 this-plugin-should-not-be-used
+this-seo
 thisdata
 thisismyjam-widget
 thissitewaskidnapped
@@ -92718,6 +92749,7 @@ turboboost
 turbocharged-testimonial-block
 turbocsv
 turbolinks
+turbometrics
 turbopress-embed
 turbosmtp
 turbosmtp-email-validator
@@ -95516,6 +95548,7 @@ vauchar
 vault-docs
 vaultpress
 vaultpress-status
+vaultspay-payment-gateway
 vavavoos-wp-expert
 vavilon-preloader
 vayapin
@@ -96128,6 +96161,7 @@ videodownload
 videoencrypt-watermark
 videoengage
 videoengager-live-video-chat
+videoflowengine-hls-streaming
 videofyme
 videogall
 videogate
@@ -111710,6 +111744,7 @@ wprez
 wprichfeeds
 wprightontime
 wpro
+wprobo-documerge-lite
 wprobot3
 wprobots
 wprogress-bar
@@ -113903,6 +113938,7 @@ zero-orders-alert-for-woocommerce
 zero-parallel-form
 zero-spam
 zero-to-free-text
+zerobloat-reading-time
 zerobounce
 zeroc
 zerochat
