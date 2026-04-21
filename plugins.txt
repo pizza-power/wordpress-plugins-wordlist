@@ -4285,6 +4285,7 @@ airy-wishlist
 ais-ip-blocker
 aisalebot
 aisee-seo
+aisignal-markdown-converter
 aisiteassistant
 aisk-ai-chat
 aisp-cc-email-manager
@@ -5108,6 +5109,7 @@ alt-text-updater
 altagonist
 altano-import-nfts-from-opensea-for-woocommerce
 altapay-for-woocommerce
+altaris-cleaner
 altcha-spam-protection
 altchecker
 altcoins-donation-widget
@@ -5930,6 +5932,7 @@ anura-io
 anveto-affiliate-anywhere-for-whmcs
 anveto-push-notifications
 anveto-url-shorterner
+anwar-before-after-slider-for-elementor
 anwp-post-grid-for-elementor
 anxiety
 anxious-client-shield
@@ -6447,6 +6450,7 @@ ar-subpages-widget
 ar-viewer
 ar-vr-3d-model-try-on
 ara-lightbox
+arabiacode-notifications-for-botsmsg
 arabic-comments-number
 arabic-date
 arabic-english-estimated-reading-time
@@ -6913,6 +6917,7 @@ asm-brush
 asm-manager
 asm-wc
 asmember
+asmith-health-monitor
 asmkc-schema
 asmoney-woocommerce
 asmw
@@ -9092,6 +9097,7 @@ backlinks-saver
 backlinks-taxonomy
 backlog-ticket-viewer
 backoffice-manager-for-firebase
+backora
 backorder-custom-description
 backpacktrack-for-android
 backroomapp
@@ -9888,6 +9894,7 @@ bcl-payment-link
 bcl-technologies-pdf2html
 bcloud-elementor-form-extender
 bcm-duplicate-menu
+bcm-subscription-manager-stripe
 bcms
 bcodecraft-blocks
 bcodecraft-post-lifecycle
@@ -10710,6 +10717,7 @@ bible-verse-link-builder-via-youversion
 bible-verse-of-the-day
 bible-verses
 bible-verses-references
+bibleask-verse-tooltip
 biblebridge
 biblefox-core
 biblefox-daily
@@ -10933,6 +10941,7 @@ biogram-linkpage
 biographical-info-paragraphed
 biol-beautify-links
 biol-me
+biolinks
 biometric-authentication
 biorhythm
 biorhythm-widget
@@ -13464,6 +13473,7 @@ bubok-to-wordpress-plugin
 bubs-button-board
 bubuku-disable-related-videos
 bubuku-media-library
+bubuku-navigation-block-toolkit
 bubuku-post-view-count
 bucket-browser-for-aws-s3
 bucket-list
@@ -15117,6 +15127,7 @@ cart-converter
 cart-deals-for-woocommerce
 cart-defender-persuasion-tools
 cart-discount-except-most-expensive-or-cheapest-product
+cart-donation-for-woocommerce
 cart-drawer-for-wc
 cart-dropdown-webaddict
 cart-expiration-per-product
@@ -15911,6 +15922,7 @@ ce-wp-menu-per-page
 ce21-suite
 cebbe-music-player
 cebbe-music-player-launcher
+cebi-seo-connector
 cecabank-woocommerce
 ceceppa-multilingua
 ceceppa-multilingua-support-for-customizr
@@ -18049,6 +18061,7 @@ cm-video-lesson-manager
 cm4all-wp-impex
 cmailer
 cmaintenancemode
+cmark-publisher
 cmb
 cmb-conditionals
 cmb-field-type-sorter
@@ -21184,6 +21197,7 @@ craftgate-payment-gateway
 crafthemes-demo-import
 craftie-welcome-email
 craftify-ai-content-publisher
+craftsmenit-course-builder-for-woocommerce
 craftwork-utilities-for-woocommerce
 crafty-clicks-postcode-lookup
 crafty-social-buttons
@@ -31181,6 +31195,7 @@ ensoras-ai-chat
 ensoview-pdf-viewer
 enstract-seo
 entabit-backup
+entangle-ai-chat-bot
 entego-n11
 entenda-antes-o-mundo-da-construcao
 enter-title-here-changer
@@ -36106,6 +36121,7 @@ forexnote-trading-articles
 forexrateapi
 forexsentral-forex-market
 forge
+forge-business-info
 forgebiz-closings
 forgepress-country-choice-rules-for-gravity-forms
 forget-about-shortcode-buttons
@@ -47824,6 +47840,7 @@ joy-checkout-more-beautiful-checkout-for-woocommerce
 joy-of-plants-library
 joy-of-text
 joyn-for-woocommerce
+joynal-dark-mode-switcher
 joyzai-sales-support-chatbot
 jp-admin-stylishblue
 jp-autostub
@@ -48661,6 +48678,7 @@ kboard-widget
 kbook-guestbook
 kbsp-spacer-ad-blocks
 kbucket
+kbyte-seo-workbench
 kc-admin-area-monitor
 kc-donate-box
 kc-last-active-time
@@ -48694,6 +48712,7 @@ kebo-code
 kebo-social
 kebo-testimonials
 kebo-twitter-feed
+keeal-for-woocommerce
 keedev-pricing-tables
 keedpay-checkout-for-woocommerce
 keek
@@ -55445,6 +55464,7 @@ merchant-buddy
 merchant-center-reviews-for-woocommerce
 merchant-e-solutions
 merchant-transaction-portal
+merchant-wiki-seo-audit
 merchant-xml-feed-generator
 merchantx
 merchi
@@ -58450,6 +58470,7 @@ mxp-pixnet2wp
 mxp-sepa-qr-code-addon-for-woocommerce
 mxpress
 mxr-easy-embed-wall
+mxwlsoft-editor-post-navigator
 mxyoutuber-responsive
 my-above-the-fold-css
 my-accordion
@@ -59367,6 +59388,7 @@ navayan-csv-export
 navayan-subscribe
 navayan-tinymce-pretty-code
 navbar
+navbridge
 navception
 nave-for-woocommerce
 naveed-post-types
@@ -60611,6 +60633,7 @@ nmr-strava-activities
 nmrkt-publisher
 nmt-sitewide-moderation
 nn4
+nnax-readmore
 nnax-withdrawal
 nnd-custom-gravatar
 nnd-facebook-profile-for-gravatar
@@ -75032,6 +75055,7 @@ review-fetcher
 review-find-and-import-for-woocommerce
 review-follow-up-for-woocommerce
 review-for-discount
+review-helper-for-woocommerce
 review-link
 review-manager
 review-map-by-revukangaroo
@@ -75629,6 +75653,7 @@ romanian-legacy-characters
 romanian-tv-online-widget
 rombus-shortcodes
 romeluv-google-maps-for-wordpress
+romence
 romeo-redirect-manager
 rometheme-for-elementor
 romethemeform
@@ -76336,6 +76361,7 @@ sa-swatches
 sa-woo-smart-chatbot
 sa11y
 saad-scroll-to-top
+saai-blocks
 saama-custom-dashboard
 saan-world-clock
 saas-generator
@@ -77428,6 +77454,7 @@ sdp-conditional-product-tabs-for-woocommerce
 sdp-custom-order-status-for-woocommerce
 sdp-my-account-tabs-for-woocommerce
 sdp-price-per-unit-for-woocommerce
+sdp-registration-fields-for-woocommerce
 sdpcookiespress
 sds-talkr
 sdstudio-portfolio-for-google-reviews
@@ -78853,6 +78880,7 @@ setupad
 seur
 seven-days
 seven-senders-shipping-for-woocommerce
+sevenoways-smart-rss-enhancer
 sevenoways-universal-chat-popup
 several-images-slider-widget
 sewn-in-notifications
@@ -79932,6 +79960,7 @@ shorturl-to-random-url
 shorturl-tracker
 shorturls
 shorty
+shorty-link-manager
 shorty-lite
 shots
 shout-stream
@@ -83414,6 +83443,7 @@ smart-archive-page-remove
 smart-archives
 smart-archives-reloaded
 smart-arrow-shortcodes
+smart-asset-optimizer-for-fast-loading
 smart-attachment-page-remove
 smart-author-bio-widget
 smart-author-box
@@ -90647,6 +90677,7 @@ thisismyjam-widget
 thissitewaskidnapped
 thnbo
 thnks
+thomas-the-bear
 thoof-submit-and-rank
 thoora-wordpress-widget
 thorcommerce
@@ -91945,6 +91976,7 @@ tpc-vcard
 tpg-get-posts
 tpg-redirect
 tplayer-html5-audio-player-with-playlist
+tporret-api-data-importer
 tpro2-payment-gateway-for-woocommerce
 tpro3-payment-gateway-for-woocommerce
 tqm-author
@@ -99913,6 +99945,7 @@ wiremonkey-internet-connection-tracker
 wireservice
 wirewheel-connector
 wirt-slider
+wirt-star-rating
 wirtualna-polska-pixel
 wis-logger
 wis-scrapper
@@ -112955,6 +112988,7 @@ yaps-yet-another-push-service
 yapsody-events-calendar
 yapsody-events-calender
 yaqeentech-training-operations-for-tutor-lms
+yaraa-ai-sales-agent
 yarakuzen
 yard-deepl
 yarns-microsub-server
@@ -113590,6 +113624,7 @@ ys-simple-google-analytics
 ysd-301redirect
 ysd-comment
 ysd-speedup
+ysdesk
 ysleadgen
 yslider
 yspcomplete
@@ -113990,6 +114025,7 @@ zhangsir1724-smart-shield
 zhanzhangb-baidu-submit
 zhanzhangb-share
 zhanzhangb-tcdn
+zhbackup
 zhiing-send-to-phone
 zhina-twitter-widget
 zhongwen-excerpt
