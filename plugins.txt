@@ -4166,6 +4166,7 @@ aibuddy-openai-chatgpt
 aibuy-player
 aica-smart-ai-commerce-assistant
 aichatbot
+aicom
 aicomments
 aicontify
 aicoso-click-to-chat
@@ -5788,6 +5789,7 @@ anonform-embedded-secure-form
 anonim-links
 anonimacao-ctdo
 anonindo-conflict-detector
+anonindo-heatmap-analytics
 anonymise-feed
 anonymize-links
 anonymizer
@@ -17594,6 +17596,7 @@ clever-seo-keywords
 clever-sms-text-message-plugin
 clever-tracking
 clever-tweet
+clevera-ai
 cleverconnected-user-role-by-subscription
 clevererror
 cleveritics-for-wordpress
@@ -19292,6 +19295,7 @@ computa-quiz-and-survey
 compute-links
 computer-repair-shop
 computerboeknl-widget
+computerkick-content-fresh
 computop-payments
 computy-view-percent
 compygo-social-feed
@@ -25051,6 +25055,7 @@ devitems-front-end-submission-lite
 devlab-maintenance-mode
 devlab-woocommerce-dynamic-pricing-wpml-fixer
 devlin-accessibility-monitor-for-woocommerce
+devlin-checkout-geo-flash
 devlin-geo-pulse
 devllo-events
 devllo-events-bookings
@@ -28547,6 +28552,7 @@ easy-language-switcher
 easy-latex
 easy-lazy-loader
 easy-lead-distribution-for-contact-form-7
+easy-lead-distribution-forms
 easy-lead-generation
 easy-leads-free
 easy-lightbox
@@ -29197,6 +29203,7 @@ easysave
 easysecure-bulk-product-importer-for-woocommerce
 easysecure-import-export-courses-learndash
 easysecure-import-export-quizzes
+easysecure-simple-gallery
 easysecure-subscriptions
 easysell
 easyseo
@@ -29375,6 +29382,7 @@ echo-show-ids
 echo1-consulting-inital-js-avatar
 echoai
 echodash
+echofilter-lead-quality-filter
 echosign
 echoz-jobs
 echoza
@@ -34956,6 +34964,7 @@ flanimator-reader-german-language
 flare
 flare-lightbox-gallery-for-elementor
 flareo
+flarestats
 flash-3d-banner
 flash-album-gallery
 flash-api
@@ -40799,6 +40808,7 @@ greensaver
 greenshift-animation-and-page-builder-blocks
 greenshift-smart-code-ai
 greensites
+greenskeeper
 greenstory-for-woocommerce
 greentext
 greenturtlelab-tool
@@ -48866,6 +48876,7 @@ keys-master
 keys-to-admin
 keyspider-search
 keystroke-password
+keytomic
 keyword-analyzer
 keyword-autolink
 keyword-based-bulk-category-assignment-for-woocommerce
@@ -49507,6 +49518,7 @@ kreditkarten-validierung
 kreebi-forms
 kreebi-forms-dashboard
 kreechat
+krepling-pay-for-woocommerce
 krevil-user-registration-login
 kridinifytech-seo-connector-for-trendsync
 kriptomat-cryptocurrency-price-widget
@@ -70269,6 +70281,7 @@ psn-gamecard-widget
 psn-pagespeed-ninja
 psp-xml
 pspopup
+psprint-visual-configurator
 pssubpages
 psukcssfe-custom-swiper-slider-for-elementor
 psupsellmaster
@@ -79753,6 +79766,7 @@ shortcode-cleaner-lite
 shortcode-cleanup
 shortcode-collection
 shortcode-content
+shortcode-control
 shortcode-creator
 shortcode-cydia
 shortcode-datastore
@@ -84179,6 +84193,7 @@ snapr-image-widget
 snapreplay
 snapscan-online-payments
 snapsection
+snapsettings-for-woocommerce
 snapshot
 snapshot-backup
 snapshotboard
@@ -85302,6 +85317,7 @@ space-boxes
 space-checker
 space-gallery
 space-invaders
+space-lightplay
 space-lover
 space-lover-lite
 space-manager
@@ -87020,6 +87036,7 @@ strictly-google-sitemap
 strictly-system-check
 strictly-tweetbot
 strims-wp-integrator
+strimy-video
 string-locator
 string-override
 string-replacer
@@ -93853,6 +93870,7 @@ ultimate-db-manager-lite
 ultimate-debugbar
 ultimate-downloadable-products-for-woocommerce
 ultimate-elements-elementor-page-builder
+ultimate-email-logger
 ultimate-email-validator
 ultimate-events
 ultimate-extension-for-acf
@@ -97281,6 +97299,7 @@ wally-monitor
 walmart-affiliate-link
 walnutmarketing
 walrus
+walrus-fromme-ups-asc
 walstar-ai-image-alt-generator
 walti
 walup
@@ -98780,6 +98799,7 @@ webreserv-embedded-booking-calendar
 webreserv-event-embedded-booking-calendar
 webreserv-event-sidebar-booking-calendar
 webreserveu-booking-widget
+webring-manager
 webriti-companion
 webriti-custom-login-page
 webriti-smtp-mail
@@ -113011,6 +113031,7 @@ yatcp
 yatko-coronavirus
 yatmo-map
 yatoon-booking-system
+yatoon-menu-online-ordering
 yatra
 yatri-tools
 yatterukun
@@ -113098,6 +113119,7 @@ yeekit-signature-field-for-wpforms
 yeem-contact-form
 yeemail
 yeemenu
+yeeshipping
 yeevisibility
 yektanet-affiliate
 yektanet-ecommerce
