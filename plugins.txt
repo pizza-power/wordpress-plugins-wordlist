@@ -11751,6 +11751,7 @@ blogcontentbuddy
 blogcopilot-io
 blogcopyright
 blogcutter-activity-log-security-audit
+blogcutter-ai-section-builder-for-elementor
 blogdog
 blogdog-connector
 blogdoseo-disclaimer-18
@@ -14389,6 +14390,7 @@ bvd-wcpdf-user-template
 bverse-convert
 bvgallerry
 bvgallery
+bvk-lightning-donate
 bvksimpleform
 bvn-satellite
 bvnode-dynamic-keyword-insertion-for-wp
@@ -17289,6 +17291,7 @@ cip-datc-for-give
 cip-dtac-for-give
 cip4-folder-download-widget
 cipher
+cipherpay-for-woocommerce
 circle-fund-donation-page-builder
 circle-image-slider-with-lightbox
 circle-progress-bar
@@ -24927,6 +24930,7 @@ depay-donations
 depay-payments
 depay-payments-for-woocommerce
 dependency-minification
+dependent-media-audio-playlist-for-beaver-builder
 dependent-media-live-rates-for-usps
 dephue-data-design-hide-update-notifications-developer-edition
 depict
@@ -25287,6 +25291,7 @@ dhrup-social-share
 dhrup-testimonial-slider
 dhshcu
 dhtmlxspreadsheet
+dhurandhar-ai-security
 di-blocks
 di-google-map-widget
 di-multipurpose-demo-importer
@@ -43610,6 +43615,7 @@ htmlpad
 htmlpress
 htmlsitemap
 htmltidy-for-wordpress
+htn-gateway-for-woocommerce
 htp-post-views
 htp-smtp
 hts-display-active-members
@@ -48549,6 +48555,7 @@ justawesome-woocommerce2app
 justbaat
 justclick-reg
 justclick-subscriber
+justdev-feedback-widget-for-snootl
 justfreethemes-assistant
 justgiving-profile
 justified-gallery
@@ -53109,6 +53116,7 @@ lsd-simple-cache
 lsd-simple-tweak
 lselter-webshowcase
 lsmooths-next-page-posts
+lst-video-story-bubble
 lsw-organize-drafts
 lsx-banners
 lsx-blocks
@@ -59454,6 +59462,7 @@ nachrichten
 nacionvirtual-alerts-for-telegram
 nacstech-delivery-and-pickup-date-time-scheduler
 nadaft-kpr-simulation
+nadifin-crypto-payment-gateway
 nafeza-coming-soon
 nafeza-prayer-time
 nafis-express-shipping
@@ -61061,6 +61070,7 @@ nocks-checkout-for-woocommerce
 nocks-nifty-for-woocommerce
 nocomment
 nocomments
+nocrumbs-cookie-notice
 nocturne-dark-mode
 node-wpapi-auth
 nodefactory-woocommerce-api-extension
@@ -62329,6 +62339,7 @@ ondoku
 one-active-logged-in-session
 one-at-a-time
 one-backend-language
+one-blog-a-day
 one-by-allegro
 one-call
 one-click-auto-tag
@@ -67485,6 +67496,7 @@ pop-up-maker-for-cf7
 pop-up-pop-up
 pop-up-social-share
 pop-your-notes
+popabot
 popad
 popaypos-reports
 popbot
@@ -84304,6 +84316,7 @@ smoochio-live-chat-messaging-for-your-website
 smooci-wordpress-on-mobiles
 smood-it-widget
 smooth-accordion
+smooth-api-accelerator
 smooth-back-to-top-button
 smooth-backup
 smooth-calendar
@@ -85609,6 +85622,7 @@ sourcedfrom
 sourceforge-project-web-email-configuration
 sourceknowledge-shopping-ads
 sourceplay-navermap
+sourirenumerique-video-block-for-podeduc
 sourtweet-twitter-footer
 south-african-covid-19-banner
 south-african-id-number-validator
@@ -95148,6 +95162,7 @@ upyun
 uqast-embed
 uqbitz-hub-imoveis
 uqpay-payment-gateway
+uqpay-payment-gateway-for-woocommerce
 uqrate
 uquery-widget
 ur-content-ai
@@ -96200,6 +96215,7 @@ vereconference
 vereinonline
 vereinsantrag-formular
 verelo-blog-monitoring
+verenigingsplanner
 verfacto
 verge-icons
 verge3d
@@ -98741,6 +98757,7 @@ weam4woo
 wearedev-charts
 weareplanet
 weareprivacy
+wearfits-shoes-tryon
 weart-category-posts-widget
 weasels-authorshare
 weasels-html-bios
