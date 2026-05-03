@@ -2364,6 +2364,7 @@ admin-featured-thumbnail
 admin-filter-by-custom-fields
 admin-filter-posts-by-taxonomy
 admin-filter-posts-by-year
+admin-filters-for-memberpress
 admin-filters-woocommerce
 admin-flush-w3tc-cache
 admin-font-editor
@@ -4088,6 +4089,7 @@ ai-proposal-builder
 ai-provider-for-alibaba-cloud
 ai-provider-for-anthropic
 ai-provider-for-azure-ai-foundry
+ai-provider-for-deepseek
 ai-provider-for-exo
 ai-provider-for-google
 ai-provider-for-hugging-face
@@ -5943,6 +5945,7 @@ antom-payments
 antoniolite-yandex-metrica-json-ld-schema
 antoot
 antracks
+antradus-ai-lite
 ants-insight
 antylaykaua
 anual-archive
@@ -6572,6 +6575,7 @@ arconix-shortcodes
 arconix-testimonials
 arcres-booking-engine
 arcw-popover-addon
+ardatech-bridgehead
 are-paypal
 are-we-open
 are-you-a-human
@@ -6852,6 +6856,7 @@ asalmu-beta
 asana-task-widget
 asap-507-panama-shipping
 asap-popups-studio
+asap-portable-toilet-calculator
 asap507-panama-shipping-api-integration
 asapp-delivery-for-woocommerce
 asc-bio
@@ -7164,6 +7169,7 @@ athenic-ai
 athletes-companion-workout-editor
 athlon-manage-calameo-publications
 athlos-assistente-digitale
+aths-guild-progress-for-wow
 atiendia-assistant-for-woocommerce
 atikin-seo
 atikur-security-and-risk-monitor
@@ -9244,6 +9250,7 @@ badges
 badges-woo
 badgeshift-for-recaptcha
 badgeup
+badhub-widget
 badjupiter-map
 badpass-wp
 badr-naver-syndication
@@ -11540,6 +11547,7 @@ blockify
 blockinator
 blockington
 blockish
+blockive-premium-addon-for-block
 blockly
 blockmate-crypto-payments
 blockmeister
@@ -19629,6 +19637,7 @@ console-blocking-for-defa-protector
 console-log-cloaking
 consolety
 consolto-videochat
+consortia-quick-find-replace
 constant-contact
 constant-contact-api
 constant-contact-digest
@@ -19647,6 +19656,7 @@ constell-widget
 constellation-client-portal
 construct
 construction-unit-converter
+constructive-news
 constructor-for-siteorigin
 consultar-cnpj
 consultation-hours
@@ -29467,6 +29477,7 @@ ecard-digital-visiting-card
 ecardmarjo
 ecards
 ecards-lite
+ecare-sms
 ecart-pay
 ecatranslator-lite
 ecava-diot-scada
@@ -38079,6 +38090,7 @@ gavii-gallery
 gawain-ai-video
 gaxx-keywords
 gayatri-freelancer-support-system
+gayatri-seo-toolkit
 gaz-content-spinning-public
 gaza-massacre-counter
 gazchaps-woocommerce-auto-category-product-thumbnails
@@ -41136,6 +41148,7 @@ growthnation
 growthseo-content-sync
 growyn-search
 grs-lnd-for-wp
+grt-billing-bridge
 grt-booking
 grt-consent-tool
 grt-ticket
@@ -46905,6 +46918,7 @@ irankish
 iranlegal-embed
 irate
 irc-hispano
+ircf-sms-gateway
 ird-slider
 irdinmo-para-inmovilla
 irecharge
@@ -49670,6 +49684,7 @@ kount-fraud-prevention
 koyomi
 kozec-seo
 kozmik-user-interface-shortcodes
+kp-agent-ready
 kp-disable-admin-bar-based-on-user-roles
 kp-fastest-cf7-recaptcha
 kp-fastest-chat
@@ -50472,7 +50487,6 @@ lc-disable-cdn
 lc-expo-push-notifications
 lc-header-footer-widget
 lc-hoverpeek
-lc-immeasurable-block-widgets-collection
 lc-scripts-optimizer
 lc-shortlink
 lc-tags
@@ -50747,6 +50761,7 @@ leira-cron-jobs
 leira-letter-avatar
 leira-roles
 leira-transients
+lekhoni-ai-product-content-writer
 lekirpay-for-woocommerce
 lekirpay-givewp
 lektrail-reading-tracker
@@ -52256,6 +52271,7 @@ llm-hubspot-blog-import
 llm-markdown
 llm-moderator-for-wpforo
 llm-override
+llmaffiliate-ai-traffic-monetizer
 llmagnet-llm-txt-generator
 llmify-ai-readable
 llmo-schema-markup
@@ -53383,6 +53399,7 @@ mac-os-admin-theme
 mac-os-wordpress-admin-theme
 mac-sonuclari
 macdock-mac-like-dock-plugin-for-wordpress-blogs
+mach-style
 macher-one
 machete
 machete-share-block
@@ -57112,6 +57129,7 @@ moceanapi-woocommerce-product-vendors-extension
 moceansms-order-sms-notification-for-woocommerce
 mocha
 mochi-arcade-auto-post
+mochyon-pulse
 mock-mail
 mockingfish-ab-testing-and-heatmap-tool
 mockpress
@@ -61210,6 +61228,7 @@ nordic-shipping
 nordic-standard-admin-chat-for-chatgpt
 nordot
 noreferrer
+norick-confirm-for-contact-form-7
 normalize-urls
 normalized-forms-with-captcha
 normalizer
@@ -62840,6 +62859,7 @@ openingtimesin
 openinviter-for-wordpress
 openitaly4wp
 openki
+openlab-module-builder
 openlinks-network
 openmat
 openmeetings-integration-plugin-widget
@@ -66537,6 +66557,7 @@ pixelflow
 pixelgrade-assistant
 pixeline-generative-engine-optimization-llm-txt
 pixelines-email-protector
+pixellize-image-optimizer
 pixellize-site-issue-scanner
 pixelmole-follow-up-emails
 pixelnest-blocks
@@ -69455,6 +69476,7 @@ primelogin-pro
 primenet-checkout
 primer-by-chloedigital
 primer-mydata
+primer-pay
 primer-plugin
 primer-pluging
 primiani-comments
@@ -70577,6 +70599,7 @@ psn-gamecard-widget
 psn-pagespeed-ninja
 psp-xml
 pspopup
+psprint-tributecore-b2b
 psprint-visual-configurator
 pssubpages
 psukcssfe-custom-swiper-slider-for-elementor
@@ -76716,6 +76739,7 @@ sabwo-allopass
 sac-database-inspector
 sac-digital-lite
 sac-digital-popup
+sacconi-ical-sync
 sacit-smart-categories
 sackson-web-data
 sacoronavirus-link
@@ -78390,6 +78414,7 @@ selflink
 selfnamed-cosmetics-on-demand
 seline-analytics
 seljedrive-document-library-for-google-drive
+seljedrive-document-library-for-onedrive
 seljevisitorsflags
 sell-ads
 sell-btc-by-hayyatapps
@@ -83320,6 +83345,7 @@ skydrive-directlink
 skydropx
 skydropx-cotizador-y-envios
 skydrv-hotlink
+skyegate
 skyepress
 skyflow-forms
 skygenai
@@ -85323,6 +85349,7 @@ softinn-check-availability-widget
 softivus-b2b-commerce
 softivus-team-widget-for-elementor
 softlinkster-semantic-search
+softminal-cart-reward-progress-bar
 softmixt-relations
 softmogul-booking-engine
 softshare-floating-button
@@ -91807,6 +91834,7 @@ tls-1-2-compatibility-test
 tly-url-shortener
 tm-chatbot-assistant
 tm-getcomplied-gdpr-wp
+tm-insights
 tm-islamic-helper
 tm-lunch-menu
 tm-photo-gallery
@@ -95756,6 +95784,7 @@ utility-kit
 utility-pack-for-wp-all-export
 utilitygenius-widget
 utitle-plugin
+utm-attribution-for-woocommerce
 utm-builder
 utm-builder-ads-fox
 utm-dot-codes
@@ -96146,6 +96175,7 @@ velocity-wishlist
 velstack-sms-for-woocommerce
 veltis
 velvet-blues-update-urls
+velvetgate
 velvpay-official
 vemetric
 vemula-ai-content-layer
@@ -112389,6 +112419,7 @@ wpspring-remove-gravity-forms-license-notice
 wpspring-remove-the-events-calendar-pro-license-warning
 wpspring-remove-woocommerce-connect-your-store-notice
 wpspring-remove-yoast-license-warning
+wpsprintplan-cross-site-sync-manager
 wpspx
 wpspx-basket
 wpspx-login
@@ -114127,6 +114158,7 @@ ytsubcount
 ytsubscribe
 yu-story
 yuban-jp
+yubhub-jobs
 yubikey
 yubikey-plugin
 yuewei
