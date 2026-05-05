@@ -2848,6 +2848,7 @@ adunlocker
 adv-geoip-redirect
 adv-graphicmail
 adv-stopwatch
+advajra
 advamentor
 advanc-link-directory
 advance
@@ -5959,6 +5960,7 @@ anveto-affiliate-anywhere-for-whmcs
 anveto-push-notifications
 anveto-url-shorterner
 anwar-before-after-slider-for-elementor
+anwar-info-service-box-for-elementor
 anwp-post-grid-for-elementor
 anxiety
 anxious-client-shield
@@ -7246,6 +7248,7 @@ atr-server-status
 atr-woo-global-price-options
 atript
 atropos
+ats-moknah-article-to-speech
 ats-privacy-policy
 ats2go-jobs
 att-youtube
@@ -9491,6 +9494,7 @@ baqend
 baqibot
 bar-pie-chart
 barack-obama-sidebar-widget
+barada-saudi-tax-documents
 barbachatbot
 barbas-default-wp-mail-sender
 barbwire-security
@@ -11981,6 +11985,7 @@ bluemelon-gallery
 blueocean-woo-order-map
 blueodin
 blueodin-companion
+bluepi-quotation-manager-for-woocommerce
 bluepin
 blueposts
 blueprint-checkout-for-woocommerce
@@ -19630,6 +19635,7 @@ conscent-paywall
 conscious-partners-affiliate-tracking-enhanced-attribution
 consensu-io
 consensus-embed
+consensuspress-ai-publisher
 consent
 consent-manager
 consent-manager-for-woocommerce
@@ -20875,6 +20881,7 @@ corresponda
 corretores-no-brasil
 corrispettivi-for-woocommerce
 cors-manager
+corsen-context
 corsi
 coru-lfmember
 corusel-de-imagenes-con-ajax
@@ -27671,6 +27678,7 @@ dw-twitter
 dw-twitter-base
 dw2wp
 dwbooster-cff-google-calendar-integration
+dweelio-embed
 dwl-preloader
 dwnldr
 dwolla-payment-button
@@ -30290,6 +30298,7 @@ elegantui-social-media-icons
 elegent-age-verification
 elegro-payment
 elekits
+elemacy
 elemailer-lite
 elematic-addons-for-elementor
 elemcopy-text-copy-button-for-elementor
@@ -36558,6 +36567,7 @@ fortpolio
 fortrader-informers
 fortress-login-pro
 fortressdb
+fortuna-cs
 fortunate
 fortune-cookie
 fortune-cookies
@@ -40935,6 +40945,7 @@ gravityforms-nl
 gravityforms-requirements-check
 gravityformsapprovals
 gravityformscli
+gravityops-forum
 gravityops-search
 gravitywp-count
 gravitywp-css-selector
@@ -41257,6 +41268,7 @@ gt-post-approval
 gt-press
 gt-push-menu-lite
 gt-remove-block-spacing
+gt-table-block
 gt-tabs
 gt3-elementor-photo-gallery
 gt3-photo-video-gallery
@@ -54199,6 +54211,7 @@ manifest-builder
 manifold-google-maps
 manipulation-for-amazon-sitestripe-image
 manly-no-emojis
+manly-webp-converter
 manoknygalt-ads
 mansplainer
 mantabrain-instagram-pack
@@ -60865,6 +60878,7 @@ ninjasoft
 ninjateam-telegram
 ninjatools
 ninjaweb-smart-media-optimizer
+ninjaweb-widgets-pdf-card
 ninjawpass
 nino-contact-form
 nino-social-connect
@@ -72054,6 +72068,7 @@ qwiz-online-quizzes-and-flashcards
 qwizoo-quiz-lead-generation
 qype
 qyrr-code
+qyvo-connector-for-woocommerce
 qzatron-word-count
 qzee-booking
 qzzr-shortcode
@@ -78583,6 +78598,7 @@ send-booking-invites-to-friends
 send-bulk-email
 send-cf7-data-to-active-campaign
 send-chat-tools
+send-contact-form-7-submissions-to-max-messenger-bot
 send-custom-fields-from-store-to-active-campaign
 send-denial-anti-spam
 send-e-mail
@@ -87036,6 +87052,7 @@ sticky-posts-dashboad-widget
 sticky-posts-dashboard-widget
 sticky-posts-expire
 sticky-posts-in-category
+sticky-posts-limit
 sticky-posts-switch
 sticky-posts-widget
 sticky-posts10
@@ -91124,6 +91141,7 @@ theverse
 they-said-so
 theyworkforyou
 thfo-mail-alert
+thia-aide-ai-content-creator
 thia-aide-comment-moderator
 thickbox
 thickbox-autopop-thickbox-popup-onload-autoloader
@@ -99330,6 +99348,7 @@ webpm-gallery
 webpm-slider
 webpoint-login
 webpos-point-of-sale-for-woocommerce
+webpossum-wcag-accessibility-scanner
 webpressor-webp-image-converter-optimizer
 webprime-ab-testing
 webprofis-login-registration-manager
