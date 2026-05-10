@@ -34673,6 +34673,7 @@ field-memory-gravity-forms-addon
 field-name-in-pods-editor
 field-to-fork
 field-trip
+fieldloops-repeater-field-for-gravity-forms
 fieldora-checkout-for-woo
 fieldpig
 fields
@@ -39300,6 +39301,7 @@ gi-media-library
 gi-weather
 gia-conversion-tracking-for-ecommerce-google-analytics-4
 gianism
+giant-checkout-offers-for-woocommerce
 giantbomb-widget
 giantcampaign
 giantwp-discount-rules
@@ -47952,6 +47954,7 @@ jj-swfobject
 jj-wp-easy-navigation
 jjj-post-typer
 jjyconnect
+jk-address-lookup-for-acf
 jk-development-console
 jk-google-analytics
 jk-html-to-pdf
@@ -50609,6 +50612,7 @@ lazy-social-buttons
 lazy-widget-loader
 lazy-wpforms-webhook-relay
 lazy-youtube
+lazyaichief-remote-media-storage-aliyun-oss
 lazycaptcha
 lazychat
 lazycolorbox
@@ -55505,6 +55509,7 @@ meeting-scheduler-by-vcita
 meeting-truth
 meetinghub
 meetingwp
+meetpure-events
 meetspaces
 meetup
 meetup-events-widget
@@ -58130,6 +58135,7 @@ mr-pack-for-elementor
 mr-utils
 mrcookies
 mri-accessibility
+mri-siteoptimizer
 mrkv-liqpay-extended
 mrkv-monobank-extended
 mrkv-nova-post
@@ -61701,6 +61707,7 @@ novo-chat-button
 novo-contact-form
 novo-map
 novocall-callback-widget
+novoforms-advanced-contact-form-builder
 now-easy-social-bookmarking
 now-featuring
 now-in-store-catalog-builder
@@ -70954,6 +70961,7 @@ publisher-collective-ads-txt
 publisher-common-id
 publisher-media-kit
 publisher-profile
+publisherkits-biobuilder
 publishers
 publishers-toolbox-pwa
 publishflow-blocks
@@ -72808,6 +72816,7 @@ rational-theme-server
 rationalcleanup
 rationalredirects
 rationalseo
+rats-price-inquiry-for-woocommerce
 rattach
 raudhah-pay-for-woocommerce
 ravatar
@@ -90135,6 +90144,7 @@ tech-news
 tech-news-widget
 tech-radar
 tech-vaseegrah
+techdex-hide-from-search
 techenabler-header-links-removal
 techfinder
 techholds-addons-for-elementor
@@ -99336,6 +99346,7 @@ webappick-review-collector-for-woocommerce
 webar
 webart-login-shield-recaptcha
 webartclub-ai-image-generator
+webase-booking-manager
 webask
 webatta-deposit-for-wc-products
 webba-booking-lite
@@ -99545,6 +99556,7 @@ webo-site-insight
 webo-site-speedup
 webolead
 webonmo-website-online-monitor-uptime
+webora-image-optimizer
 weborado-helper
 webot-chatbot
 webp-attachments
@@ -111758,6 +111770,7 @@ wpc-shared-stock
 wpc-shop-as-customer
 wpc-shoppable-images
 wpc-show-single-variations
+wpc-smart-inventory-manager
 wpc-smart-linked-products
 wpc-smart-messages
 wpc-smart-notification
@@ -111894,6 +111907,7 @@ wpcoordonnees
 wpcopyrights
 wpcore
 wpcore-shortener-service-wpcoin
+wpcoretools-disposable-email-guard
 wpcos
 wpcountdown
 wpcoupon-widget
@@ -113171,6 +113185,7 @@ wt-smart-coupons-for-woocommerce
 wt-smooth-scroll
 wt-social-login
 wt-variation-bulk-order
+wt-waitlist
 wt-web-push-notifications
 wt-widgets-elementor
 wt-woocommerce-related-products
