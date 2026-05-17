@@ -998,6 +998,7 @@ ace-edit
 ace-editor-for-wp
 ace-html-block
 ace-post-type-builder
+ace-products-filters
 ace-social-chat
 ace-testimonials-slider
 ace-twilio-for-woocommerce
@@ -3509,6 +3510,7 @@ aec-kiosque
 aede-warning
 aegilock-transaction-guardian-for-woocommerce
 aegis-shield
+aegisify-backup-migrate
 aeiou
 aelia-foundation-classes-for-woocommerce
 aeo-bob-lite
@@ -5862,6 +5864,7 @@ anonform-embedded-secure-form
 anonim-links
 anonimacao-ctdo
 anonindo-conflict-detector
+anonindo-downloads
 anonindo-heatmap-analytics
 anonindo-security-advisor
 anonindo-seo-friendly-llms-txt
@@ -6171,6 +6174,7 @@ apex-idx
 apex-notification-bar-lite
 apexchat
 apg-gdpr-texts-for-forms
+apg-withdrawal-for-woocommerce
 aph-merge-scripts
 aph-prism-highlighter
 aph-syntax-highlighter
@@ -6875,6 +6879,7 @@ aruba-hispeed-cache
 aruba-wp-migration-tool
 arukereso-for-woocommerce
 arukereso-megbizhato-bolt-integracio
+arunai-auto-news-poster
 arunstheme-editorial-notes
 arvancloud-cache-cleaner
 arvancloud-cdn
@@ -7147,6 +7152,7 @@ astrobene
 astrolabe
 astrology
 astrology-chart-wheel
+astrology-suite-freeastroapi
 astronomer-analytics
 astronomy-daily
 astronomy-picture-of-the-day
@@ -12192,6 +12198,7 @@ board-and-class
 board-document-manager-from-chuhpl
 board-election
 boardea-storyboard-integration
+boardgame-loans
 boardgamegeekinfos
 boardgameprices
 boast-display
@@ -15425,6 +15432,7 @@ cart66-to-mailchimp
 carta-online
 cartalog
 cartamplify-for-woocommerce
+cartapp-chat-order-for-woocommerce
 cartara
 cartasi-x-pay
 cartboss
@@ -17823,6 +17831,7 @@ clevdex
 clever-ads-for-bigcommerce
 clever-elements
 clever-fox
+clever-linked-terms
 clever-mega-menu
 clever-mega-menu-for-elementor
 clever-seo-keywords
@@ -18894,6 +18903,7 @@ colorful-post
 colorful-tag-cloud
 colorful-tag-widget
 colorful-text-widget
+colorfulnode-slide-popup
 colorfului
 coloriuris-v5
 colorize-admin
@@ -25212,6 +25222,7 @@ desire-page-widget
 desire-portfolio-filter
 desk-help-help-center-embed
 desk-net
+desk9-ai-content-disclosure
 deskaddons-for-beaver-builder-lite
 deskdingo
 deskero
@@ -34026,6 +34037,7 @@ fatturegratis-free-fattura-elettronica
 fatura-entegrator
 faucet-manager
 faultmem-api-client
+faurya
 faustwp
 faux-facebook-connect
 fauxml
@@ -35526,6 +35538,7 @@ flexible-coupons
 flexible-custom-post-type
 flexible-custom-post-type-order
 flexible-ean-for-woocommerce
+flexible-editor-panel-for-bricks-builder
 flexible-elementor-panel
 flexible-faq
 flexible-faqs
@@ -43298,6 +43311,7 @@ hobbynote-facebook-open-graph
 hobbynote-twitter-cards
 hobinom
 hobo-wp-googlebot-tracker
+hochzeit-geschenkeliste
 hockeydata-los
 hocus-pocus-buttons
 hodor-says
@@ -46908,6 +46922,7 @@ intrinsic-images-for-woo
 intro-animation
 intro-wrapper
 introduce-you
+intrulogiq-security-telemetry
 intufind
 intuitive-category-checklist
 intuitive-cf7-data
@@ -47623,6 +47638,7 @@ jalali-report-in-edd
 jalbum-badge
 jalbum-bridge
 jalbum-for-wordpress
+jalbum-gallery-block
 jalil-toolkit
 jalma-category-notifications-for-woocommerce
 jalma-inline-stock-editor
@@ -53618,6 +53634,7 @@ lumia-testimonials
 lumia-woocommerce-product-gallery
 lumiblog-debug-log-inspector
 lumiere-movies
+lumina-flux-content-generator
 luminate-ai-schema-data
 luminate-for-wp
 luminate-top-participants
@@ -56098,6 +56115,7 @@ meow-lightbox
 meowallet
 mepire
 mer-fiskalizacija
+meraku-ai-summarizer
 merc-theme-mod-import
 mercado
 mercadolibre-integration
@@ -57889,6 +57907,7 @@ moo-gravatar-box
 mooberry-book-manager
 mooberry-book-manager-image-fixer
 mooberry-show-latest-posts
+moochatai-ai-shopping-assistant
 mood-graph
 mood-personalizer
 moodbit-agent
@@ -58350,6 +58369,7 @@ mrkwp-instagram-feed-divi
 mrlegend-typedjs
 mrm-localtime-simple
 mrm-recipes
+mrniche-autoblogger-ai
 mroonga
 mrpopup
 mrqurban-emergency-rescue
@@ -60398,6 +60418,7 @@ netron-ict
 netrox-sc-live-chat
 netscore-connector
 netscore-loyalty-rewards
+netscore-rental-booking-system
 netscore-rental-products
 netsecop
 netsensai-shield
@@ -65818,6 +65839,7 @@ pdf24-posts-to-pdf
 pdf2post
 pdfdk-block-optimize
 pdfdraft
+pdfdraft-pdf-invoices-for-woocommerce
 pdfjs
 pdfjs-shortcode
 pdfjs-viewer-for-elementor
@@ -67062,6 +67084,7 @@ pixenate-photo-editing-for-wordpress
 pixer-necessary-addons-for-elementor
 pixfields
 pixgridder
+pixguard-scanner
 pixi-contact-form-for-elementor
 pixi-image-gallery
 pixie-dust
@@ -70165,6 +70188,7 @@ pro-author-review
 pro-blog-stats
 pro-categories-widget
 pro-cta-buttons
+pro-link-cookie-consent
 pro-links-maintainer-dev
 pro-locker
 pro-mail-smtp
@@ -72929,6 +72953,7 @@ rankbotai-seo-optimizer
 rankchecker-io-integration
 rankcookie
 rankd-content-quality-scorer
+rankd-free-shipping-progress-bar
 ranked-review-widget
 ranker-list-widget
 rankifly-ai-content-optimizer
@@ -77441,9 +77466,11 @@ saksh-text-to-voice-system
 saksh-wp-hotel-booking-lite
 saksh-wp-smtp
 sakshamapp-es-email-system-for-transaction-email
+sakthi-registration-guard
 sakura-network
 sakura-rs-wp-ssl
 sakurato-crypto-portfolio-tracker
+sakusaku-slide-any-block-elementor
 sakut-fio-bank-transactions
 salaat-time
 salah-time-calender
@@ -77773,6 +77800,7 @@ save-with-keyboard
 save-yupoo-imgs-to-local
 saved-articles
 savedpixel-remote-backup
+savelo-form-autosave
 saveto-wishlist-lite-for-woocommerce
 saveyourinternet-protest-page
 savingscom-coupon-plugin-and-widget
@@ -83781,6 +83809,7 @@ sitewide-tag-suggestion
 sitewit-engagement-analytics
 sitovivo-email-marketing-automation-software
 sityn-enhancer-for-bricks-builder
+sityn-image-optimizer
 siuc-click-fraud-detect
 siwecos
 six-sigma-calculator
@@ -84965,6 +84994,7 @@ smooth-back-to-top-button
 smooth-backup
 smooth-calendar
 smooth-cdn-connector
+smooth-custom-cursor
 smooth-directory
 smooth-dynamic-slider
 smooth-gallery-replacement
@@ -87475,6 +87505,7 @@ stein-mobile-switcher
 stella-404-fixer
 stella-announcement-bar
 stella-chatbot
+stella-cookies
 stella-flags
 stella-free
 stella-metabox-i18n
@@ -89976,6 +90007,7 @@ takumi-ai-product-filter-for-woocommerce
 talash
 talenthouse-portals
 talentlms
+talentora
 talijagat
 talika
 talk-to-composer
@@ -90374,6 +90406,7 @@ tdd-debug-bar-post-meta
 tdd-progress-bar
 tdd-recent-posts
 tde2-virtualsidebar
+tdf-image-alt-scanner
 tdh-export
 tdlc-birthdays
 tdlm-title-case
@@ -90627,6 +90660,7 @@ tell-all-gz
 tell-sammy
 tellephant
 tellmypolitician
+tells-text-analysis-widget
 tellyou-ai
 tellyourfriends-wp
 telo-affiliates-lite
@@ -91261,6 +91295,7 @@ the-guide-block
 the-hack-repair-guys-admin-login-notifier
 the-hackers-diet
 the-hits-counter
+the-hits-list
 the-holiday-calendar
 the-holy-scripturizer
 the-image
@@ -96605,6 +96640,7 @@ vader-8
 vadi-faq
 vadim-evards-archive-org-post-saver
 vadimages-dropdown-posts
+vaendora-payment-gateway
 vaeret
 vagalume-lyrics-toolbar
 vagaro-booking-widget
@@ -113485,6 +113521,7 @@ ws-dash
 ws-disable-all-updates
 ws-easy-mobile-contact-bar
 ws-facebook-likebox
+ws-fast-image-optimizer-bulk-compress
 ws-force-login-page
 ws-form
 ws-google-plus-widget
