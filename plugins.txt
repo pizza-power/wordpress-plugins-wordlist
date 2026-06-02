@@ -4176,6 +4176,7 @@ ai-provider-for-ollama
 ai-provider-for-open-webui
 ai-provider-for-openai
 ai-provider-for-openrouter
+ai-provider-for-osaurus
 ai-provider-for-vercel-ai-gateway
 ai-provider-for-zai
 ai-publisher
@@ -6593,6 +6594,7 @@ aqua-page-builder
 aqua-svg-sprite
 aqua-video-gallery
 aquagates-payments-for-woocommerce
+aqualog
 aquamark
 aquila-admin-color-scheme
 aquila-admin-theme
@@ -7072,6 +7074,7 @@ asideshop
 asimov
 asin-smart-links
 asirra
+asisty-connector
 ask-adam-doc-it
 ask-adam-lite
 ask-ai-contentlook
@@ -16748,6 +16751,7 @@ chainkitwp-crypto-wallet-connect
 chainwire-integration
 chaiport-payment
 chakra-test
+chakramani-multi-step-checkout
 chalet-montagne-com-tools
 chaletagent
 challenge
@@ -24173,6 +24177,7 @@ daily-upload-dir
 daily-verse
 daily-visitor-analytics
 daily-zman-widget
+dailybkup
 dailybooth-fetcher
 dailybrief
 dailybuddy
@@ -25694,6 +25699,7 @@ devrix-dark-site
 devs-accounting
 devs-crm
 devsh-admin-compatibility
+devsh-cartrecover-chat
 devsniper
 devstage
 devsup
@@ -32128,6 +32134,7 @@ eraclito-limit-product-quantity
 erana-icons-font-for-visual-composer
 erapex-shipping
 erated-woocommerce
+erdo-draft-links
 erdo-image-optimizer
 ere-colors
 ere-download-document
@@ -37170,6 +37177,7 @@ fortpolio
 fortrader-informers
 fortress-login-pro
 fortressdb
+fortressx-security
 fortuna-cs
 fortunate
 fortune-cookie
@@ -43540,6 +43548,7 @@ hikari-krumo
 hikari-title-comments
 hikari-tools
 hikari-unicornified-gravatars
+hikmah-dashboard-reminders
 hikmat-shah
 hilfe
 hilflo-most-shared
@@ -43605,6 +43614,7 @@ hiring-center
 hiring-hub
 hiringthing-job-listings
 hirstart-feed
+hisi-anim
 hismiley-kaskus
 histoire-des-arts
 histoire-des-arts-culturefr
@@ -43784,6 +43794,7 @@ holmes-css-checker
 holnix
 holocam
 holographic-extreme-cache
+holographic-login-shield
 holographic-training-lms
 holostaff-embed
 holostep
@@ -51479,6 +51490,7 @@ leadgeneration
 leadhacker
 leadin
 leadinfo
+leadjaw
 leadjini-lead-generation-and-lead-management-tool-for-your-blog
 leadkit-pro
 leadlovers-for-elementor
@@ -52299,6 +52311,7 @@ limousine-search
 limundo-widget
 limy-agent-analytics
 linchpin-next-page-link-previous-page-link
+lindymoq
 lindystream-product-feed-for-surecart
 line-auto-post
 line-break-in-tinymce-editor
@@ -53132,6 +53145,7 @@ livewords-translation
 livex-ai-copilot
 livezilla-live-chat
 livezilla-plugin
+livid-video-hosting
 living-comments
 liz-comment-counter-by-ozh
 liza-spotify-widget-for-elementor
@@ -53195,6 +53209,7 @@ llms-txt-generator
 llms-txt-generator-by-mcpner
 llms-txt-sitemap-manager
 llorix-one-companion
+lm-certificate-publisher
 lm-cf7-lead-manager-addon
 lm-easy-emoticons
 lm-easy-maps
@@ -56113,6 +56128,7 @@ media-player
 media-player-addons-for-elementor
 media-player-style-kit
 media-post-permalink
+media-purge
 media-recode-custom-modules
 media-related-posts
 media-rename
@@ -60249,6 +60265,7 @@ mydigipasscom-secure-login
 mydirectory
 mydirtyhobby-affiliate-sign-up
 mydownload
+mydybox-taiwan-for-woocommerce
 myeasybackup
 myeasydb
 myeasyhider
@@ -74249,6 +74266,7 @@ real-ip
 real-ip-4-comments
 real-ip-and-geo-for-cloudflare
 real-ip-detector
+real-ip-restore-for-cloudflare
 real-kit
 real-media-library-lite
 real-membership
@@ -86011,6 +86029,7 @@ smtp-uri
 smtp-yandex-mail-server
 smtp2go
 smtpcom
+smtpify
 smugbuy
 smuggery
 smuggle
@@ -89759,6 +89778,7 @@ superhertz-marketplace
 superior-faq
 superior-flickr
 superlight-cpt-manager
+superlight-taxonomies
 superlinks
 superlinks-ads
 superlist-block
@@ -97870,6 +97890,7 @@ vectr-embedded-graphics-editor
 vectraseo
 vedicastro
 vedicastroapi
+vedintel-astro-widgets
 vedrixa-forms-registration-builder
 veeeb-semantic-editor
 veeltebeleven-nl
@@ -116056,6 +116077,7 @@ yuto
 yuva-testing-utilities
 yuvver
 yuzo-related-post
+yuzool-commerce
 yuzool-widgets
 ywa-yahoo-web-analytics
 yweather
