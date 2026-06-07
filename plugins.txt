@@ -12484,6 +12484,7 @@ boltpay-direct-post-api-for-woocommerce
 boltron-e-commerce-merchant-reviews
 boltron-gshop-api
 bomb-sms-notifier
+bombyx-website-assistant
 bomond-event
 bon-toolkit
 bonafidetech-google-recaptcha
@@ -19098,6 +19099,7 @@ collapse-magic
 collapse-page-and-category-plugin
 collapse-sub-pages
 collapsed-archives
+collapsi-for-block-editor
 collapsible-archive-widget
 collapsible-categories-in-the-dashboard
 collapsible-comments
@@ -42609,6 +42611,7 @@ harmonizely-booking-product
 harmony-tester
 harrix-markdownfile
 harrys-gravatar-cache
+harshad-image-marquee
 haru-vidi
 harvest-reports
 harvify-image-optimizer-webp-avif
