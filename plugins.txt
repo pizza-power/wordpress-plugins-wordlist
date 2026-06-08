@@ -3989,6 +3989,7 @@ ai
 ai-404-redirect
 ai-addons-for-elementor
 ai-admin-assistant
+ai-age-text-explainer
 ai-agent
 ai-agent-chat-jotform
 ai-agent-for-seo-content-republish-ai
@@ -4285,6 +4286,7 @@ aidaxo-yfgallery
 aidentity-generative-engine-optimizer
 aiderss-wordpress-plugin
 aidsys-latest-news
+aifq-site-review
 aifusionlab-chatbot-for-chatweb
 aigrow-chatbot-integration
 aigude-tools
@@ -11451,6 +11453,7 @@ bizuno-api
 bizuno-icons
 bizuno-locale
 bizuno-migrate
+bizuno-restful-api-for-woocommerce
 bizuno-skins
 bizwizely
 bizworx-tools
@@ -15180,6 +15183,7 @@ camaloon-print-on-demand
 camayak
 camazee
 cambia-utente
+cambusa-eventi
 cameleon
 camelplug-audio-player
 camelplug-video-player
@@ -17879,6 +17883,7 @@ clasify-classified-listing
 claspo
 class-blogs
 class-booking
+class-bookings-with-stripe
 class-id-for-wp-links
 class-makr
 class-snoopyphp-gzip-support
@@ -30585,6 +30590,7 @@ editor-template-files
 editor-templates
 editor-theme-options
 editor-uses-relative-links
+editor-writing-goals
 editor-wysiwyg-background-color
 editorbg-за-чист-български-език
 editorheadlinejump
@@ -30613,6 +30619,7 @@ edocr-document-viewer
 eds-font-awesome
 eds-responsive-menu
 eds-social-share
+edsa-fieldtrack-connector
 edsa-ras-connector
 edshelf-widget
 edu
@@ -31096,6 +31103,7 @@ elsa-grabber
 elsewhere
 elsner-ajax-login
 elta-order-tracking
+elthian-ai-licensing-lite
 elu-hide-admin-menu
 elvanto-login-widget
 elvantools
@@ -34474,6 +34482,7 @@ fatextarea
 fatfreecart-wordpress-plugin
 fathom-analytics
 fathom-analytics-conversions
+fatima-attribute-pricing-builder
 fatora-payment-getway
 fatoripay-gateway-for-woocommerce
 fatpanda-expiring-amazon-s3-links
@@ -39092,6 +39101,7 @@ genbe-connector-for-article-agent
 genchat
 gender-decoder
 gendiscover
+gene-section-builder
 genealogical-tree
 genealogy
 geneanet-embedded-individual
@@ -39532,6 +39542,7 @@ german-slugs
 german-twitter-trends
 german-word-of-the-day
 germany-likes-opt-in-facebook
+gernx-profit-dashboard-for-woocommerce
 gerryworks-post-by-mail
 geschenke-news
 geshi-source-colorer
@@ -43917,6 +43928,7 @@ holnix
 holocam
 holographic-client-lockdown
 holographic-extreme-cache
+holographic-lightweight-seo
 holographic-login-shield
 holographic-training-lms
 holostaff-embed
@@ -44762,6 +44774,7 @@ hyperise-opengraph-tags
 hyperlink-group-block
 hyperlinkpopup
 hypermeasure
+hypermew-ai-translator
 hypernews
 hypernotes
 hyperpay-gateways
@@ -52318,6 +52331,7 @@ lightwindow-mo
 lightwindow-mo1984
 ligue-1-rankings-lite
 ligue1-table
+lihi-short-url
 liingo-words
 like
 like-and-dislike
@@ -52466,6 +52480,7 @@ limundo-widget
 limy-agent-analytics
 linchpin-next-page-link-previous-page-link
 lindymoq
+lindyship
 lindystream-product-feed-for-surecart
 line-auto-post
 line-break-in-tinymce-editor
@@ -54390,6 +54405,7 @@ lv-to-eur-price-converter
 lvl99-omny-embed
 lw-all-in-one
 lw-contact-form
+lw-foldora-checkout-order-toggle
 lw-mwp-tools
 lw-postcode-autofill
 lw-runningcart-progress-bar
@@ -57780,6 +57796,7 @@ mintpopularpostswp
 mintships
 minty
 minty-fresh
+minty-orange
 minutebox-wordpress-plugin
 minutemailer
 minutemailer-subscribe
@@ -57946,6 +57963,7 @@ mjp-security-plugin
 mjpostformats
 mjpostkiller
 mk-adblock
+mk-alt-manager
 mk-auto-youtube-player
 mk-custom-title
 mk-cyr-to-lat
@@ -57964,6 +57982,7 @@ mk-to-lat
 mk-wordpress-portfolio
 mk-wp-block
 mkesar-indian-interest-pro
+mkettingtonbooks-admin-menu-cleaner-for-clients
 mkjb-ai-seo-faq-schema
 mklasens-dynamic-widget
 mklasens-faq
@@ -61094,6 +61113,7 @@ neokuyorsuncom-rss-reader
 neolite-disable-reviews
 neomessages-whatsapp-subscribers
 neon-channel-product-customizer-free
+neon-faq-block
 neon-product-designer-for-woocommerce
 neon-text
 neoncrm-events-widget
@@ -67392,6 +67412,7 @@ photopress-masonry-gallery
 photopress-paypal-shopping-cart
 photopress-sideways-gallery
 photoprism
+photoproof
 photoq-photoblog-plugin
 photoracer
 photoroulette
@@ -72032,6 +72053,7 @@ proxy-ip-addresses-for-cloudfront-with-wordfence
 proxy-real-ip
 proxy-vpn-blocker
 proxygoblins-connector
+proxylang
 proxymis-shoutbox-com
 proxyposter
 proyectoin-zip-code-manager-for-elementor
@@ -73972,6 +73994,7 @@ rankology-seo-all-in-one-seo-analytics
 rankology-seo-and-analytics-tool
 rankpeak
 rankpill-integration
+rankpilot
 rankready-ai-llm-seo
 rankrepair-ai
 rankriskindex
@@ -75296,6 +75319,7 @@ reftagger
 reftagger-shortcode
 reftagger-toggle
 reftrack
+reftrackr
 refu-regulatory-functions
 refund-report-for-woocommerce
 refund-request
@@ -78077,6 +78101,7 @@ rtd-crm
 rtdashboards
 rtdeliveries
 rte-comments
+rteo-connect
 rtl-bakery
 rtl-feed-presian
 rtl-ltr-switcher
@@ -87468,6 +87493,7 @@ sourcedfrom
 sourceforge-project-web-email-configuration
 sourceknowledge-shopping-ads
 sourceplay-navermap
+sourcewatch-ai-seo-analytics
 sourirenumerique-video-block-for-podeduc
 sourtweet-twitter-footer
 south-african-covid-19-banner
@@ -87613,6 +87639,7 @@ spammer-blocker
 spammer-silent-treatment
 spammer-tarpit
 spammers-suck
+spamoff-bot-protection
 spampatrol
 spampot
 spamreferrerblock
@@ -89215,6 +89242,7 @@ storystack
 storytelling
 storytelling-tools
 storzen
+storzen-multi-currency-switcher-for-woocommerce
 storzen-quick-view-for-woocommerce
 stout-google-calendar
 stow-dropship-shopify-to-woocommerce
@@ -115427,6 +115455,7 @@ xpressium-image-limit
 xpresslane-integration-for-woocommerce
 xpresspay-payment-gateway
 xpresspay-pg
+xpressui-bridge
 xpro-addons-beaver-builder-elementor
 xpro-elementor-addons
 xpro-theme-builder
