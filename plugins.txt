@@ -777,6 +777,7 @@ abs-linkwithin
 abs-portfolio
 absolute-2fa-for-woocommerce
 absolute-addons
+absolute-contact
 absolute-happiness
 absolute-links
 absolute-privacy
@@ -6561,6 +6562,7 @@ apicheck-automatische-adres-aanvulling
 apicheck-contact-form
 apicoid-ghostwriter
 apidae-insertion-widget
+apifreaks
 apijoin-gumroad
 apiki-ajax-order-pages
 apiki-wp-adserver
@@ -7016,6 +7018,7 @@ arconix-flexslider
 arconix-portfolio
 arconix-shortcodes
 arconix-testimonials
+arcoria-formshield
 arcres-booking-engine
 arcsan-pos-de-mostrador
 arcw-popover-addon
@@ -8005,6 +8008,7 @@ aurpay-payments-for-woocommerce
 aus-news-grabber
 aus-stocks
 aus-telegram-channel
+ausculte
 ausmed-document-button
 austin-tech-events-calendar
 australcode-back-in-stock
@@ -10968,6 +10972,7 @@ beplus-fast-product-filter-live-search-for-woocommerce
 beplus-link-status-scanner
 beplus-login-sync
 beplus-performance-optimizer
+beplus-short-links
 beplus-support-snapshot
 beplus-visual-mega-nav
 bepro-email
@@ -12290,6 +12295,7 @@ blockalyzer-stop-adblock-extension
 blockart-blocks
 blockbee-cryptocurrency-payment-gateway
 blockbolt-payments
+blockbots
 blockbucket
 blockbuddy
 blockchyp-for-woocommerce
@@ -16067,6 +16073,7 @@ cardgate
 cardgrid-for-woocommerce
 cardinal-ultima-milla
 cardinalcommerce-oneconnect
+carding-bot-guard-for-woocommerce
 cardinity-free-payment-gateway-for-woocommerce
 cardinity-gateway-for-easy-digital-downloads
 cardlesspay-by-cardless-paytech
@@ -26354,6 +26361,7 @@ demandbase-content-module
 demandhub
 demenu
 demetra-chat
+demfilz-ai-agentic-engine-optimization-and-seo
 demfilz-auto-order-wholesale-dropship-for-woocommerce
 demfilz-backup
 demfilz-customer-statements-for-woocommerce
@@ -26541,6 +26549,7 @@ design-approval-system
 design-buster
 design-cart-contact-form-builder
 design-cart-map-manager
+design-cart-newsletter
 design-experiments
 design-feedback
 design-import-export
@@ -36859,6 +36868,7 @@ findex-for-indexnow
 findit-post-search-and-filter
 findkit
 findlegalforms
+findley-product-discovery-for-woocommerce
 findme
 findonsite-lite
 findshop
@@ -37271,6 +37281,7 @@ flattrcomments
 flattrss
 flattrwidget
 flatty-flat-admin-theme
+flatzer-chat
 flaunt-your-clients-free
 flauntopia
 flaver-cbd-calculator
@@ -37281,6 +37292,7 @@ flavor-block-visibility
 flavor-media-folders
 flavor-organizer
 flavor-restaurant-menu
+flavoursuite-ai
 flawless-themes-demo-importer
 flaxoslider
 flc-forma-lms-connector
@@ -38832,6 +38844,7 @@ fr-read-more
 fr-texturize
 fr-thumbnails-folder
 fractal-explorer
+fraew-broken-media-inspector
 fraew-category-posts-list
 fraew-custom-adverts
 fragment-cache
@@ -40263,6 +40276,7 @@ gastcoin-gateway
 gastro-site-table-reservation
 gastroreserve
 gatecha-captcha
+gatefeed
 gateflow-payment-logic
 gatekeeper
 gatekeeper-download-manager
@@ -42953,6 +42967,7 @@ gpt3-ai-content-writer
 gptranslate
 gptrends-agent-analytics
 gpw-i-nbp-kursy-i-indeksy
+gpx-route-map
 gpx-viewer
 gpx2chart
 gpx2graphics
@@ -46280,6 +46295,7 @@ humm-shopping-cart-for-woocommerce
 hummgroup
 hummingbird-performance
 hummingtree-wrapper
+hummint-badge
 huncme-widget
 hundred-days-to-offload
 hundstall-404
@@ -56398,6 +56414,7 @@ luminate-for-wp
 luminate-top-participants
 lumino-dark-mode
 lumino-payments-for-woocommerce
+luminos-autocomplete-orders-for-woocommerce
 luminous-lightbox
 lumiverse-security-watchdog-lite
 lumivoltech-solar-lead-funnel
@@ -65390,6 +65407,7 @@ nuke-wp-e-commerce
 nukepig-bulk-deletion
 nullcore-action-widget
 nullpoint-functions
+nullsquare
 numb-facebook-page
 number-chat
 number-counter
@@ -65673,6 +65691,7 @@ octeth-email-marketing
 octify
 octillion-widget-for-btc-e-pamm-account
 octoboard
+octobyte-cod-check
 octolio
 octolize-australia-post-shipping
 octolize-canada-post-shipping
@@ -66985,6 +67004,7 @@ orbitlens360
 orbitsapp
 orbitstem-media-rename
 orbitype
+orbo-cookie-consent-banner
 orbseller-cn22-pdf
 orbtr-ping
 orbtronics-payment-gateway
@@ -71568,6 +71588,7 @@ policy-admin
 policy-genius
 policydesk
 polipress
+poliris
 polish-lyric-generator
 polite-ifier
 politica-de-privacidad-10
@@ -74165,6 +74186,7 @@ product-lifecycle-tracker
 product-like-and-hide
 product-list-box
 product-list-field-for-contact-form-7
+product-list-sidebar-for-woocommerce
 product-lister-amazon
 product-lister-bonanza
 product-lister-ebay
@@ -75414,6 +75436,7 @@ qa-weeks-of-cover
 qadwilliam-jobs-apply
 qaiyo-access-manager
 qaiyo-admin-booster
+qaiyo-clean-gallery
 qaiyo-testimonials
 qaiyo-text-marquee-slider
 qaiyo-web-performance-surgeon
@@ -75429,6 +75452,7 @@ qapla-pudo
 qaproof
 qards-free
 qasper-booking
+qatested-usage
 qazana
 qb-maintenance-mode
 qbank-dam-connector
@@ -79081,6 +79105,7 @@ replacely
 replacing-half-space
 replai-ai-chatbot
 replai-cookie-consent
+replai-crm-forms
 replain
 replanta-connector-sap-woocommerce
 replay
@@ -95177,6 +95202,7 @@ teachers-notebook-free-k-12-educational-resources-widget
 teachers-notebook-shop-promotion-widget
 teachers-notebook-teaching-tips-widget
 teaching-accounting-scientific-system
+teaching-impact-score-lite
 teachingyou-extra-profile-fields
 teachpress
 tealium
@@ -96859,6 +96885,7 @@ tidy-archives
 tidy-author-box
 tidy-broken-link-scan
 tidy-contact-form
+tidy-content-planner
 tidy-dashboard-widgets
 tidy-draft-share
 tidy-head-tag
@@ -98525,6 +98552,7 @@ trinxypost
 trio-slider
 triogency-quote-manager-b2b-wholesale-price-requests-for-woocommerce
 triomize
+trionix-recruitment-manager
 triopsi-block-visibility
 trip-and-activity
 trip-reviews
@@ -106728,6 +106756,7 @@ wonder-wc-checkout-review
 wonderflow-reviews-and-videos
 wonderful-disposable-email-blocker
 wonderful-fatal-circuit-breaker
+wonderful-geoblocking-countries
 wonderful-payments-for-woocommerce
 wonderful-secure-cleanup
 wonderful-webhook-alerts
