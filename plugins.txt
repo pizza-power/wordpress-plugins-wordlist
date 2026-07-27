@@ -1320,6 +1320,7 @@ achievements
 achievements-bp
 achievements-tweaks-gd-star-rating
 achilles-shortcodes
+achlaai
 achprocessing
 acid-maintenance-mode-wp
 acidboxblues-visual-grid-for-bandcamp
@@ -1623,6 +1624,7 @@ adapti-link
 adaptive-audience-display
 adaptive-backgrounds
 adaptive-images
+adaptive-intent-path
 adaptive-learning-with-learndash
 adaptive-login-action
 adara-translate
@@ -5384,6 +5386,7 @@ alphabet-filter-plugins
 alphabetic-pagination
 alphabetical-list
 alphabetical-tags-list
+alphabridge-mcp
 alphacommerce-cart-recovery
 alphadevs-stripe-checkout-diagnostics
 alphafields-for-contact-form-7
@@ -6463,6 +6466,7 @@ ap-instagram-gallery
 ap-internal-linking-helper
 ap-link-audit
 ap-mega-menu
+ap-one-name-studies
 ap-pricing-tables-lite
 ap-schema
 ap-search-live
@@ -6950,6 +6954,7 @@ arbitrage-expert
 arbitrary-shortcodes
 arbitrary-sidebars
 arboleda-category-list-for-elementor
+arbutton
 arc-advance-review-copy
 arc-forge
 arc-monetize-cache-and-accelerate
@@ -7528,6 +7533,7 @@ assist24it
 assistant
 assistant-for-nextgen-gallery
 assistant7
+assistcamp
 assistify-for-woocommerce
 assistifydesk
 assistini
@@ -10131,6 +10137,7 @@ baokimvn-payment-gateway-for-woocommerce
 baqend
 baqflo-beforeafter
 baqflo-redaction
+baqflo-samepage
 baqflo-slidegallery
 baqibot
 bar-pie-chart
@@ -10574,6 +10581,7 @@ bbs-e-popup
 bbs-hebdate
 bbsigpress
 bbspoiler
+bbt-csv-import-for-framer
 bbt-pinterest-optin
 bbtemplate
 bbuinfo-blogblogs-user-info-plugin
@@ -13888,6 +13896,7 @@ brainys-custom-post-types
 brainytalk-chat
 brambles-ai
 bramework
+bran-don-easy-contact-form
 branchdesk
 brand-a-bean
 brand-ambassador
@@ -15066,6 +15075,7 @@ buooy-scroll-to-top
 buooy-sticky-header
 buoy
 buoy-conditions
+buoy-video-sync
 burd-delivery-shipping
 burdacrm
 burgee
@@ -18439,6 +18449,7 @@ citationrate-ai-visibility
 citations
 citations-tools
 citatly-daily-quote
+citcom-customer-insights
 cite
 cite-list
 cite-references
@@ -25986,6 +25997,7 @@ debug-log-parser
 debug-log-tool
 debug-log-viewer
 debug-logger
+debug-manager-pro
 debug-me
 debug-media
 debug-meta-data
@@ -28217,6 +28229,7 @@ dmsguestbook
 dmsi-ddls-digital-downloads-licensing-subscriptions
 dmvaldez-ai-context
 dmvaldez-clean-post-toolkit
+dmvaldez-semantic-engine
 dmx-page-restriction
 dn-cookie-notice
 dn-facebook-customer-chat
@@ -37754,6 +37767,7 @@ flot
 flot-for-wp
 flotiq-sync
 flovidy
+flow-analytics-for-woocommerce
 flow-by-ilys
 flow-fields
 flow-flow-social-streams
@@ -37992,6 +38006,7 @@ fny-database-backup
 fny-social-media-share-buttons
 foa-featured-image-show-caption
 fobi-chatbot
+fobo-data-maker-forms
 focsd-hide-author-names
 focus
 focus-keywords-pro
@@ -38185,6 +38200,7 @@ food-blog-categories
 food-business-gross-profit-calculator
 food-cost-calculator
 food-drink-menu-house
+food-info-nutrition-labels
 food-menu
 food-menu-addon-for-elementor
 food-menu-plugin
@@ -43673,6 +43689,7 @@ guardiankey
 guardify
 guardlo-security-malware-scan-trust-badge
 guardpic-image-credit-checker
+guardr
 guardrail-blocks
 guavapay-gateway
 guco-ai-blog-writer
@@ -44118,6 +44135,7 @@ hapnics-buffet-meals-schedule-calendar
 happenboard
 happenings
 happierleads
+happilee-abandoned-cart-for-woocommerce
 happilee-forms-connector
 happiness-quotes
 happiness-reports-for-help-scout
@@ -44815,6 +44833,7 @@ hexam
 hexam-persian
 hexasyncintegration
 hexawx-schema
+hexcoda-ab-audio-player-lite
 hexosearch-button
 hexreport-sales-analytics-for-woocommerce
 hextwo-category-sanity
@@ -52798,6 +52817,7 @@ kv-recaptcha
 kv-send-email-from-admin
 kv-tinymce-editor-fonts
 kv-user-profile
+kvachakhia-site-archive-restore
 kvcore-idx
 kvl-localization
 kvoucher
@@ -57739,6 +57759,7 @@ marketprint
 markets
 marketup-price-history
 markexcell-meta-tags-structured-data
+markhor-block-addons
 markight-integration
 markitup
 markitup-for-buddypress
@@ -58286,6 +58307,7 @@ mdp-local-business-seo
 mdp-local-business-seo-home-and-construction
 mdr-webmaster-tools
 mds-product-bulk-editor-for-woocommerce
+mds-quick-estimate
 mdsco-sms
 mdt-google-news
 mdt-reviews
@@ -62874,6 +62896,7 @@ myrest-reservation-widget
 myresume
 myreviewspage-online-reviews-badge
 myrobot
+mysampark-connect
 mysavings-media-affiliate-tool
 myschedulr
 myscoop-rank-display
@@ -63416,6 +63439,7 @@ nemus-slider
 nemynai-seo-autopilot
 nemynai-site-guide
 nen-wordpress
+neo-alt
 neo-bootstrap-carousel
 neo-gallery
 neo-rename
@@ -63957,6 +63981,7 @@ nexa-agent-ai-live-chat
 nexa-ai-product-content-smartsuite-for-woocommerce-lite
 nexa-blocks
 nexaguard-cmp
+nexal-seo
 nexaura-product-coupons
 nexchat-order
 nexconform-consent-manager
@@ -64388,6 +64413,7 @@ nightwish-news-rss-reader
 nih-cancer-dictionary
 nihaodropshipping
 niic-key-cabinet-manager
+nik-images-auto-convert
 nik4wp-nikim-for-wordpress
 nikan-conditional-payment-gateways-for-woocommerce
 nikan-woocomerce-base
@@ -70391,6 +70417,7 @@ pilcha-try-on
 pile-gallery
 pilibaba-payment-for-woocommerce
 pillar-press-content-blocks
+pillark
 pillarshield
 pilllz-avatars
 pilopress
@@ -80451,6 +80478,7 @@ rl-cache-performance-for-cpanel-with-nginx-caching
 rl-carriers-woocommerce-shipping-method
 rl2
 rlabs-search-performance-advisor
+rlink-membership-sync-xfilesharingpro-s2member
 rlm-elementor-widgets-pack
 rls2000
 rm-head-junk
@@ -82605,6 +82633,7 @@ scss-library
 scss-wp-editor
 scuba-logger
 scud-the-shortcode-disabler
+scudo-security
 scuolasemplice-contacts
 scwriter
 sd-blogs-overview
@@ -82887,6 +82916,7 @@ searchwiz
 searchwp-api
 searchwp-live-ajax-search
 searchwp-modal-search-form
+searchx-for-woocommerce
 searchy
 season-greetings
 season-particles
@@ -85692,6 +85722,7 @@ sidebar-per-user-role
 sidebar-photoblog
 sidebar-post
 sidebar-shortcodes
+sidebar-shuffle
 sidebar-social-media-follow-widget
 sidebar-stats-widget
 sidebar-sticky-posts
@@ -97992,6 +98023,7 @@ tout
 toutmark-ai-citation
 tovaromen-woocommerce-1c
 tovik
+towerhouse-schema-templates
 townsmith-local-pages-engine
 toxic-comments
 toxic-links-scanner
@@ -98541,6 +98573,7 @@ trim-widget-descriptions
 trimpress
 trimtailor-widget
 trinay-zencoder
+trinetra-autoblogger
 trinetra-seo
 trinity-audio
 trinity-backup
@@ -120617,6 +120650,7 @@ zdn-whitelist-outgoing-email
 zdstats
 ze-to-do-list
 zeaks-code-snippets
+zealot-bulk-product-import-for-woocommerce
 zeba-classic-to-blocks-converter
 zebby-vat-validation-for-woocommerce
 zebchat-live-chat
