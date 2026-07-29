@@ -3657,6 +3657,7 @@ aetos-rtl-input-direction-fixer
 aetos-saudi-checkout-phone
 aetos-saudi-checkout-regions
 aetos-seo
+aetos-store-hours-lock
 aetta-email-capture
 aeytimes-ideas-widget
 aeytimes-product-or-service-feedback
@@ -4259,6 +4260,7 @@ ai-home-value-estimator
 ai-hotel-chatbot-by-lobbychat
 ai-humanizer-ai-detector-uncertify-ai
 ai-image
+ai-image-alt-tag-generator
 ai-image-alt-text
 ai-image-alt-text-generator
 ai-image-alt-text-generator-for-wp
@@ -4318,6 +4320,7 @@ ai-provider-for-anthropic
 ai-provider-for-azure-ai-foundry
 ai-provider-for-cerebras
 ai-provider-for-chatgpt
+ai-provider-for-cloudflare
 ai-provider-for-deepseek
 ai-provider-for-exo
 ai-provider-for-github-models
@@ -5046,6 +5049,7 @@ alipay-donate
 alipay-for-woocommerce
 alipay-pay-buy-donate-and-cart-payment-shortcodezip
 aliprice
+aliquindoi-popup
 alister
 alive5
 alive5-chat
@@ -6418,6 +6422,7 @@ anythingslider-plugin
 anytimereply
 anytrack-affiliate-link-manager
 anytrack-for-woocommerce
+anytry-ai-virtual-try-on-for-woocommerce
 anyvar
 anyviz
 anywarex-clone-translate
@@ -7972,6 +7977,7 @@ audit-trail
 audit-your-ads-on-google-by-clever-ads
 audita11y
 auditae-ai-search-toolkit
+auditica-accessibility-scanner
 auditizer-ai-website-audit-optimization
 auditpilot-content-audit
 auditpulse-activity-log-site-monitor
@@ -13118,6 +13124,7 @@ booking-system-trafft
 booking-ultra-pro
 booking-weir
 booking-widget-for-mews
+booking-widget-for-softula
 booking-works
 booking-x
 booking-xpress
@@ -22136,6 +22143,7 @@ coral-remote-images
 coralcdn
 coralpay-gateway-for-woocommerce
 cordelima-stock-sync-for-makito
+cordex-forms
 cordial
 cordlo-connect
 cordon
@@ -25344,6 +25352,7 @@ darven-multiplos-precos-informativos
 darven-who-published
 darwin-backup
 darwin-cookie-consent
+darwin-form-handler-for-pardot
 darwin-side-kick
 daryo89-multi-scan-ai-assessment
 das-wetter-von-wettercom
@@ -26809,6 +26818,7 @@ devoluciones-packback
 devolv-widget
 devone-net-event-agenda
 devoraadopsai
+devorbit-login-shield
 devorion-related-post
 devotionalium
 devotionals
@@ -28048,6 +28058,7 @@ disqus-top-commenters-widget-by-tricks-panda
 disqus-widget
 disqusgoogle-404-issue-fix
 disruptive-talk
+distan
 distance-based-shipping-calculator
 distance-calculator-by-avtodispetcherru
 distance-rate-shipping-for-woocommerce
@@ -32913,6 +32924,7 @@ empire-avenue-badge-widget
 empire-avenue-tools
 empire-cricket-scores
 empire-movsched
+empirical-responsive-images
 emplibot
 emplois-informatique
 employee-catalog
@@ -33044,6 +33056,7 @@ enconvert-epub-to-pdf
 enconvert-heic-to-jpeg
 enconvert-heic-to-png
 enconvert-heic-to-svg
+enconvert-heic-to-webp
 enconvert-html-to-pdf
 enconvert-url-to-pdf
 encouragement-login-page
@@ -33260,6 +33273,7 @@ ensoras-ai-chat
 ensoview-pdf-viewer
 enstract-seo
 entabit-backup
+entabit-turnstile-for-divi
 entangle-ai-chat-bot
 entego-n11
 entenda-antes-o-mundo-da-construcao
@@ -34164,6 +34178,7 @@ evolution-no-version-number
 evolution-sidebar-box
 evolution-social-share
 evolution-twitter-timeline
+evolve-learndash-to-lifter
 evomedia
 evp-events
 evri-content-recommendation-widgets
@@ -36694,6 +36709,7 @@ file-proxy
 file-relative-path
 file-renaming-on-upload
 file-select-control-for-elementor
+file-spark
 file-splice
 file-time-monitor
 file-un-attach
@@ -40328,6 +40344,7 @@ gatefeed
 gateflow-payment-logic
 gatekeeper
 gatekeeper-download-manager
+gatekeepr
 gateland
 gatelink-client
 gatelink-manager
@@ -41831,6 +41848,7 @@ global-wallet-for-woocommerce
 global-weather-pro
 globaldev-content-review-manager
 globaldev-front-end-content-editor
+globaldev-internal-links
 globaldev-sticky-sidebar
 globaldev-store-monitor-for-woocommerce
 globaldirectory
@@ -45674,6 +45692,7 @@ hoo-companion
 hoo-contact-form
 hoo-document-importer
 hoo-hreflang-tags
+hoobert
 hoodame
 hook-flowchart
 hook-injector
@@ -47755,6 +47774,7 @@ impactpubs
 impaya-payments
 imperfect-quotes
 impermium-automod
+impexinfotechindia-seo-suite
 implied-cookie-consent
 import-anything
 import-articles-from-wechat
@@ -48334,6 +48354,7 @@ infomous
 infomoz-glossario
 infomoz-glossario-for-wordpress-28-and-mu
 infonix-multi-agent-chat
+infopeak-captcha
 infoplus-connect-for-woocommerce
 infopopup
 inform-about-content
@@ -54934,6 +54955,7 @@ lisa-popup
 lisa-templates
 lisette-cost-calculator
 lisl-last-image-slider
+lisra-ai
 list-a-category-of-links
 list-all-authors
 list-all-blogs
@@ -56157,6 +56179,7 @@ look-quick-url
 look-see-security-scanner
 look360
 lookbook-embed
+lookchange
 lookcheck-ai
 lookersolution-conversion-tracking
 lookery-amplifier-wordpress
@@ -61871,6 +61894,7 @@ multilist-subscribe-for-sendy
 multiloca-lite-multi-location-inventory
 multilocation-google-map
 multilpe-social-media
+multimage-image-uploads-for-wpforms
 multimanager-wp
 multimedia-box
 multimedia-comments
@@ -63848,6 +63872,7 @@ new-zealand-shipping-zones-for-woocommerce
 newcallcenter-webtocall
 newcarnet-news
 newcraft-marketplace-sync-for-bol-com
+newcraft-moneybird-sync-for-woocommerce
 newebpay-payment
 newer-not-better
 newer-tag-cloud
@@ -66752,6 +66777,7 @@ opencart-link
 opencart-product-display
 opencart-product-in-wp
 opencast
+opencode-ai-provider
 opencopy
 opencritic-metadata-sync
 opendata-generator
@@ -67787,6 +67813,7 @@ ozpital-wetransfer
 ozpost-multiquote
 ozy-ai-chatbot
 ozy-chat-assistant
+ozy-custom-fields
 p-accordion
 p-login
 p-squirrel
@@ -68275,6 +68302,7 @@ painless-analytics
 paint-color-insert-tool
 paint-kit
 painterro
+paintops
 paiya-mortgage-loan-calculator
 paj-calculator
 paj-divi-menu-options
@@ -70034,6 +70062,7 @@ phongmy-push-anything-to-social
 phonoblog
 photalika
 photection
+photerra-nearby
 photo-album-lightbox-photo-gallery
 photo-block
 photo-book-gallery
@@ -71344,6 +71373,7 @@ plugit-bulk-editor-for-woocommerce
 plugitter
 plugiva-clientguard
 plugiva-pulse
+plugkit-profit-dashboard
 pluglab
 plugmatter-gdpr-bot-integration
 plugmatter-optin-feature-box-lite
@@ -76990,6 +77020,7 @@ rankpilot
 rankready-ai-llm-seo
 rankrepair-ai
 rankriskindex
+rankrocket-connector
 ranks
 rankscanner
 rankscanner-buzz
@@ -83227,6 +83258,7 @@ see-more-themes
 seed-buddhist-year
 seed-fonts
 seed-social
+seedcast-sermon-library
 seeder
 seedsugar-phphamlsass-4-wp
 seedtag
@@ -85688,6 +85720,7 @@ shp-rssimage
 shping-reviews-widget
 shr-noticeboard
 shramee-chat
+shrikant-short-links
 shrikant-social-post-builder
 shrimad-bhagwad-gita-quotes
 shrimptest
@@ -88002,6 +88035,7 @@ sinking-dropdowns
 sinm-news-ticker
 sinm-nice-tab
 sinm-scroll-to-top
+sinnvoll-booking-flow
 sinon-bangumi-list
 sinoshare
 sinosplice-tooltips
@@ -95717,6 +95751,7 @@ teppeki-country-restrictions-woo
 tera-charts
 teraco-for-woocommerce
 teral-translate
+teraserver-clinic
 teratips
 terbit-coming-soon
 terillion-reviews
@@ -95864,6 +95899,7 @@ testnilay
 testrobo-safe-update
 tests-personnalites
 testtarget-mbox-shortcode
+tet-accessibility-for-woocommerce
 tet-japanese-seo-writer
 tethered-uptime-monitoring
 tetris-widget
@@ -98877,6 +98913,7 @@ ts-collections
 ts-comfort-database
 ts-demo-importer
 ts-hotspot-quiz
+ts-immo-sync
 ts-lock
 ts-login
 ts-product-showcase
@@ -100010,6 +100047,7 @@ udraw
 udssl-time-tracker
 udvd-contactpage-generator
 udwdelivery
+udx-easy-returns-refunds-for-woocommerce
 udy-wf-to-wp
 ue-tracker-utm-track-and-analyze-leads-for-elementor
 uellosend-sms-for-woocommerce
@@ -100640,6 +100678,7 @@ unit-converter
 unit-converter-pro
 unit-price-for-woocommerce
 unitary
+unite-flex-gallery
 unite-gallery-lite
 unite-mobile-optimizer-menu
 unitechpay-paiements-mobile-money
@@ -101966,6 +102005,7 @@ varnish-wp
 varsayilan-icerik
 varsby
 varycache
+varyo-bundles
 vasaio-qr-code
 vashikaran-specialist
 vast-demo-import
@@ -103048,6 +103088,7 @@ visible-gallery
 visible-stock-threshold-for-woocommerce
 visiblefirst
 visibli
+visiblix-block-rules
 visibly-ai
 visidea
 visideign-login
@@ -103140,6 +103181,7 @@ visma-pay-embedded-card-payment-gateway
 visma-pay-payment-gateway
 visody-3d-product-viewer
 vison-ai
+visora
 vistag
 vistawp
 vistoureai-try-on-for-woocommerce
@@ -105195,6 +105237,7 @@ webdevelope-accordion-faq
 webdevez-testimonials-slider-for-elementor
 webdevise-elementor-blog-page-templates-widget
 webdevise-team-elementor-widget
+webdevops-restaurant-menu-sync-for-toast
 webdex
 webdez-collapsible-menu
 webdide-card-to-card-verification
@@ -105399,6 +105442,7 @@ webpioneer
 webplanet-ai-content-gen
 webplanex-gst-invoice-india
 webplanex-invoices
+webplatform-social-login
 webplayer-yahoo
 webplus-footnotes
 webplus-gallery
@@ -120551,6 +120595,7 @@ yubhub-jobs
 yubikey
 yubikey-plugin
 yuewei
+yuey6309-draft-rewriter
 yufi-epub-and-mobi-upload
 yufi-mac-files-upload
 yuga-login-form
@@ -121253,6 +121298,7 @@ zopim-live-chat-addon
 zorad-kategorie
 zoranga-woocommerce-payment-gateway
 zoro-lite
+zoro-slider
 zorpia-thats-hot-box
 zorro
 zota-for-woocommerce
