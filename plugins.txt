@@ -634,10 +634,12 @@ aaweb-site-credits
 aaweb-wholesale-delayed-payments
 aawp-obfuscator
 aazeen-extension
+ab-age-gate
 ab-api-call-logger
 ab-audio-sync
 ab-background-slideshow
 ab-categories-search-widget
+ab-checkout-steps
 ab-courses-table-for-tutor-lms
 ab-google-map-travel
 ab-human-time
@@ -34334,6 +34336,7 @@ every-log
 every-page-shopify-cart
 everyday-hero-widget
 everyone-accessibility-suite
+everypage
 everypay-payment-gateway
 everypay-payment-gateway-for-woocommerce
 everyscape-viewer
@@ -44625,6 +44628,7 @@ hdlns-today-replacement-rss-widget
 hdtasks
 hdw-player-video-player-video-gallery
 hdw-tube
+hdwebmobile-abandoned-cart-recovery
 hdwebmobile-back-in-stock-waitlist
 hdwebmobile-live-shopping-with-agora
 hdwebmobile-media-folder-roles
@@ -51999,6 +52003,7 @@ kartenlegen-gpl
 kartly-sidecart-for-woocommerce
 karustory
 karzar
+kasago
 kash-payment-gateway-for-woocommerce
 kashflow-for-woocommerce
 kashiimalik-client-side-image-compressor
@@ -61184,6 +61189,7 @@ mokejimailtwebtopaycom-payment-gateway
 mokhai-agent-readiness-kit
 mokonji
 mokorana-orders-sku-search
+moksa-coupons-for-woocommerce
 moksa-for-woocommerce
 mokusiga-google-tag-manager
 mold-blocks
@@ -67147,6 +67153,7 @@ openacalendar
 openagenda
 openai-content-assistant-via-chatgpt-markupus
 openai-tools-for-wp-wc
+openaisle
 openam-authentication
 openapp-payment-gateway
 openasset
@@ -67283,6 +67290,7 @@ opr-place-reservations
 ops-robots-txt
 ops-runbook-lite
 opsassist-data-bridge-for-woocommerce
+opsgate
 opskill-ecommerce
 opst-ezythick
 opt-in-hound
@@ -67431,6 +67439,7 @@ optistate
 optix-calendar
 optkit-conversion-rate-optimization-kit
 optless
+optogrid-eyeglasses-for-woocommerce
 optsens
 optsocial
 opttab-ai-visibility-geo
@@ -68851,6 +68860,7 @@ parallel-load
 parallel-loading-system
 parallel-theme-extensions
 parallelize-downloads
+parallelpos-connector
 parallelpos-seo-meta-bridge
 parallels-themes-switcher
 param-iframe-generator
@@ -82409,6 +82419,7 @@ sandbox-payment-gateway
 sandboxpress-ai
 sandcage
 sandeshify-messaging-automation-for-woocommerce
+sandya-copy-protection
 sandyhutextensions
 sandywp-cloner
 sane-visual-editor
@@ -82912,6 +82923,7 @@ science-breeze-widget
 scifi-facets
 scifi-task-manager
 scim-user-provisioning
+scinorx-ai-commerce-snapshot
 scinorx-ai-readiness-check
 scinorx-business-profile-schema
 scinorx-click-tracker
@@ -85233,6 +85245,7 @@ shibboleth
 shibbolize
 shibhu-custom-messages-for-woocommerce
 shibhu-matrimony
+shibhu-sticky-bar
 shiborikomi-alpha-premium
 shibuya-cms
 shield-wp-admin
@@ -88967,6 +88980,7 @@ skillbars
 skillpulse-lms
 skills-widget
 skillstudy-certificate-system
+skilltechiq-payment-gateway
 skilltriks
 skilltriks-theme-pack
 skimlinks
@@ -89069,6 +89083,7 @@ skylang-auto-translator
 skylarkads
 skylight-chat-ai-web-widget
 skynet
+skynet-accessibility-widget
 skynet-malaysia
 skynet-shipping
 skynet-smart-favorites
@@ -89955,6 +89970,7 @@ smarter-navigation
 smarter-search-products-posts
 smartfilter
 smartfish-accessibility
+smartfish-product-filter
 smartfolio
 smartfootnotes
 smartformat
@@ -91175,6 +91191,7 @@ softinn-check-availability-widget
 softivus-b2b-commerce
 softivus-team-widget-for-elementor
 softlinkster-semantic-search
+softlinkster-update-shield
 softmarket
 softminal-b2b-wholesale-for-woocommerce
 softminal-cart-reward-progress-bar
@@ -93985,6 +94002,7 @@ sunder-notice-bar
 sunduqz-locker-delivery
 sunfolia-smart-cart-popup
 sunformbuilder
+sunlibcrypto-widgets
 sunlime-post-label-center-export-tool
 sunny
 sunny-image-video-text-post-slider
@@ -99584,6 +99602,7 @@ ttlb-ecosystem-cache
 ttlive
 ttm-ai-faq-schema-for-elementor
 ttm-before-after-image
+ttm-content-shield
 tto-bulk-media-editor
 tts-audio
 tts-engine-post-to-speech
@@ -100569,6 +100588,7 @@ ubind
 ubiquitous-blocks
 ubiquity-search
 ubk-cookie-consent
+ublac-admin-ui
 ublux-wsp
 ubuntu-ribbon
 ubuntu-sidebar
@@ -101406,6 +101426,7 @@ unstale
 unstitched-shortcode
 unstoppable-activity-tracker
 unstoppable-cod-order-forms-for-woocommerce
+unstoppable-media-folders
 unstoppable-newsletters
 unstoppable-order-pause-for-woocommerce
 unstoppable-points-loyalty
@@ -102750,6 +102771,7 @@ velalang
 velaro-chat
 vellapay-payment-gateway
 vello-booking-calendar
+vellumup-seo
 velnai-for-woocommerce
 velnix-form-monitor
 velo-connector
@@ -104178,6 +104200,7 @@ vova-post-grids
 vowels-contact-form-with-drag-and-drop
 vox-importer
 voxai-ai-audio-summary-for-posts
+voxbolt
 voxcart-for-woocommerce
 voxedin
 voxfill-ai-voice-descriptions-for-woocommerce
@@ -110746,6 +110769,7 @@ wotnot
 wovax-crm
 wovax-idx
 woven-payment-gateway-for-woocommerce
+woven-sanal-pos-for-woocommerce
 wovn-io
 wow-ai-product-recommendations
 wow-analytics
@@ -121423,6 +121447,7 @@ zdn-whitelist-outgoing-email
 zdstats
 ze-to-do-list
 zeaks-code-snippets
+zealot-bulk-image-assign-by-sku-for-woocommerce
 zealot-bulk-product-import-for-woocommerce
 zeba-classic-to-blocks-converter
 zebby-vat-validation-for-woocommerce
@@ -121941,6 +121966,7 @@ zotto-payments
 zottopay
 zotya-htaccess-protect
 zouti
+zoventic-invoices
 zovonto
 zozela
 zozo-chat
