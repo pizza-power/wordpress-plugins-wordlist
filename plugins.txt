@@ -10361,6 +10361,7 @@ batch-comment-spam-deletion
 batch-import
 batch-links
 batch-paging-images
+batch-rest-guard
 batch-translate-independently
 batch-update-medias-infos
 batch-validator
@@ -13508,6 +13509,7 @@ botkibble
 botless-core
 botmate
 botme-ai
+botmetria
 botmonitoring
 botmotion-widget
 botnet-attack-blocker
@@ -21041,6 +21043,7 @@ conotoxia-payment-gateway
 conpay-checkout
 conscent-paywall
 conscious-partners-affiliate-tracking-enhanced-attribution
+consensosmart
 consensu-io
 consensus-embed
 consensuspress-ai-publisher
@@ -25341,6 +25344,7 @@ daily-verse
 daily-visitor-analytics
 daily-zman-widget
 dailybkup
+dailyblogpost-auto-publisher
 dailybooth-fetcher
 dailybrief
 dailybuddy
@@ -28878,6 +28882,7 @@ doubledome-resource-link-library
 doubledome-seo-meta-updater
 doubledome-shopquick-preview
 doubledome-wordcount-details-dashboard
+doubledown-ai-chat
 doublejeu-integration
 doubles-rotation-tournament
 doublescale
@@ -29943,6 +29948,7 @@ e-goi-mail-list-builder-woo-commerce
 e-google-maps
 e-invoice-for-myinvois-lhdn
 e-invoicing-connector-for-scrada-lite
+e-invoicing-saudi-arabia-by-zatca-tools
 e-junkie
 e-junkie-locked-content
 e-khata
@@ -36728,6 +36734,7 @@ fermiac-siftscience-for-woocommerce
 fermopoint-for-woocommerce
 fernet-encryption
 ferret
+ferric-links
 fervent-readability-optimizer
 fervor-and-zeal
 fes-wordpress-newsletter
@@ -39266,6 +39273,7 @@ free-shipping-coupons-behavior-for-woocommerce
 free-shipping-domination-woocommerce
 free-shipping-excluder
 free-shipping-for-woocommerce
+free-shipping-goal-bar-for-woocommerce
 free-shipping-hide-other-methods-woo
 free-shipping-kit
 free-shipping-label
@@ -74022,6 +74030,7 @@ presspilot-email-template-customizer
 pressplay
 pressplay-lite
 pressprimer-assignment
+pressprimer-certificate
 pressprimer-quiz
 pressria-for-woocommerce
 pressroom
@@ -81248,6 +81257,7 @@ rolematrix-gw
 roles
 roles-menu
 rolevault
+rolevault-for-ninja-forms
 rolewise-php-cms-blocks
 rollback-update-failure
 rollbar
@@ -84648,6 +84658,7 @@ serpwars-mobile-cta
 serpx-ai-seo-assistant
 serpzilla
 sertifier-certificates-open-badges
+servantly-ask-qa-spam-protection
 servantly-sermon-importer
 serve-md
 serve_static
@@ -93008,6 +93019,7 @@ stm-gallery
 stm-woocommerce-gallery
 stn-save-to-nextcloud
 stobay-ai-store-assistant
+stobio
 stock-and-price-manager
 stock-availability-alert-for-woocommerce
 stock-car-listing-from-autocerfa
