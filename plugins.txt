@@ -739,6 +739,7 @@ ablanore-statistic
 ableplayer
 ablewidget-accessibility-toolbar
 ablocks
+ably-custom-icon-field-for-acf
 abmahn-crawler
 abmahn-shield
 abmex-checkout
@@ -7893,6 +7894,7 @@ ats-moknah-article-to-speech
 ats-privacy-policy
 ats2go-jobs
 atshift-fields-maintenance-for-custom-field-suite
+atshift-freeform-login
 atshift-user-profile-fields
 att-youtube
 attach-an-item-to-the-activity-stream
@@ -8088,6 +8090,7 @@ auditica-accessibility-scanner
 auditizer-ai-website-audit-optimization
 auditpilot-content-audit
 auditpulse-activity-log-site-monitor
+auditra
 auditwave-seo
 auditwright-wcag-accessibility-scanner
 audityseo-canonical-manager
@@ -9620,6 +9623,7 @@ axismundi-dialogs
 axismundi-geodata
 axismundi-korean-font-provider
 axismundi-map
+axismundi-media-library
 axismundi-navigation-icons
 axismundi-table-of-contents
 axismundi-theme-switcher
@@ -12521,6 +12525,7 @@ blockplayer
 blockprotocol
 blockq
 blockquote-cite
+blockrush-api-request-diagnostics
 blocks
 blocks-animation
 blocks-bakery
@@ -15212,6 +15217,7 @@ bulk-select-featured-image
 bulk-send-sms-gateway
 bulk-seo-image
 bulk-seo-importer
+bulk-seo-meta-editor-for-ai-agents
 bulk-seo-updater
 bulk-sms
 bulk-sms-bd-for-woocommerce
@@ -19064,6 +19070,7 @@ clearent-payments
 clearfy
 clearfy-safe
 clearly-bonafide-twitter
+clearopt-cookie-consent
 clearout-email-validator
 clearpay-gateway-for-woocommerce
 clearpost-simple-ai-auto-post
@@ -23047,6 +23054,7 @@ crawlgator-ai-lab
 crawlink
 crawlpage-10
 crawlrate-tracker
+craxa-woodash-connector
 crayon-syntax-highlighter
 crayon-syntax-highlighter-to-pastacode
 crazy-bone
@@ -26012,6 +26020,7 @@ daves-featured-content-gallery
 daves-outdated-browser-warning
 daves-whizmatronic-widgulating-calibrational-scribometer
 daves-wordpress-live-search
+david-schlegl-taxonomy-cleanup
 davids-admin-post-control
 davids-pithy-quotes
 davids-ultra-quicktags
@@ -26197,6 +26206,7 @@ ddeviantart
 ddevs-ads-widget
 ddevs-media-gallery
 ddirections
+ddlc-cart-rescue-for-woocommerce
 ddn-restrict-media-library-access
 ddns-4-admin
 ddosnull-shield
@@ -26434,6 +26444,7 @@ deepclick-reflow
 deepcore
 deepen-shortcode
 deeper-comments
+deepglot
 deepi
 deeplinkr
 deepmarkit-gamify
@@ -30248,6 +30259,7 @@ ease-framework
 easeaccess-lite
 easeaccess24-accessibility
 easeora-content-access
+easeora-easy-events
 easexport-gravity-forms-scheduled-entries-export
 easey-ai
 eashortcode
@@ -36941,6 +36953,7 @@ felipegon-dev-password-check
 felix-connector-for-woocommerce
 felix-landing-pages
 felix-responsive-pinterest-feed
+felix-serial-number-warranty-license
 felix-user-memberships-content-restriction
 fellow-lasku-for-woocommerce
 fellow-yrityslasku-for-woocommerce
@@ -46364,6 +46377,7 @@ hostedftp
 hostedsms-pl-sms-api-integration-for-woocommerce
 hostel
 hostel-booking
+hosteria-accessibility
 hosteria-modal-gallery
 hostfact-bestelformulier-integratie
 hostfully-booking
@@ -46546,6 +46560,7 @@ hq-widgets-for-elementor
 hq60-fidelity-card
 hqfam-telegram-post-notifier
 hqtheme-extra
+hqweb-seo-filter
 hr-management
 hr-management-lite
 hr-performance
@@ -47469,6 +47484,7 @@ idpay-gateway-gravity-forms
 idpay-mycred
 idpay-paid-memberships-pro
 idpay-payment-learnpress
+idpeek
 idraw
 idrive
 idrive-for-wordpress
@@ -52172,6 +52188,7 @@ k4eqm-qso-contact-map
 k5hh-ham-radio-calculators
 k7-church
 k9-estate
+kaaah-car-finder
 kaamelott-quotes
 kaan-bulk-redirects
 kaatai-consent-manager
@@ -59046,6 +59063,7 @@ mcod-temp-storage
 mcode-video-overlay
 mconvert-currency-converter
 mcorucu-seo-tools
+mcp-connect-ai-tools-for-claude-codex
 mcp-content-manager-lite
 mcp-for-woocommerce
 mcp-tracker
@@ -63827,6 +63845,7 @@ myvideoarticle
 myvideoge-plugin
 myvideoplug
 myvimeo
+myvitalassistant
 myvoice-widget
 mywallet-for-woocommerce
 myweather
@@ -64307,6 +64326,7 @@ nemynai-site-guide
 nen-wordpress
 neo-alt
 neo-bootstrap-carousel
+neo-duplicate
 neo-gallery
 neo-optimize
 neo-rename
@@ -64363,6 +64383,7 @@ nepali-payments-for-camptix
 nepali-post-date
 nepali-unicode-converter
 nepalify
+nephila-checkout-address-autocomplete-with-radar
 nephila-clavata
 nepirity-analytics
 nepsus-qr-code-generator
@@ -67937,6 +67958,7 @@ oraret-e-faljes-per-shqiperine
 oratio-comments-get-simple-pro-and-con-feedback-to-your-articles
 oratio-shop-assistant-woocommerce
 oravio-ai-widget
+orbance
 orbem-studio
 orbi-blocks
 orbis
@@ -68159,6 +68181,7 @@ orderunstick
 ordery-siparis-takip
 ordisoftware-wp-tools
 ordlo-catalog-audit
+ordolink
 orea-censor
 orectic-seo-check
 orejime
@@ -68823,6 +68846,7 @@ page-columnist
 page-comments
 page-comments-off-please
 page-content-blocker-wdwil
+page-content-guard
 page-context-menu
 page-cornr
 page-cornr-for-october
@@ -69973,6 +69997,7 @@ payment-status-doctor-for-woocommerce
 payment-surcharge-for-woocommerce
 payment-tag-filter-for-woocommerce
 payment-tool-for-integration-of-roskassa
+payment-truth-for-woocommerce
 payment-wompi-for-woocommerce
 payment-worldpay-us
 payment4-crypto-payment-gateway
@@ -70245,6 +70270,7 @@ pc-user-address-manager-for-woocommerce
 pcauthors
 pcaviz
 pcaw-post-category-archive-widget
+pcc-ai-live-chat
 pcf-birthday-countdown
 pcf-christmas-countdown
 pcf-contact-form
@@ -76268,6 +76294,7 @@ purge-cache-for-cloudflare
 purge-cache-on-action
 purge-cloud-flare
 purge-cloudflare-cache
+purge-digital-seo
 purge-o2switch-xtremcache
 purge-them-all-littlebizzy
 purge-varnish
@@ -76522,6 +76549,7 @@ qaichatbot-site-assistant
 qaiyo-access-manager
 qaiyo-admin-booster
 qaiyo-clean-gallery
+qaiyo-smart-appointment
 qaiyo-social-video-embed
 qaiyo-testimonials
 qaiyo-text-marquee-slider
@@ -77252,6 +77280,7 @@ quickcreator-agent
 quickcustomize
 quickcut-booking
 quickdashboard
+quickdesk
 quickdocs
 quickdonate
 quickemailverification
@@ -79137,6 +79166,7 @@ redes-sociais
 redes-sociais-wpdev-net
 redesign-ai-connector
 redesignee
+redeupay-checkout-extension-with-paynow-for-woocommerce
 redevoke-mcash-payment-gateway
 redevoke-sampath-paycorp-payment-gateway-paycorp
 redeyed-sentinel
@@ -81360,6 +81390,7 @@ rezgo-booking-importer-for-mailchimp
 rezgo-import-contacts-into-crm
 rezgo-online-booking
 rezgo-tour-posts
+rezicraft-professional-resume-cv-builder
 rezip-packaging-for-woocommerce
 rezque
 reztart-ai-newsletters-woocommerce
@@ -82817,6 +82848,7 @@ sales-booster
 sales-booster-for-woocommerce
 sales-booster-gd-for-woocommerce
 sales-bot-dla-wc
+sales-by-state-report-for-woocommerce
 sales-cheater
 sales-count-product-for-woocommerce
 sales-countdown-discount-timer
@@ -83328,6 +83360,7 @@ scare-hackers-off
 scategory-permalink
 scatter-gallery
 scattered-polaroids-image-gallery
+scayla-connect
 scb-framework
 scb-qrcode-payment-gateway
 scblocks
@@ -83615,6 +83648,7 @@ scribd-doc-embedder
 scribe
 scribendi-editing-and-proofreading
 scribent-content-generator-openai
+scriberry
 scribit-pro
 scriblio
 scriblio-authority
@@ -83786,6 +83820,7 @@ scrolltotop
 scrollup
 scrollup-master
 scrollytelling
+scrollzee
 scrounger-lite
 scrrraps
 scrubbill
@@ -85311,6 +85346,7 @@ servientrega-mercancia-premier
 servigate-stream
 servit-analytics
 servitor-statistics
+servix-market-data
 servvai-event-booking
 serwersmspl-wc
 serwersmspl-widget
@@ -85558,6 +85594,7 @@ share-and-get-it
 share-and-tell-pro-widget
 share-article
 share-bar-for-mobile
+share-bee
 share-block
 share-blog-post-with-social-network
 share-box
@@ -90782,6 +90819,7 @@ smooth-scroll-to-top-button
 smooth-scroll-up
 smooth-scroller
 smooth-scrolling
+smooth-scrolling-for-elementor
 smooth-scrolling-links-ssl
 smooth-scrolling-with-lenis
 smooth-slider
@@ -90877,6 +90915,7 @@ smskora
 smslink-pentru-woocommerce
 smslist
 smsnotice
+smsocial
 smspay-payment-gateway-for-woocommerce
 smspilot-ru-woocommerce
 smsplug
@@ -94352,6 +94391,7 @@ submit-to-any-for-wordpress
 submit-to-google-index-button
 submit-your-blog
 submitpress
+submittal-spec-sheet-builder
 submitterine
 subnet-info
 subnotice-subscription-compliance-checker-ukuseu
@@ -99236,6 +99276,7 @@ topic-manager-for-bbpress
 topic-sampler-learndash
 topical-tweets
 topicb-chat
+topiclift
 topirank-integration
 toplatinoradio-wp
 topline
@@ -101712,6 +101753,7 @@ ultimatedoc
 ultimatewoo
 ultimatewoo-edit-order-numbers
 ultimatour-connect
+ultimatour-contact-forms
 ultimatour-operator
 ultimeter
 ultimo-bots
@@ -111383,6 +111425,7 @@ wordtube-flowplayer
 wordtwit
 wordtwit-tweet-failed
 wordup-login
+wordvane
 wordwatch
 wordwatch-adwords-manager
 wordwave
@@ -122557,6 +122600,7 @@ ziplist-recipe-plugin
 zipmoney-payments-woocommerce
 zipmymedia
 zipp-chat
+zipped-docs
 zippem
 zippooflag
 zipposter
