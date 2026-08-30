@@ -5869,6 +5869,7 @@ amember-pro-v4-integration
 amember-sidebar-widget
 amen
 amend
+amendra-change-requests
 amenities-plugin
 america-magazine-the-word
 american-admin-schemes
@@ -15205,6 +15206,7 @@ buildsbyluke-seo-flight-recorder
 buildsbyluke-speed-autopsy
 buildsbyluke-upload-vault-for-gravity-forms
 buildwithguru
+buildwithguru-site-health
 buildyoursite
 built-in-server-helper
 builtbyamit-user-role-manager
@@ -15216,6 +15218,7 @@ bukubank-woocommerce
 bukvycja
 bukza
 bulbul-capture-exporter-for-contact-form-7
+bulcommerce
 bulgarian-horoscope
 bulgarian-search
 bulgarisation-for-woocommerce
@@ -15461,6 +15464,7 @@ burnfeed-email-subscription
 burning-dice
 burnmans-diaspora-button
 burnmans-subjot-button
+burnpedia-image-maker
 burnpedia-pin-scheduler-for-pinterest
 burnzone-commenting
 burping-the-corpse-sidebar-widget
@@ -16514,6 +16518,7 @@ careerbuilder-jobs
 careers-job
 careerschoolapp
 careersitespro
+caresort-accessibility-monitor
 caresort-broken-link-monitor
 caresort-site-health-monitor
 caret-country-access-limit
@@ -17852,6 +17857,7 @@ cforms2-old-tracking-db
 cforms2-really-simple-captcha
 cformstable
 cfp-dev-shortcodes
+cfpro-direct-order
 cfpro-invoice-sender
 cfs-auto-loop-label
 cfs-booster-yoast-analysis
@@ -19442,6 +19448,7 @@ clickmap
 clickmeeting
 clickmeter-link-shortener-and-analytics
 clickmis
+clickpatrol-click-fraud-protection
 clickperf
 clickpostify-social-posting
 clickquote
@@ -21971,6 +21978,7 @@ content-shortcode-generator
 content-shortcodes
 content-sidebar
 content-sidebars
+content-signal-seo-content-audit
 content-slide
 content-slider
 content-slider-block
@@ -27023,6 +27031,7 @@ demfilz-support-tickets
 demfilz-sync-for-quickbooks
 demfilz-sync-for-xero
 demfilz-wholesale-tier-pricing-for-woocommerce
+demfilz-wishlist-for-woocommerce
 demi-backup-migration
 demitr
 demo-awesome
@@ -34506,6 +34515,7 @@ estorepos
 estoyleyendo
 estrx-payu-purchase
 estry-currency-converter
+estudobiblico-biblia-digital
 esv-bible-shortcode-for-wordpress
 esv-crossref
 esv-plugin
@@ -39602,6 +39612,7 @@ formx
 formzap-mailchimp-cf7
 formzard
 formzu-wp
+forooshnegar
 forora
 forrasfigyelo
 forrst-wp
@@ -39692,6 +39703,7 @@ foundation-verify-install
 foundationpress
 foundationtables
 founderpostai-ai-suite-core
+foundry-helper
 foundthis-search-intelligence-core
 four-corners
 four-gateway-for-woocommerce
@@ -47496,6 +47508,7 @@ hype
 hype-animations
 hype-band-add-on
 hypemachine-widget
+hypemediasystem-sale-rules
 hyper-admin-speed-ultra
 hyper-admins
 hyper-cache
@@ -48725,6 +48738,7 @@ imdbi
 imdbscraper
 imdbtag
 ime-ready-taxonomy
+imedes-ai-bot-verify
 imedo-arztsuche
 imeem-search-plugin
 imega-teleport
@@ -51987,6 +52001,7 @@ jonradio-shortcodes-anywhere-or-everywhere
 jons-attribute-image-galleries-for-woocommerce
 jons-product-feed-for-google-merchant-center
 joocart
+joolweb-sessions-pro
 joomconnect-quick-ticket-lite-for-connectwise
 joomdev-wp-pros-cons
 joomill-elements-for-yootheme-pro
@@ -52294,6 +52309,7 @@ jrb-remote-site-api-for-openclaw
 jreferences
 jresizr
 jrm-killboard
+jrmora-local-chat-assistant
 jrss-widget
 jrt-ai-agent
 jrt-commentshield
@@ -55059,6 +55075,7 @@ leductoan-toucan-sms
 ledyer-checkout-for-woocommerce
 ledyer-order-management-for-woocommerce
 ledyer-payments-for-woocommerce
+leenkat-profile-avatar-manager
 leenkme
 lees-membership-hierarchy
 leet-affiliate-for-freemius
@@ -55780,6 +55797,7 @@ limit-quantity-for-woocommerce
 limit-read
 limit-revision-publishing
 limit-revisions
+limit-submissions-for-elementor-forms
 limit-taxonomy-term-count
 limit-user-posts
 limit-widgets
@@ -60558,6 +60576,7 @@ mesa-mesa-reservation-widget
 mesafeli-satis-sozlesmesi
 mesajkolik
 mescio-for-agents
+meser10-connect
 mesh
 mesh-plug
 mesh-smtp
@@ -65534,6 +65553,7 @@ nexal-seo
 nexaura-product-coupons
 nexchat-order
 nexconform-consent-manager
+nexdirectory
 nexenis-integracio
 nexgrid-catalog-gallery
 nexhbp-himalayan-bank-payment-gateway
@@ -70500,6 +70520,7 @@ paychef-payments-for-woocommerce
 paychoice
 paycoinly
 paycoinpro-for-woocommerce
+paycools-payments
 paycorp-commercial-bank-ipg
 paycorp-sampath-bank-ipg
 paycove
@@ -75160,6 +75181,7 @@ preloading
 preloadx-custom-preloader
 prelude-version
 prembly-identity-checkout
+premely-analytics
 premier-league-rankings-lite
 premier-league-team-stats-lite
 premierpay
@@ -78488,6 +78510,7 @@ radyohacer-player
 raechal-seo-connector
 raeen-repeater-field-for-acf
 raek-real-time-identification
+raevsky-ai-image-disclosure
 rafa-azure-simple-upload
 rafa-tinymce-iframe
 rafaelmarreca-push-dispatch
@@ -82737,6 +82760,7 @@ root-wp-cookie
 rootabl
 rootables
 rootblox
+rooted-dev-studio-security-toolkit
 rooted-forms
 rootitr
 rootlabs-mx-sync-for-promoopcion
@@ -83138,6 +83162,7 @@ rswpthemes-update-cart-on-checkout-for-woocommerce
 rt-advanced-order-reports
 rt-auction-product-for-woocommerce
 rt-carousel
+rt-chat-analytics
 rt-connect-webhooks
 rt-custom-css-page-and-post
 rt-date-picker
@@ -83832,6 +83857,7 @@ samrat-emily-mail-tracker
 samrat-profit-calculator-for-woocommerce
 samrat-website-cache
 sams-integration
+samsam80-translation-assistant
 samsarin-php-widget
 samsarin-php-widget2
 samsswap-image-swap-for-woocommerce
@@ -93100,6 +93126,7 @@ source-view
 sourceafrica
 sourcecode-tag-adder
 sourcecodees-floating-contact-widget
+sourcecue-button-for-google-preferred-sources
 sourcedfrom
 sourceforge-project-web-email-configuration
 sourceknowledge-shopping-ads
@@ -94458,6 +94485,7 @@ steve-jobs-memorial
 steveb27-video-uploader
 steves-attributes
 steves-gallery-helper
+stewie-ai-chatbot
 stfcopyright
 sti-rss-feed-reader
 stibee-email-subscription-form
@@ -94862,6 +94890,7 @@ storeagent-ai-for-woocommerce
 storearmory-waitlist-for-woocommerce
 storebird-ai-chat-for-woocommerce
 storeblock
+storebolt-advanced-search-for-woocommerce
 storebooster
 storeclip
 storecontrl-wp-connection
@@ -95159,6 +95188,7 @@ studentsays-make-comment-or-feedback
 studio-immens-css-classes
 studio-jkn-dashboard
 studio-matrix-session-booking
+studio-modules-for-divi
 studio-noir-page-styles
 studio-toolbox-schedules
 studio-twelve-google-analytics-conversion-goals
@@ -99813,6 +99843,7 @@ titlize
 titlizer
 tito
 titul
+titula
 tiutiu-facebook-friends-widget
 tivents-products-feed
 tiviclick-live-video-chat
@@ -108938,6 +108969,7 @@ widget4call
 widgetable
 widgetbird
 widgetbucks-sidebar-plugin
+widgetchat-live-chat-for-your-site
 widgetic
 widgetify-divi-layouts
 widgetiq-for-elementor
@@ -122258,6 +122290,7 @@ xtreme-slider
 xtreme-zoom-menu
 xtremelocator
 xtrim-url-shorter
+xtx-integration-for-netatmo
 xumbrella-page-maintenance-controller
 xumm-payments-for-woocommerce
 xunhu-alipay-payment-for-easy-digital-downloads
@@ -122425,6 +122458,7 @@ yangra-image-resizer
 yangtics
 yank-widget
 yankees-you-tube-videos
+yaomu-seo
 yaotw-stylo
 yaoyue-image-upload-for-lskypro
 yap-yet-another-popups
