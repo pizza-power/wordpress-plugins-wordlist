@@ -16346,6 +16346,7 @@ canada-post-tracking-shortcode
 canada-post-woocommerce-shipping
 canada-wechat-payment
 canadahelps-embedded-event
+canadia-gateway-for-woocommerce
 canadian-gst-calculator
 canadian-nutrition-facts-label
 canadian-real-estate-agent-property-sync
@@ -16603,6 +16604,7 @@ cardoza-wordpress-poll
 cards-layout
 cards-poker
 cardstream-payment-gateway
+cardz3n-gateway
 cardznet
 cardzware-greeting-cards
 career-builder-jobsearch
@@ -19597,6 +19599,7 @@ clicksports-maps
 clickst
 clickstreamtv
 clicksyncr-for-beehiiv
+clicksyncr-for-benchmark-email
 clicksyncr-for-brevo
 clicksyncr-for-campaign-monitor
 clicksyncr-for-elastic-email
@@ -20972,6 +20975,7 @@ commentarysandbox
 commentator
 commentator-from-twitter
 commentators-feed
+commentaura
 commentback
 commentbacks
 commentbox-io
@@ -25988,6 +25992,7 @@ damarfm
 damarfm-player
 damaris
 damasoft-antispam
+damasoft-email-security
 damedia-cpt-show-custom-fields
 damedia-giglist
 damma
@@ -29747,6 +29752,7 @@ dpt-dbadmin
 dpt-dnsmanager
 dpt-oauth-client
 dpt-security
+dptag
 dpurlshortner
 dpwpsimplecache
 dq-bandcamp-library
@@ -29761,6 +29767,7 @@ dr-random-image-rotate
 dr-widgets-blocks
 dracula-dark-mode
 drae
+draeger-it-media-kit-generator
 draft
 draft-concluder
 draft-from-google-docs
@@ -29817,6 +29824,7 @@ dragfy-addons-for-elementor
 draggable-cards
 draggable-images-block
 draggable-post-order
+dragon-broken-links
 dragon-calendar-free-version
 dragon-compliance
 dragon-ecommerce
@@ -32686,6 +32694,7 @@ editor-for-timber
 editor-full-width
 editor-handbook
 editor-inline-code
+editor-insights-for-elementor
 editor-lock-by-wisdmlabs
 editor-menu-and-widget-access
 editor-mode-guard
@@ -35812,6 +35821,7 @@ extraction-of-products-and-categories-for-mazzaneh-official
 extrainc
 extralio-cart-extras
 extranet
+extraordinary-ai-shopping-assistant
 extraordinary-comments
 extras-for-yoast-seo
 extras-order-pro
@@ -37984,6 +37994,7 @@ findlegalforms
 findley-product-discovery-for-woocommerce
 findme
 findonsite-lite
+findori
 findshop
 findthebest-widget-designer
 findusat
@@ -38543,6 +38554,7 @@ flexible-wishlist
 flexible-woocommerce-checkout-field-editor
 flexicache
 flexicardsltfo-hummgroup
+flexicod-cash-on-delivery-controls-for-woocommerce
 flexidx-home-search
 flexify-blocks
 flexilay-gateway-for-woocommerce
@@ -40319,6 +40331,7 @@ freshdesk-support
 freshenup
 freshet-feeds
 freshet-pages-plus
+freshfarm-connector
 freshing
 freshjet
 freshly
@@ -41519,6 +41532,7 @@ gatorleads
 gatormail-smart-forms
 gatorpeeps-tools
 gattsuri-pv-dashboard
+gaty-add-product-brands
 gaty-promotion
 gauderio
 gauge-blocks-for-elementor
@@ -43270,6 +43284,7 @@ goalcoin-payments-for-woocommerce
 goalietron
 goalprevail-custom-admin-screens
 goalprevail-floating-button
+goalprevail-sales-pop
 goalprevail-shipping-countdown-timer
 goalprevail-tab-notifications
 goalprevail-trust-icons
@@ -44580,6 +44595,7 @@ greenlet-importer
 greenlog-seo-tools
 greenmail-email-marketing
 greenmetrics
+greenorb-statistics
 greenpay-payment-gateway
 greenpay-payment-service
 greenroom
@@ -46704,6 +46720,7 @@ hita-bulk-product-editor-for-woocommerce
 hitactivity
 hitboxtv-widget
 hitcounter
+hitcounters-analytics
 hitjms
 hitkeep
 hitlgate-order-review
@@ -47031,6 +47048,7 @@ horizontal-meta
 horizontal-motion-gallery
 horizontal-news-ticker-addon-elementor
 horizontal-post-slider
+horizontal-scroll-for-admin-tables
 horizontal-scroll-for-elementor
 horizontal-scroll-google-picasa-images
 horizontal-scroll-image-slideshow
@@ -49747,6 +49765,7 @@ infusionsoft-web-tracker
 infusionsoft-web-tracking-code
 infy-ai-image-seo-optimizer
 infyicon
+infyicon-icons-for-elementor
 ing-kassa-compleet
 ing-ksiegowosc
 ing-lease-now
@@ -53162,6 +53181,7 @@ kargomkolay-shipping
 kari-samuels-numerology-calculator
 kariz-login
 kariz-text-highlighter
+karks-crm
 karlog-it-save-for-later
 karlog-it-simple-ssl
 karma
@@ -54341,6 +54361,7 @@ kundennotecom
 kundgenerator
 kundo-wordpress
 kune-in-wp
+kunfupay-for-woocommerce
 kung-woo-add-warranty-for-woocommerce
 kung-woo-auto-sku-for-woocommerce
 kung-woo-discount-code-for-woocommerce
@@ -55254,6 +55275,7 @@ leado-marketing
 leadoma
 leadoutcome
 leadpages
+leadpay-qr
 leadquizzes
 leadrebel
 leadroid-live-chat
@@ -57951,6 +57973,7 @@ loyalty-reward-points-for-hubspot
 loyalty-suite
 loyaltydog
 loyaltyjs
+loyaltynova-for-woocommerce
 loyaltyx-points-and-rewards-for-woocommerce
 loycart-pos
 loycott-loyalty
@@ -61440,6 +61463,7 @@ migrate-guru
 migrate-joomla-users
 migrate-magento-users
 migrate-ninja-forms-to-gravity-forms
+migrate-off-elementor
 migrate-phpwiki-users
 migrate-post
 migrate-serendipity-users
@@ -66112,6 +66136,7 @@ nexura-short-links
 nexura-upload-limits-manager
 nexus
 nexus-ai-seo
+nexus-checkout-form-editor
 nexus-product-export-for-shopify
 nexus-theme-builder-for-elementor
 nexusad
@@ -66394,6 +66419,7 @@ nimble-builder
 nimble-help-sk-cz-store-tools
 nimble-links
 nimble-portfolio
+nimble-security
 nimble-squirrel
 nimblepayments
 nimblymail-smtp
@@ -66970,6 +66996,7 @@ nospamnx
 nospampti
 nosshortcodes
 nossl-protect-your-website
+nostalgie
 nosto-for-woocommerce
 nosto-for-wp-e-commerce
 nostr-login
@@ -67272,6 +67299,7 @@ nowthen-photo-display
 nowy-widget
 nox-quick-search
 noyads
+noyan-content-slider
 np-child-theme-generator
 np-forex-commodity-widget
 np-lead-chatbot
@@ -69374,6 +69402,7 @@ orion-sms-otp-verification
 orivo-business-hours-block
 orkestapay
 orkestapay-card
+orki-table-builder-pro
 orki-webchat
 ornani-unsplash-widget
 orokublocks
@@ -69742,6 +69771,7 @@ oxicat-onboarding-tours
 oxicat-password-form-styler
 oxipay-payment-gateway
 oxp-breaking-news-ticker
+oxp-events-calendar
 oxp-mobile-fixed-background
 oxsn-accordion
 oxsn-animation
@@ -69844,6 +69874,7 @@ ozupay-payment-gateway
 ozy-ai-chatbot
 ozy-chat-assistant
 ozy-custom-fields
+ozy-forms
 ozy-smart-search
 p-accordion
 p-login
@@ -73253,6 +73284,7 @@ plexblocks-advanced-tabs-for-block-editor
 plexblocks-before-after-image-comparison-for-block-editor
 plexblocks-carousel-slider-for-block-editor
 plexblocks-countdown-timer-for-block-editor
+plexblocks-pricing-for-block-editor
 plexblocks-table-of-contents-for-block-editor
 plexus-preloader
 plexx-elementor-extension
@@ -80395,6 +80427,7 @@ recordtoko
 recorp-divi-mailchimp-extension
 recotrust-integration
 recoup-returns-rma-for-woocommerce
+recourse
 recover-abandoned-cart-for-woocommerce
 recover-fees-for-gravity-forms
 recover-text-widgets
@@ -98091,6 +98124,7 @@ tcbd-woocommerce-recaptcha
 tcbd-wp-admin-bar-hide
 tcd-classic-editor
 tcd-google-maps
+tce-assignments-tools
 tce-sharing
 tcf-canada-nclc-clb-converter
 tcg-card-links
@@ -100353,6 +100387,7 @@ titan-social-login
 titancart-lite
 titanium-advanced-menu-rules
 titanium-advanced-user-roles
+titanium-compatibility-control
 titanium-error-intelligence
 titanium-mail-smtp
 titanium-secure-downloads
@@ -100664,6 +100699,7 @@ tomatoes-download
 tomatopress
 tomatoshift-image-uploader-figma
 tomawesome-modal-notices
+tomawesome-review-widgets
 tomek-members-only-reloaded
 tomevexa-book-catalog
 tomi-menu
@@ -100730,6 +100766,7 @@ toolkit-for-learndash-lms
 toolkit-for-woocommerce
 toolkit-integration-for-youtube
 toolkits-addons
+toolmate-conversion-snapshot
 toolmate-customer-insights
 toolnplay-user-profile-enhancer
 toolpage
@@ -101811,6 +101848,7 @@ truveo-auto-search
 truvisibility-all-in-one-marketing-suite
 truvisibility-plagiarism-checker
 trx-auto-dealer
+trx-wcext
 try-everything
 try-ninja-demo
 try-on-for-woocommerce
@@ -106884,6 +106922,7 @@ waitlist-prelaunch-for-waitlister
 waitlist-woocommerce
 waitlisted
 waitlytics
+waito-animated-preloader-and-loading-screen
 waitpage
 waivenet-storefront
 waivenet™-storefront
@@ -124002,6 +124041,7 @@ zaption
 zara-4
 zarehbin
 zarget
+zarin-comment-spam-cleaner
 zarina-crm-integration
 zarincall
 zarinpal-paid-downloads
@@ -124350,6 +124390,7 @@ ziggeo
 ziggeo-video-for-bbpress
 ziggeo-video-for-job-manager
 zightaccess
+zignites-chat-button-analytics
 zigout
 zigpluginsafe
 zigtrap
