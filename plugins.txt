@@ -7565,6 +7565,7 @@ as-disable-automatic-updates
 as-elementor-widgets
 as-email-logger
 as-english-admin
+as-flex-language-switcher
 as-gallery
 as-gmap-light
 as-heard-on
@@ -22673,6 +22674,7 @@ cookiego
 cookieguard
 cookiehint-wp
 cookiehub
+cookiehug
 cookiejar
 cookiekit-gdpr-cookie-consent
 cookiekita-gdpr-consent-cookie-banner
@@ -26723,6 +26725,7 @@ dci-job-listing
 dci-vertical-marquee-widget-for-elementor
 dcj-search-autocomplete
 dclvbs-ai-image-labels
+dclvbs-snowflakes
 dcm-desktop-content-manager-webservice
 dco-address-field-for-contact-form-7
 dco-comment-attachment
@@ -30539,6 +30542,7 @@ dx-webp-picture-tag-image-wrapper
 dx2-band-theme-manager
 dx2-post-hit-counter
 dxfview
+dxm-block-toolkit
 dxp-toolkit
 dxtag-auto-listings
 dxtechai-claw-agent
@@ -33271,6 +33275,7 @@ elegro-payment
 elekits
 elemacy
 elemailer-lite
+elemance
 elematic-addons-for-elementor
 elemcopy-text-copy-button-for-elementor
 elemenda
@@ -36564,6 +36569,7 @@ facetfence-product-filters
 facetguard-seo
 facethumb
 facetious
+facetroute
 facetwp-i18n
 facetwp-manipulator
 facewpkit
@@ -37068,6 +37074,7 @@ fatpanda-facebook-comments
 fatpanda-singly
 fatpanda-toptenlists
 fatso
+fattami-reading-time
 fattura24
 fatturafacile
 fatture-help-wc
@@ -47119,6 +47126,7 @@ holostep
 holoultek-ai-driven-content
 holovid-secure-connect
 holy-day-off
+holy-grail-chatbot
 holy-quran-random-ayahs
 holy-quran-random-verse-multilanguage
 holy-rosary
@@ -60546,6 +60554,7 @@ media-library-assistant
 media-library-assistant-blocks
 media-library-categories
 media-library-custom-fields
+media-library-doctor
 media-library-download
 media-library-downloader
 media-library-enable-infinite-scrolling
@@ -61287,6 +61296,7 @@ mesi-cache
 mesmerize-companion
 mesnevi-i-manevi
 mesomb-for-woocommerce
+mesora
 message-bar
 message-bridge-for-contact-form-7-and-vk
 message-business
@@ -67404,6 +67414,7 @@ notes-termcontrol
 notes-widget-wrapper
 notesync-ai-notes-to-tasks
 notetaker-sidebar-notes
+notfair
 notfoundorg-404-page
 nothing-else
 nothing-much
@@ -68054,6 +68065,7 @@ obsocialbookmarker
 obstcha
 obsyde-aegis
 obvious-post-states
+obydullah-micro-erp
 obydullah-order-time-slots
 obydullah-restaurant-core
 obydullah-restaurant-pos-lite
@@ -70706,6 +70718,7 @@ pagezii-seo-agency
 pagfort-boleto
 pagimore
 paginacion
+paginam-add-new-post-or-page-button
 paginas-ocultas
 paginate
 paginate-atom-feeds
@@ -70957,6 +70970,7 @@ parcelow
 parcelpace-delivery-estimates-for-woocommerce
 parcelpanel
 parcelpath-multi-carrier-rates-at-checkout
+parcelphrase-order-notes-for-woocommerce
 parcelrush-for-woocommerce
 parcelware
 pardaad-elementor-sms-addon
@@ -78209,6 +78223,7 @@ pwgrandom
 pwh-honey-pot
 pwl-dte-for-bsale
 pwl-integracion-fintoc
+pwm-contact-router-lite
 pwn-admin-user
 pwn-social-with-whatsapp-share
 pwp-lytebox
@@ -78757,6 +78772,7 @@ queue-fair-virtual-waiting-room
 queue-linker
 queue-posts
 queueforge-inp-fixer
+queuelingo-translation-connector-for-wpml
 queueray
 quevedo
 quform-mailchimp
@@ -85724,6 +85740,7 @@ scss-wp-editor
 scuba-logger
 scud-the-shortcode-disabler
 scudo-security
+scuntra-for-woocommerce
 scuolasemplice-contacts
 scwriter
 sd-blogs-overview
@@ -87131,6 +87148,7 @@ sequenzy-email-marketing
 sequenzy-for-woocommerce
 sequoia-sitelink
 sequra
+sera-post-bookmarks
 serad
 serapeum-multi-catalog-bibliographic-search
 seraphconsulting-monitor
@@ -94262,6 +94280,7 @@ sp-woocommerce-best-selling-products-by-category
 sp-woocommerce-featured-product-by-category
 sp-wpec-variation-image-swap
 spa-admin-bar
+spa-saloon-gift-card
 space-admin-theme
 space-api
 space-boxes
@@ -97881,6 +97900,7 @@ t-money-payment-gateway
 t2-export-for-specific-pages
 t23-related-posts
 t2a-age-verify
+t2f-two-screen-login
 t2mchat
 t4b-featured-slider
 t4b-news-ticker
@@ -105587,6 +105607,7 @@ variable-product-price-option-for-woocommerce
 variable-product-swatches
 variantflow
 variantninja-bulk-variation-price-editor
+variapilot-for-woocommerce
 variation-auto-expire-for-woocommerce
 variation-duplicator-for-woocommerce
 variation-gallery-simplified
@@ -106928,6 +106949,7 @@ visualcaptcha
 visualcomposer
 visualcrossing-weather-forecast
 visualfeedback
+visualithic-phyllix
 visualizar-youtube
 visualization-of-campaign-coverage
 visualize
@@ -123065,6 +123087,7 @@ wtb-firewall
 wtbi-background-updates-ignore-git
 wtc-checkout
 wte-elementor-widgets
+wteam-executor
 wtg-csv-exporter
 wtg-notice-boxes
 wtg-portal-manager
@@ -124886,6 +124909,7 @@ zenvpn
 zenziva-contact-form
 zenzivasms
 zepblocks
+zephena
 zephr
 zephyr-modern-admin-theme
 zephyr-project-manager
@@ -125223,6 +125247,7 @@ zontact
 zoobbe
 zoodpay
 zoofi-ads-txt-helper-for-adsense
+zoofiai-mcp-connector
 zool-viral-ads
 zoolahscribe
 zoom-box
