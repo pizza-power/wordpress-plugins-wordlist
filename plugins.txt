@@ -2887,6 +2887,7 @@ adriano-geo-context-crawl-monitor
 adriantoro-admin-palette
 adrizer-cortex
 adrocks-ad-management
+adroit-advertising-monitor-for-meta
 adroll-for-woocommerce-stores-dev
 adroll-retargeting
 adrotate
@@ -4016,6 +4017,7 @@ ag-wp-jalali
 agb-checkbox
 agb-connector
 agb-free
+agb-web-designs-student-project-portfolio
 agc-safe-guard
 age-calculator
 age-checkbox-for-woocommerce
@@ -4271,6 +4273,7 @@ ai-bot
 ai-bot-for-bbpress
 ai-bot-monitor
 ai-botkit-for-lead-generation
+ai-bots-doxi-chat
 ai-builder
 ai-bulk-post
 ai-captcha
@@ -5520,6 +5523,7 @@ allround-connect-woo-tobol-com-lite
 allscale-checkout
 allsource
 allterrain-forms
+allterrain-maia
 allterrain-photo-editor
 allthecontent
 allure-bottom-slider
@@ -6536,6 +6540,7 @@ anti-swear
 anti-tor
 anti-wpscan
 anti-xrumer
+antiadblockcore
 antibiotic
 antibot
 antibot-captcha
@@ -7490,6 +7495,7 @@ article-displayer-for-the-daily-wtf
 article-draft
 article-forecast
 article-forge
+article-from-youtube
 article-gallery-slider
 article-generator
 article-goggles
@@ -8309,6 +8315,7 @@ auktionsscroller-for-tradera-widget
 aula-de-estudio
 aulaa-for-woocommerce
 aumcrawl
+aumdigital-digital-goods-checkout-for-woocommerce
 aumenu
 aumlang
 aumviso
@@ -9390,6 +9397,7 @@ autotag-posts-by-shift1
 autotagger
 autotags
 autotask-ticket-lookup
+autothink-shopping-agent
 autothumb
 autotitle-for-wordpress
 autotooltip
@@ -9856,6 +9864,7 @@ axis
 axis-subscriptions
 axismundi-actors
 axismundi-dialogs
+axismundi-emoji
 axismundi-geodata
 axismundi-japanese-font-provider
 axismundi-korean-font-provider
@@ -12221,6 +12230,7 @@ biol-beautify-links
 biol-me
 biolinks
 biometric-authentication
+biopodcast-pro
 biorhythm
 biorhythm-widget
 bioscore-dashboard-pro
@@ -12322,6 +12332,7 @@ biteship-shipping
 bitestage
 bitfinex-pay
 bitfire
+bitflw-media-settings
 bitforgenet-guest-tickets
 bitform
 bithub-reviews-widget-for-google
@@ -12530,6 +12541,7 @@ blahbox
 blaize-companion
 blakelt-wordpress-integration
 blaminhor-essentials
+blanc-honeypot-for-contact-form-7
 blank
 blank-counter
 blank-footnotes
@@ -13431,6 +13443,7 @@ boat-notes-lite
 boat-position
 boat-rental-system
 boat-tracker
+boatapps-cookie-baker
 boatapps-dealer-map
 boatdealer
 boats-manager
@@ -13896,6 +13909,7 @@ border-menu
 borderage-core
 bordered-blocks
 borderless
+boreal-relay
 borealform-site-editor-toolkit
 boredom-button
 borges-bibliography-builder
@@ -15964,6 +15978,7 @@ bw-slideshow
 bw-twitter-blocks
 bw-widgets-manager
 bw4ie
+bw4tec-chat-analytics
 bwb-rewriter
 bwd-elementor-addons
 bwd-ladderflow-product-journey-engine
@@ -16651,6 +16666,7 @@ captcha-spam-blocker
 captcha-them-all
 captchaad
 captchaapi
+captchacore
 captchafox-for-forms
 captchakit
 captchala
@@ -16780,6 +16796,7 @@ caresort-accessibility-monitor
 caresort-broken-link-monitor
 caresort-performance-monitor
 caresort-site-health-monitor
+caresort-testimonial-slider-for-elementor
 caret-country-access-limit
 caret-ez-google-maps
 caret-two-stage-authentication
@@ -16838,6 +16855,7 @@ carrrot
 cars-seller-auto-classifieds-script
 cart-abandonment-recovery
 cart-analytics-for-wp-e-commerce
+cart-auth-social-login-for-woocommerce
 cart-baksho
 cart-bounce
 cart-catch-for-woocommerce
@@ -17016,6 +17034,7 @@ cartrevival
 cartright
 cartrules-one-brand-in-cart-for-woocommerce
 cartrules-one-category-in-cart-for-woocommerce
+cartrules-one-product-in-cart-for-woocommerce
 cartrules-one-shipping-class-in-cart-for-woocommerce
 cartrules-one-tag-in-cart-for-woocommerce
 carts-guru
@@ -17384,6 +17403,7 @@ category-search-helper
 category-selection-widget
 category-selector-back-to-the-sidebar
 category-seo
+category-seo-editor-for-woocommerce
 category-seo-meta-tags
 category-shortcode
 category-shortcode-w-generator
@@ -17501,6 +17521,7 @@ cb-pinterest-image-pinner
 cb-popup-subscriber
 cb-portfolio-work
 cb-qr-code
+cb-quantity-breaks-for-woocommerce
 cb-responsive-jquery-accordion
 cb-static
 cb-storefront
@@ -19758,6 +19779,7 @@ clicks-ai-shopping-agent-for-woocommerce
 clicks-auto-webp-converter
 clicks-core-web-vitals-optimizer-for-woocommerce
 clicks-counter
+clicks-manual-payment-gateways-bangladesh
 clicks-manual-payment-gateways-pakistan
 clicks-order-archiver
 clicks-pixels-manager
@@ -20510,6 +20532,7 @@ coderembassy-ai-seo-automation
 coderembassy-bulk-variations-manager
 coderembassy-checkout-fields-manager
 coderembassy-express-checkout
+coderembassy-order-vanguard
 coderembassy-product-info-icons-images-text
 coderembassy-quantity-manager
 coderembassy-wholesale-pricing
@@ -22534,6 +22557,7 @@ convenios-medicos-brasileiros
 convera-chat-bot
 convergehub-forms-add-on-for-contact-form-7
 converkit-membermouse
+converloop-ai-chatbot
 converly
 convers8
 conversador
@@ -24049,6 +24073,7 @@ crp-taxonomy
 crpaid-link-manager
 crpostwarning
 crs-booker
+crs-gallery
 crs-post-title-shortener
 crsms-contact-form-7-sms-notification
 crt-chained-product-for-woo
@@ -24525,6 +24550,7 @@ curatorio
 curators-code
 curbon
 curbside-pickup
+curio-ai-chat
 curiosity-elements
 curiosity-features
 curiosity-potd
@@ -27620,6 +27646,7 @@ design-cart-newsletter
 design-cart-ship2pay
 design-cart-slider-manager
 design-cart-smtp
+design-cart-woo-timelines
 design-experiments
 design-feedback
 design-import-export
@@ -27658,9 +27685,11 @@ desk9-notice-planner
 desk9-reviews-for-google
 deskaddons-for-beaver-builder-lite
 deskbeat-for-desktop-mode
+deskclone-ai
 deskdingo
 deskero
 deskings-shipment-manager
+deskio-ai-chat
 deskmode-suite
 deskmoz-24x7-chat-agents
 deskovi
@@ -27851,6 +27880,7 @@ devkit-admin-menu-styler
 devlab-maintenance-mode
 devlab-woocommerce-dynamic-pricing-wpml-fixer
 devlemon-admin-notes
+devlemon-cache-observatory
 devlemon-redirect-manager
 devlemon-smart-preload
 devlemon-utm-tracker
@@ -28110,6 +28140,7 @@ die-eule-netzwerk
 die-losung
 diego-cox
 dienstplan
+diesis-jwt-auth
 diet-calorie-calculator
 dieter-privacy
 dietmaster-pro-nutrition
@@ -28301,6 +28332,7 @@ digitimber-cpanel-integration
 digitizer-ai-agent-log
 digitizer-site-worker
 digitizer-update-hold
+digito-toolkit
 digitrix-labs-passkeys-and-email-link-access
 digitrix-order-assignment-import
 digitsix-simple-contact-form
@@ -29969,6 +30001,7 @@ downloadyar-remote-media
 downml
 downstream-idx-quicksearch-sidebar-widget
 downtack-lotteries
+dox-pos
 doxter-widget
 doyenhub-elementor-addons
 doyenhub-product-size-chart
@@ -30477,6 +30510,7 @@ duo-universal
 duo-wordpress
 duofaq-responsive-flat-simple-faq
 duogeek-blocks
+duoport-connect-for-opencode
 duoshuo
 duoshuo-social-comment-system
 duotone-image-filter-tool
@@ -32424,6 +32458,7 @@ eb-enquiryspider
 eb-enquiryspiral
 eb-openverse-block
 eba-seo
+ebaltix
 ebanqo-widget
 ebanx-local-payment-gateway-for-woocommerce
 ebanx-payment-gateway-for-woocommerce
@@ -33306,6 +33341,7 @@ elander
 elangovan-smart-summarizer
 elash-slider
 elastic
+elastic-email-inbox-live-chat
 elastic-email-sender
 elastic-email-subscribe-form
 elastic-slide
@@ -33392,6 +33428,7 @@ elegant-tweets
 elegant-twitter-widget
 elegant-visitor-counter
 elegant-zazzle-plugin-ezp
+elegantdev-cart-checkout-offers
 eleganto-advanced-sections
 elegantpurl
 elegantui-social-media-icons
@@ -34758,6 +34795,7 @@ epitome-gallery
 epitome-seo
 epitome-subtitle
 epizy-easy-testimonials
+epkora-live-chat
 epn-affiliate-banner
 epn-woocommerce-addon
 epnb-featured-image-widget
@@ -34944,6 +34982,7 @@ esir-win-fiskal-fiskalna-kasa
 esix-user-role
 eskaptical-digital-product-uploader-for-woocommerce
 eslamdev-floating-contact-buttons
+esm-web3-social-connect
 esma-ul-husna
 esms-gui-tin-nhan-sms
 esms-notify
@@ -37006,6 +37045,7 @@ faq-with-ajax-search
 faq-with-categories
 faq-you
 faq-zyrex
+faqaura-ai-faq-generator-elementor
 faqhub
 faqizer
 faqly-ultimate-faq
@@ -38815,6 +38855,7 @@ flex-website-security
 flexa-block
 flexa-cache
 flexa-extra
+flexa-mailbridge
 flexa-media-folders
 flexa-seo-aeo
 flexa-site-migrator
@@ -40043,6 +40084,7 @@ formbot-form-builder
 formbricks
 formbuddy
 formbuilder
+formbuilder-com
 formcourier-crm
 formcourier-form-submissions-for-telegram
 formcraft-add-on-pack
@@ -40071,6 +40113,7 @@ formforall
 formgate-ai
 formgent
 formget-contact-form
+formghost
 formgimp
 formglut
 formhawk
@@ -40764,6 +40807,7 @@ frodo-google-maps
 froged
 from-kart-to-basket
 from-rss
+frommwah-reveals
 front-connector
 front-contact-form
 front-desk
@@ -41867,6 +41911,7 @@ gateman
 gatemi-eu-vat-number
 gatemi-free-shipping-bar
 gatemi-min-max-quantities
+gatemi-trust-badges
 gatepass-password-protection
 gatetouch-ai-seo
 gatewarden
@@ -42789,6 +42834,7 @@ getbats-o2o
 getbirthchart
 getblitz-payment-gateway
 getblogx
+getbooqin
 getcited
 getcontentfromurl
 getconzent-cmp-cookie-banner-consent-management
@@ -47409,6 +47455,7 @@ hookit-related-products
 hookly-webhook-automator
 hookmeup
 hooknews
+hookniva-workflow-monitor-woocommerce
 hooknotifier
 hookpress
 hooks
@@ -47419,7 +47466,9 @@ hooksure
 hooktrace
 hookybeaver
 hookywoo
+hoomana-native-comment-guard
 hoopler
+hooray-sourcesignal-for-google-preferred-sources
 hoosh-ai-assistant
 hoot-import
 hootboard
@@ -48904,6 +48953,7 @@ iletiniz-sms
 iletisim-makinesi-entegrasyon-platformu
 ilghera-carta-della-cultura-for-woocommerce
 ilghera-contributo-raee-for-woocommerce
+iliaseuthimiou-smart-cart-bridge-skroutz
 ilike-social-media-optimization
 iliketoblog
 ilinaya-callback
@@ -49985,6 +50035,7 @@ indicomment
 indie-analytics
 indie-coffee-shops
 indie-music-bus-artist-support
+indie49-copy-post-link
 indieauth
 indieauth-links
 indieblocks
@@ -51206,6 +51257,7 @@ inventive-gravity-forms-tooltips
 inventive-lotteries-and-giveaways-lite
 inventive-stock-player-lite
 inventive-web-color-scheme
+inventivo-bulk-alt-text-editor
 inventivo-cookie-notice
 inventivo-display-conditions
 inventkid-media-cleanup-manager
@@ -52086,6 +52138,7 @@ jassn-floating-ad-bars
 jassn-popular-posts
 jassn-video-posts-feed-block
 jast-another-survey-tool
+jaszcawil-content-sync
 jatayu-live-chat
 java-applet-embed
 java-chat
@@ -53731,6 +53784,7 @@ kauf-auf-rechnung-inkl-bonitaetspruefung-sahu-media
 kavach-security-headers
 kavimo-oembed
 kavin-site-backup-migration
+kavin-smtp
 kavitapatel-feedbackkit
 kavkom-crm-integration
 kavychker
@@ -54059,6 +54113,7 @@ kgr-user-log
 kgraph-headless-toolkit
 kh-chatgpt-frontend-fun
 kh-easy-user-settings
+khaled-hisham-crypto-payments-usdt
 khan-exercises
 khan-kluay
 khan-kluay02
@@ -54549,6 +54604,7 @@ kody-search
 kodyok-page-builder
 kofc-state
 kofthitscounter
+kogility-image-editor-for-woocommerce
 kognetiks-ai-summaries
 koha-catalog-search
 koha-login-widget
@@ -54713,6 +54769,7 @@ kovalenko-admin-change-audit
 kovetto-konnect
 koyomi
 koz-404-guard
+koz-consent-manager
 koz-copy-actions
 koz-seo-core
 koz-static-translate
@@ -56000,6 +56057,7 @@ lemonnews
 lemontec-fancy-xmas-calendar
 lemonwhale-video
 lemonwhale-video-embed
+lemoulin-front-desk-motopress
 len-slider
 lenbox-cbnx
 lenca-booking
@@ -56317,6 +56375,7 @@ librefm-now-playing
 libreli
 librevideojs-html5-player
 librize
+librizent-media-library-health
 libro-de-reclamaciones
 libro-de-reclamaciones-y-quejas
 libro-de-visitas-guestbook
@@ -56340,6 +56399,7 @@ licenzo
 lich-van-nien
 lichtbild-gallery
 lici-wp
+licinio-event-calendar
 lickstats
 lideracotiza
 lidoli
@@ -58389,6 +58449,7 @@ loomisoft-content-blocks
 loomstorm-block-scheduler
 loomup
 loop-cards
+loop-formation
 loop-grid-extender-for-elementor-pro
 loop-post-navigation-links
 loop11
@@ -60174,6 +60235,7 @@ martkit
 martto-friendly-reactions
 maruhide-ai-autopost
 marvcart
+marvin-xr-3d-ar-for-woocommerce
 marvinerp-api
 marvinerp-eu-vat
 marvy-animation-addons-for-elementor-lite
@@ -60203,6 +60265,7 @@ masiou-chat
 masjid-donation
 masjid-iqamah-timings
 masjidal
+masjidfeed-app
 masjidnow
 masjidos
 mask-comments
@@ -60560,6 +60623,7 @@ mbox
 mbp-mobile-redirection
 mbr-performance
 mbt-testimonial
+mbtech-sof
 mbtech-variant-swatches
 mbxreach
 mc-annual-upcounter
@@ -61337,6 +61401,7 @@ mention-links
 mention-me
 mentionable
 mentionfetch
+mentionforge-ai-search-visibility
 mentionlink
 mentionready
 mentions
@@ -61348,6 +61413,7 @@ mentofeed
 mentoguard
 mentor-admin-username-and-email-change
 mentor-icon-pack-for-beaver-page-builder
+mentorkit-lms-pro-freemium
 mentotex-advanced-shop-search
 ments
 menu
@@ -61828,6 +61894,7 @@ meyvora-convert
 meyvora-seo
 mezar-quick-view
 mezesoft
+mf-appointment-booking
 mf-gig-calendar
 mf-plus-wpml
 mf-sitemap
@@ -62149,6 +62216,7 @@ milkbox
 milkbox-plugin
 milkcocoa-chat-support
 milkstats
+milky-popup
 miller-media-server-file-import
 million-eyez
 million-shades-toolkit
@@ -62160,6 +62228,7 @@ miln-help-book-search
 miln-photo-feed
 milo-tiny-pricing-table
 milo-woocommerce-change-button-text
+milogo
 milosubscriptions
 milotche-donation-lite
 milwaukee-beer-society-beer-list
@@ -64352,6 +64421,7 @@ multipart-robotstxt-editor
 multipasko-wyniki-lotto
 multipay
 multipify-connect-for-woocommerce
+multipix
 multiplayer-plugin
 multiple-ad-publishers
 multiple-address-google-map
@@ -65592,6 +65662,7 @@ nadirmark
 nafeza-coming-soon
 nafeza-prayer-time
 nafis-express-shipping
+nafs-connector-for-woocommerce
 nagad
 nagad-payment-gateway
 nagging-warning-remover-for-yoast
@@ -65676,6 +65747,7 @@ napoleoncat-chat-widget
 napolike-widget
 napps
 naqil-backup
+naqshino-sales-map-for-woocommerce
 narando
 nari-accountant
 nariyanto-cron-diagnostics
@@ -68384,6 +68456,7 @@ ocamba-hood
 ocasa-ecommerce
 ocasio-301-redirect-manager
 occasion
+occasion-engine-for-autotelex
 occasions
 occasionwise-calendar
 occidg
@@ -68812,6 +68885,7 @@ om-stripe
 omadaai
 omea-analytics
 omea-consent
+omea-tools
 omega-add-paypal-tracking-for-woocommerce
 omega-favicon
 omega-instant-search
@@ -68864,6 +68938,7 @@ omnikassa
 omnikick
 omnileads-scripts-and-tags-manager
 omnimind
+omninox-site-toolkit
 omnioffloader
 omnipay-payment-gateway-for-woocommerce
 omniply-connect
@@ -69679,6 +69754,7 @@ optimizer-shortcodes-business-name
 optimizer-shortcodes-email
 optimizer-shortcodes-phone-number
 optimizesho
+optimizia-lite
 optimole-wp
 optimum-documents
 optimum-exit-popup
@@ -69818,6 +69894,7 @@ orbit-hunt
 orbit-one
 orbit-slider-gallery
 orbital-feed-reader
+orbitalwp-task-manager
 orbitlens360
 orbitsapp
 orbitstem-media-rename
@@ -70021,6 +70098,7 @@ orderstorm-wordpress-e-commerce-custom
 orderstorm-wordpress-toolbox
 orderunstick
 ordery-siparis-takip
+ordessa
 ordisoftware-wp-tools
 ordlo-catalog-audit
 ordolink
@@ -70220,6 +70298,7 @@ ostheimer-seo
 ostheimer-webmcp-cockpit
 osticket-wp-bridge
 ostoolbar
+ostrich-admin-menus
 ostrichcize
 oswald
 oswald-lite-extension
@@ -71377,6 +71456,7 @@ particles-extension-for-elementor
 partilhar
 partita-iva-e-codice-fiscale
 partita-iva-per-fattura-elettronica
+partjoo-product-sync
 partlabel-dimensions-for-woocommerce
 partner-manager
 partner-map-locator
@@ -71808,6 +71888,7 @@ payment-for-gccpay
 payment-for-lifterlms-2checkout
 payment-form-for-paypal-pro
 payment-forms-customblock
+payment-forms-for-monnify
 payment-forms-for-paystack
 payment-gateway-accept-blue-for-woocommerce
 payment-gateway-authorizenet-woocommerce
@@ -72744,6 +72825,7 @@ personizely
 personyze-web-analytics
 persoo-for-woocommerce
 perspective-3d-carousel
+perxel-image-optimizer
 perzonalization
 pesapal-for-woocommerce
 pesapal-membership
@@ -72761,6 +72843,7 @@ pet-manager
 pet-of-the-day-widget
 pet-webcam-widget
 petabot
+petal-forms
 petbridge
 peters-blog-url-shortcodes
 peters-collaboration-e-mails
@@ -73988,6 +74071,7 @@ playlistlog
 playme
 playpress
 playquiznow
+plays-block
 plays-games-widget
 playsms-woocommerce
 playstation-network-portable-id-widget
@@ -76319,6 +76403,7 @@ prayerpop
 prayers
 prayerzone-prayer-times
 prayfor
+prblem-safe-media-inspector
 prblem-sweep
 pre-date-future-post
 pre-draft-camps
@@ -76793,6 +76878,7 @@ pricewell
 pricewise-calculator-pro
 pricex-lite
 pricey
+pricifylabs-connector
 pricing-deals-for-woocommerce
 pricing-deals-for-wp-e-commerce
 pricing-table
@@ -79840,6 +79926,7 @@ raintech-delete-bulk-products-for-woocommerce
 raintech-integration-zoho-for-woocommerce
 raintech-product-search-bar-for-woocommerce
 raintech-restaurant-menu
+raintech357-gst-tax-rates-for-woocommerce
 rainyshots
 rainz-accessibility
 raise-prices-with-sales-for-woocommerce
@@ -81188,6 +81275,7 @@ recipost
 recipress
 recipress-extended
 recipress-pantrywidget
+recirco-returns-exchanges-for-woocommerce
 reckoning
 reclaimo
 reclayer
@@ -81826,6 +81914,7 @@ relative-url-for-img-and-a-tags
 relative-url-shortcode
 relative-urls
 relatura-directory-optimizer
+relaunchradar
 relay
 relay-affiliate-marketing
 relay-point-for-woocommerce
@@ -84612,6 +84701,7 @@ rudrastyh-product-sync-for-woocommerce
 rudrastyh-simple-media-library-folders
 rudwexa-autofixer
 rufilenametranslit
+ruhler-community-resource-directory
 ruigehond-embed
 ruivo-user-switcher
 rule-engine-for-woocommerce
@@ -84895,6 +84985,7 @@ sacoronavirus-link
 sacred-pdf-viewer
 sacredbits-remove-website-link-input-field-from-comment-form-of-post
 sadad-payment
+sadat-content-migration
 sadathossain-form-backup-mail-health
 saddam-hossen-webp-optimizer
 sadded-by-sadad
@@ -85545,6 +85636,7 @@ sbs-seat-booking-system
 sbs-settings
 sbs-typing-effect-block
 sbw-timeline
+sbytes-restrict-preview-for-tutor-lms
 sc-borrowing-widget
 sc-bxslider
 sc-catalog
@@ -85698,6 +85790,7 @@ scheduled-products-for-woocommerce
 scheduled-stickiness
 scheduled-tweets
 scheduled-unsticky
+schedulelens-cron-viewer
 schedulemaker-lite
 schedulemax-online-scheduling
 scheduler-for-elementor
@@ -86409,6 +86502,7 @@ seasonal-content
 seasonal-css
 seasonal-popup
 seasonontrain-category-tree-widget-for-elementor
+seat-table-booking-for-woocommerce
 seatempmap-live-sea-temperature-widget
 seatext-free-translation-and-conversion-rate-boost
 seatgeek-affiliate-tickets
@@ -87005,6 +87099,7 @@ sending-platform-for-getresponse
 sendiroo
 sendit
 sendit-israel
+sendit-ma-integration
 sendity
 sendlime
 sendlio
@@ -87580,6 +87675,7 @@ sermone-online-sermons-management
 sermonpress
 sermons
 sermons-nl
+sernicola-labs-ai-friendly
 sero-by-plugli
 serp-dashboard
 serp-rank
@@ -87843,6 +87939,7 @@ sg-helper
 sg-security
 sg-site-bridge
 sg-tweet
+sg5-insighthub
 sgdien-contact-footer
 sgdiet-tdee-calculator
 sgoplus-file-share
@@ -88024,6 +88121,7 @@ share-to-microsoft-teams
 share-to-social-bookmarking
 share-widget
 share-with-ai
+share-with-my-agent
 share-woocommerce-email
 share-your-location
 share-zalo-jetpack
@@ -88262,6 +88360,7 @@ shihela-contextual-site-assistant
 shiip
 shika365-payment-gateway-for-woocommerce
 shills-multi-currency-manager
+shilpi-multilingual-ai-files
 shilux-booking-engine
 shim-mcp
 shimi-ads-popup
@@ -89389,6 +89488,7 @@ sif
 sifahen-degil-acilen
 sifalo-pay
 sifency-addons
+sifency-admin-option-builder
 sifency-bulk-metadata-commander
 sifero-courier-timeline-for-woocommerce
 sift-ninja
@@ -89464,6 +89564,7 @@ signuply-ai-chat
 signups
 signups-cron
 signwpdf-pdf-sign-fill
+sigora-widget
 sigrow-sensor-dashboard
 siguetusclicks
 siiimple
@@ -95057,6 +95158,7 @@ spinchimp-wp-spinner
 spinda-exportimport-data
 spindle-dynamic-glossary
 spindle-market-research
+spindle-mp3-player
 spinex-bulk-image-rotator
 spinitron-player
 spinkx-content-marketing
@@ -95466,6 +95568,7 @@ ss-zip-unloader
 ssbd-contact-from
 ssd-optimize-wordpress
 ssg-archive-widget
+ssg-crypto-swap-widget
 ssg-wordpress-google-audio-player
 ssh-sftp-updater-support
 ssh-simple-syntax-highlighter
@@ -95592,6 +95695,7 @@ stacktack
 stackvane-video-import-for-divi
 stackverify-forms-email-verification
 stackwc-custom-permalinks-for-woocommerce
+stacogate-payments
 stadtshow-outreach-tool
 staempfli-crowd-login
 staff-directory
@@ -96520,6 +96624,7 @@ storm-separate-comments-page
 stormia-live-weather-radar-map
 stormpath
 stormtribe-job-seeker
+storno-invoicing-for-woocommerce
 story-book-block
 story-chief
 story-chief-polylang
@@ -98246,6 +98351,7 @@ syntaxhub-jld
 syntaxhub-securelog
 syntegrate-chart-for-salesforce
 synterial-sms-notifications-amelia
+synth-antispam
 synthocode-ai-companion
 synthocode-ai-for-woocommerce
 synthocode-content-copilot
@@ -98958,6 +99064,7 @@ taxnalogy-aliexpress-product-importer
 taxoclean
 taxofilter-admin
 taxography
+taxomap-category-sitemap
 taxonomic-seo-permalinks
 taxonomies-essentials
 taxonomies-slug-fixer
@@ -102812,6 +102919,7 @@ trustami-badge-for-customer-reviews-and-google-stars
 trustap-payment-gateway
 trustarc-cookie-consent-manager
 trustauth
+trustbadg-trust-badges
 trustbadge-reviews
 trustbeacon-auditor
 trustbrain-ip-access-control
@@ -104042,6 +104150,7 @@ ucm-files-manager-ucm-fm
 ucomment
 ucontext
 ucontext-for-amazon
+ucp-acp-agent-for-woocommerce
 ucp-adapter-for-woocommerce
 ucphub-for-woocommerce
 ucptools-ai-agent-discovery-for-woocommerce
@@ -105942,6 +106051,7 @@ vagalume-lyrics-toolbar
 vagaro-booking-widget
 vagas-disponiveis
 vagizov-metrika-loader
+vaglio-asserzioni-ambientali
 vago-analytics
 vago-chat
 vagonic-sortable
@@ -106032,6 +106142,7 @@ vantage-point-friendly-fraud-protection-for-woocommerce
 vantage-sms-payment-gateway
 vantevo-analytics
 vantorix-toolkit
+vantus-widget
 vaocher-app
 vaptcha
 vaptcha-human-verification
@@ -106178,6 +106289,7 @@ vc-tabs
 vc-templates-import-export
 vcaching
 vcanfly-fps
+vcaptcha
 vcard
 vcat-posts-at-google-maps
 vcgs-toolbox
@@ -106415,6 +106527,7 @@ veristore
 veritaspay-hosted-checkout
 veritrans-woocommerce-payment-gateway
 veritweet-sidebar-widget
+verkoopmachine
 vern-comment-embeds
 vern-responsive-video
 vernissaria-qr
@@ -106438,6 +106551,7 @@ versesofts-bulk-order-table
 versesofts-success-actions-contact-form-7
 versiculo-del-dia
 versiculo-do-dia
+versilink
 version-assets
 version-checker
 version-cloak
@@ -107081,6 +107195,7 @@ vipers-plugins-used
 vipers-video-quicktages
 vipers-video-quicktags
 vipers-video-quicktags-migrator
+vipezer-no-external-link
 viplus
 vipps-recurring-payments-gateway-for-woocommerce
 vippy
@@ -107734,6 +107849,7 @@ voting-platform-feelbacks
 voting-record
 vouch-release-on-delivery-for-woocommerce
 vouchbase-reviews
+vouchercart
 voucherify
 voucherly
 voucherme-for-woocommerce
@@ -109377,6 +109493,7 @@ webagency-widget
 webalchlab-ddt-brt
 webalyze-connector
 webamps-remove-double-menu
+webangon-dashboard
 webangon-image-optimizer
 webangon-login-customiser
 webangon-site-backup
@@ -111090,6 +111207,7 @@ wit-antispam-v10
 wit-buzz
 witarist-ai-chat-lead-capture
 witch
+witen-blocker
 with-melty-support
 withdraw-kit
 withings-scale
@@ -111195,6 +111313,7 @@ wmf-mobile-theme-switcher
 wmgrs-request-a-quote-for-woocommerce
 wmgrs-role-based-pricing-for-woocommerce
 wmm-ai-alt-text
+wms-healthscan
 wms-tools
 wmsg-contact-form
 wmt-global-sales-map
@@ -114385,6 +114504,7 @@ working-feedback-badge-of-honour
 working-news-sitemap-generator-for-google-news-2014
 workinvirtual-job-board-payments
 workiz
+workmore-media-folders
 workout-of-the-day
 workout-timer
 workoutlog
@@ -114542,6 +114662,7 @@ wowrecrut
 wowrestro
 wowslider
 wowtag-widget
+wozobridge
 wp-1
 wp-1-slider
 wp-10th-anniversary
@@ -124827,6 +124948,7 @@ yousaytoo-auto-publishing-plugin
 youschmooz
 youscribe
 youseeme-payment
+yousend
 youstice
 youthmedia
 youthmedia-rss
