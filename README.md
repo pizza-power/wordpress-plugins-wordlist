@@ -6,6 +6,6 @@ A continuously updated wordlist of WordPress plugin slugs derived from the offic
 - One plugin per line
 - Intended for security testing and research
 
-**Total entries:** 131,773
+**Total entries:** 131,851
 
-Last updated: 2026-11-02
+Last updated: 2026-11-03
